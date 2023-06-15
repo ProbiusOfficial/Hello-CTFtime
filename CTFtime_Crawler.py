@@ -1,19 +1,21 @@
-import re
 import json
-import datetime
 import requests
+import datetime
 from bs4 import BeautifulSoup
-from flask import Flask, Response
 
-app = Flask(__name__)
+rss_url = 'https://ctftime.org/event/list/upcoming/rss/'
 
+proxies = {
+    'http': 'http://localhost:7890',
+    'https': 'http://localhost:7890'
+}
 
 def fetch_rss_content(rss_url):
     header = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36",
         "Accept-Language": "zh-CN,zh;q=0.9",
     }
-    response = requests.get(rss_url,headers=header)
+    response = requests.get(rss_url, proxies=proxies, headers=header)
     return response.content
 
 def extract_data(item):
@@ -81,72 +83,29 @@ def clean_and_extract_data(rss_content):
         extracted_data.append(extract_data(item))
     return extracted_data
 
+def clean_and_extract_data(rss_content):
+    soup = BeautifulSoup(rss_content, 'html.parser')
+    items = soup.find_all('item')
+    extracted_data = []
+    for item in items:
+        extracted_data.append(extract_data(item))
+    return extracted_data
 
-def fetch_ctf_events():
-    url = "https://www.su-sanha.cn/events/"
-    header = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36",
-        "Accept-Language": "zh-CN,zh;q=0.9",
-    }
-    Cookie = {
-        "lg": "cn;",
-        "PbootSystem": "cbvq2lqffmubftgima304r574c",
-    }
-    request = requests.get(url=url, cookies=Cookie, headers=header)
-    res1 = re.findall(r'<div><label>(.*?)</.?></div>', request.text)
+rss_content = fetch_rss_content(rss_url)
 
-    events = []
-    event = {}
-    for i in range(len(res1) - 1):
-        if "比赛名称" in res1[i]:
-            if event:  # If the event is not empty, add it to the events list
-                events.append(event)
-            event = {}  # Start a new event
+extracted_data = clean_and_extract_data(rss_content)
 
-        # Remove the label tag and field name
-        field_name, field_value = re.sub(r'</label><.*?>', '', res1[i]).split("：", 1)
+# 处理换行符
+for data in extracted_data:
+    for key, value in data.items():
+        if isinstance(value, str):
+            data[key] = value.replace('\n', '')
 
-        # If the field_value is empty, set it to null
-        if not field_value.strip():
-            field_value = None
+# 输出数据为集合形式
+output_data = []
+for data in extracted_data:
+    output_data.append(data)
 
-        event[field_name] = field_value
-
-    if event:  # Add the last event to the events list
-        events.append(event)
-
-    return events
-
-@app.route('/')
-def hello_world():
-    return 'CTF_events_API is running!'
-
-@app.route('/cn_CTF')
-def cn_ctf():
-    events = fetch_ctf_events()
-    response = Response(json.dumps(events, ensure_ascii=False), content_type='application/json; charset=utf-8')
-    return response
-
-@app.route('/global_CTF')
-def global_ctf():
-    rss_url = 'https://ctftime.org/event/list/upcoming/rss/'
-    rss_content = fetch_rss_content(rss_url)
-    extracted_data = clean_and_extract_data(rss_content)
-
-    # 处理换行符
-    for data in extracted_data:
-        for key, value in data.items():
-            if isinstance(value, str):
-                data[key] = value.replace('\n', '')
-
-    # 输出数据为集合形式
-    output_data = []
-    for data in extracted_data:
-        output_data.append(data)
-
-    # 将数据转换为JSON格式并输出
-    json_data = json.dumps(output_data, ensure_ascii=False)
-    return json_data
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=9000)
+# 将数据转换为JSON格式并输出
+json_data = json.dumps(output_data, ensure_ascii=False)
+print(json_data)
