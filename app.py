@@ -92,7 +92,7 @@ def fetch_ctf_events():
         "lg": "cn;",
         "PbootSystem": "cbvq2lqffmubftgima304r574c",
     }
-    request = requests.get(url=url, cookies=Cookie, headers=header)
+    request = requests.get(url=url, cookies=Cookie, headers=header, verify=False)
     res1 = re.findall(r'<div><label>(.*?)</.?></div>', request.text)
 
     events = []
