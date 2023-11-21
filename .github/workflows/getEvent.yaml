@@ -35,10 +35,16 @@ jobs:
       - name: Convert JSON to Markdown
         run: python json_to_md.py
 
-      - name: Commit and push changes
+      - name: Check for changes
+        id: check_changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Auto Update"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "CHANGES=true" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and push changes
+        if: env.CHANGES == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automatically update
