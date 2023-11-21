@@ -1,8 +1,17 @@
 
 name: Daily Fetch and Update
+
 on:
+  push:
+    branches:
+      - master
+      - main
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 */8 * * *'
+
+permissions:
+  contents: write
+
 
 jobs:
   fetch_and_update:
