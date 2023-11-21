@@ -113,3 +113,14 @@ pip install -r requirements.txt -t .
 - CTFtime_Crawler.py 为 /global_CTF 路由的核心代码
 
 源码中已给出注释。
+
+### status
+```
+"status": 0 # 报名未开始
+"status": 1 # 报名进行中
+"status": 2 # 报名已结束
+
+"status": 3 # 比赛进行中
+
+"status": 4 # 比赛已结束
+```
