@@ -30,10 +30,10 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch events
-        run: python Fetch.py
+        run: python .Fetch.py
 
       - name: Convert JSON to Markdown
-        run: python json_to_md.py
+        run: python .json_to_md.py
 
       - name: Commit and push changes
         run: |
