@@ -12,6 +12,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "DefCamp CTF Finals 2023",
+        "比赛时间": "2023-11-23 16:00:00 - 2023-11-24 01:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2182.ics",
+        "比赛形式": "Attack-Defense",
+        "比赛链接": "https://dctf23-ad.cyber-edu.co/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0.00",
+        "赛事主办": "CCSIR.org (https://ctftime.org/team/9831)",
+        "比赛ID": "91",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "GlacierCTF 2023",
         "比赛时间": "2023-11-25 02:00:00 - 2023-11-27 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/1992.ics",
@@ -84,6 +96,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "BSides Odisha Web3 CTF",
+        "比赛时间": "2023-12-01 04:00:00 - 2023-12-02 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2180.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://bsidesodisha.in/public/ctf.html",
+        "比赛标志": "https://ctftime.org/media/events/Neon_Blue_and_Black_Gamer_Badge_Logo.png",
+        "比赛权重": "0.00",
+        "赛事主办": "BSides Odisha (https://ctftime.org/team/274130)",
+        "比赛ID": "1020",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "TUCTF 2023",
         "比赛时间": "2023-12-02 01:00:00 - 2023-12-04 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2173.ics",
@@ -129,6 +153,18 @@
         "比赛权重": "0.00",
         "赛事主办": "Wanna.W1n (https://ctftime.org/team/138431)",
         "比赛ID": "1000",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "HUNTING SEASON: GROUP-IB 20TH ANNIVERSARY CTF",
+        "比赛时间": "2023-12-07 17:00:00 - 2023-12-07 21:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2177.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://go.group-ib.com/ctf-2023?utm_source=&utm_campaign=ctf-2023&utm_medium=&utm_content=ctftime",
+        "比赛标志": "https://ctftime.org/media/events/InstaTelega__1080x1080_12.png",
+        "比赛权重": "0.00",
+        "赛事主办": "Group-IB (https://ctftime.org/team/273085)",
+        "比赛ID": "1014",
         "比赛状态": "oncoming"
     },
     {
@@ -384,6 +420,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "BraekerCTF",
+        "比赛时间": "2024-02-23 20:00:00 - 2024-02-25 00:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2181.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://braekerctf.butsers.nl/",
+        "比赛标志": "https://ctftime.org/media/events/AI_Robot4.png",
+        "比赛权重": "0.00",
+        "赛事主办": "Braeker (https://ctftime.org/team/274910)",
+        "比赛ID": "1026",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "osu!gaming CTF 2024",
         "比赛时间": "2024-03-02 01:00:00 - 2024-03-04 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2165.ics",
@@ -393,6 +441,18 @@
         "比赛权重": "0.00",
         "赛事主办": "osu!gaming (https://ctftime.org/team/186954)",
         "比赛ID": "998",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "WxMCTF 2024",
+        "比赛时间": "2024-03-09 08:00:00 - 2024-03-11 07:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2179.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.mcpt.ca/contest/wxmctf",
+        "比赛标志": "https://ctftime.org/media/events/Logo_thing_1.png",
+        "比赛权重": "23.59",
+        "赛事主办": "wxmctf (https://ctftime.org/team/211390)",
+        "比赛ID": "883",
         "比赛状态": "oncoming"
     },
     {
@@ -456,15 +516,15 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "ASEAN Cyber Shield Hacking Contest 2023 (Preliminary)",
-        "比赛时间": "2023-11-21 14:00:00 - 2023-11-22 19:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2127.ics",
+        "比赛名称": "Sydbox CTF: read /etc/CTF",
+        "比赛时间": "2023-11-16 22:26:32 - 2024-11-16 22:26:32 UTC+8",
+        "添加日历": "https://ctftime.org/event/2178.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://forms.gle/9KcV5WRAutbQqHn48",
+        "比赛链接": "https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "0.00",
-        "赛事主办": "ASEAN Cyber Shield (https://ctftime.org/team/269126)",
-        "比赛ID": "990",
+        "比赛权重": "0",
+        "赛事主办": "Exherbo GNU/Linux (https://ctftime.org/team/275214)",
+        "比赛ID": "1027",
         "比赛状态": "nowrunning"
     },
     {
@@ -477,7 +537,19 @@
         "比赛权重": "6.67",
         "赛事主办": "MiTeam (https://ctftime.org/team/168552)",
         "比赛ID": "653",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "ASEAN Cyber Shield Hacking Contest 2023 (Preliminary)",
+        "比赛时间": "2023-11-21 14:00:00 - 2023-11-22 19:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2127.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://forms.gle/9KcV5WRAutbQqHn48",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0.00",
+        "赛事主办": "ASEAN Cyber Shield (https://ctftime.org/team/269126)",
+        "比赛ID": "990",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "SibirCTF 2023",
@@ -801,6 +873,18 @@
         "比赛权重": "0.00",
         "赛事主办": "BlackAlps (https://ctftime.org/team/89021)",
         "比赛ID": "375",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "Hardwear.io NL 2023 Hardware CTF",
+        "比赛时间": "2023-11-02 18:00:00 - 2023-11-03 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2176.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://hwctf.quarkslab.com/",
+        "比赛标志": "https://ctftime.org/media/events/logohwcolor.svg.png",
+        "比赛权重": "0.00",
+        "赛事主办": "Hardware CTF by Quarkslab (https://ctftime.org/team/274600)",
+        "比赛ID": "1021",
         "比赛状态": "past"
     },
     {
@@ -1641,42 +1725,6 @@
         "比赛权重": "43.00",
         "赛事主办": "HackerDom (https://ctftime.org/team/552)",
         "比赛ID": "656",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Midnight Sun CTF 2023 Finals",
-        "比赛时间": "2023-08-19 19:00:00 - 2023-08-20 19:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/1922.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://midnightsunctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/f805350cabc421823053a0f8d305dc81.jpg",
-        "比赛权重": "90.00",
-        "赛事主办": "HackingForSoju (https://ctftime.org/team/3208)",
-        "比赛ID": "246",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "0byteCTF 2023",
-        "比赛时间": "2023-08-19 15:45:00 - 2023-08-20 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2093.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://zerobyte.id/events/0byteCTF-2023/",
-        "比赛标志": "https://ctftime.org/media/events/0byteCTF-2023-Logo.png",
-        "比赛权重": "0.00",
-        "赛事主办": "0byteID (https://ctftime.org/team/262877)",
-        "比赛ID": "983",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "nullcon HackIM CTF Goa 2023",
-        "比赛时间": "2023-08-19 14:00:00 - 2023-08-20 14:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2065.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.nullcon.net/",
-        "比赛标志": "https://ctftime.org/media/events/a3838829dc3fcbbebcc062b58d405747.png",
-        "比赛权重": "25.00",
-        "赛事主办": "ENOFLAG (https://ctftime.org/team/1438)",
-        "比赛ID": "27",
         "比赛状态": "past"
     }
 ]

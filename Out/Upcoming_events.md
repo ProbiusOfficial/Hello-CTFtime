@@ -73,6 +73,15 @@ comments: true
     **赛事主办** : ASEAN Cyber Shield (https://ctftime.org/team/269126)  
     **添加日历** : https://ctftime.org/event/2148.ics  
     
+??? Abstract "[DefCamp CTF Finals 2023](https://dctf23-ad.cyber-edu.co/)"  
+    [![](https://ctftime.org)](https://dctf23-ad.cyber-edu.co/)  
+    **比赛名称** : [DefCamp CTF Finals 2023](https://dctf23-ad.cyber-edu.co/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2023-11-23 16:00:00 - 2023-11-24 01:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : CCSIR.org (https://ctftime.org/team/9831)  
+    **添加日历** : https://ctftime.org/event/2182.ics  
+    
 ??? Abstract "[GlacierCTF 2023](https://glacierctf.com/)"  
     [![](https://ctftime.org/media/events/3ae6516246966c8d08c81d3bd5451cfa.png)](https://glacierctf.com/)  
     **比赛名称** : [GlacierCTF 2023](https://glacierctf.com/)  
@@ -127,6 +136,15 @@ comments: true
     **赛事主办** : pwnthem0le (https://ctftime.org/team/60467)  
     **添加日历** : https://ctftime.org/event/2033.ics  
     
+??? Abstract "[BSides Odisha Web3 CTF](https://bsidesodisha.in/public/ctf.html)"  
+    [![](https://ctftime.org/media/events/Neon_Blue_and_Black_Gamer_Badge_Logo.png)](https://bsidesodisha.in/public/ctf.html)  
+    **比赛名称** : [BSides Odisha Web3 CTF](https://bsidesodisha.in/public/ctf.html)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2023-12-01 04:00:00 - 2023-12-02 22:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : BSides Odisha (https://ctftime.org/team/274130)  
+    **添加日历** : https://ctftime.org/event/2180.ics  
+    
 ??? Abstract "[TUCTF 2023](https://tuctf.com/)"  
     [![](https://ctftime.org/media/events/tuctf_small.png)](https://tuctf.com/)  
     **比赛名称** : [TUCTF 2023](https://tuctf.com/)  
@@ -162,6 +180,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Wanna.W1n (https://ctftime.org/team/138431)  
     **添加日历** : https://ctftime.org/event/2146.ics  
+    
+??? Abstract "[HUNTING SEASON: GROUP-IB 20TH ANNIVERSARY CTF](https://go.group-ib.com/ctf-2023?utm_source=&utm_campaign=ctf-2023&utm_medium=&utm_content=ctftime)"  
+    [![](https://ctftime.org/media/events/InstaTelega__1080x1080_12.png)](https://go.group-ib.com/ctf-2023?utm_source=&utm_campaign=ctf-2023&utm_medium=&utm_content=ctftime)  
+    **比赛名称** : [HUNTING SEASON: GROUP-IB 20TH ANNIVERSARY CTF](https://go.group-ib.com/ctf-2023?utm_source=&utm_campaign=ctf-2023&utm_medium=&utm_content=ctftime)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2023-12-07 17:00:00 - 2023-12-07 21:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Group-IB (https://ctftime.org/team/273085)  
+    **添加日历** : https://ctftime.org/event/2177.ics  
     
 ??? Abstract "[Hackappatoi CTF '23](https://hctf.hackappatoi.com/)"  
     [![](https://ctftime.org/media/events/3cea5d7bcded4dcba103009b24246cd6.png)](https://hctf.hackappatoi.com/)  
@@ -352,6 +379,15 @@ comments: true
     **赛事主办** : PBR | UCLA (https://ctftime.org/team/186494)  
     **添加日历** : https://ctftime.org/event/2102.ics  
     
+??? Abstract "[BraekerCTF](https://braekerctf.butsers.nl/)"  
+    [![](https://ctftime.org/media/events/AI_Robot4.png)](https://braekerctf.butsers.nl/)  
+    **比赛名称** : [BraekerCTF](https://braekerctf.butsers.nl/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-02-23 20:00:00 - 2024-02-25 00:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Braeker (https://ctftime.org/team/274910)  
+    **添加日历** : https://ctftime.org/event/2181.ics  
+    
 ??? Abstract "[osu!gaming CTF 2024](https://osugamingctf.lol/)"  
     [![](https://ctftime.org/media/events/unknown_1.png)](https://osugamingctf.lol/)  
     **比赛名称** : [osu!gaming CTF 2024](https://osugamingctf.lol/)  
@@ -360,6 +396,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : osu!gaming (https://ctftime.org/team/186954)  
     **添加日历** : https://ctftime.org/event/2165.ics  
+    
+??? Abstract "[WxMCTF 2024](https://ctf.mcpt.ca/contest/wxmctf)"  
+    [![](https://ctftime.org/media/events/Logo_thing_1.png)](https://ctf.mcpt.ca/contest/wxmctf)  
+    **比赛名称** : [WxMCTF 2024](https://ctf.mcpt.ca/contest/wxmctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-03-09 08:00:00 - 2024-03-11 07:00:00 UTC+8  
+    **比赛权重** : 23.59  
+    **赛事主办** : wxmctf (https://ctftime.org/team/211390)  
+    **添加日历** : https://ctftime.org/event/2179.ics  
     
 ??? Abstract "[LINE CTF 2024](https://linectf.me/)"  
     [![](https://ctftime.org/media/events/Image_1.jpeg)](https://linectf.me/)  
