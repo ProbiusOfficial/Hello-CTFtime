@@ -7,7 +7,7 @@ cn_ctf_url = 'https://www.su-sanha.cn:443/api/events/list'
 
 rssUpcoming = 'https://ctftime.org/event/list/upcoming/rss'
 rssActive = 'https://ctftime.org/event/list/archive/rss'
-# rssNowrunning = ''
+rssNowrunning = 'https://ctftime.org/event/list/running/rss'
 
 def fetch_cn_ctf_data(url):
     # 使用POST请求获取国内CTF数据
@@ -89,7 +89,9 @@ def fetch_global_ctf_content(rss_url):
 
 upcoming_events = fetch_global_ctf_content(rssUpcoming)
 active_events = fetch_global_ctf_content(rssActive)
-all_events = upcoming_events + active_events
+running_events = fetch_global_ctf_content(rssNowrunning)
+
+all_events = upcoming_events + running_events + active_events 
 with open('Global.json', 'w', encoding='utf-8') as file:
     json.dump(all_events, file, ensure_ascii=False, indent=4)
 
