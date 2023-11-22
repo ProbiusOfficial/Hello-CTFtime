@@ -28,7 +28,7 @@ rssNowrunning = 'https://ctftime.org/event/list/running/rss/'
 
 使用 GitHub Action 定时执行脚本，先 fetch 获取最新的比赛状态，再将 json 转化为 markdown 格式，存储到 Out 中。
 
-cron: '0 */8 * * *' —— 每8小时执行一次
+`cron: '0 */8 * * *'` —— 每8小时执行一次
 ## CN.json 数据说明
 ```
 "status": 0 # 报名未开始
