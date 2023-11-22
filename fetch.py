@@ -5,9 +5,9 @@ import json
 
 cn_ctf_url = 'https://www.su-sanha.cn:443/api/events/list'
 
-rssUpcoming = 'https://ctftime.org/event/list/upcoming/rss'
-rssActive = 'https://ctftime.org/event/list/archive/rss'
-rssNowrunning = 'https://ctftime.org/event/list/running/rss'
+rssUpcoming = 'https://ctftime.org/event/list/upcoming/rss/'
+rssActive = 'https://ctftime.org/event/list/archive/rss/'
+rssNowrunning = 'https://ctftime.org/event/list/running/rss/'
 
 def fetch_cn_ctf_data(url):
     # 使用POST请求获取国内CTF数据
@@ -80,7 +80,7 @@ def fetch_global_ctf_content(rss_url):
             eventData['比赛状态'] = 'oncoming'
         elif rss_url == rssActive:
             eventData['比赛状态'] = 'past'
-        else:
+        elif rss_url == rssNowrunning:
             eventData['比赛状态'] = 'nowrunning'
 
         events.append(eventData)
