@@ -65,12 +65,3 @@ comments: true
     **赛事主办** : ASEAN Cyber Shield (https://ctftime.org/team/269126)  
     **添加日历** : https://ctftime.org/event/2148.ics  
     
-??? Abstract "[DefCamp CTF Finals 2023](https://dctf23-ad.cyber-edu.co/)"  
-    [![](https://ctftime.org)](https://dctf23-ad.cyber-edu.co/)  
-    **比赛名称** : [DefCamp CTF Finals 2023](https://dctf23-ad.cyber-edu.co/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2023-11-23 16:00:00 - 2023-11-24 01:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : CCSIR.org (https://ctftime.org/team/9831)  
-    **添加日历** : https://ctftime.org/event/2182.ics  
-    

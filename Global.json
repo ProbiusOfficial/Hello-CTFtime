@@ -525,7 +525,7 @@
         "比赛权重": "0",
         "赛事主办": "CCSIR.org (https://ctftime.org/team/9831)",
         "比赛ID": "91",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "5th stage MetaRed CTF Ecuador 2023",
@@ -1713,18 +1713,6 @@
         "比赛权重": "24.23",
         "赛事主办": "d4rkc0de (https://ctftime.org/team/15154)",
         "比赛ID": "115",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "HITB SECCONF CTF 2023",
-        "比赛时间": "2023-08-24 11:00:00 - 2023-08-25 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2037.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "https://2023.ctf.hitb.org/hitb-ctf-phuket-2023",
-        "比赛标志": "https://ctftime.org/media/events/hitb-logo_4_1.png",
-        "比赛权重": "43.00",
-        "赛事主办": "HackerDom (https://ctftime.org/team/552)",
-        "比赛ID": "656",
         "比赛状态": "past"
     }
 ]
