@@ -64,15 +64,6 @@ comments: true
 
 ## 国际赛事
 
-??? Abstract "[GlacierCTF 2023](https://glacierctf.com/)"  
-    [![](https://ctftime.org/media/events/3ae6516246966c8d08c81d3bd5451cfa.png)](https://glacierctf.com/)  
-    **比赛名称** : [GlacierCTF 2023](https://glacierctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2023-11-25 02:00:00 - 2023-11-27 02:00:00 UTC+8  
-    **比赛权重** : 24.32  
-    **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
-    **添加日历** : https://ctftime.org/event/1992.ics  
-    
 ??? Abstract "[TPCTF 2023](https://tpctf2023.xctf.org.cn/)"  
     [![](https://ctftime.org/media/events/TPCTF_ba-stylenulla.top.png)](https://tpctf2023.xctf.org.cn/)  
     **比赛名称** : [TPCTF 2023](https://tpctf2023.xctf.org.cn/)  
@@ -330,7 +321,7 @@ comments: true
     **比赛名称** : [Real World CTF 6th](https://realworldctf.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-01-26 19:00:00 - 2024-01-28 19:00:00 UTC+8  
-    **比赛权重** : 97.14  
+    **比赛权重** : 97.04  
     **赛事主办** : Chaitin Tech (https://ctftime.org/team/60371)  
     **添加日历** : https://ctftime.org/event/2172.ics  
     
