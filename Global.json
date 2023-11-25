@@ -1,41 +1,5 @@
 [
     {
-        "比赛名称": "CTFZone 2023 Final",
-        "比赛时间": "2023-11-25 17:00:00 - 2023-11-26 03:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2131.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "http://ctf.bi.zone/",
-        "比赛标志": "https://ctftime.org/media/events/logo2_6.png",
-        "比赛权重": "0.00",
-        "赛事主办": "BIZone (https://ctftime.org/team/32190)",
-        "比赛ID": "201",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "Ph0wn 2023",
-        "比赛时间": "2023-11-25 18:00:00 - 2023-11-26 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2168.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ph0wn.org/",
-        "比赛标志": "https://ctftime.org/media/events/logo-ph0wn_4.png",
-        "比赛权重": "18.00",
-        "赛事主办": "Pic0wn (https://ctftime.org/team/6514)",
-        "比赛ID": "220",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "m0leCon Beginner CTF 2023",
-        "比赛时间": "2023-11-25 21:00:00 - 2023-11-26 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2170.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://beginner.m0lecon.it/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "50.00",
-        "赛事主办": "pwnthem0le (https://ctftime.org/team/60467)",
-        "比赛ID": "372",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "m0leCon CTF 2023",
         "比赛时间": "2023-12-01 01:00:00 - 2023-12-02 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2033.ics",
@@ -501,6 +465,42 @@
         "比赛权重": "0",
         "赛事主办": "TP-Link (https://ctftime.org/team/273760)",
         "比赛ID": "1016",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "CTFZone 2023 Final",
+        "比赛时间": "2023-11-25 17:00:00 - 2023-11-26 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2131.ics",
+        "比赛形式": "Attack-Defense",
+        "比赛链接": "http://ctf.bi.zone/",
+        "比赛标志": "https://ctftime.org/media/events/logo2_6.png",
+        "比赛权重": "0",
+        "赛事主办": "BIZone (https://ctftime.org/team/32190)",
+        "比赛ID": "201",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Ph0wn 2023",
+        "比赛时间": "2023-11-25 18:00:00 - 2023-11-26 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2168.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ph0wn.org/",
+        "比赛标志": "https://ctftime.org/media/events/logo-ph0wn_4.png",
+        "比赛权重": "18.00",
+        "赛事主办": "Pic0wn (https://ctftime.org/team/6514)",
+        "比赛ID": "220",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "m0leCon Beginner CTF 2023",
+        "比赛时间": "2023-11-25 21:00:00 - 2023-11-26 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2170.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://beginner.m0lecon.it/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "50.00",
+        "赛事主办": "pwnthem0le (https://ctftime.org/team/60467)",
+        "比赛ID": "372",
         "比赛状态": "nowrunning"
     },
     {
