@@ -47,32 +47,9 @@ comments: true
     **比赛时间** : 2023年12月08日 09:00 - 2023年12月08日 12:00  
     **其他说明** : QQ 群：792721897  
     
-??? Abstract "TPCTF2023"  
-    **比赛名称** : [TPCTF2023](https://adworld.xctf.org.cn/contest/assess?hash=73c83d88-7791-11ee-ab28-000c29bc20bf)  
-    **比赛类型** : 团队赛  
-    **报名时间** : 2023年11月01日 12:00 - 2023年11月27日 09:00  
-    **比赛时间** : 2023年11月25日 09:00 - 2023年11月27日 09:00  
-    **其他说明** : Discord: https://discord.gg/hq4m3KrVfG  QQ群：512066352  
-    
-??? Abstract "DASCTF X 0psu3 十一月挑战赛"  
-    **比赛名称** : [DASCTF X 0psu3 十一月挑战赛](https://buuoj.cn/das)  
-    **比赛类型** : 团队赛|1-4人  
-    **报名时间** : 2023年11月15日 12:00 - 2023年11月25日 18:00  
-    **比赛时间** : 2023年11月25日 10:00 - 2023年11月25日 18:00  
-    **其他说明** : QQ群：580275770  
-    
 
 ## 国际赛事
 
-??? Abstract "[TPCTF 2023](https://tpctf2023.xctf.org.cn/)"  
-    [![](https://ctftime.org/media/events/TPCTF_ba-stylenulla.top.png)](https://tpctf2023.xctf.org.cn/)  
-    **比赛名称** : [TPCTF 2023](https://tpctf2023.xctf.org.cn/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2023-11-25 09:00:00 - 2023-11-27 09:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : TP-Link (https://ctftime.org/team/273760)  
-    **添加日历** : https://ctftime.org/event/2161.ics  
-    
 ??? Abstract "[CTFZone 2023 Final](http://ctf.bi.zone/)"  
     [![](https://ctftime.org/media/events/logo2_6.png)](http://ctf.bi.zone/)  
     **比赛名称** : [CTFZone 2023 Final](http://ctf.bi.zone/)  
