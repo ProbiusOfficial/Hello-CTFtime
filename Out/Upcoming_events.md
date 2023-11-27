@@ -96,7 +96,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/2072.ics  
     
 ??? Abstract "[WannaGame Championship 2023](https://cnsc.uit.edu.vn/ctf/)"  
-    [![](https://ctftime.org/media/events/championship2.png)](https://cnsc.uit.edu.vn/ctf/)  
+    [![](https://ctftime.org/media/events/405223021_1146746909620738_23415812653969977_n.png)](https://cnsc.uit.edu.vn/ctf/)  
     **比赛名称** : [WannaGame Championship 2023](https://cnsc.uit.edu.vn/ctf/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2023-12-02 09:00:00 - 2023-12-04 09:00:00 UTC+8  

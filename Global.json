@@ -65,7 +65,7 @@
         "添加日历": "https://ctftime.org/event/2146.ics",
         "比赛形式": "Jeopardy",
         "比赛链接": "https://cnsc.uit.edu.vn/ctf/",
-        "比赛标志": "https://ctftime.org/media/events/championship2.png",
+        "比赛标志": "https://ctftime.org/media/events/405223021_1146746909620738_23415812653969977_n.png",
         "比赛权重": "0.00",
         "赛事主办": "Wanna.W1n (https://ctftime.org/team/138431)",
         "比赛ID": "1000",
@@ -456,18 +456,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "TPCTF 2023",
-        "比赛时间": "2023-11-25 09:00:00 - 2023-11-27 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2161.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://tpctf2023.xctf.org.cn/",
-        "比赛标志": "https://ctftime.org/media/events/TPCTF_ba-stylenulla.top.png",
-        "比赛权重": "0",
-        "赛事主办": "TP-Link (https://ctftime.org/team/273760)",
-        "比赛ID": "1016",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "m0leCon Beginner CTF 2023",
         "比赛时间": "2023-11-25 21:00:00 - 2023-11-26 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2170.ics",
@@ -501,6 +489,18 @@
         "比赛权重": "0",
         "赛事主办": "BIZone (https://ctftime.org/team/32190)",
         "比赛ID": "201",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "TPCTF 2023",
+        "比赛时间": "2023-11-25 09:00:00 - 2023-11-27 09:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2161.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://tpctf2023.xctf.org.cn/",
+        "比赛标志": "https://ctftime.org/media/events/TPCTF_ba-stylenulla.top.png",
+        "比赛权重": "0",
+        "赛事主办": "TP-Link (https://ctftime.org/team/273760)",
+        "比赛ID": "1016",
         "比赛状态": "past"
     },
     {
@@ -642,7 +642,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.intigriti.io/",
         "比赛标志": "https://ctftime.org/media/events/1337up_4.png",
-        "比赛权重": "24.84",
+        "比赛权重": "24.86",
         "赛事主办": "Intigriti (https://ctftime.org/team/178083)",
         "比赛ID": "749",
         "比赛状态": "past"
@@ -738,7 +738,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://cybercoliseum.codeby.games/en",
         "比赛标志": "https://ctftime.org/media/events/asd.png",
-        "比赛权重": "20.60",
+        "比赛权重": "20.95",
         "赛事主办": "RedHazzarTeam (https://ctftime.org/team/186788)",
         "比赛ID": "923",
         "比赛状态": "past"
@@ -1653,18 +1653,6 @@
         "比赛权重": "24.79",
         "赛事主办": "Super Guesser (https://ctftime.org/team/130817)",
         "比赛ID": "948",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "DownUnderCTF 2023",
-        "比赛时间": "2023-09-01 17:30:00 - 2023-09-03 17:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/1954.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://play.duc.tf/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "46.63",
-        "赛事主办": "DownUnderCTF (https://ctftime.org/team/126400)",
-        "比赛ID": "481",
         "比赛状态": "past"
     }
 ]
