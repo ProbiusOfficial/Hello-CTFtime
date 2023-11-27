@@ -111,6 +111,15 @@ comments: true
     **赛事主办** : BIZone (https://ctftime.org/team/32190)  
     **添加日历** : https://ctftime.org/event/2131.ics  
     
+??? Abstract "[GlacierCTF 2023](https://glacierctf.com/)"  
+    [![](https://ctftime.org/media/events/3ae6516246966c8d08c81d3bd5451cfa.png)](https://glacierctf.com/)  
+    **比赛名称** : [GlacierCTF 2023](https://glacierctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2023-11-25 02:00:00 - 2023-11-27 02:00:00 UTC+8  
+    **比赛权重** : 24.32  
+    **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
+    **添加日历** : https://ctftime.org/event/1992.ics  
+    
 ??? Abstract "[DefCamp CTF Finals 2023](https://dctf23-ad.cyber-edu.co/)"  
     [![](https://ctftime.org)](https://dctf23-ad.cyber-edu.co/)  
     **比赛名称** : [DefCamp CTF Finals 2023](https://dctf23-ad.cyber-edu.co/)  
@@ -152,7 +161,7 @@ comments: true
     **比赛名称** : [SibirCTF 2023](https://vk.com/sibirctf)  
     **比赛形式** : Attack-Defense  
     **比赛时间** : 2023-11-19 18:00:00 - 2023-11-20 03:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : keva (https://ctftime.org/team/2980)  
     **添加日历** : https://ctftime.org/event/2132.ics  
     
@@ -291,15 +300,6 @@ comments: true
     **赛事主办** : insecure (https://ctftime.org/team/21761)  
     **添加日历** : https://ctftime.org/event/1973.ics  
     
-??? Abstract "[0CTF/TCTF 2023[POSTPONED]](https://ctf.0ops.sjtu.cn/)"  
-    [![](https://ctftime.org)](https://ctf.0ops.sjtu.cn/)  
-    **比赛名称** : [0CTF/TCTF 2023[POSTPONED]](https://ctf.0ops.sjtu.cn/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2023-11-11 10:00:00 - 2023-11-13 10:00:00 UTC+8  
-    **比赛权重** : 100.00  
-    **赛事主办** : 0ops (https://ctftime.org/team/4419)  
-    **添加日历** : https://ctftime.org/event/2073.ics  
-    
 ??? Abstract "[WannaGame Freshman 2023](https://cnsc.uit.edu.vn/ctf/)"  
     [![](https://ctftime.org)](https://cnsc.uit.edu.vn/ctf/)  
     **比赛名称** : [WannaGame Freshman 2023](https://cnsc.uit.edu.vn/ctf/)  
@@ -422,7 +422,7 @@ comments: true
     **比赛名称** : [cursedCTF 2024 Halloween Teaser](https://cursedc.tf/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2023-10-31 08:00:00 - 2023-11-02 07:59:59 UTC+8  
-    **比赛权重** : 18.71  
+    **比赛权重** : 19.50  
     **赛事主办** : cursed (https://ctftime.org/team/199492)  
     **添加日历** : https://ctftime.org/event/2144.ics  
     

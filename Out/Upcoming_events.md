@@ -140,6 +140,15 @@ comments: true
     **赛事主办** : pingCTF (https://ctftime.org/team/147266)  
     **添加日历** : https://ctftime.org/event/1987.ics  
     
+??? Abstract "[0CTF/TCTF 2023](https://ctf.0ops.sjtu.cn/)"  
+    [![](https://ctftime.org)](https://ctf.0ops.sjtu.cn/)  
+    **比赛名称** : [0CTF/TCTF 2023](https://ctf.0ops.sjtu.cn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2023-12-09 10:00:00 - 2023-12-10 10:00:00 UTC+8  
+    **比赛权重** : 100.00  
+    **赛事主办** : 0ops (https://ctftime.org/team/4419)  
+    **添加日历** : https://ctftime.org/event/2073.ics  
+    
 ??? Abstract "[TsukuCTF 2023](http://tsukuctf.sechack365.com/)"  
     [![](https://ctftime.org/media/events/icon_6.png)](http://tsukuctf.sechack365.com/)  
     **比赛名称** : [TsukuCTF 2023](http://tsukuctf.sechack365.com/)  

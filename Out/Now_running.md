@@ -56,15 +56,6 @@ comments: true
     **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
     **添加日历** : https://ctftime.org/event/2178.ics  
     
-??? Abstract "[GlacierCTF 2023](https://glacierctf.com/)"  
-    [![](https://ctftime.org/media/events/3ae6516246966c8d08c81d3bd5451cfa.png)](https://glacierctf.com/)  
-    **比赛名称** : [GlacierCTF 2023](https://glacierctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2023-11-25 02:00:00 - 2023-11-27 02:00:00 UTC+8  
-    **比赛权重** : 24.32  
-    **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
-    **添加日历** : https://ctftime.org/event/1992.ics  
-    
 ??? Abstract "[TPCTF 2023](https://tpctf2023.xctf.org.cn/)"  
     [![](https://ctftime.org/media/events/TPCTF_ba-stylenulla.top.png)](https://tpctf2023.xctf.org.cn/)  
     **比赛名称** : [TPCTF 2023](https://tpctf2023.xctf.org.cn/)  
