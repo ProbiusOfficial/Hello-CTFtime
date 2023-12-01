@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "m0leCon CTF 2023",
-        "比赛时间": "2023-12-01 01:00:00 - 2023-12-02 01:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2033.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://finals.m0lecon.it/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "50.00",
-        "赛事主办": "pwnthem0le (https://ctftime.org/team/60467)",
-        "比赛ID": "372",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "BSides Odisha Web3 CTF",
-        "比赛时间": "2023-12-01 04:00:00 - 2023-12-02 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2180.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://academy.quillaudits.com/challenges",
-        "比赛标志": "https://ctftime.org/media/events/Neon_Blue_and_Black_Gamer_Badge_Logo.png",
-        "比赛权重": "0.00",
-        "赛事主办": "BSides Odisha (https://ctftime.org/team/274130)",
-        "比赛ID": "1020",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "TUCTF 2023",
         "比赛时间": "2023-12-02 01:00:00 - 2023-12-04 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2173.ics",
@@ -480,6 +456,30 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "m0leCon CTF 2023",
+        "比赛时间": "2023-12-01 01:00:00 - 2023-12-02 01:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2033.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://finals.m0lecon.it/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "50.00",
+        "赛事主办": "pwnthem0le (https://ctftime.org/team/60467)",
+        "比赛ID": "372",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "BSides Odisha Web3 CTF",
+        "比赛时间": "2023-12-01 04:00:00 - 2023-12-02 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2180.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://academy.quillaudits.com/challenges",
+        "比赛标志": "https://ctftime.org/media/events/Neon_Blue_and_Black_Gamer_Badge_Logo.png",
+        "比赛权重": "0.00",
+        "赛事主办": "BSides Odisha (https://ctftime.org/team/274130)",
+        "比赛ID": "1020",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "m0leCon Beginner CTF 2023",
         "比赛时间": "2023-11-25 21:00:00 - 2023-11-26 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2170.ics",
@@ -546,7 +546,7 @@
         "比赛形式": "Attack-Defense",
         "比赛链接": "https://dctf23-ad.cyber-edu.co/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
+        "比赛权重": "0.00",
         "赛事主办": "CCSIR.org (https://ctftime.org/team/9831)",
         "比赛ID": "91",
         "比赛状态": "past"
