@@ -1,41 +1,5 @@
 [
     {
-        "比赛名称": "TUCTF 2023",
-        "比赛时间": "2023-12-02 01:00:00 - 2023-12-04 01:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2173.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://tuctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/tuctf_small.png",
-        "比赛权重": "22.07",
-        "赛事主办": "ascii overflow (https://ctftime.org/team/15360)",
-        "比赛ID": "147",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "BlazCTF 2023",
-        "比赛时间": "2023-12-02 02:00:00 - 2023-12-04 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2145.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.blaz.ai/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0.00",
-        "赛事主办": "FuzzLand (https://ctftime.org/team/270659)",
-        "比赛ID": "1005",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "NewportBlakeCTF 2023",
-        "比赛时间": "2023-12-02 08:00:00 - 2023-12-04 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2072.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://nbctf.com/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0.00",
-        "赛事主办": "NewportBlakeCTF (https://ctftime.org/team/258029)",
-        "比赛ID": "981",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "WannaGame Championship 2023",
         "比赛时间": "2023-12-02 09:00:00 - 2023-12-04 09:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2146.ics",
@@ -456,18 +420,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "m0leCon CTF 2023",
-        "比赛时间": "2023-12-01 01:00:00 - 2023-12-02 01:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2033.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://finals.m0lecon.it/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "50.00",
-        "赛事主办": "pwnthem0le (https://ctftime.org/team/60467)",
-        "比赛ID": "372",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "BSides Odisha Web3 CTF",
         "比赛时间": "2023-12-01 04:00:00 - 2023-12-02 22:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2180.ics",
@@ -478,6 +430,54 @@
         "赛事主办": "BSides Odisha (https://ctftime.org/team/274130)",
         "比赛ID": "1020",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "TUCTF 2023",
+        "比赛时间": "2023-12-02 01:00:00 - 2023-12-04 01:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2173.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://tuctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/tuctf_small.png",
+        "比赛权重": "22.07",
+        "赛事主办": "ascii overflow (https://ctftime.org/team/15360)",
+        "比赛ID": "147",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "BlazCTF 2023",
+        "比赛时间": "2023-12-02 02:00:00 - 2023-12-04 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2145.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.blaz.ai/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0",
+        "赛事主办": "FuzzLand (https://ctftime.org/team/270659)",
+        "比赛ID": "1005",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "NewportBlakeCTF 2023",
+        "比赛时间": "2023-12-02 08:00:00 - 2023-12-04 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2072.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://nbctf.com/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0",
+        "赛事主办": "NewportBlakeCTF (https://ctftime.org/team/258029)",
+        "比赛ID": "981",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "m0leCon CTF 2023",
+        "比赛时间": "2023-12-01 01:00:00 - 2023-12-02 01:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2033.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://finals.m0lecon.it/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "50.00",
+        "赛事主办": "pwnthem0le (https://ctftime.org/team/60467)",
+        "比赛ID": "372",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "m0leCon Beginner CTF 2023",
@@ -1665,18 +1665,6 @@
         "比赛权重": "24.24",
         "赛事主办": "UCG (https://ctftime.org/team/255103)",
         "比赛ID": "977",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "WACON 2023 Prequal",
-        "比赛时间": "2023-09-02 08:00:00 - 2023-09-03 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2076.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://global.wacon.world/",
-        "比赛标志": "https://ctftime.org/media/events/logo_10.jpg",
-        "比赛权重": "24.79",
-        "赛事主办": "Super Guesser (https://ctftime.org/team/130817)",
-        "比赛ID": "948",
         "比赛状态": "past"
     }
 ]
