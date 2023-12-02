@@ -396,18 +396,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "BSides Odisha Web3 CTF",
-        "比赛时间": "2023-12-01 04:00:00 - 2023-12-02 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2180.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://academy.quillaudits.com/challenges",
-        "比赛标志": "https://ctftime.org/media/events/Neon_Blue_and_Black_Gamer_Badge_Logo.png",
-        "比赛权重": "0.00",
-        "赛事主办": "BSides Odisha (https://ctftime.org/team/274130)",
-        "比赛ID": "1020",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "TUCTF 2023",
         "比赛时间": "2023-12-02 01:00:00 - 2023-12-04 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2173.ics",
@@ -465,7 +453,19 @@
         "比赛权重": "0.00",
         "赛事主办": "BinaryBears (https://ctftime.org/team/36281)",
         "比赛ID": "164",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "BSides Odisha Web3 CTF",
+        "比赛时间": "2023-12-01 04:00:00 - 2023-12-02 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2180.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://academy.quillaudits.com/challenges",
+        "比赛标志": "https://ctftime.org/media/events/Neon_Blue_and_Black_Gamer_Badge_Logo.png",
+        "比赛权重": "0.00",
+        "赛事主办": "BSides Odisha (https://ctftime.org/team/274130)",
+        "比赛ID": "1020",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "m0leCon CTF 2023",
@@ -1641,30 +1641,6 @@
         "比赛权重": "24.52",
         "赛事主办": "Competitive Cyber at Mason (https://ctftime.org/team/176906)",
         "比赛ID": "737",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "HITCON CTF 2023 Quals",
-        "比赛时间": "2023-09-08 22:00:00 - 2023-09-10 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2019.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf2023.hitcon.org/",
-        "比赛标志": "https://ctftime.org/media/events/hitcon2_5_1_1.png",
-        "比赛权重": "99.75",
-        "赛事主办": "HITCON (https://ctftime.org/team/8299)",
-        "比赛ID": "79",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Urmia CTF 2023",
-        "比赛时间": "2023-09-02 20:00:00 - 2023-09-04 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2067.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://uctf.ir/",
-        "比赛标志": "https://ctftime.org/media/events/NewLogo.jpg",
-        "比赛权重": "24.24",
-        "赛事主办": "UCG (https://ctftime.org/team/255103)",
-        "比赛ID": "977",
         "比赛状态": "past"
     }
 ]
