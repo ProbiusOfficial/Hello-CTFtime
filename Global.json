@@ -384,18 +384,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "WannaGame Championship 2023",
-        "比赛时间": "2023-12-02 09:00:00 - 2023-12-04 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2146.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://cnsc.uit.edu.vn/ctf/",
-        "比赛标志": "https://ctftime.org/media/events/405223021_1146746909620738_23415812653969977_n.png",
-        "比赛权重": "0",
-        "赛事主办": "Wanna.W1n (https://ctftime.org/team/138431)",
-        "比赛ID": "1000",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "M*CTF 2023 Finals",
         "比赛时间": "2023-12-03 15:00:00 - 2023-12-04 00:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2198.ics",
@@ -417,6 +405,18 @@
         "比赛权重": "0.00",
         "赛事主办": "BinaryBears (https://ctftime.org/team/36281)",
         "比赛ID": "164",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "WannaGame Championship 2023",
+        "比赛时间": "2023-12-02 09:00:00 - 2023-12-04 09:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2146.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://cnsc.uit.edu.vn/ctf/",
+        "比赛标志": "https://ctftime.org/media/events/405223021_1146746909620738_23415812653969977_n.png",
+        "比赛权重": "0",
+        "赛事主办": "Wanna.W1n (https://ctftime.org/team/138431)",
+        "比赛ID": "1000",
         "比赛状态": "past"
     },
     {
@@ -522,7 +522,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://tpctf2023.xctf.org.cn/",
         "比赛标志": "https://ctftime.org/media/events/TPCTF_ba-stylenulla.top.png",
-        "比赛权重": "0",
+        "比赛权重": "25.00",
         "赛事主办": "TP-Link (https://ctftime.org/team/273760)",
         "比赛ID": "1016",
         "比赛状态": "past"
@@ -1581,18 +1581,6 @@
         "比赛权重": "0.00",
         "赛事主办": "MetaTrust Labs (https://ctftime.org/team/267178)",
         "比赛ID": "988",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "COMPFEST CTF 2023",
-        "比赛时间": "2023-09-10 08:00:00 - 2023-09-11 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2060.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf-mirror.compfest.id/",
-        "比赛标志": "https://ctftime.org/media/events/LOGO.png",
-        "比赛权重": "29.00",
-        "赛事主办": "CSUI (https://ctftime.org/team/70551)",
-        "比赛ID": "502",
         "比赛状态": "past"
     }
 ]
