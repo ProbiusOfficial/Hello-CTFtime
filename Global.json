@@ -384,42 +384,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "TUCTF 2023",
-        "比赛时间": "2023-12-02 01:00:00 - 2023-12-04 01:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2173.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://tuctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/tuctf_small.png",
-        "比赛权重": "22.07",
-        "赛事主办": "ascii overflow (https://ctftime.org/team/15360)",
-        "比赛ID": "147",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "BlazCTF 2023",
-        "比赛时间": "2023-12-02 02:00:00 - 2023-12-04 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2145.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.blaz.ai/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
-        "赛事主办": "FuzzLand (https://ctftime.org/team/270659)",
-        "比赛ID": "1005",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "NewportBlakeCTF 2023",
-        "比赛时间": "2023-12-02 08:00:00 - 2023-12-04 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2072.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://nbctf.com/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
-        "赛事主办": "NewportBlakeCTF (https://ctftime.org/team/258029)",
-        "比赛ID": "981",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "WannaGame Championship 2023",
         "比赛时间": "2023-12-02 09:00:00 - 2023-12-04 09:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2146.ics",
@@ -453,6 +417,42 @@
         "比赛权重": "0.00",
         "赛事主办": "BinaryBears (https://ctftime.org/team/36281)",
         "比赛ID": "164",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "NewportBlakeCTF 2023",
+        "比赛时间": "2023-12-02 08:00:00 - 2023-12-04 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2072.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://nbctf.com/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0",
+        "赛事主办": "NewportBlakeCTF (https://ctftime.org/team/258029)",
+        "比赛ID": "981",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "BlazCTF 2023",
+        "比赛时间": "2023-12-02 02:00:00 - 2023-12-04 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2145.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.blaz.ai/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0",
+        "赛事主办": "FuzzLand (https://ctftime.org/team/270659)",
+        "比赛ID": "1005",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "TUCTF 2023",
+        "比赛时间": "2023-12-02 01:00:00 - 2023-12-04 01:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2173.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://tuctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/tuctf_small.png",
+        "比赛权重": "22.07",
+        "赛事主办": "ascii overflow (https://ctftime.org/team/15360)",
+        "比赛ID": "147",
         "比赛状态": "past"
     },
     {
@@ -1593,42 +1593,6 @@
         "比赛权重": "29.00",
         "赛事主办": "CSUI (https://ctftime.org/team/70551)",
         "比赛ID": "502",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "BalCCon2k23",
-        "比赛时间": "2023-09-09 21:00:00 - 2023-09-10 03:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2097.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "https://2k23.balccon.org/index.php?title=CTF",
-        "比赛标志": "https://ctftime.org/media/events/NewLogoMAjica.png-image63-548.png",
-        "比赛权重": "0.00",
-        "赛事主办": "BalCCon (https://ctftime.org/team/167842)",
-        "比赛ID": "690",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Information and Technology Festival 2023",
-        "比赛时间": "2023-09-09 16:00:00 - 2023-09-10 16:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2043.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.intechfest.cc/",
-        "比赛标志": "https://ctftime.org/media/events/LOGO_INTECHFEST-Color.png",
-        "比赛权重": "0.00",
-        "赛事主办": "INTECHFEST (https://ctftime.org/team/193205)",
-        "比赛ID": "808",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Cyber Heroines CTF",
-        "比赛时间": "2023-09-09 05:00:00 - 2023-09-11 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2054.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://cyberheroines.ctfd.io/",
-        "比赛标志": "https://ctftime.org/media/events/noun-developer-94088-FF40FF.png",
-        "比赛权重": "23.94",
-        "赛事主办": "FITSEC (https://ctftime.org/team/65296)",
-        "比赛ID": "728",
         "比赛状态": "past"
     }
 ]
