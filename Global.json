@@ -156,20 +156,8 @@
         "比赛状态": "oncoming"
     },
     {
-        "比赛名称": "DiceCTF Teaser 2023",
-        "比赛时间": "2023-12-16 05:00:00 - 2023-12-17 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2162.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.dicega.ng/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0.00",
-        "赛事主办": "DiceGang (https://ctftime.org/team/109452)",
-        "比赛ID": "331",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Wargames.MY CTF 2023",
-        "比赛时间": "2023-12-16 08:00:00 - 2023-12-17 08:00:00 UTC+8",
+        "比赛时间": "2023-12-16 00:00:00 - 2023-12-17 00:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2203.ics",
         "比赛形式": "Jeopardy",
         "比赛链接": "https://pro2023.wargames.my/",
@@ -414,7 +402,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://volgactf.ru/en/volgactf-2024/qualifier/",
         "比赛标志": "https://ctftime.org/media/events/logo-social-yellow_14.png",
-        "比赛权重": "0.00",
+        "比赛权重": "35.91",
         "赛事主办": "VolgaCTF.org (https://ctftime.org/team/27094)",
         "比赛ID": "52",
         "比赛状态": "oncoming"
