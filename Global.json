@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "HTB University CTF 2023: Brains & Bytes",
-        "比赛时间": "2023-12-08 21:00:00 - 2023-12-11 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2149.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.hackthebox.com/event/details/university-ctf-2023-brains-bytes-1231",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "23.21",
-        "赛事主办": "Hack The Box (https://ctftime.org/team/136056)",
-        "比赛ID": "554",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "pingCTF 2023",
         "比赛时间": "2023-12-09 01:30:00 - 2023-12-11 06:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/1987.ics",
@@ -453,6 +441,18 @@
         "比赛权重": "24.71",
         "赛事主办": "Hackappatoi (https://ctftime.org/team/140428)",
         "比赛ID": "870",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "HTB University CTF 2023: Brains & Bytes",
+        "比赛时间": "2023-12-08 21:00:00 - 2023-12-11 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2149.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.hackthebox.com/event/details/university-ctf-2023-brains-bytes-1231",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "23.21",
+        "赛事主办": "Hack The Box (https://ctftime.org/team/136056)",
+        "比赛ID": "554",
         "比赛状态": "nowrunning"
     },
     {
