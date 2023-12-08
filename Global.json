@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "Hackappatoi CTF '23",
-        "比赛时间": "2023-12-08 01:00:00 - 2023-12-09 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2163.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://hctf.hackappatoi.com/",
-        "比赛标志": "https://ctftime.org/media/events/3cea5d7bcded4dcba103009b24246cd6.png",
-        "比赛权重": "24.71",
-        "赛事主办": "Hackappatoi (https://ctftime.org/team/140428)",
-        "比赛ID": "870",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "HTB University CTF 2023: Brains & Bytes",
         "比赛时间": "2023-12-08 21:00:00 - 2023-12-11 05:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2149.ics",
@@ -456,6 +444,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "Hackappatoi CTF '23",
+        "比赛时间": "2023-12-08 01:00:00 - 2023-12-09 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2163.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://hctf.hackappatoi.com/",
+        "比赛标志": "https://ctftime.org/media/events/3cea5d7bcded4dcba103009b24246cd6.png",
+        "比赛权重": "24.71",
+        "赛事主办": "Hackappatoi (https://ctftime.org/team/140428)",
+        "比赛ID": "870",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "HUNTING SEASON: GROUP-IB 20TH ANNIVERSARY CTF",
         "比赛时间": "2023-12-07 17:00:00 - 2023-12-07 21:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2177.ics",
@@ -762,7 +762,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.intigriti.io/",
         "比赛标志": "https://ctftime.org/media/events/1337up_4.png",
-        "比赛权重": "24.86",
+        "比赛权重": "24.20",
         "赛事主办": "Intigriti (https://ctftime.org/team/178083)",
         "比赛ID": "749",
         "比赛状态": "past"
