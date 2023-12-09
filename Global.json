@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "pingCTF 2023",
-        "比赛时间": "2023-12-09 01:30:00 - 2023-12-11 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/1987.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.knping.pl/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "24.29",
-        "赛事主办": "pingCTF (https://ctftime.org/team/147266)",
-        "比赛ID": "715",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "0CTF/TCTF 2023",
         "比赛时间": "2023-12-09 10:00:00 - 2023-12-11 10:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2073.ics",
@@ -453,6 +441,18 @@
         "比赛权重": "23.21",
         "赛事主办": "Hack The Box (https://ctftime.org/team/136056)",
         "比赛ID": "554",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "pingCTF 2023",
+        "比赛时间": "2023-12-09 01:30:00 - 2023-12-11 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/1987.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.knping.pl/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "24.29",
+        "赛事主办": "pingCTF (https://ctftime.org/team/147266)",
+        "比赛ID": "715",
         "比赛状态": "nowrunning"
     },
     {
