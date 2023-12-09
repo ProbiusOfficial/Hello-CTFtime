@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "snakeCTF 2023",
-        "比赛时间": "2023-12-09 17:00:00 - 2023-12-10 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2158.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://2023.snakectf.org/",
-        "比赛标志": "https://ctftime.org/media/events/LogoCroppable.png",
-        "比赛权重": "0.00",
-        "赛事主办": "MadrHacks (https://ctftime.org/team/114509)",
-        "比赛ID": "994",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "HacktorX CTF 2023",
-        "比赛时间": "2023-12-09 21:00:00 - 2023-12-10 15:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2174.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://hacktorx.com/hxctf2023/",
-        "比赛标志": "https://ctftime.org/media/events/logo1_2.png",
-        "比赛权重": "0.00",
-        "赛事主办": "HacktorX (https://ctftime.org/team/274645)",
-        "比赛ID": "1023",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "ISITDTU CTF 2023 Finals",
         "比赛时间": "2023-12-10 09:00:00 - 2023-12-10 17:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2090.ics",
@@ -396,18 +372,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "Hackappatoi CTF '23",
-        "比赛时间": "2023-12-08 01:00:00 - 2023-12-09 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2163.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://hctf.hackappatoi.com/",
-        "比赛标志": "https://ctftime.org/media/events/3cea5d7bcded4dcba103009b24246cd6.png",
-        "比赛权重": "24.71",
-        "赛事主办": "Hackappatoi (https://ctftime.org/team/140428)",
-        "比赛ID": "870",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "HTB University CTF 2023: Brains & Bytes",
         "比赛时间": "2023-12-08 21:00:00 - 2023-12-11 05:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2149.ics",
@@ -454,6 +418,42 @@
         "赛事主办": "TaruTaru (https://ctftime.org/team/157513)",
         "比赛ID": "671",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "snakeCTF 2023",
+        "比赛时间": "2023-12-09 17:00:00 - 2023-12-10 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2158.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://2023.snakectf.org/",
+        "比赛标志": "https://ctftime.org/media/events/LogoCroppable.png",
+        "比赛权重": "0",
+        "赛事主办": "MadrHacks (https://ctftime.org/team/114509)",
+        "比赛ID": "994",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "HacktorX CTF 2023",
+        "比赛时间": "2023-12-09 21:00:00 - 2023-12-10 15:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2174.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://hacktorx.com/hxctf2023/",
+        "比赛标志": "https://ctftime.org/media/events/logo1_2.png",
+        "比赛权重": "0.00",
+        "赛事主办": "HacktorX (https://ctftime.org/team/274645)",
+        "比赛ID": "1023",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Hackappatoi CTF '23",
+        "比赛时间": "2023-12-08 01:00:00 - 2023-12-09 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2163.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://hctf.hackappatoi.com/",
+        "比赛标志": "https://ctftime.org/media/events/3cea5d7bcded4dcba103009b24246cd6.png",
+        "比赛权重": "24.71",
+        "赛事主办": "Hackappatoi (https://ctftime.org/team/140428)",
+        "比赛ID": "870",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "HUNTING SEASON: GROUP-IB 20TH ANNIVERSARY CTF",
@@ -1641,18 +1641,6 @@
         "比赛权重": "21.69",
         "赛事主办": "NYUSEC (https://ctftime.org/team/439)",
         "比赛ID": "18",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "SEC-T 0x0FOO CTF 2023",
-        "比赛时间": "2023-09-14 18:00:00 - 2023-09-15 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2084.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://sec-t.hackaplaneten.se/",
-        "比赛标志": "https://ctftime.org/media/events/sec-t.jpeg",
-        "比赛权重": "25.00",
-        "赛事主办": "HackingForSoju (https://ctftime.org/team/3208)",
-        "比赛ID": "211",
         "比赛状态": "past"
     }
 ]
