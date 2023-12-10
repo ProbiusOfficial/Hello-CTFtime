@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "HACKOLINE",
-        "比赛时间": "2023-12-10 17:00:00 - 2023-12-11 03:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2204.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "https://mrwebx.com/event/#/home",
-        "比赛标志": "https://ctftime.org/media/events/instagram.jpeg",
-        "比赛权重": "0.00",
-        "赛事主办": "mrwebsecure (https://ctftime.org/team/276542)",
-        "比赛ID": "1036",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Intent CTF 2023",
         "比赛时间": "2023-12-13 16:30:00 - 2023-12-15 16:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2130.ics",
@@ -396,27 +384,15 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "TsukuCTF 2023",
-        "比赛时间": "2023-12-09 11:20:00 - 2023-12-10 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2169.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://tsukuctf.sechack365.com/",
-        "比赛标志": "https://ctftime.org/media/events/icon_6.png",
-        "比赛权重": "0.00",
-        "赛事主办": "TaruTaru (https://ctftime.org/team/157513)",
-        "比赛ID": "671",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "snakeCTF 2023",
-        "比赛时间": "2023-12-09 17:00:00 - 2023-12-10 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2158.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://2023.snakectf.org/",
-        "比赛标志": "https://ctftime.org/media/events/LogoCroppable.png",
+        "比赛名称": "HACKOLINE",
+        "比赛时间": "2023-12-10 17:00:00 - 2023-12-11 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2204.ics",
+        "比赛形式": "Attack-Defense",
+        "比赛链接": "https://mrwebx.com/event/#/home",
+        "比赛标志": "https://ctftime.org/media/events/instagram.jpeg",
         "比赛权重": "0",
-        "赛事主办": "MadrHacks (https://ctftime.org/team/114509)",
-        "比赛ID": "994",
+        "赛事主办": "mrwebsecure (https://ctftime.org/team/276542)",
+        "比赛ID": "1036",
         "比赛状态": "nowrunning"
     },
     {
@@ -429,7 +405,7 @@
         "比赛权重": "37.00",
         "赛事主办": "ISITDTU (https://ctftime.org/team/8241)",
         "比赛ID": "258",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "HacktorX CTF 2023",
@@ -441,6 +417,30 @@
         "比赛权重": "0.00",
         "赛事主办": "HacktorX (https://ctftime.org/team/274645)",
         "比赛ID": "1023",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "snakeCTF 2023",
+        "比赛时间": "2023-12-09 17:00:00 - 2023-12-10 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2158.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://2023.snakectf.org/",
+        "比赛标志": "https://ctftime.org/media/events/LogoCroppable.png",
+        "比赛权重": "0",
+        "赛事主办": "MadrHacks (https://ctftime.org/team/114509)",
+        "比赛ID": "994",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "TsukuCTF 2023",
+        "比赛时间": "2023-12-09 11:20:00 - 2023-12-10 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2169.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://tsukuctf.sechack365.com/",
+        "比赛标志": "https://ctftime.org/media/events/icon_6.png",
+        "比赛权重": "0.00",
+        "赛事主办": "TaruTaru (https://ctftime.org/team/157513)",
+        "比赛ID": "671",
         "比赛状态": "past"
     },
     {
@@ -1593,42 +1593,6 @@
         "比赛权重": "0.00",
         "赛事主办": "McMCs (https://ctftime.org/team/220827)",
         "比赛ID": "930",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "ASIS CTF Quals 2023",
-        "比赛时间": "2023-09-22 22:30:00 - 2023-09-23 22:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/1952.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://asisctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/asis_logo_512_1.png",
-        "比赛权重": "89.80",
-        "赛事主办": "ASIS (https://ctftime.org/team/4140)",
-        "比赛ID": "55",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Arab Security Cyber Wargames 2023 Finals",
-        "比赛时间": "2023-09-18 14:00:00 - 2023-09-18 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2089.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://www.ascyberwargames.com/",
-        "比赛标志": "https://ctftime.org/media/events/logo_92.png",
-        "比赛权重": "25.00",
-        "赛事主办": "Arab Security Cyber Wargames (https://ctftime.org/team/127553)",
-        "比赛ID": "490",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "SECCON CTF 2023 Quals",
-        "比赛时间": "2023-09-16 13:00:00 - 2023-09-17 13:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2003.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.seccon.jp/",
-        "比赛标志": "https://ctftime.org/media/events/seccon_s_4.png",
-        "比赛权重": "100.00",
-        "赛事主办": "SECCON CTF (https://ctftime.org/team/11918)",
-        "比赛ID": "92",
         "比赛状态": "past"
     }
 ]
