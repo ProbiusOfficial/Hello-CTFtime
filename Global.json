@@ -348,30 +348,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "HTB University CTF 2023: Brains & Bytes",
-        "比赛时间": "2023-12-08 21:00:00 - 2023-12-11 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2149.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.hackthebox.com/event/details/university-ctf-2023-brains-bytes-1231",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "23.21",
-        "赛事主办": "Hack The Box (https://ctftime.org/team/136056)",
-        "比赛ID": "554",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "pingCTF 2023",
-        "比赛时间": "2023-12-09 01:30:00 - 2023-12-11 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/1987.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.knping.pl/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "24.29",
-        "赛事主办": "pingCTF (https://ctftime.org/team/147266)",
-        "比赛ID": "715",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "0CTF/TCTF 2023",
         "比赛时间": "2023-12-09 10:00:00 - 2023-12-11 10:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2073.ics",
@@ -393,7 +369,7 @@
         "比赛权重": "0",
         "赛事主办": "mrwebsecure (https://ctftime.org/team/276542)",
         "比赛ID": "1036",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "ISITDTU CTF 2023 Finals",
@@ -441,6 +417,30 @@
         "比赛权重": "0.00",
         "赛事主办": "TaruTaru (https://ctftime.org/team/157513)",
         "比赛ID": "671",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "pingCTF 2023",
+        "比赛时间": "2023-12-09 01:30:00 - 2023-12-11 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/1987.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.knping.pl/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "24.29",
+        "赛事主办": "pingCTF (https://ctftime.org/team/147266)",
+        "比赛ID": "715",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "HTB University CTF 2023: Brains & Bytes",
+        "比赛时间": "2023-12-08 21:00:00 - 2023-12-11 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2149.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.hackthebox.com/event/details/university-ctf-2023-brains-bytes-1231",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "23.21",
+        "赛事主办": "Hack The Box (https://ctftime.org/team/136056)",
+        "比赛ID": "554",
         "比赛状态": "past"
     },
     {
@@ -510,7 +510,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://nbctf.com/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
+        "比赛权重": "24.65",
         "赛事主办": "NewportBlakeCTF (https://ctftime.org/team/258029)",
         "比赛ID": "981",
         "比赛状态": "past"
@@ -534,7 +534,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.blaz.ai/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
+        "比赛权重": "0.00",
         "赛事主办": "FuzzLand (https://ctftime.org/team/270659)",
         "比赛ID": "1005",
         "比赛状态": "past"
@@ -1557,42 +1557,6 @@
         "比赛权重": "18.42",
         "赛事主办": "KubanCSC (https://ctftime.org/team/231439)",
         "比赛ID": "962",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Winja CTF | Nullcon Goa 2023",
-        "比赛时间": "2023-09-23 13:00:00 - 2023-09-23 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2094.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.winja.org/",
-        "比赛标志": "https://ctftime.org/media/events/winja_logo_2.png",
-        "比赛权重": "5.00",
-        "赛事主办": "Winja CTF (https://ctftime.org/team/145228)",
-        "比赛ID": "604",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "First round of Haruulzangi 2023",
-        "比赛时间": "2023-09-23 12:00:00 - 2023-09-23 16:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2116.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://dashboard.haruulzangi.mn/",
-        "比赛标志": "https://ctftime.org/media/events/hzlogo_1_3.png",
-        "比赛权重": "0.00",
-        "赛事主办": "haruulzangi-organizers (https://ctftime.org/team/266812)",
-        "比赛ID": "985",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "CaptureTheWU",
-        "比赛时间": "2023-09-23 08:00:00 - 2023-09-24 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/1990.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://www.capturethewu.net/",
-        "比赛标志": "https://ctftime.org/media/events/logo2_4.png",
-        "比赛权重": "0.00",
-        "赛事主办": "McMCs (https://ctftime.org/team/220827)",
-        "比赛ID": "930",
         "比赛状态": "past"
     }
 ]
