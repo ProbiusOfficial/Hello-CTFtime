@@ -348,18 +348,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "0CTF/TCTF 2023",
-        "比赛时间": "2023-12-09 10:00:00 - 2023-12-11 10:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2073.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.0ops.sjtu.cn/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "100.00",
-        "赛事主办": "0ops (https://ctftime.org/team/4419)",
-        "比赛ID": "99",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "HACKOLINE",
         "比赛时间": "2023-12-10 17:00:00 - 2023-12-11 03:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2204.ics",
@@ -417,6 +405,18 @@
         "比赛权重": "0.00",
         "赛事主办": "TaruTaru (https://ctftime.org/team/157513)",
         "比赛ID": "671",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "0CTF/TCTF 2023",
+        "比赛时间": "2023-12-09 10:00:00 - 2023-12-11 10:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2073.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.0ops.sjtu.cn/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "100.00",
+        "赛事主办": "0ops (https://ctftime.org/team/4419)",
+        "比赛ID": "99",
         "比赛状态": "past"
     },
     {
@@ -498,7 +498,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://cnsc.uit.edu.vn/ctf/",
         "比赛标志": "https://ctftime.org/media/events/405223021_1146746909620738_23415812653969977_n.png",
-        "比赛权重": "0",
+        "比赛权重": "19.80",
         "赛事主办": "Wanna.W1n (https://ctftime.org/team/138431)",
         "比赛ID": "1000",
         "比赛状态": "past"
@@ -1545,18 +1545,6 @@
         "比赛权重": "97.89",
         "赛事主办": "FAUST (https://ctftime.org/team/550)",
         "比赛ID": "117",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "KubanCTF Qualifier",
-        "比赛时间": "2023-09-23 14:00:00 - 2023-09-23 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2092.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.kubcsc.ru/",
-        "比赛标志": "https://ctftime.org/media/events/b74cce15-60df-45c7-925f-b70838f5541e.jpeg",
-        "比赛权重": "18.42",
-        "赛事主办": "KubanCSC (https://ctftime.org/team/231439)",
-        "比赛ID": "962",
         "比赛状态": "past"
     }
 ]
