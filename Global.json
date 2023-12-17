@@ -321,7 +321,7 @@
         "比赛权重": "0.00",
         "赛事主办": "TCM Security (https://ctftime.org/team/275972)",
         "比赛ID": "1029",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "Wargames.MY CTF 2023",
@@ -1509,18 +1509,6 @@
         "比赛权重": "25.00",
         "赛事主办": "Super Guesser (https://ctftime.org/team/130817)",
         "比赛ID": "948",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "BRICS+ CTF Quals 2023",
-        "比赛时间": "2023-09-24 18:00:00 - 2023-09-25 18:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2103.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://brics-ctf.ru/",
-        "比赛标志": "https://ctftime.org/media/events/br2.png",
-        "比赛权重": "24.68",
-        "赛事主办": "ITMO FSIT (https://ctftime.org/team/264636)",
-        "比赛ID": "986",
         "比赛状态": "past"
     }
 ]
