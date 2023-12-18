@@ -276,18 +276,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "BackdoorCTF 2023",
-        "比赛时间": "2023-12-16 20:00:00 - 2023-12-18 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2153.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://backdoor.infoseciitr.in/",
-        "比赛标志": "https://ctftime.org/media/events/bckdr.png",
-        "比赛权重": "34.00",
-        "赛事主办": "InfoSecIITR (https://ctftime.org/team/16691)",
-        "比赛ID": "49",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "niteCTF",
         "比赛时间": "2023-12-17 19:30:00 - 2023-12-19 19:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2207.ics",
@@ -309,6 +297,18 @@
         "比赛权重": "0.00",
         "赛事主办": "TCM Security (https://ctftime.org/team/275972)",
         "比赛ID": "1029",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "BackdoorCTF 2023",
+        "比赛时间": "2023-12-16 20:00:00 - 2023-12-18 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2153.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://backdoor.infoseciitr.in/",
+        "比赛标志": "https://ctftime.org/media/events/bckdr.png",
+        "比赛权重": "34.00",
+        "赛事主办": "InfoSecIITR (https://ctftime.org/team/16691)",
+        "比赛ID": "49",
         "比赛状态": "past"
     },
     {
@@ -1485,18 +1485,6 @@
         "比赛权重": "0.00",
         "赛事主办": "INNOV8.JU (https://ctftime.org/team/269231)",
         "比赛ID": "891",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "EnigmaXplore 2023",
-        "比赛时间": "2023-09-26 18:37:06 - 2023-09-26 18:37:06 UTC+8",
-        "添加日历": "https://ctftime.org/event/2124.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://enigmaxplore.ctfd.io/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0.00",
-        "赛事主办": "Crispr_iiitn (https://ctftime.org/team/270138)",
-        "比赛ID": "997",
         "比赛状态": "past"
     }
 ]
