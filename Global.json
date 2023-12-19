@@ -285,7 +285,7 @@
         "比赛权重": "24.00",
         "赛事主办": "Cryptonite (https://ctftime.org/team/62713)",
         "比赛ID": "663",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "1st Annual TCM Invitational CTF",
@@ -1473,18 +1473,6 @@
         "比赛权重": "69.82",
         "赛事主办": "RedRocket (https://ctftime.org/team/48677)",
         "比赛ID": "159",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "CyberBytes'23 2.0",
-        "比赛时间": "2023-09-27 13:30:00 - 2023-09-27 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2114.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://www.juinnov8.in/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0.00",
-        "赛事主办": "INNOV8.JU (https://ctftime.org/team/269231)",
-        "比赛ID": "891",
         "比赛状态": "past"
     }
 ]
