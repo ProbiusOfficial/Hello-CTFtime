@@ -20,7 +20,8 @@ def update_archive(original_path, archive_path):
     # 合并数据（这里假设每个比赛有唯一标识符，例如 'id' 或 '比赛名称'）
     new_data = {event['id']: event for event in archived_data}
     for event in original_data:
-        new_data[event['id']] = event
+        event_id = int(event['id'])  # Convert the id to an integer
+        new_data[event_id] = event
 
     # 更新存档文件
     write_json(list(new_data.values()), archive_path)
