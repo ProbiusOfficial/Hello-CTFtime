@@ -354,7 +354,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://intentsummit.org/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
+        "比赛权重": "0.00",
         "赛事主办": "Security Research Summit (SRS) (https://ctftime.org/team/163107)",
         "比赛ID": "672",
         "比赛状态": "past"
@@ -522,7 +522,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://nbctf.com/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "24.67",
+        "比赛权重": "24.65",
         "赛事主办": "NewportBlakeCTF (https://ctftime.org/team/258029)",
         "比赛ID": "981",
         "比赛状态": "past"
