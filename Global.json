@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "SECCON CTF 2023 International Finals",
-        "比赛时间": "2023-12-23 09:00:00 - 2023-12-24 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2159.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.seccon.jp/",
-        "比赛标志": "https://ctftime.org/media/events/seccon_s_5.png",
-        "比赛权重": "0.00",
-        "赛事主办": "SECCON CTF (https://ctftime.org/team/11918)",
-        "比赛ID": "92",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "SECCON CTF 2023 Domestic Finals",
-        "比赛时间": "2023-12-23 09:00:00 - 2023-12-24 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2160.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.seccon.jp/",
-        "比赛标志": "https://ctftime.org/media/events/seccon_s_6.png",
-        "比赛权重": "0.00",
-        "赛事主办": "SECCON CTF (https://ctftime.org/team/11918)",
-        "比赛ID": "92",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "37C3 Potluck CTF",
         "比赛时间": "2023-12-29 02:00:00 - 2023-12-30 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2199.ics",
@@ -276,6 +252,30 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "SECCON CTF 2023 International Finals",
+        "比赛时间": "2023-12-23 09:00:00 - 2023-12-24 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2159.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.seccon.jp/",
+        "比赛标志": "https://ctftime.org/media/events/seccon_s_5.png",
+        "比赛权重": "0",
+        "赛事主办": "SECCON CTF (https://ctftime.org/team/11918)",
+        "比赛ID": "92",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "SECCON CTF 2023 Domestic Finals",
+        "比赛时间": "2023-12-23 09:00:00 - 2023-12-24 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2160.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.seccon.jp/",
+        "比赛标志": "https://ctftime.org/media/events/seccon_s_6.png",
+        "比赛权重": "0.00",
+        "赛事主办": "SECCON CTF (https://ctftime.org/team/11918)",
+        "比赛ID": "92",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "niteCTF",
         "比赛时间": "2023-12-17 19:30:00 - 2023-12-19 19:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2207.ics",
@@ -354,7 +354,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://intentsummit.org/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
+        "比赛权重": "0.00",
         "赛事主办": "Security Research Summit (SRS) (https://ctftime.org/team/163107)",
         "比赛ID": "672",
         "比赛状态": "past"
@@ -522,7 +522,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://nbctf.com/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "24.67",
+        "比赛权重": "24.65",
         "赛事主办": "NewportBlakeCTF (https://ctftime.org/team/258029)",
         "比赛ID": "981",
         "比赛状态": "past"

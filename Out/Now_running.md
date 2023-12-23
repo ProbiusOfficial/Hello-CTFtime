@@ -19,11 +19,18 @@ comments: true
     **比赛时间** : 2023年09月01日 10:30 - 2023年12月30日 20:00  
     **其他说明** : 麟阁赛事训练营qq交流群：591638230  
     
+??? Abstract "2023NCTF"  
+    **比赛名称** : [2023NCTF](https://nctf.exp10it.cn/)  
+    **比赛类型** : 团队赛|1-4人  
+    **报名时间** : 2023年12月05日 00:00 - 2023年12月23日 09:00  
+    **比赛时间** : 2023年12月23日 09:00 - 2023年12月24日 21:00  
+    **其他说明** : QQ群：884196088  
+    
 
 ## 国际赛事
 
 ??? Abstract "[Pointer Overflow CTF - 2023](http://pointeroverflowctf.com/)"  
-    [![](https://ctftime.org/media/events/social_media_profile_picture_with_branding_bar_example.png)](http://pointeroverflowctf.com/)  
+    [![](https://ctftime.org/media/events/social_media_profile_picture_with_branding_bar_example.png){ width="200" align=left }](http://pointeroverflowctf.com/)  
     **比赛名称** : [Pointer Overflow CTF - 2023](http://pointeroverflowctf.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2023-09-17 20:00:00 - 2024-01-21 17:00:00 UTC+8  
@@ -32,7 +39,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/2026.ics  
     
 ??? Abstract "[Oscar Zulu OSINT CTF Disparue(s)](https://ctf.osintisnotacrime.com/)"  
-    [![](https://ctftime.org/media/events/disparues.jpg)](https://ctf.osintisnotacrime.com/)  
+    [![](https://ctftime.org/media/events/disparues.jpg){ width="200" align=left }](https://ctf.osintisnotacrime.com/)  
     **比赛名称** : [Oscar Zulu OSINT CTF Disparue(s)](https://ctf.osintisnotacrime.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2023-11-04 17:00:00 - 2024-01-01 17:00:00 UTC+8  
@@ -41,11 +48,29 @@ comments: true
     **添加日历** : https://ctftime.org/event/2154.ics  
     
 ??? Abstract "[Sydbox CTF: read /etc/CTF](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)"  
-    [![](https://ctftime.org)](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
+    [![](https://ctftime.org){ width="200" align=left }](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
     **比赛名称** : [Sydbox CTF: read /etc/CTF](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2023-11-16 22:26:32 - 2024-11-16 22:26:32 UTC+8  
     **比赛权重** : 0  
     **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
     **添加日历** : https://ctftime.org/event/2178.ics  
+    
+??? Abstract "[SECCON CTF 2023 International Finals](https://ctf.seccon.jp/)"  
+    [![](https://ctftime.org/media/events/seccon_s_5.png){ width="200" align=left }](https://ctf.seccon.jp/)  
+    **比赛名称** : [SECCON CTF 2023 International Finals](https://ctf.seccon.jp/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2023-12-23 09:00:00 - 2023-12-24 17:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
+    **添加日历** : https://ctftime.org/event/2159.ics  
+    
+??? Abstract "[SECCON CTF 2023 Domestic Finals](https://ctf.seccon.jp/)"  
+    [![](https://ctftime.org/media/events/seccon_s_6.png){ width="200" align=left }](https://ctf.seccon.jp/)  
+    **比赛名称** : [SECCON CTF 2023 Domestic Finals](https://ctf.seccon.jp/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2023-12-23 09:00:00 - 2023-12-24 17:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
+    **添加日历** : https://ctftime.org/event/2160.ics  
     

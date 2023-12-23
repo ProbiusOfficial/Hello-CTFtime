@@ -1,5 +1,7 @@
 import json
 
+register_events = []
+
 def process_global_events(events):
     upcoming_events = []
     now_running_events = []
@@ -21,6 +23,8 @@ def process_cn_events(data):
         status = event['status']
         if status in [0, 1, 2]:
             upcoming_events.append(event)
+            if status == 1:
+                register_events.append(event)
         elif status == 3:
             now_running_events.append(event)
         elif status == 4:
@@ -55,6 +59,42 @@ def create_md_content(events, template, event_type="global"):
             md_content.append(template.format(**event_with_defaults))
     return "\n".join(md_content)
 
+def create_html_content(register_cn_count, upcoming_cn_count,running_cn_count,upcoming_global_count, running_global_count):
+    html_template = """<div id="event-info">
+    <div id="greeting"></div>
+    <script>
+        function showGreeting() {{
+            const hour = new Date().getHours();
+            let greeting;
+            if (hour < 5) {{
+                greeting = "夜深了, 要早些休息哦!";
+            }}
+            else if (hour < 12) {{
+                greeting = "早上好, 今天也是元气满满的一天哦w";
+            }} else if (hour < 18) {{
+                greeting = "下午好, 吃过下午茶了吗?";
+            }} else {{
+                greeting = "晚上好, 今天过得怎么样?";
+            }}
+            document.getElementById("greeting").textContent = greeting;
+        }}
+        showGreeting();
+    </script>
+    <div class="event-box">
+        <div>
+            <b>国内</b> 共有 {} 场比赛正在报名,<br>
+            <a href="Upcoming_events/#_2">{}</a> 场比赛即将开始,
+            <a href="Now_running/#_2">{}</a> 场比赛正在进行。<br>
+            <b>国外</b> 共有 <a href="Upcoming_events/#_3">{}</a> 场比赛即将开始,<br>
+            <a href="Now_running/#_3">{}</a> 场比赛正在进行。<br>
+            <br>
+            您可以点击左侧栏来查看不同状态的比赛详细。
+
+        </div>
+    </div>
+"""
+    return html_template.format(register_cn_count, upcoming_cn_count,running_cn_count,upcoming_global_count, running_global_count)
+
 def main():
     # Load Global.json and CN.json
     with open('Global.json', 'r', encoding='utf-8') as file:
@@ -69,7 +109,7 @@ def main():
     # Markdown templates
     global_template = (
         '??? Abstract "[{比赛名称}]({比赛链接})"  \n'
-        "    [![]({比赛标志})]({比赛链接})  \n"
+        "    [![]({比赛标志}){{ width=\"200\" align=left }}]({比赛链接})  \n"
         "    **比赛名称** : [{比赛名称}]({比赛链接})  \n"
         "    **比赛形式** : {比赛形式}  \n"
         "    **比赛时间** : {比赛时间}  \n"
@@ -95,12 +135,16 @@ def main():
 
     past_events_md = "---\ncomments: true\n---\n# 已经结束\n\n## 国内赛事\n\n" + create_md_content(past_cn, cn_template, "cn") + "\n\n## 国际赛事\n" +  create_md_content(past_global, global_template)
 
+    html_content = create_html_content(len(register_events),len(upcoming_cn), len(running_cn), len(upcoming_global), len(running_global))
+
     with open('Out/Now_running.md', 'w', encoding='utf-8') as file:
         file.write(now_running_md)
     with open('Out/Upcoming_events.md', 'w', encoding='utf-8') as file:
         file.write(upcoming_events_md)
     with open('Out/Past_events.md', 'w', encoding='utf-8') as file:
         file.write(past_events_md)
+    with open('Out/events.html', 'w', encoding='utf-8') as file:
+        file.write(html_content)
 
 if __name__ == "__main__":
     main()
