@@ -29,9 +29,16 @@ comments: true
 ??? Abstract "Real World CTF 6th"  
     **比赛名称** : [Real World CTF 6th](https://realworldctf.com/)  
     **比赛类型** : 团队赛  
-    **报名时间** : 2024年01月09日 00:00 - 2024年01月28日 19:00  
+    **报名时间** : 2023年12月28日 16:30 - 2024年01月28日 19:00  
     **比赛时间** : 2024年01月26日 19:00 - 2024年01月28日 19:00  
-    **其他说明** :   
+    **其他说明** : Discord: https://discord.com/invite/8GNqypNaxB  
+    
+??? Abstract "Real World CTF 6th 体验赛"  
+    **比赛名称** : [Real World CTF 6th 体验赛](https://be-a-rwctfer.realworldctf.com/)  
+    **比赛类型** : 团队赛 | 邀请制  
+    **报名时间** : 2023年12月28日 16:30 - 2024年01月17日 18:00  
+    **比赛时间** : 2024年01月27日 10:00 - 2024年01月28日 10:00  
+    **其他说明** : 选手交流群：612460086  
     
 ??? Abstract "第七届西湖论剑网络安全技能大赛初赛"  
     **比赛名称** : [第七届西湖论剑网络安全技能大赛初赛](https://game.gcsis.cn/)  
