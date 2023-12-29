@@ -300,18 +300,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "37C3 Potluck CTF",
-        "比赛时间": "2023-12-29 02:00:00 - 2023-12-30 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2199.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://potluckctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/logo-512-white.png",
-        "比赛权重": "0",
-        "赛事主办": "ZetaTwo (https://ctftime.org/team/9407)",
-        "比赛ID": "1028",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "ASIS CTF Finals 2023",
         "比赛时间": "2023-12-29 22:30:00 - 2023-12-30 22:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/1953.ics",
@@ -322,6 +310,18 @@
         "赛事主办": "ASIS (https://ctftime.org/team/4140)",
         "比赛ID": "59",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "37C3 Potluck CTF",
+        "比赛时间": "2023-12-29 02:00:00 - 2023-12-30 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2199.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://potluckctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/logo-512-white.png",
+        "比赛权重": "0",
+        "赛事主办": "ZetaTwo (https://ctftime.org/team/9407)",
+        "比赛ID": "1028",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "SECCON CTF 2023 Domestic Finals",
@@ -1509,18 +1509,6 @@
         "比赛权重": "24.88",
         "赛事主办": "TeamItaly (https://ctftime.org/team/193832)",
         "比赛ID": "821",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Second round of Haruulzangi 2023",
-        "比赛时间": "2023-09-30 12:00:00 - 2023-09-30 18:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2118.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://dashboard.haruulzangi.mn/",
-        "比赛标志": "https://ctftime.org/media/events/logo-hz_1.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "haruulzangi-organizers (https://ctftime.org/team/266812)",
-        "比赛ID": "985",
         "比赛状态": "past"
     }
 ]
