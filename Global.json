@@ -309,7 +309,7 @@
         "比赛权重": "0",
         "赛事主办": "ASIS (https://ctftime.org/team/4140)",
         "比赛ID": "59",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "37C3 Potluck CTF",
@@ -1497,18 +1497,6 @@
         "比赛权重": "0.00",
         "赛事主办": "Tandava (https://ctftime.org/team/228212)",
         "比赛ID": "996",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "TeamItaly CTF 2023",
-        "比赛时间": "2023-09-30 20:00:00 - 2023-10-01 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2088.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.teamitaly.eu/",
-        "比赛标志": "https://ctftime.org/media/events/401899fd9cea2f9e5e2dd5e66ff7a7b1.png",
-        "比赛权重": "24.88",
-        "赛事主办": "TeamItaly (https://ctftime.org/team/193832)",
-        "比赛ID": "821",
         "比赛状态": "past"
     }
 ]
