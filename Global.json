@@ -264,18 +264,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "Oscar Zulu OSINT CTF Disparue(s)",
-        "比赛时间": "2023-11-04 17:00:00 - 2024-01-01 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2154.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctfisended.old/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
-        "赛事主办": "OSCAR ZULU (https://ctftime.org/team/270624)",
-        "比赛ID": "1002",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "Sydbox CTF: read /etc/CTF",
         "比赛时间": "2023-11-16 22:26:32 - 2024-11-16 22:26:32 UTC+8",
         "添加日历": "https://ctftime.org/event/2178.ics",
@@ -1032,6 +1020,18 @@
         "比赛状态": "past"
     },
     {
+        "比赛名称": "Oscar Zulu OSINT CTF Disparue(s)",
+        "比赛时间": "2023-11-04 17:00:00 - 2024-01-01 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2154.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctfisended.old/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0",
+        "赛事主办": "OSCAR ZULU (https://ctftime.org/team/270624)",
+        "比赛ID": "1002",
+        "比赛状态": "past"
+    },
+    {
         "比赛名称": "M*CTF 2023 Junior Quals",
         "比赛时间": "2023-11-04 17:00:00 - 2023-11-05 17:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2095.ics",
@@ -1473,18 +1473,6 @@
         "比赛权重": "0.00",
         "赛事主办": "haruulzangi-organizers (https://ctftime.org/team/266812)",
         "比赛ID": "985",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Ground Zero-Hackathon-CTF 2023, Siliguri",
-        "比赛时间": "2023-10-04 15:30:00 - 2023-10-04 16:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2123.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://docs.google.com/forms/d/e/1FAIpQLSel2Hs56AItrloc7xxezXljxtxip3o79kWS4Vd70HKpWkcigQ/viewform",
-        "比赛标志": "https://ctftime.org/media/events/WhatsApp_Image_2023-09-26_at_14.24.40.jpeg",
-        "比赛权重": "0.00",
-        "赛事主办": "Tandava (https://ctftime.org/team/228212)",
-        "比赛ID": "996",
         "比赛状态": "past"
     }
 ]
