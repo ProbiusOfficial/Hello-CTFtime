@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "37C3 Potluck CTF",
-        "比赛时间": "2023-12-29 02:00:00 - 2023-12-30 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2199.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://potluckctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/logo-512-white.png",
-        "比赛权重": "0.00",
-        "赛事主办": "ZetaTwo (https://ctftime.org/team/9407)",
-        "比赛ID": "1028",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "ASIS CTF Finals 2023",
-        "比赛时间": "2023-12-29 22:30:00 - 2023-12-30 22:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/1953.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://asisctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/asis_logo_512_2.png",
-        "比赛权重": "83.00",
-        "赛事主办": "ASIS (https://ctftime.org/team/4140)",
-        "比赛ID": "59",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "IrisCTF 2024",
         "比赛时间": "2024-01-06 08:00:00 - 2024-01-08 08:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2085.ics",
@@ -33,18 +9,6 @@
         "比赛权重": "24.59",
         "赛事主办": "IrisSec (https://ctftime.org/team/127034)",
         "比赛ID": "841",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "bi0sCTF 2024",
-        "比赛时间": "2024-01-13 20:30:00 - 2024-01-15 08:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2117.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.bi0s.in/",
-        "比赛标志": "https://ctftime.org/media/events/Untitled-removebg-preview_1.png",
-        "比赛权重": "79.83",
-        "赛事主办": "bi0s (https://ctftime.org/team/662)",
-        "比赛ID": "31",
         "比赛状态": "oncoming"
     },
     {
@@ -65,10 +29,22 @@
         "添加日历": "https://ctftime.org/event/2205.ics",
         "比赛形式": "Jeopardy",
         "比赛链接": "https://mapnactf.com/",
-        "比赛标志": "https://ctftime.org/media/events/Mapna_1.2.png",
+        "比赛标志": "https://ctftime.org/media/events/MAPNA.jpg",
         "比赛权重": "0.00",
         "赛事主办": "ASIS (https://ctftime.org/team/4140)",
         "比赛ID": "1034",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "KnightCTF 2024",
+        "比赛时间": "2024-01-20 23:00:00 - 2024-01-21 23:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2209.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://knightctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/KnightCTF.png",
+        "比赛权重": "6.65",
+        "赛事主办": "Knight Squad (https://ctftime.org/team/141739)",
+        "比赛ID": "721",
         "比赛状态": "oncoming"
     },
     {
@@ -81,6 +57,42 @@
         "比赛权重": "97.04",
         "赛事主办": "Chaitin Tech (https://ctftime.org/team/60371)",
         "比赛ID": "260",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "TetCTF 2024",
+        "比赛时间": "2024-01-27 08:00:00 - 2024-01-29 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2212.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.hackemall.live/",
+        "比赛标志": "https://ctftime.org/media/events/tetlogo.png",
+        "比赛权重": "74.41",
+        "赛事主办": "TetCTF (https://ctftime.org/team/71781)",
+        "比赛ID": "290",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "ESCAPE CTF Final",
+        "比赛时间": "2024-02-03 20:00:00 - 2024-02-04 05:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2213.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.t3n4ci0us.kr/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "9.64",
+        "赛事主办": "CYB3R_T3N4CI0US (https://ctftime.org/team/160305)",
+        "比赛ID": "743",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "Bearcat CTF 2024",
+        "比赛时间": "2024-02-04 03:00:00 - 2024-02-05 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2208.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://www.bearcatctf.io/",
+        "比赛标志": "https://ctftime.org/media/events/bearcatlogo-cyberatuc.png",
+        "比赛权重": "0",
+        "赛事主办": "Cyber@UC (https://ctftime.org/team/87727)",
+        "比赛ID": "1032",
         "比赛状态": "oncoming"
     },
     {
@@ -204,6 +216,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "Crypto CTF 2024",
+        "比赛时间": "2024-06-08 22:00:00 - 2024-06-09 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2210.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://cr.yp.toc.tf/",
+        "比赛标志": "https://ctftime.org/media/events/cryptoctf.jpg",
+        "比赛权重": "65.62",
+        "赛事主办": "ASIS (https://ctftime.org/team/4140)",
+        "比赛ID": "317",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "Pointer Overflow CTF - 2024",
         "比赛时间": "2024-09-15 20:00:00 - 2025-01-19 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2121.ics",
@@ -213,6 +237,18 @@
         "比赛权重": "0",
         "赛事主办": "UWSP Pointers (https://ctftime.org/team/231536)",
         "比赛ID": "963",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "ASIS CTF Quals 2024",
+        "比赛时间": "2024-09-21 22:00:00 - 2024-09-22 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2211.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://asisctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/asisctf.jpg",
+        "比赛权重": "0.00",
+        "赛事主办": "ASIS (https://ctftime.org/team/4140)",
+        "比赛ID": "55",
         "比赛状态": "oncoming"
     },
     {
@@ -228,18 +264,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "Oscar Zulu OSINT CTF Disparue(s)",
-        "比赛时间": "2023-11-04 17:00:00 - 2024-01-01 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2154.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.osintisnotacrime.com/",
-        "比赛标志": "https://ctftime.org/media/events/disparues.jpg",
-        "比赛权重": "0",
-        "赛事主办": "OSCAR ZULU (https://ctftime.org/team/270624)",
-        "比赛ID": "1002",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "Sydbox CTF: read /etc/CTF",
         "比赛时间": "2023-11-16 22:26:32 - 2024-11-16 22:26:32 UTC+8",
         "添加日历": "https://ctftime.org/event/2178.ics",
@@ -252,16 +276,28 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "SECCON CTF 2023 International Finals",
-        "比赛时间": "2023-12-23 09:00:00 - 2023-12-24 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2159.ics",
+        "比赛名称": "ASIS CTF Finals 2023",
+        "比赛时间": "2023-12-29 22:30:00 - 2023-12-30 22:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/1953.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.seccon.jp/",
-        "比赛标志": "https://ctftime.org/media/events/seccon_s_5.png",
-        "比赛权重": "0",
-        "赛事主办": "SECCON CTF (https://ctftime.org/team/11918)",
-        "比赛ID": "92",
-        "比赛状态": "nowrunning"
+        "比赛链接": "https://asisctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/asis_logo_512_2.png",
+        "比赛权重": "83.00",
+        "赛事主办": "ASIS (https://ctftime.org/team/4140)",
+        "比赛ID": "59",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "37C3 Potluck CTF",
+        "比赛时间": "2023-12-29 02:00:00 - 2023-12-30 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2199.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://potluckctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/logo-512-white.png",
+        "比赛权重": "25.00",
+        "赛事主办": "ZetaTwo (https://ctftime.org/team/9407)",
+        "比赛ID": "1028",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "SECCON CTF 2023 Domestic Finals",
@@ -273,7 +309,19 @@
         "比赛权重": "0.00",
         "赛事主办": "SECCON CTF (https://ctftime.org/team/11918)",
         "比赛ID": "92",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "SECCON CTF 2023 International Finals",
+        "比赛时间": "2023-12-23 09:00:00 - 2023-12-24 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2159.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.seccon.jp/",
+        "比赛标志": "https://ctftime.org/media/events/seccon_s_5.png",
+        "比赛权重": "25.00",
+        "赛事主办": "SECCON CTF (https://ctftime.org/team/11918)",
+        "比赛ID": "92",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "niteCTF",
@@ -312,6 +360,18 @@
         "比赛状态": "past"
     },
     {
+        "比赛名称": "DiceCTF Teaser 2023",
+        "比赛时间": "2023-12-16 05:00:00 - 2023-12-17 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2162.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.dicega.ng/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0.00",
+        "赛事主办": "DiceGang (https://ctftime.org/team/109452)",
+        "比赛ID": "331",
+        "比赛状态": "past"
+    },
+    {
         "比赛名称": "Wargames.MY CTF 2023",
         "比赛时间": "2023-12-16 00:00:00 - 2023-12-17 00:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2203.ics",
@@ -330,7 +390,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://thecybercoopctf.ctfd.io/",
         "比赛标志": "https://ctftime.org/media/events/logo_servericon.png",
-        "比赛权重": "0",
+        "比赛权重": "24.21",
         "赛事主办": "The Cyber Cooperative (https://ctftime.org/team/276494)",
         "比赛ID": "1033",
         "比赛状态": "past"
@@ -402,7 +462,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://2023.snakectf.org/",
         "比赛标志": "https://ctftime.org/media/events/LogoCroppable.png",
-        "比赛权重": "24.80",
+        "比赛权重": "24.79",
         "赛事主办": "MadrHacks (https://ctftime.org/team/114509)",
         "比赛ID": "994",
         "比赛状态": "past"
@@ -522,7 +582,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://nbctf.com/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "24.65",
+        "比赛权重": "24.67",
         "赛事主办": "NewportBlakeCTF (https://ctftime.org/team/258029)",
         "比赛ID": "981",
         "比赛状态": "past"
@@ -774,7 +834,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.intigriti.io/",
         "比赛标志": "https://ctftime.org/media/events/1337up_4.png",
-        "比赛权重": "24.20",
+        "比赛权重": "24.23",
         "赛事主办": "Intigriti (https://ctftime.org/team/178083)",
         "比赛ID": "749",
         "比赛状态": "past"
@@ -957,6 +1017,18 @@
         "比赛权重": "71.71",
         "赛事主办": "HackerDom (https://ctftime.org/team/552)",
         "比赛ID": "6",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "Oscar Zulu OSINT CTF Disparue(s)",
+        "比赛时间": "2023-11-04 17:00:00 - 2024-01-01 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2154.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctfisended.old/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0",
+        "赛事主办": "OSCAR ZULU (https://ctftime.org/team/270624)",
+        "比赛ID": "1002",
         "比赛状态": "past"
     },
     {
@@ -1401,78 +1473,6 @@
         "比赛权重": "0.00",
         "赛事主办": "haruulzangi-organizers (https://ctftime.org/team/266812)",
         "比赛ID": "985",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Ground Zero-Hackathon-CTF 2023, Siliguri",
-        "比赛时间": "2023-10-04 15:30:00 - 2023-10-04 16:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2123.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://docs.google.com/forms/d/e/1FAIpQLSel2Hs56AItrloc7xxezXljxtxip3o79kWS4Vd70HKpWkcigQ/viewform",
-        "比赛标志": "https://ctftime.org/media/events/WhatsApp_Image_2023-09-26_at_14.24.40.jpeg",
-        "比赛权重": "0.00",
-        "赛事主办": "Tandava (https://ctftime.org/team/228212)",
-        "比赛ID": "996",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "TeamItaly CTF 2023",
-        "比赛时间": "2023-09-30 20:00:00 - 2023-10-01 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2088.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.teamitaly.eu/",
-        "比赛标志": "https://ctftime.org/media/events/401899fd9cea2f9e5e2dd5e66ff7a7b1.png",
-        "比赛权重": "24.88",
-        "赛事主办": "TeamItaly (https://ctftime.org/team/193832)",
-        "比赛ID": "821",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Second round of Haruulzangi 2023",
-        "比赛时间": "2023-09-30 12:00:00 - 2023-09-30 18:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2118.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://dashboard.haruulzangi.mn/",
-        "比赛标志": "https://ctftime.org/media/events/logo-hz_1.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "haruulzangi-organizers (https://ctftime.org/team/266812)",
-        "比赛ID": "985",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "MapleCTF 2023",
-        "比赛时间": "2023-09-30 08:00:00 - 2023-10-02 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2038.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.maplebacon.org/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "24.05",
-        "赛事主办": "Maple Bacon (https://ctftime.org/team/73723)",
-        "比赛ID": "796",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "BuckeyeCTF 2023",
-        "比赛时间": "2023-09-30 08:00:00 - 2023-10-02 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2074.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.osucyber.club/",
-        "比赛标志": "https://ctftime.org/media/events/bctf_1.jpg",
-        "比赛权重": "34.50",
-        "赛事主办": "scriptohio (https://ctftime.org/team/144581)",
-        "比赛ID": "667",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "CyberSecurityRumble CTF",
-        "比赛时间": "2023-09-29 15:00:00 - 2023-09-30 08:00:01 UTC+8",
-        "添加日历": "https://ctftime.org/event/2110.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.cybersecurityrumble.de/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "69.82",
-        "赛事主办": "RedRocket (https://ctftime.org/team/48677)",
-        "比赛ID": "159",
         "比赛状态": "past"
     }
 ]
