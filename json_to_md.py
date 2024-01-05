@@ -60,38 +60,18 @@ def create_md_content(events, template, event_type="global"):
     return "\n".join(md_content)
 
 def create_html_content(register_cn_count, upcoming_cn_count,running_cn_count,upcoming_global_count, running_global_count):
-    html_template = """<div id="event-info">
-    <div id="greeting"></div>
-    <script>
-        function showGreeting() {{
-            const hour = new Date().getHours();
-            let greeting;
-            if (hour < 5) {{
-                greeting = "夜深了, 要早些休息哦!";
-            }}
-            else if (hour < 12) {{
-                greeting = "早上好, 今天也是元气满满的一天哦w";
-            }} else if (hour < 18) {{
-                greeting = "下午好, 吃过下午茶了吗?";
-            }} else {{
-                greeting = "晚上好, 今天过得怎么样?";
-            }}
-            document.getElementById("greeting").textContent = greeting;
-        }}
-        showGreeting();
-    </script>
-    <div class="event-box">
-        <div>
-            <b>国内</b> 共有 {} 场比赛正在报名,<br>
-            <a href="Upcoming_events/#_2">{}</a> 场比赛即将开始,
-            <a href="Now_running/#_2">{}</a> 场比赛正在进行。<br>
-            <b>国外</b> 共有 <a href="Upcoming_events/#_3">{}</a> 场比赛即将开始,<br>
-            <a href="Now_running/#_3">{}</a> 场比赛正在进行。<br>
-            <br>
-            您可以点击左侧栏来查看不同状态的比赛详细。
+    html_template = """                    <div>
+                        <strong id="greeting"></strong><br>
+                        <br>
+                        <b>国内</b> 共有 9 场比赛正在报名,<br>
+                        <a href="Upcoming_events/#_2">11</a> 场比赛即将开始,
+                        <a href="Now_running/#_2">2</a> 场比赛正在进行。<br>
+                        <b>国外</b> 共有 <a href="Upcoming_events/#_3">21</a> 场比赛即将开始,<br>
+                        <a href="Now_running/#_3">2</a> 场比赛正在进行。<br>
+                        <br>
+                        您可以点击左侧栏来查看不同状态的比赛详细。
 
-        </div>
-    </div>
+                    </div>
 """
     return html_template.format(register_cn_count, upcoming_cn_count,running_cn_count,upcoming_global_count, running_global_count)
 
