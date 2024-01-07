@@ -1,5 +1,17 @@
 [
     {
+        "比赛名称": "UofTCTF 2024",
+        "比赛时间": "2024-01-14 01:00:00 - 2024-01-15 12:59:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2219.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.uoftctf.org/",
+        "比赛标志": "https://ctftime.org/media/events/ctf_logo_1.png",
+        "比赛权重": "0.00",
+        "赛事主办": "UofTCTF (https://ctftime.org/team/139261)",
+        "比赛ID": "1052",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "Insomni'hack teaser 2024",
         "比赛时间": "2024-01-20 17:00:00 - 2024-01-21 17:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2139.ics",
@@ -57,6 +69,30 @@
         "比赛权重": "74.41",
         "赛事主办": "TetCTF (https://ctftime.org/team/71781)",
         "比赛ID": "290",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "0xL4ugh CTF 2024",
+        "比赛时间": "2024-02-02 21:00:00 - 2024-02-03 21:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2216.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.0xL4ugh.com/",
+        "比赛标志": "https://ctftime.org/media/events/logo_94.png",
+        "比赛权重": "25.00",
+        "赛事主办": "0xL4ugh (https://ctftime.org/team/132776)",
+        "比赛ID": "579",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "DiceCTF 2024 Quals",
+        "比赛时间": "2024-02-03 05:00:00 - 2024-02-05 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2217.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.dicega.ng/",
+        "比赛标志": "https://ctftime.org/media/events/dicectf_2_1.png",
+        "比赛权重": "0.00",
+        "赛事主办": "DiceGang (https://ctftime.org/team/109452)",
+        "比赛ID": "568",
         "比赛状态": "oncoming"
     },
     {
@@ -129,6 +165,18 @@
         "比赛权重": "0.00",
         "赛事主办": "Braeker (https://ctftime.org/team/274910)",
         "比赛ID": "1026",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "bi0sCTF 2024",
+        "比赛时间": "2024-02-24 20:00:00 - 2024-02-26 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2117.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.bi0s.in/",
+        "比赛标志": "https://ctftime.org/media/events/Untitled-removebg-preview_1.png",
+        "比赛权重": "79.83",
+        "赛事主办": "bi0s (https://ctftime.org/team/662)",
+        "比赛ID": "31",
         "比赛状态": "oncoming"
     },
     {
@@ -264,6 +312,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "New Year CTF 2024",
+        "比赛时间": "2023-12-31 01:00:00 - 2024-01-15 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2218.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://ctf-spcs.mf.grsu.by/",
+        "比赛标志": "https://ctftime.org/media/events/logo_25_2.png",
+        "比赛权重": "0",
+        "赛事主办": "Beavers0 (https://ctftime.org/team/269281)",
+        "比赛ID": "1041",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "IrisCTF 2024",
         "比赛时间": "2024-01-06 08:00:00 - 2024-01-08 08:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2085.ics",
@@ -274,6 +334,18 @@
         "赛事主办": "IrisSec (https://ctftime.org/team/127034)",
         "比赛ID": "841",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Shaastra CTF '24",
+        "比赛时间": "2024-01-04 16:30:00 - 2024-01-04 18:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2220.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.shaastractf2024.online/",
+        "比赛标志": "https://ctftime.org/media/events/Shaastralogo.png",
+        "比赛权重": "0.00",
+        "赛事主办": "ShaastraCTF2024 (https://ctftime.org/team/276568)",
+        "比赛ID": "1039",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "ASIS CTF Finals 2023",
@@ -297,6 +369,18 @@
         "比赛权重": "25.00",
         "赛事主办": "ZetaTwo (https://ctftime.org/team/9407)",
         "比赛ID": "1028",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "Code X Sport Jung'23 CTF",
+        "比赛时间": "2023-12-23 13:30:00 - 2023-12-23 16:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2215.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://kiet-intra-ctf.site/",
+        "比赛标志": "https://ctftime.org/media/events/event_logo.jpeg",
+        "比赛权重": "0.00",
+        "赛事主办": "cornered_tiger (https://ctftime.org/team/216139)",
+        "比赛ID": "1045",
         "比赛状态": "past"
     },
     {
@@ -405,6 +489,18 @@
         "比赛权重": "6.67",
         "赛事主办": "UAC (https://ctftime.org/team/140846)",
         "比赛ID": "653",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "IWCON CTF",
+        "比赛时间": "2023-12-14 18:26:53 - 2023-12-15 18:26:53 UTC+8",
+        "添加日历": "https://ctftime.org/event/2214.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://iwcon.live/ctf",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0.00",
+        "赛事主办": "IWCON (https://ctftime.org/team/277281)",
+        "比赛ID": "1042",
         "比赛状态": "past"
     },
     {
@@ -1437,42 +1533,6 @@
         "比赛权重": "79.09",
         "赛事主办": "Balsn (https://ctftime.org/team/16978)",
         "比赛ID": "318",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Internet Festival 2023 CTF Finals",
-        "比赛时间": "2023-10-06 21:00:00 - 2023-10-07 21:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2039.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://ifctf.fibonhack.it/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "25.00",
-        "赛事主办": "fibonhack (https://ctftime.org/team/117538)",
-        "比赛ID": "880",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "DomeCTF 2023",
-        "比赛时间": "2023-10-06 12:30:00 - 2023-10-07 16:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2081.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://domectf.in/",
-        "比赛标志": "https://ctftime.org/media/events/logo-sq-red-bg.gif",
-        "比赛权重": "0.00",
-        "赛事主办": "DomeCTF (https://ctftime.org/team/199198)",
-        "比赛ID": "835",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "The Final of Haruulzangi 2023",
-        "比赛时间": "2023-10-05 19:30:00 - 2023-10-06 01:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2142.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "http://haruulzangi.mn/",
-        "比赛标志": "https://ctftime.org/media/events/logo-hz.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "haruulzangi-organizers (https://ctftime.org/team/266812)",
-        "比赛ID": "985",
         "比赛状态": "past"
     }
 ]
