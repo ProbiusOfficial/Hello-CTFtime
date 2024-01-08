@@ -333,7 +333,7 @@
         "比赛权重": "24.59",
         "赛事主办": "IrisSec (https://ctftime.org/team/127034)",
         "比赛ID": "841",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "Shaastra CTF '24",
@@ -1521,18 +1521,6 @@
         "比赛权重": "34.09",
         "赛事主办": "Knightsec (https://ctftime.org/team/2500)",
         "比赛ID": "137",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Balsn CTF 2023",
-        "比赛时间": "2023-10-07 10:00:00 - 2023-10-09 10:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2056.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://balsn.tw/",
-        "比赛标志": "https://ctftime.org/media/events/Balsn_white.jpg",
-        "比赛权重": "79.09",
-        "赛事主办": "Balsn (https://ctftime.org/team/16978)",
-        "比赛ID": "318",
         "比赛状态": "past"
     }
 ]
