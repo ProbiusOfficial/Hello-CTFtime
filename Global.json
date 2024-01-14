@@ -300,18 +300,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "New Year CTF 2024",
-        "比赛时间": "2023-12-31 01:00:00 - 2024-01-15 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2218.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://ctf-spcs.mf.grsu.by/",
-        "比赛标志": "https://ctftime.org/media/events/logo_25_2.png",
-        "比赛权重": "0",
-        "赛事主办": "Beavers0 (https://ctftime.org/team/269281)",
-        "比赛ID": "1041",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "UofTCTF 2024",
         "比赛时间": "2024-01-14 01:00:00 - 2024-01-15 12:59:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2219.ics",
@@ -345,6 +333,18 @@
         "比赛权重": "0.00",
         "赛事主办": "ShaastraCTF2024 (https://ctftime.org/team/276568)",
         "比赛ID": "1039",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "New Year CTF 2024",
+        "比赛时间": "2023-12-31 01:00:00 - 2024-01-15 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2218.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://ctf-spcs.mf.grsu.by/",
+        "比赛标志": "https://ctftime.org/media/events/logo_25_2.png",
+        "比赛权重": "0",
+        "赛事主办": "Beavers0 (https://ctftime.org/team/269281)",
+        "比赛ID": "1041",
         "比赛状态": "past"
     },
     {
@@ -1509,18 +1509,6 @@
         "比赛权重": "25.00",
         "赛事主办": "SAFCSP (https://ctftime.org/team/54707)",
         "比赛ID": "826",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "SunshineCTF 2023",
-        "比赛时间": "2023-10-07 22:00:00 - 2023-10-09 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2079.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://sunshinectf.org/",
-        "比赛标志": "https://ctftime.org/media/events/sctf_logo_final_23.png",
-        "比赛权重": "34.09",
-        "赛事主办": "Knightsec (https://ctftime.org/team/2500)",
-        "比赛ID": "137",
         "比赛状态": "past"
     }
 ]
