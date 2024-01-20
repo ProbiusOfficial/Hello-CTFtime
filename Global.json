@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "Mapna CTF 2024",
-        "比赛时间": "2024-01-20 23:00:00 - 2024-01-21 23:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2205.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://mapnactf.com/",
-        "比赛标志": "https://ctftime.org/media/events/MAPNA.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "ASIS (https://ctftime.org/team/4140)",
-        "比赛ID": "1034",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "KnightCTF 2024",
-        "比赛时间": "2024-01-20 23:00:00 - 2024-01-21 23:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2209.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://knightctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/KnightCTF.png",
-        "比赛权重": "6.65",
-        "赛事主办": "Knight Squad (https://ctftime.org/team/141739)",
-        "比赛ID": "721",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Real World CTF 6th",
         "比赛时间": "2024-01-26 19:00:00 - 2024-01-28 19:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2172.ics",
@@ -297,6 +273,30 @@
         "比赛权重": "32.00",
         "赛事主办": "Insomni'hack Team (https://ctftime.org/team/104742)",
         "比赛ID": "56",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Mapna CTF 2024",
+        "比赛时间": "2024-01-20 23:00:00 - 2024-01-21 23:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2205.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://mapnactf.com/",
+        "比赛标志": "https://ctftime.org/media/events/MAPNA.jpg",
+        "比赛权重": "0",
+        "赛事主办": "ASIS (https://ctftime.org/team/4140)",
+        "比赛ID": "1034",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "KnightCTF 2024",
+        "比赛时间": "2024-01-20 23:00:00 - 2024-01-21 23:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2209.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://knightctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/KnightCTF.png",
+        "比赛权重": "6.65",
+        "赛事主办": "Knight Squad (https://ctftime.org/team/141739)",
+        "比赛ID": "721",
         "比赛状态": "nowrunning"
     },
     {
