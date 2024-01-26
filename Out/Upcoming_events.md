@@ -68,13 +68,6 @@ comments: true
     **比赛时间** : 2024年01月30日 10:00 - 2024年01月30日 18:00  
     **其他说明** : QQ群：666010671 768342822    
     
-??? Abstract "Real World CTF 6th"  
-    **比赛名称** : [Real World CTF 6th](https://realworldctf.com/)  
-    **比赛类型** : 团队赛  
-    **报名时间** : 2023年12月28日 16:30 - 2024年01月28日 19:00  
-    **比赛时间** : 2024年01月26日 19:00 - 2024年01月28日 19:00  
-    **其他说明** : Discord: https://discord.com/invite/8GNqypNaxB  
-    
 ??? Abstract "獬豸杯电子数据取证比武"  
     **比赛名称** : [獬豸杯电子数据取证比武](https://mp.weixin.qq.com/s/kTUbGvh4EGZf5Jx87NyCgQ)  
     **比赛类型** : 个人赛  
@@ -99,15 +92,6 @@ comments: true
 
 ## 国际赛事
 
-??? Abstract "[Real World CTF 6th](https://realworldctf.com/)"  
-    [![](https://ctftime.org/media/events/rwctf.png){ width="200" align=left }](https://realworldctf.com/)  
-    **比赛名称** : [Real World CTF 6th](https://realworldctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-01-26 19:00:00 - 2024-01-28 19:00:00 UTC+8  
-    **比赛权重** : 97.04  
-    **赛事主办** : Chaitin Tech (https://ctftime.org/team/60371)  
-    **添加日历** : https://ctftime.org/event/2172.ics  
-    
 ??? Abstract "[RCS CTF 24](https://rcs.encryptedge.in/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://rcs.encryptedge.in/)  
     **比赛名称** : [RCS CTF 24](https://rcs.encryptedge.in/)  
