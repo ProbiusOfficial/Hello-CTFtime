@@ -441,7 +441,7 @@
         "比赛权重": "0.00",
         "赛事主办": "ISSesssions (https://ctftime.org/team/278504)",
         "比赛ID": "1056",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "RCS CTF 24",
@@ -1629,18 +1629,6 @@
         "比赛权重": "0",
         "赛事主办": "EyesOpen_Security (https://ctftime.org/team/200580)",
         "比赛ID": "847",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "DefCamp Capture the Flag (D-CTF) 2023 Quals",
-        "比赛时间": "2023-10-20 17:00:00 - 2023-10-22 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2106.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://dctf23-quals.cyber-edu.co/",
-        "比赛标志": "https://ctftime.org/media/events/DgewLeJ5PXEu0w7L_1.png",
-        "比赛权重": "24.83",
-        "赛事主办": "CCSIR.org (https://ctftime.org/team/9831)",
-        "比赛ID": "73",
         "比赛状态": "past"
     }
 ]
