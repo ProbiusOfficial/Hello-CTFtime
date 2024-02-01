@@ -12,7 +12,7 @@ rssNowrunning = 'https://ctftime.org/event/list/running/rss/'
 def fetch_cn_ctf_data(url):
 
     try:
-        response = requests.post(url)
+        response = requests.post(url,timeout=10)
         if response.status_code == 200:
             return response.json()
         else:
