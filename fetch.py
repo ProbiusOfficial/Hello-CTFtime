@@ -10,9 +10,16 @@ rssActive = 'https://ctftime.org/event/list/archive/rss/'
 rssNowrunning = 'https://ctftime.org/event/list/running/rss/'
 
 def fetch_cn_ctf_data(url):
-    # 使用POST请求获取国内CTF数据
-    response = requests.post(url)
-    return response.json()
+
+    try:
+        response = requests.post(url)
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return None
+    except requests.exceptions.RequestException as e:
+        print(e)
+        return None
 
 def fetch_global_ctf_content(rss_url):
     feed = feedparser.parse(rss_url)
@@ -96,8 +103,9 @@ with open('Global.json', 'w', encoding='utf-8') as file:
     json.dump(all_events, file, ensure_ascii=False, indent=4)
 
 cn_ctf_data = fetch_cn_ctf_data(cn_ctf_url)
-cn_json_data = json.dumps(cn_ctf_data, ensure_ascii=False)
-with open('CN.json', 'w', encoding='utf-8') as cn_file:
-    cn_file.write(cn_json_data)
+if cn_ctf_data != None:
+    with open('CN.json', 'w', encoding='utf-8') as file:
+        json.dump(cn_ctf_data, file, ensure_ascii=False, indent=4)
+
 
 print("数据抓取完成，保存为 CN.json 和 Global.json")
