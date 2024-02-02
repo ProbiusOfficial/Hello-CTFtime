@@ -252,6 +252,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "Grey Cat The Flag 2024 Qualifiers",
+        "比赛时间": "2024-03-23 12:00:00 - 2024-03-24 12:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2242.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.nusgreyhats.org/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "22.46",
+        "赛事主办": "NUSGreyhats (https://ctftime.org/team/16740)",
+        "比赛ID": "778",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "ZeroDays CTF",
         "比赛时间": "2024-03-23 18:00:00 - 2024-03-24 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2196.ics",
@@ -261,18 +273,6 @@
         "比赛权重": "0.00",
         "赛事主办": "Ireland without the RE (https://ctftime.org/team/179144)",
         "比赛ID": "1030",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "Grey Cat The Flag 2024 Qualifiers",
-        "比赛时间": "2024-03-23 20:00:00 - 2024-03-24 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2242.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.nusgreyhats.org/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "22.46",
-        "赛事主办": "NUSGreyhats (https://ctftime.org/team/16740)",
-        "比赛ID": "778",
         "比赛状态": "oncoming"
     },
     {
