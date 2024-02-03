@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "Bearcat CTF 2024",
-        "比赛时间": "2024-02-04 03:00:00 - 2024-02-05 03:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2208.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://www.bearcatctf.io/",
-        "比赛标志": "https://ctftime.org/media/events/bearcatlogo-cyberatuc.png",
-        "比赛权重": "0",
-        "赛事主办": "Cyber@UC (https://ctftime.org/team/87727)",
-        "比赛ID": "1032",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "0xL4ugh CTF 2024",
         "比赛时间": "2024-02-09 21:00:00 - 2024-02-10 21:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2216.ics",
@@ -513,6 +501,18 @@
         "比赛权重": "9.64",
         "赛事主办": "CYB3R_T3N4CI0US (https://ctftime.org/team/160305)",
         "比赛ID": "743",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Bearcat CTF 2024",
+        "比赛时间": "2024-02-04 03:00:00 - 2024-02-05 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2208.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://www.bearcatctf.io/",
+        "比赛标志": "https://ctftime.org/media/events/bearcatlogo-cyberatuc.png",
+        "比赛权重": "0",
+        "赛事主办": "Cyber@UC (https://ctftime.org/team/87727)",
+        "比赛ID": "1032",
         "比赛状态": "nowrunning"
     },
     {
