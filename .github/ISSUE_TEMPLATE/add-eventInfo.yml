@@ -68,7 +68,7 @@ body:
     attributes:
       label: 备注信息
       description: 有关比赛的其他信息，如赛事交流群、赛事详情等内容。
-      placeholder: 2024年01月04日 00:00 
+      placeholder: QQ群：590430891
     validations:
       required: true
   
