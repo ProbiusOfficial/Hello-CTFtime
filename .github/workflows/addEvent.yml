@@ -1,4 +1,4 @@
-name: Save Issue as JSON and Create PR
+name: Save Issue as JSON
 
 on:
   issues:
