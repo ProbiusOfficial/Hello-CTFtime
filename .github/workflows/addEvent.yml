@@ -13,6 +13,11 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
+     
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
       
       - name: Save Issue to JSON
         run: |
@@ -21,11 +26,13 @@ jobs:
             exit 0
          fi
          file_content=$(cat ${GITHUB_EVENT_PATH} | jq -r '.issue.body')
-         echo $file_content > Event-${{ github.event.issue.number }}.md
+         echo $file_content > temp
 
           mkdir -p .github/issues
 
           mv Event-${{ github.event.issue.number }}.md .github/issues/
+
+          python getIssueBody.py
       
       - name: Check for changes
         id: check_changes
