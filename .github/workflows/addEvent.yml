@@ -30,7 +30,7 @@ jobs:
 
           mkdir -p .github/issues
 
-          mv Event-${{ github.event.issue.number }}.md .github/issues/
+          mv temp .github/issues/
 
           python getIssueBody.py
       
