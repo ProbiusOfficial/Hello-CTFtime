@@ -3,10 +3,8 @@ import json
 
 # 从 .gihub/issues/temp 文件中提取issue_body
 
-# with open(".github/issues/temp", "r", encoding="utf-8") as f:
-#     issue_body = f.read()
-
-issue_body = "### 赛事名称\n\nHelloCTF2024\n\n### 比赛链接\n\nhttps://hello-ctf.com/\n\n### 比赛类型\n\n团队赛|1-3人\n\n### 报名开始时间\n\n2024年02月07日 00:00\n\n### 报名结束时间\n\n2024年01月11日 00:00\n\n### 比赛开始时间\n\n2024年01月10日 00:00\n\n### 比赛结束时间\n\n2024年01月15日 00:00\n\n### 备注信息\n\nQQ群：590430891QQ群：590430891QQ群：590430891 gulu QQ群：590430891QQ群：590430891\n\n### 比赛状态\n\n4 - 报名未开始"
+with open(".github/issues/temp", "r", encoding="utf-8") as f:
+    issue_body = f.read()
 
 def body2json(issue_body):
     print(issue_body)
