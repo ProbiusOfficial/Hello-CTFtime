@@ -65,14 +65,17 @@ jobs:
 
       - name: Create Pull Request
         if: env.CHANGES == 'true'
-        uses: repo-sync/pull-request@v2
+        uses: peter-evans/create-pull-request@v3
         with:
-          source_branch: "review-pending-${{ env.EVENTNAME }}"
-          destination_branch: "main"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          pr_title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
-          pr_body: "请审查提交的赛事信息：\n\n${{ github.event.issue.body }}"
-          pr_label: "automated-pr, review-pending"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "[bot]添加赛事待审核"
+          title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
+          body: "请审查提交的赛事信息：\n\n${{ github.event.issue.body }}"
+          branch: "review-pending-${{ env.EVENTNAME }}"
+          base: "main"
+          draft: false
+          labels: "automated-pr, review-pending"
+          assignees: "github-actions"
 
       - name: Close Issue with Comment
         if: env.CHANGES == 'true'
