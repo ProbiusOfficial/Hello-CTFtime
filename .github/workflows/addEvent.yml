@@ -41,7 +41,14 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             echo "CHANGES=true" >> $GITHUB_ENV
           fi
-
+      - name: Sync with Remote Main Branch
+        if: env.CHANGES == 'true'
+        run: |
+          git fetch origin main
+          git checkout main
+          git pull origin main
+          git checkout -b review-pending-${{ env.EVENTNAME }}
+          
       - name: Commit changes
         if: env.CHANGES == 'true'
         run: |
