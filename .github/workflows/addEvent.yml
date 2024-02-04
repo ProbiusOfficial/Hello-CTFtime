@@ -2,7 +2,7 @@ name: Save Issue as JSON
 
 on:
   issues:
-    types: [opened,edited]
+    types: [opened]
 
 permissions:
     contents: write
