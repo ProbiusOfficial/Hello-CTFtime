@@ -35,9 +35,13 @@ def getIssueBody(issue_body):
         elif "备注信息" in title:
             structured_data["readmore"] = content
         elif "比赛状态" in title:
-
-            status, _ = content.split(" - ", 1)
-            structured_data["status"] = int(status)
+            try:
+                # Only extract numeric part for the status code
+                status_code = ''.join(filter(str.isdigit, content))
+                structured_data["status"] = int(status_code)
+            except ValueError:
+                # Default status to 0 or another placeholder in case of conversion error
+                structured_data["status"] = 0
 
     print(json.dumps(structured_data, ensure_ascii=False, indent=4))
     
