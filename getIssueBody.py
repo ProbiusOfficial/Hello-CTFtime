@@ -29,5 +29,5 @@ def body2json(issue_body):
     return json_data
 
 json_data = body2json(issue_body)
-with open(f"./ReviewPending/{json_data['name']}.json", "w", encoding="utf-8") as f:
+with open(f"./ReviewPending/{json.loads(json_data)['name']}.json", "w", encoding="utf-8") as f:
         json.dump(json_data, f, ensure_ascii=False, indent=4)
