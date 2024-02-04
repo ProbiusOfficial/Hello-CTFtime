@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "NSS-Round18",
+                "link": "https://www.nssctf.cn/",
+                "type": "个人赛",
+                "bmks": "None",
+                "bmjz": "None",
+                "bsks": "待定",
+                "bsjs": "待定",
+                "readmore": "None",
+                "status": 0
+            },
+            {
                 "name": "第一届“长城杯”信息安全铁人三项赛初赛",
                 "link": "http://ccb.itsec.gov.cn/",
                 "type": "团队赛|1-4人",
