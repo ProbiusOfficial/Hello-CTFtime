@@ -1,6 +1,6 @@
 name: 添加比赛
 description: 在Hello-CTF赛事日历以及Hello-CTFtime赛事信息中添加比赛信息。注意，项目接受的比赛信息仅会展示在国内赛事中，国际赛事请在CTFtime上提交。
-title: "添加比赛: "
+title: "<添加比赛>"
 labels: []
 assignees:
   - ProbiusOfficial 
