@@ -63,7 +63,7 @@ body:
     validations:
       required: true
   
-    - type: input
+  - type: input
     id: readmore
     attributes:
       label: 备注信息
