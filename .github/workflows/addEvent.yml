@@ -67,7 +67,6 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          path: ./
           branch: review-pending-${{ env.EVENTNAME }}
           branch-suffix: timestamp
           title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
