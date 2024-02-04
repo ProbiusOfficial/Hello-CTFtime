@@ -68,7 +68,7 @@ jobs:
         with:
           source_branch: "review-pending-${{ env.EVENTNAME }}"
           destination_branch: "main"
-          github_token: ${{ secrets.MY_PAT }}
+          github_token: ${{ secrets.FFF }}
           pr_title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
           pr_body: "请审查提交的赛事信息：\n\n${{ github.event.issue.body }}"
           pr_label: "automated-pr, review-pending"
@@ -78,7 +78,7 @@ jobs:
         uses: actions-cool/issues-helper@v3
         with:
           actions: 'close-issues'
-          token: ${{ secrets.MY_PAT }}
+          token: ${{ secrets.FFF }}
           issue-number: ${{ github.event.issue.number }}
           body: |
             比赛已经被提交审核，issue将关闭，审核结果请关注Pr，若对此存有疑问，可评论回复询问。
