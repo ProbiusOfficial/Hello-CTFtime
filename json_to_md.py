@@ -126,5 +126,54 @@ def main():
     with open('Out/events.html', 'w', encoding='utf-8') as file:
         file.write(html_content)
 
+    # 生成index.md
+    global_template_index = (
+        '        ??? Abstract "[{比赛名称}]({比赛链接})"  \n'
+        "            [![]({比赛标志}){{ width=\"200\" align=left }}]({比赛链接})  \n"
+        "            **比赛名称** : [{比赛名称}]({比赛链接})  \n"
+        "            **比赛形式** : {比赛形式}  \n"
+        "            **比赛时间** : {比赛时间}  \n"
+        "            **比赛权重** : {比赛权重}  \n"
+        "            **赛事主办** : {赛事主办}  \n"
+        "            **添加日历** : {添加日历}  \n"
+        "            "
+    )
+    cn_template_index = (
+        '        ??? Abstract "{name}"  \n'
+        "            **比赛名称** : [{name}]({url})  \n"
+        "            **比赛类型** : {type}  \n"
+        "            **报名时间** : {bmks} - {bmjz}  \n"
+        "            **比赛时间** : {bsks} - {bsjs}  \n"
+        "            **其他说明** : {readmore}  \n"
+        "            "
+    )
+
+    now_running_md_index = """
+=== "*即将开始*"
+    === "国内赛事"
+""" + create_md_content(upcoming_cn, cn_template_index, "cn") + """
+    === "国外赛事"
+""" + create_md_content(upcoming_global, global_template_index)
+
+    upcoming_events_md_index = """
+=== "*正在进行*"
+    === "国内赛事"
+""" + create_md_content(running_cn, cn_template_index, "cn") + """
+    === "国外赛事"
+""" + create_md_content(running_global, global_template_index)
+    
+    past_events_md_index = """
+=== "*已经结束*"
+    === "国内赛事"
+""" + create_md_content(past_cn, cn_template_index, "cn") + """
+    === "国外赛事"
+""" + create_md_content(past_global, global_template_index)
+
+    with open('Out/index.md', 'w', encoding='utf-8') as file:
+        file.write(now_running_md_index + upcoming_events_md_index + past_events_md_index)
+
+    print("Done!")
+    
+    
 if __name__ == "__main__":
     main()

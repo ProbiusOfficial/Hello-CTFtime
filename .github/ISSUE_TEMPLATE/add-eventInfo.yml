@@ -1,0 +1,84 @@
+name: 添加比赛
+description: 在Hello-CTF赛事日历以及Hello-CTFtime赛事信息中添加比赛信息。注意，项目接受的比赛信息仅会展示在国内赛事中，国际赛事请在CTFtime上提交。
+title: "添加比赛: "
+labels: []
+assignees:
+  - ProbiusOfficial 
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 赛事名称
+      placeholder: HelloCTF2024 / 第?届xx赛/xx杯...
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: 比赛链接
+      placeholder: https://hello-ctf.com/
+    validations:
+      required: true
+
+  - type: input
+    id: type
+    attributes:
+      label: 比赛类型
+      description: 个人赛请直接填写个人赛，团队赛请注明人数。
+      placeholder: 个人赛 / 团队赛|1-3人
+    validations:
+      required: true
+
+  - type: input
+    id: bmks
+    attributes:
+      label: 报名开始时间
+      description: 注意时间格式统一使用 yyyy年-MM月-dd日 HH:mm
+      placeholder: 2024年01月01日 00:00 
+    validations:
+      required: true
+
+  - type: input
+    id: bmjz
+    attributes:
+      label: 报名结束时间
+      placeholder: 2024年01月02日 00:00 
+    validations:
+      required: true
+  
+  - type: input
+    id: bsks
+    attributes:
+      label: 比赛开始时间
+      placeholder: 2024年01月03日 00:00 
+    validations:
+      required: true
+
+  - type: input
+    id: bsjs
+    attributes:
+      label: 比赛结束时间
+      placeholder: 2024年01月04日 00:00 
+    validations:
+      required: true
+  
+    - type: input
+    id: readmore
+    attributes:
+      label: 备注信息
+      description: 有关比赛的其他信息，如赛事交流群、赛事详情等内容。
+      placeholder: 2024年01月04日 00:00 
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: status
+    attributes:
+      label: 比赛状态
+      options:
+        - 0 - 报名未开始
+        - 1 - 报名中
+        - 2 - 报名结束
+        - 3 - 比赛进行中
+        - 4 - 比赛结束

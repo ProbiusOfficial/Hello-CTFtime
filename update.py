@@ -3,23 +3,10 @@ import feedparser
 import requests
 import json
 
-cn_ctf_url = 'https://www.su-sanha.cn:443/api/events/list'
-
 rssUpcoming = 'https://ctftime.org/event/list/upcoming/rss/'
 rssActive = 'https://ctftime.org/event/list/archive/rss/'
 rssNowrunning = 'https://ctftime.org/event/list/running/rss/'
 
-def fetch_cn_ctf_data(url):
-
-    try:
-        response = requests.post(url,timeout=10)
-        if response.status_code == 200:
-            return response.json()
-        else:
-            return None
-    except requests.exceptions.RequestException as e:
-        print(e)
-        return None
 
 def fetch_global_ctf_content(rss_url):
     feed = feedparser.parse(rss_url)
@@ -102,10 +89,7 @@ all_events = upcoming_events + running_events + active_events
 with open('Global.json', 'w', encoding='utf-8') as file:
     json.dump(all_events, file, ensure_ascii=False, indent=4)
 
-cn_ctf_data = fetch_cn_ctf_data(cn_ctf_url)
-if cn_ctf_data != None:
-    with open('CN.json', 'w', encoding='utf-8') as file:
-        json.dump(cn_ctf_data, file, ensure_ascii=False, indent=4)
+print("国际赛事数据已更新至Global.json")
 
 
-print("数据抓取完成，保存为 CN.json 和 Global.json")
+    
