@@ -5,13 +5,6 @@ comments: true
 
 ## 国内赛事
 
-??? Abstract "HelloCTF2024"  
-    **比赛名称** : [HelloCTF2024](HelloCTF2024)  
-    **比赛类型** : HelloCTF2024  
-    **报名时间** : HelloCTF2024 - HelloCTF2024  
-    **比赛时间** : HelloCTF2024 - HelloCTF2024  
-    **其他说明** : HelloCTF2024  
-    
 ??? Abstract "第一届“长城杯”信息安全铁人三项赛初赛"  
     **比赛名称** : [第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)  
     **比赛类型** : 团队赛|1-4人  
