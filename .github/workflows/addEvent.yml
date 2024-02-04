@@ -25,8 +25,7 @@ jobs:
          if [ "$line" != "### 赛事名称" ] ; then
             exit 0
          fi
-         file_content=$(cat ${GITHUB_EVENT_PATH} | jq -r '.issue.body')
-         echo $file_content > temp
+         jq -r '.issue.body' "${GITHUB_EVENT_PATH}" > temp
 
           mkdir -p .github/issues
           mkdir -p ./ReviewPending/
