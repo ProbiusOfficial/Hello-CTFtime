@@ -501,7 +501,7 @@
         "比赛权重": "0",
         "赛事主办": "Cyber@UC (https://ctftime.org/team/87727)",
         "比赛ID": "1032",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "ESCAPE CTF Final",
@@ -1689,18 +1689,6 @@
         "比赛权重": "6.67",
         "赛事主办": "CERTUNLP (https://ctftime.org/team/89294)",
         "比赛ID": "653",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "N1CTF 2023",
-        "比赛时间": "2023-10-21 08:00:00 - 2023-10-23 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2062.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf2023.nu1l.com/",
-        "比赛标志": "https://ctftime.org/media/events/logo2_5.png",
-        "比赛权重": "97.33",
-        "赛事主办": "Nu1L (https://ctftime.org/team/19208)",
-        "比赛ID": "240",
         "比赛状态": "past"
     }
 ]
