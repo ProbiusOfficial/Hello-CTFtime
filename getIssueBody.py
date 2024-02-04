@@ -1,3 +1,4 @@
+import re
 import json
 
 # 从 .gihub/issues/temp 文件中提取issue_body
@@ -5,47 +6,28 @@ import json
 with open(".github/issues/temp", "r", encoding="utf-8") as f:
     issue_body = f.read()
 
-print(issue_body)
-
-def getIssueBody(issue_body):
-    sections = issue_body.split("###")[1:]  
-
-
-    structured_data = {}
-
-    for section in sections:
-        lines = section.strip().split("\n", 2)  
-        title = lines[0].strip()
-        content = lines[-1].strip()  
-
-        if "赛事名称" in title:
-            structured_data["name"] = content
-        elif "比赛链接" in title:
-            structured_data["link"] = content
-        elif "比赛类型" in title:
-            structured_data["type"] = content
-        elif "报名开始时间" in title:
-            structured_data["bmks"] = content
-        elif "报名结束时间" in title:
-            structured_data["bmjz"] = content
-        elif "比赛开始时间" in title:
-            structured_data["bsks"] = content
-        elif "比赛结束时间" in title:
-            structured_data["bsjs"] = content
-        elif "备注信息" in title:
-            structured_data["readmore"] = content
-        elif "比赛状态" in title:
-            try:
-                # Only extract numeric part for the status code
-                status_code = ''.join(filter(str.isdigit, content))
-                structured_data["status"] = int(status_code)
-            except ValueError:
-                # Default status to 0 or another placeholder in case of conversion error
-                structured_data["status"] = 0
-
-    print(json.dumps(structured_data, ensure_ascii=False, indent=4))
+def body2json(issue_body):
+    result_dict = {}
     
-    with open(f"待审核/{structured_data['name']}.json", "w", encoding="utf-8") as f:
-        json.dump(structured_data, f, ensure_ascii=False, indent=4)
+    sections = issue_body.split("###")[1:]  
+    sections = [section.strip().split("\n\n", 1) for section in sections] 
+    
+    for item in sections:
+        if len(item) == 2:  
+            key, vals = item[0].strip(), item[1].strip()
+            if key == "比赛状态":
+                match = re.search(r'\d+', vals)
+                if match:
+                    vals = match.group()
+                    vals = int(vals)
+            result_dict[key] = vals
+    json_data = json.dumps(result_dict, ensure_ascii=False, indent=4).replace("时间", "")
+    json_dic = {"赛事名称":"name", "比赛链接":"link", "比赛类型":"type", "报名开始":"bmks", "报名结束":"bmjz", "比赛开始":"bsks", "比赛结束":"bsjs", "备注信息":"readmore", "比赛状态":"status"}
+    for key, value in json_dic.items():
+        json_data = json_data.replace(key, value)
 
-getIssueBody(issue_body)
+    return json_data
+
+json_data = body2json(issue_body)
+with open(f"./ReviewPending/{json_data['name']}.json", "w", encoding="utf-8") as f:
+        json.dump(json_data, f, ensure_ascii=False, indent=4)

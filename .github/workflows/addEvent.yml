@@ -29,6 +29,7 @@ jobs:
          echo $file_content > temp
 
           mkdir -p .github/issues
+          mkdir -p ./ReviewPending/
 
           mv temp .github/issues/
 
