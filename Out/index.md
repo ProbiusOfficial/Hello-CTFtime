@@ -51,15 +51,6 @@
             **其他说明** : N1CTFJunior是Nu1L Team组织的官方纳新  赛事旨在选拔年轻优秀人才加入Nu1LTeam  QQ群:180885587  
             
     === "国外赛事"
-        ??? Abstract "[Bearcat CTF 2024](https://www.bearcatctf.io/)"  
-            [![](https://ctftime.org/media/events/bearcatlogo-cyberatuc.png){ width="200" align=left }](https://www.bearcatctf.io/)  
-            **比赛名称** : [Bearcat CTF 2024](https://www.bearcatctf.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-02-04 03:00:00 - 2024-02-05 03:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : Cyber@UC (https://ctftime.org/team/87727)  
-            **添加日历** : https://ctftime.org/event/2208.ics  
-            
         ??? Abstract "[0xL4ugh CTF 2024](https://ctf24.0xl4ugh.com/)"  
             [![](https://ctftime.org/media/events/logo_94.png){ width="200" align=left }](https://ctf24.0xl4ugh.com/)  
             **比赛名称** : [0xL4ugh CTF 2024](https://ctf24.0xl4ugh.com/)  
@@ -439,14 +430,14 @@
             **赛事主办** : L3H Sec (https://ctftime.org/team/75946)  
             **添加日历** : https://ctftime.org/event/2236.ics  
             
-        ??? Abstract "[ESCAPE CTF Final](https://ctf.t3n4ci0us.kr/)"  
-            [![](https://ctftime.org){ width="200" align=left }](https://ctf.t3n4ci0us.kr/)  
-            **比赛名称** : [ESCAPE CTF Final](https://ctf.t3n4ci0us.kr/)  
+        ??? Abstract "[Bearcat CTF 2024](https://www.bearcatctf.io/)"  
+            [![](https://ctftime.org/media/events/bearcatlogo-cyberatuc.png){ width="200" align=left }](https://www.bearcatctf.io/)  
+            **比赛名称** : [Bearcat CTF 2024](https://www.bearcatctf.io/)  
             **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-02-03 20:00:00 - 2024-02-04 05:30:00 UTC+8  
-            **比赛权重** : 9.64  
-            **赛事主办** : CYB3R_T3N4CI0US (https://ctftime.org/team/160305)  
-            **添加日历** : https://ctftime.org/event/2213.ics  
+            **比赛时间** : 2024-02-04 03:00:00 - 2024-02-05 03:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : Cyber@UC (https://ctftime.org/team/87727)  
+            **添加日历** : https://ctftime.org/event/2208.ics  
             
 === "*已经结束*"
     === "国内赛事"
@@ -535,6 +526,15 @@
             **其他说明** :   
             
     === "国外赛事"
+        ??? Abstract "[ESCAPE CTF Final](https://ctf.t3n4ci0us.kr/)"  
+            [![](https://ctftime.org){ width="200" align=left }](https://ctf.t3n4ci0us.kr/)  
+            **比赛名称** : [ESCAPE CTF Final](https://ctf.t3n4ci0us.kr/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-02-03 20:00:00 - 2024-02-04 05:30:00 UTC+8  
+            **比赛权重** : 9.64  
+            **赛事主办** : CYB3R_T3N4CI0US (https://ctftime.org/team/160305)  
+            **添加日历** : https://ctftime.org/event/2213.ics  
+            
         ??? Abstract "[ISSessions Espionage CTF](https://ctf.issessions.ca/)"  
             [![](https://ctftime.org/media/events/unnamed_2.png){ width="200" align=left }](https://ctf.issessions.ca/)  
             **比赛名称** : [ISSessions Espionage CTF](https://ctf.issessions.ca/)  
@@ -1425,13 +1425,4 @@
             **比赛权重** : 97.33  
             **赛事主办** : Nu1L (https://ctftime.org/team/19208)  
             **添加日历** : https://ctftime.org/event/2062.ics  
-            
-        ??? Abstract "[DEADFACE CTF 2023](https://ctf.deadface.io/)"  
-            [![](https://ctftime.org/media/events/deadface_ctf_512.png){ width="200" align=left }](https://ctf.deadface.io/)  
-            **比赛名称** : [DEADFACE CTF 2023](https://ctf.deadface.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2023-10-20 22:00:00 - 2023-10-22 08:00:00 UTC+8  
-            **比赛权重** : 33.74  
-            **赛事主办** : Cyber Hacktics (https://ctftime.org/team/127017)  
-            **添加日历** : https://ctftime.org/event/2031.ics  
             
