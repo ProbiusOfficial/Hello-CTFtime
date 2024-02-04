@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "1",
+                "link": "1",
+                "type": "1",
+                "bmks": "1",
+                "bmjz": "1",
+                "bsks": "1",
+                "bsjs": "1",
+                "readmore": "1",
+                "status": 0
+            },
+            {
                 "name": "第一届“长城杯”信息安全铁人三项赛初赛",
                 "link": "http://ccb.itsec.gov.cn/",
                 "type": "团队赛|1-4人",
