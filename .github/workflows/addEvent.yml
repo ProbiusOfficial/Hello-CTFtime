@@ -31,8 +31,6 @@ jobs:
          python issue2Event.py
 
          echo "EVENTNAME=$(<temp_name)" >> $GITHUB_ENV
-         EVENTJSON_B64=$(base64 -w 0 temp_json)
-         echo "EVENTJSON_B64=${EVENTJSON_B64}" >> $GITHUB_ENV
 
          rm temp temp_name temp_json
          
@@ -61,7 +59,7 @@ jobs:
         if: env.CHANGES == 'true'
         uses: repo-sync/pull-request@v2
         with:
-          source_branch: "review-pending-${{ github.event.issue.number }}"
+          source_branch: "review-pending-${{ env.EVENTNAME }}"
           destination_branch: "main"
           github_token: ${{ secrets.GITHUB_TOKEN }}
           pr_title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
