@@ -48,19 +48,19 @@ jobs:
           git checkout main
           git pull origin main
           git checkout -b review-pending-${{ env.EVENTNAME }}
-          
+
       - name: Commit changes
         if: env.CHANGES == 'true'
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git checkout -b review-pending-${{ env.EVENTNAME }}
+          add .
           git commit -m "[bot]添加赛事待审核"
 
       - name: Push changes
         if: env.CHANGES == 'true'
         run: |
-          git push origin review-pending-${{ env.EVENTNAME }}
+          git push --set-upstream origin review-pending-${{ env.EVENTNAME }}
 
       - name: Create Pull Request
         if: env.CHANGES == 'true'
