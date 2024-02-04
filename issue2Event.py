@@ -1,9 +1,7 @@
 import re
 import json
 
-# 从 .gihub/issues/temp 文件中提取issue_body
-
-with open(".github/issues/temp", "r", encoding="utf-8") as f:
+with open("temp", "r", encoding="utf-8") as f:
     issue_body = f.read()
 
 def body2json(issue_body):
@@ -32,7 +30,34 @@ def body2json(issue_body):
 
     return json_data
 
-json_data = body2json(issue_body)
+def add_Event(json_data):
 
-with open(f"./ReviewPending/{json.loads(json_data)['name']}.json", "w", encoding="utf-8") as f:
-        json.dump(json.loads(json_data), f, ensure_ascii=False, indent=4)
+    with open('./CN.json', 'r', encoding='utf-8') as f:
+        CN = json.load(f)
+    
+    print("Now:" +CN['data']['result'][0] )
+
+    print("Insert " + json_data + "into CN.json")
+    
+    CN['data']['result'].insert(0, json_data)
+
+    print(CN['data']['result'][0])
+
+    with open('./CN.json', 'w', encoding='utf-8') as f:
+        json.dump(CN, f, ensure_ascii=False, indent=4)
+    
+    print("Insert Done")
+
+json_data = json.loads(body2json(issue_body))
+
+with open("temp_name", "w", encoding="utf-8") as f:
+    f.write(json_data['name'])
+
+with open("temp_json", "w", encoding="utf-8") as f:
+    f.write(json_data)
+
+add_Event(json_data)
+
+
+
+

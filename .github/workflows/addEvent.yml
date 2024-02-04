@@ -27,13 +27,14 @@ jobs:
          fi
          jq -r '.issue.body' "${GITHUB_EVENT_PATH}" > temp
 
-          mkdir -p .github/issues
-          mkdir -p ./ReviewPending/
+         python issue2Event.py
 
-          mv temp .github/issues/
+         echo "EVENTNAME=$(<temp_name)" >> $GITHUB_ENV
+         EVENTJSON_B64=$(base64 -w 0 temp_json)
+         echo "EVENTJSON_B64=${EVENTJSON_B64}" >> $GITHUB_ENV
 
-          python getIssueBody.py
-      
+         rm temp temp_name temp_json
+         
       - name: Check for changes
         id: check_changes
         run: |
@@ -42,8 +43,30 @@ jobs:
             echo "CHANGES=true" >> $GITHUB_ENV
           fi
 
-      - name: Commit and push changes
+      - name: Commit changes
         if: env.CHANGES == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v4
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git checkout -b review-pending-${{ env.EVENTNAME }}
+          git commit -m "[bot]添加赛事待审核"
+
+      - name: Push changes
+        if: env.CHANGES == 'true'
+        run: |
+          git push origin review-pending-${{ env.EVENTNAME }}
+          echo "DECODED_EVENTJSON=$(echo '${{ env.EVENTJSON_B64 }}' | base64 -d)" >> $GITHUB_ENV
+
+      - name: Create Pull Request
+        if: env.CHANGES == 'true'
+        uses: repo-sync/pull-request@v2
         with:
-          commit_message: Automatically update
+          source_branch: "review-pending-${{ github.event.issue.number }}"
+          destination_branch: "main"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          pr_title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
+          pr_body: "请审查提交的赛事信息：\n\n```json\n${{ env.DECODED_EVENTJSON }}\n```"
+          pr_label: "automated-pr, review-pending"
+
+
+
