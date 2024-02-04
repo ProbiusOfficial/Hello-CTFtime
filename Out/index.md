@@ -430,15 +430,6 @@
             **赛事主办** : L3H Sec (https://ctftime.org/team/75946)  
             **添加日历** : https://ctftime.org/event/2236.ics  
             
-        ??? Abstract "[Bearcat CTF 2024](https://www.bearcatctf.io/)"  
-            [![](https://ctftime.org/media/events/bearcatlogo-cyberatuc.png){ width="200" align=left }](https://www.bearcatctf.io/)  
-            **比赛名称** : [Bearcat CTF 2024](https://www.bearcatctf.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-02-04 03:00:00 - 2024-02-05 03:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : Cyber@UC (https://ctftime.org/team/87727)  
-            **添加日历** : https://ctftime.org/event/2208.ics  
-            
 === "*已经结束*"
     === "国内赛事"
         ??? Abstract "第二届红桥杯渗透测试挑战赛"  
@@ -526,6 +517,15 @@
             **其他说明** :   
             
     === "国外赛事"
+        ??? Abstract "[Bearcat CTF 2024](https://www.bearcatctf.io/)"  
+            [![](https://ctftime.org/media/events/bearcatlogo-cyberatuc.png){ width="200" align=left }](https://www.bearcatctf.io/)  
+            **比赛名称** : [Bearcat CTF 2024](https://www.bearcatctf.io/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-02-04 03:00:00 - 2024-02-05 03:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : Cyber@UC (https://ctftime.org/team/87727)  
+            **添加日历** : https://ctftime.org/event/2208.ics  
+            
         ??? Abstract "[ESCAPE CTF Final](https://ctf.t3n4ci0us.kr/)"  
             [![](https://ctftime.org){ width="200" align=left }](https://ctf.t3n4ci0us.kr/)  
             **比赛名称** : [ESCAPE CTF Final](https://ctf.t3n4ci0us.kr/)  
@@ -1416,13 +1416,4 @@
             **比赛权重** : 6.67  
             **赛事主办** : CERTUNLP (https://ctftime.org/team/89294)  
             **添加日历** : https://ctftime.org/event/2108.ics  
-            
-        ??? Abstract "[N1CTF 2023](https://ctf2023.nu1l.com/)"  
-            [![](https://ctftime.org/media/events/logo2_5.png){ width="200" align=left }](https://ctf2023.nu1l.com/)  
-            **比赛名称** : [N1CTF 2023](https://ctf2023.nu1l.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2023-10-21 08:00:00 - 2023-10-23 08:00:00 UTC+8  
-            **比赛权重** : 97.33  
-            **赛事主办** : Nu1L (https://ctftime.org/team/19208)  
-            **添加日历** : https://ctftime.org/event/2062.ics  
             
