@@ -1,0 +1,36 @@
+name: Save Issue as JSON and Create PR
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  save-and-create-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      
+      - name: Save Issue to JSON
+        run: |
+          # 使用环境变量GITHUB_EVENT_PATH读取事件的payload
+          # 保存issue内容为JSON文件
+          jq .issue $GITHUB_EVENT_PATH > issue-${{ github.event.issue.number }}.json
+          # 确保目录存在
+          mkdir -p .github/issues
+          # 移动文件到指定目录
+          mv issue-${{ github.event.issue.number }}.json .github/issues/
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git add .
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "CHANGES=true" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and push changes
+        if: env.CHANGES == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automatically update

@@ -3,10 +3,11 @@ import feedparser
 import requests
 import json
 
+# 国外赛事更新:
+
 rssUpcoming = 'https://ctftime.org/event/list/upcoming/rss/'
 rssActive = 'https://ctftime.org/event/list/archive/rss/'
 rssNowrunning = 'https://ctftime.org/event/list/running/rss/'
-
 
 def fetch_global_ctf_content(rss_url):
     feed = feedparser.parse(rss_url)
@@ -91,5 +92,5 @@ with open('Global.json', 'w', encoding='utf-8') as file:
 
 print("国际赛事数据已更新至Global.json")
 
-
+# 国内赛事更新
     
