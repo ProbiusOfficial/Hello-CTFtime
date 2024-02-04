@@ -54,7 +54,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          add .
+          git add .
           git commit -m "[bot]添加赛事待审核"
 
       - name: Push changes
