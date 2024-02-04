@@ -5,6 +5,8 @@ import json
 with open(".github/issues/temp", "r", encoding="utf-8") as f:
     issue_body = f.read()
 
+print(issue_body)
+
 def getIssueBody(issue_body):
     sections = issue_body.split("###")[1:]  
 
