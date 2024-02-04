@@ -4,6 +4,9 @@ on:
   issues:
     types: [opened]
 
+permissions:
+    contents: write
+    
 jobs:
   save-and-create-pr:
     runs-on: ubuntu-latest
