@@ -6,7 +6,7 @@ on:
 
 permissions:
     contents: write
-    
+
 jobs:
   save-and-create-pr:
     runs-on: ubuntu-latest
@@ -16,13 +16,16 @@ jobs:
       
       - name: Save Issue to JSON
         run: |
-          # 使用环境变量GITHUB_EVENT_PATH读取事件的payload
-          # 保存issue内容为JSON文件
-          jq .issue $GITHUB_EVENT_PATH > issue-${{ github.event.issue.number }}.json
-          # 确保目录存在
+         line=$(cat ${GITHUB_EVENT_PATH} | jq -r '.issue.body' | head -n 1)
+         if [ "$line" != "### 赛事名称" ] ; then
+            exit 0
+         fi
+         file_content=$(cat ${GITHUB_EVENT_PATH} | jq -r '.issue.body')
+         echo $file_content > Event-${{ github.event.issue.number }}.md
+
           mkdir -p .github/issues
-          # 移动文件到指定目录
-          mv issue-${{ github.event.issue.number }}.json .github/issues/
+
+          mv Event-${{ github.event.issue.number }}.md .github/issues/
       
       - name: Check for changes
         id: check_changes
