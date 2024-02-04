@@ -42,7 +42,6 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             echo "CHANGES=true" >> $GITHUB_ENV
           fi
-          
       - name: Sync with Remote Main Branch
         if: env.CHANGES == 'true'
         run: |
@@ -65,15 +64,15 @@ jobs:
           git push --set-upstream origin review-pending-${{ env.EVENTNAME }}
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
+        if: env.CHANGES == 'true'
+        uses: repo-sync/pull-request@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          branch-suffix: timestamp
-          title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
-          commit-message: "请审查提交的赛事信息：\n\n${{ github.event.issue.body }}"
-          labels: "automated-pr, review-pending"
-          delete-branch: true
+          source_branch: "review-pending-${{ env.EVENTNAME }}"
+          destination_branch: "main"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          pr_title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
+          pr_body: "请审查提交的赛事信息：\n\n${{ github.event.issue.body }}"
+          pr_label: "automated-pr, review-pending"
 
       - name: Close Issue with Comment
         if: env.CHANGES == 'true'
