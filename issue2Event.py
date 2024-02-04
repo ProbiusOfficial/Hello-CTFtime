@@ -54,7 +54,7 @@ with open("temp_name", "w", encoding="utf-8") as f:
     f.write(json_data['name'])
 
 with open("temp_json", "w", encoding="utf-8") as f:
-    f.write(json_data)
+    json.dump(json_data, f, ensure_ascii=False, indent=4)
 
 add_Event(json_data)
 
