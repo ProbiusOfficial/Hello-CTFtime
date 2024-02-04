@@ -4,6 +4,7 @@ import json
 with open("temp", "r", encoding="utf-8") as f:
     issue_body = f.read()
 
+
 def body2json(issue_body):
     print(issue_body)
 
@@ -35,9 +36,9 @@ def add_Event(json_data):
     with open('./CN.json', 'r', encoding='utf-8') as f:
         CN = json.load(f)
     
-    print("Now:" +CN['data']['result'][0] )
+    print("Now:" + str(CN['data']['result'][0]))
 
-    print("Insert " + json_data + "into CN.json")
+    print("Insert " + str(json_data) + "into CN.json")
     
     CN['data']['result'].insert(0, json_data)
 
