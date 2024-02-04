@@ -41,6 +41,7 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             echo "CHANGES=true" >> $GITHUB_ENV
           fi
+          
       - name: Sync with Remote Main Branch
         if: env.CHANGES == 'true'
         run: |
@@ -63,22 +64,23 @@ jobs:
           git push --set-upstream origin review-pending-${{ env.EVENTNAME }}
 
       - name: Create Pull Request
-        if: env.CHANGES == 'true'
-        uses: repo-sync/pull-request@v2
+        uses: peter-evans/create-pull-request@v4
         with:
-          source_branch: "review-pending-${{ env.EVENTNAME }}"
-          destination_branch: "main"
-          github_token: ${{ secrets.FFF }}
-          pr_title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
-          pr_body: "请审查提交的赛事信息：\n\n${{ github.event.issue.body }}"
-          pr_label: "automated-pr, review-pending"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: ./
+          branch: review-pending-${{ env.EVENTNAME }}
+          branch-suffix: timestamp
+          title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
+          commit-message: "请审查提交的赛事信息：\n\n${{ github.event.issue.body }}"
+          labels: "automated-pr, review-pending"
+          delete-branch: true
 
       - name: Close Issue with Comment
         if: env.CHANGES == 'true'
         uses: actions-cool/issues-helper@v3
         with:
           actions: 'close-issues'
-          token: ${{ secrets.FFF }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
           body: |
             比赛已经被提交审核，issue将关闭，审核结果请关注Pr，若对此存有疑问，可评论回复询问。
