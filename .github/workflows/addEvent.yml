@@ -56,7 +56,6 @@ jobs:
         if: env.CHANGES == 'true'
         run: |
           git push origin review-pending-${{ env.EVENTNAME }}
-          echo "DECODED_EVENTJSON=$(echo '${{ env.EVENTJSON_B64 }}' | base64 -d)" >> $GITHUB_ENV
 
       - name: Create Pull Request
         if: env.CHANGES == 'true'
@@ -66,7 +65,7 @@ jobs:
           destination_branch: "main"
           github_token: ${{ secrets.GITHUB_TOKEN }}
           pr_title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
-          pr_body: "请审查提交的赛事信息：\n\n```json\n${{ env.DECODED_EVENTJSON }}\n```"
+          pr_body: "请审查提交的赛事信息：\n\n${{ github.event.issue.body }}"
           pr_label: "automated-pr, review-pending"
 
       - name: Close Issue with Comment
