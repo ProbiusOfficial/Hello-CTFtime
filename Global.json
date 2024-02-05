@@ -468,18 +468,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "L3HCTF 2024",
-        "比赛时间": "2024-02-03 09:00:00 - 2024-02-05 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2236.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://l3hctf2024.xctf.org.cn/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
-        "赛事主办": "L3H Sec (https://ctftime.org/team/75946)",
-        "比赛ID": "701",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "Bearcat CTF 2024",
         "比赛时间": "2024-02-04 03:00:00 - 2024-02-05 03:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2208.ics",
@@ -501,6 +489,18 @@
         "比赛权重": "9.64",
         "赛事主办": "CYB3R_T3N4CI0US (https://ctftime.org/team/160305)",
         "比赛ID": "743",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "L3HCTF 2024",
+        "比赛时间": "2024-02-03 09:00:00 - 2024-02-05 09:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2236.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://l3hctf2024.xctf.org.cn/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0",
+        "赛事主办": "L3H Sec (https://ctftime.org/team/75946)",
+        "比赛ID": "701",
         "比赛状态": "past"
     },
     {
@@ -1665,18 +1665,6 @@
         "比赛权重": "22.45",
         "赛事主办": "OWASP_PCCOE-CORE (https://ctftime.org/team/206360)",
         "比赛ID": "1001",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "3st stage MetaRed CTF Argentina|CERTUNLP 2023",
-        "比赛时间": "2023-10-25 19:00:00 - 2023-10-26 19:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2107.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.cert.unlp.edu.ar/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "6.67",
-        "赛事主办": "CERTUNLP (https://ctftime.org/team/89294)",
-        "比赛ID": "653",
         "比赛状态": "past"
     }
 ]
