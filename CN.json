@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "3SCTF2024",
+                "link": "https://github.com/ProbiusOfficial/Hello-CTFtime/issues/new?assignees=ProbiusOfficial&labels=&projects=&template=add-eventInfo.yml&title=%3C%E6%B7%BB%E5%8A%A0%E6%AF%94%E8%B5%9B%3E",
+                "type": "个人赛",
+                "bmks": "2024年01月01日 00:00",
+                "bmjz": "2024年01月01日 00:00",
+                "bsks": "2024年01月01日 00:00",
+                "bsjs": "2024年01月01日 00:00",
+                "readmore": "readmore QQ群：590430891 引导你大致的了解CTF，并且尝试教会你如何入门CTF",
+                "status": 0
+            },
+            {
                 "name": "第一届“长城杯”信息安全铁人三项赛初赛",
                 "link": "http://ccb.itsec.gov.cn/",
                 "type": "团队赛|1-4人",
