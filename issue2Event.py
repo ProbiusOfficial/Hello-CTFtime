@@ -52,7 +52,7 @@ def add_Event(json_data):
 json_data = json.loads(body2json(issue_body))
 
 with open("temp_name", "w", encoding="utf-8") as f:
-    f.write(json_data['name'])
+    f.write(json_data['name'].replace(" ","-"))
 
 with open("temp_json", "w", encoding="utf-8") as f:
     json.dump(json_data, f, ensure_ascii=False, indent=4)
