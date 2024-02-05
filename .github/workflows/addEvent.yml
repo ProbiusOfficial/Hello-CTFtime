@@ -71,6 +71,7 @@ jobs:
           github_token: ${{ secrets.FFF }}
           pr_title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
           pr_body: "请审查提交的赛事信息：\n\n${{ github.event.issue.body }}"
+          pr_label: "赛事审核"
 
       - name: Close Issue with Comment
         if: env.CHANGES == 'true'
