@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "Hello CTF 2024",
+                "link": "Hello CTF 2024",
+                "type": "Hello CTF 2024",
+                "bmks": "Hello CTF 2024",
+                "bmjz": "Hello CTF 2024",
+                "bsks": "Hello CTF 2024",
+                "bsjs": "Hello CTF 2024",
+                "readmore": "Hello CTF 2024",
+                "status": 0
+            },
+            {
                 "name": "第一届“长城杯”信息安全铁人三项赛初赛",
                 "link": "http://ccb.itsec.gov.cn/",
                 "type": "团队赛|1-4人",
