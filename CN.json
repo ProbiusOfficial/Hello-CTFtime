@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "NSSCTF Round#18 Basic",
+                "link": "https://www.nssctf.cn/contest/317/",
+                "type": "个人赛",
+                "bmks": "2024-02-14 09:30",
+                "bmjz": "2024-02-14 17:30",
+                "bsks": "2024-02-14 09:30",
+                "bsjs": "2024-02-14 17:30",
+                "readmore": "QQ群：521330139",
+                "status": 1
+            },
+            {
                 "name": "VNCTF 2024",
                 "link": "待定",
                 "type": "个人赛",
