@@ -78,7 +78,7 @@ jobs:
         uses: actions-cool/issues-helper@v3
         with:
           actions: 'close-issues'
-          token: ${{ secrets.FFF }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
           body: |
             比赛已经被提交审核，issue将关闭，审核结果请关注Pr，若对此存有疑问，可评论回复询问。
