@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "测试-2 23",
+                "link": "测试-2 23",
+                "type": "测试-2 23",
+                "bmks": "测试-2 23",
+                "bmjz": "测试-2 23",
+                "bsks": "测试-2 23",
+                "bsjs": "测试-2 23",
+                "readmore": "测试-2 23",
+                "status": 0
+            },
+            {
                 "name": "NSSCTF Round#18 Basic",
                 "link": "https://www.nssctf.cn/contest/317/",
                 "type": "个人赛",
