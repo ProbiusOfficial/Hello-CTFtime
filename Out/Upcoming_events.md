@@ -5,6 +5,13 @@ comments: true
 
 ## 国内赛事
 
+??? Abstract "NSSCTF Round#18 Basic"  
+    **比赛名称** : [NSSCTF Round#18 Basic](https://www.nssctf.cn/contest/317/)  
+    **比赛类型** : 个人赛  
+    **报名时间** : 2024-02-14 09:30 - 2024-02-14 17:30  
+    **比赛时间** : 2024-02-14 09:30 - 2024-02-14 17:30  
+    **其他说明** : QQ群：521330139  
+    
 ??? Abstract "VNCTF 2024"  
     **比赛名称** : [VNCTF 2024](待定)  
     **比赛类型** : 个人赛  
