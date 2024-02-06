@@ -99,6 +99,7 @@ with open('./CN.json', 'r', encoding='utf-8') as f:
 
 date = datetime.now() + timedelta(hours=8)
 
+# 更新状态
 for event in CN['data']['result']:
     bmks = datetime.strptime(event['bmks'], '%Y年%m月%d日 %H:%M')
     bmjz = datetime.strptime(event['bmjz'], '%Y年%m月%d日 %H:%M')
@@ -114,6 +115,9 @@ for event in CN['data']['result']:
         event['status'] = 3 # 进行中
     else:
         event['status'] = 4 # 已结束
+
+# 按照状态排序 0 1 2 3 4
+CN['data']['result'] = sorted(CN['data']['result'], key=lambda x: x['status'])
 
 with open('./CN.json', 'w', encoding='utf-8') as f:
     json.dump(CN, f, ensure_ascii=False, indent=4)
