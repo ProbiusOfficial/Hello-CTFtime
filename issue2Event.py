@@ -1,5 +1,6 @@
 import re
 import json
+import datetime
 
 with open("temp", "r", encoding="utf-8") as f:
     issue_body = f.read()
@@ -16,6 +17,16 @@ def body2json(issue_body):
     for item in sections:
         if len(item) == 2:  
             key, vals = item[0].strip(), item[1].strip()
+            if "时间" in key:
+                date_formats = [
+                (r'\d{4}-\d{2}-\d{2} \d{2}:\d{2}', '%Y-%m-%d %H:%M'),
+                (r'\d{4}/\d{2}/\d{2} \d{2}:\d{2}', '%Y/%m/%d %H:%M'),
+                (r'\d{4}年\d{2}月\d{2}日 \d{2}:\d{2}', '%Y年%m月%d日 %H:%M')
+            ]
+                for pattern, date_format in date_formats:
+                    if re.match(pattern, vals):
+                        vals = datetime.datetime.strptime(vals, date_format).strftime('%Y年%m月%d日 %H:%M')
+                        break                
             if key == "比赛状态":
                 match = re.search(r'\d+', vals)
                 if match:
