@@ -109,6 +109,8 @@ def main():
     )
 
     # Generate Markdown content 先生成国内赛事
+    registration_md = "---\ncomments: true\n---\n# 正在报名\n\n## 国内赛事\n\n" + create_md_content(register_events, cn_template, "cn")
+
     now_running_md = "---\ncomments: true\n---\n# 正在进行\n\n## 国内赛事\n\n" + create_md_content(running_cn, cn_template, "cn") + "\n\n## 国际赛事\n\n" + create_md_content(running_global, global_template)
 
     upcoming_events_md = "---\ncomments: true\n---\n# 即将开始\n\n## 国内赛事\n\n" + create_md_content(upcoming_cn, cn_template, "cn") + "\n\n## 国际赛事\n\n" +  create_md_content(upcoming_global, global_template)
@@ -147,30 +149,52 @@ def main():
         "            **其他说明** : {readmore}  \n"
         "            "
     )
+    cn_template_index_register = (
+        '    ??? Abstract "{name}"  \n'
+        "        **比赛名称** : [{name}]({url})  \n"
+        "        **比赛类型** : {type}  \n"
+        "        **报名时间** : {bmks} - {bmjz}  \n"
+        "        **比赛时间** : {bsks} - {bsjs}  \n"
+        "        **其他说明** : {readmore}  \n"
+        "        "
+    )
 
+
+    register_events_md_index = """    === "点击右边标签查看比赛:"
+
+    !!! warning "健康比赛忠告"
+        抵制不良比赛，拒绝盗版比赛。注意自我保护，谨防受骗上当。  
+        适度CTF益脑，沉迷CTF伤身。合理安排时间，享受健康生活。
+
+=== "*正 在 报 名*"
+""" + create_md_content(register_events, cn_template_index_register, "cn")
+    
     now_running_md_index = """
-=== "*即将开始*"
+=== "*即 将 开 始*"
     === "国内赛事"
 """ + create_md_content(upcoming_cn, cn_template_index, "cn") + """
     === "国外赛事"
 """ + create_md_content(upcoming_global, global_template_index)
 
     upcoming_events_md_index = """
-=== "*正在进行*"
+=== "*正 在 进 行*"
     === "国内赛事"
 """ + create_md_content(running_cn, cn_template_index, "cn") + """
     === "国外赛事"
 """ + create_md_content(running_global, global_template_index)
     
     past_events_md_index = """
-=== "*已经结束*"
+=== "*已 经 结 束*"
     === "国内赛事"
 """ + create_md_content(past_cn, cn_template_index, "cn") + """
     === "国外赛事"
 """ + create_md_content(past_global, global_template_index)
 
     with open('Out/index.md', 'w', encoding='utf-8') as file:
-        file.write(now_running_md_index + upcoming_events_md_index + past_events_md_index)
+        # 在所有内容前加一个 Tab 缩进
+        content = register_events_md_index + now_running_md_index + upcoming_events_md_index + past_events_md_index
+        content = content.replace("\n", "\n    ")
+        file.write(content)
 
     print("Done!")
     
