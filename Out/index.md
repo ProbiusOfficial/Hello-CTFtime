@@ -1,6 +1,20 @@
 
 === "*即将开始*"
     === "国内赛事"
+        ??? Abstract "NSSCTF Round#18 Basic"  
+            **比赛名称** : [NSSCTF Round#18 Basic](https://www.nssctf.cn/contest/317/)  
+            **比赛类型** : 个人赛  
+            **报名时间** : 2024-02-14 09:30 - 2024-02-14 17:30  
+            **比赛时间** : 2024-02-14 09:30 - 2024-02-14 17:30  
+            **其他说明** : QQ群：521330139  
+            
+        ??? Abstract "VNCTF 2024"  
+            **比赛名称** : [VNCTF 2024](待定)  
+            **比赛类型** : 个人赛  
+            **报名时间** : 2023年02月18日 21:00 - 2024年02月17日 20:00  
+            **比赛时间** : 2024年02月17日 08:00 - 2024年02月17日 20:00  
+            **其他说明** : V&N 联合战队招新赛，赛事QQ群：717513199  
+            
         ??? Abstract "第一届“长城杯”信息安全铁人三项赛初赛"  
             **比赛名称** : [第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)  
             **比赛类型** : 团队赛|1-4人  
@@ -132,9 +146,9 @@
             **赛事主办** : bi0s (https://ctftime.org/team/662)  
             **添加日历** : https://ctftime.org/event/2117.ics  
             
-        ??? Abstract "[osu!gaming CTF 2024](https://osugamingctf.lol/)"  
-            [![](https://ctftime.org/media/events/unknown_1.png){ width="200" align=left }](https://osugamingctf.lol/)  
-            **比赛名称** : [osu!gaming CTF 2024](https://osugamingctf.lol/)  
+        ??? Abstract "[osu!gaming CTF 2024](https://www.osugaming.lol/)"  
+            [![](https://ctftime.org/media/events/unknown_1.png){ width="200" align=left }](https://www.osugaming.lol/)  
+            **比赛名称** : [osu!gaming CTF 2024](https://www.osugaming.lol/)  
             **比赛形式** : Jeopardy  
             **比赛时间** : 2024-03-02 01:00:00 - 2024-03-04 01:00:00 UTC+8  
             **比赛权重** : 0.00  
@@ -412,15 +426,6 @@
             **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
             **添加日历** : https://ctftime.org/event/2178.ics  
             
-        ??? Abstract "[L3HCTF 2024](https://l3hctf2024.xctf.org.cn/)"  
-            [![](https://ctftime.org){ width="200" align=left }](https://l3hctf2024.xctf.org.cn/)  
-            **比赛名称** : [L3HCTF 2024](https://l3hctf2024.xctf.org.cn/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-02-03 09:00:00 - 2024-02-05 09:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : L3H Sec (https://ctftime.org/team/75946)  
-            **添加日历** : https://ctftime.org/event/2236.ics  
-            
 === "*已经结束*"
     === "国内赛事"
         ??? Abstract "第二届红桥杯渗透测试挑战赛"  
@@ -525,6 +530,15 @@
             **比赛权重** : 9.64  
             **赛事主办** : CYB3R_T3N4CI0US (https://ctftime.org/team/160305)  
             **添加日历** : https://ctftime.org/event/2213.ics  
+            
+        ??? Abstract "[L3HCTF 2024](https://l3hctf2024.xctf.org.cn/)"  
+            [![](https://ctftime.org){ width="200" align=left }](https://l3hctf2024.xctf.org.cn/)  
+            **比赛名称** : [L3HCTF 2024](https://l3hctf2024.xctf.org.cn/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-02-03 09:00:00 - 2024-02-05 09:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : L3H Sec (https://ctftime.org/team/75946)  
+            **添加日历** : https://ctftime.org/event/2236.ics  
             
         ??? Abstract "[DiceCTF 2024 Quals](https://ctf.dicega.ng/)"  
             [![](https://ctftime.org/media/events/dicectf_2_1.png){ width="200" align=left }](https://ctf.dicega.ng/)  
@@ -1398,13 +1412,4 @@
             **比赛权重** : 22.45  
             **赛事主办** : OWASP_PCCOE-CORE (https://ctftime.org/team/206360)  
             **添加日历** : https://ctftime.org/event/2141.ics  
-            
-        ??? Abstract "[3st stage MetaRed CTF Argentina|CERTUNLP 2023](https://ctf.cert.unlp.edu.ar/)"  
-            [![](https://ctftime.org){ width="200" align=left }](https://ctf.cert.unlp.edu.ar/)  
-            **比赛名称** : [3st stage MetaRed CTF Argentina|CERTUNLP 2023](https://ctf.cert.unlp.edu.ar/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2023-10-25 19:00:00 - 2023-10-26 19:00:00 UTC+8  
-            **比赛权重** : 6.67  
-            **赛事主办** : CERTUNLP (https://ctftime.org/team/89294)  
-            **添加日历** : https://ctftime.org/event/2107.ics  
             
