@@ -92,5 +92,30 @@ with open('Global.json', 'w', encoding='utf-8') as file:
 
 print("国际赛事数据已更新至Global.json")
 
-# 国内赛事更新
+# 国内赛事状态更新
+
+with open('./CN.json', 'r', encoding='utf-8') as f:
+    CN = json.load(f)
+
+date = datetime.now() + timedelta(hours=8)
+
+for event in CN['data']['result']:
+    bmks = datetime.strptime(event['bmks'], '%Y年%m月%d日 %H:%M')
+    bmjz = datetime.strptime(event['bmjz'], '%Y年%m月%d日 %H:%M')
+    bsks = datetime.strptime(event['bsks'], '%Y年%m月%d日 %H:%M')
+    bsjs = datetime.strptime(event['bsjs'], '%Y年%m月%d日 %H:%M')
+    if date < bmks:
+        event['status'] = 0 # 未开始
+    elif date < bmjz:
+        event['status'] = 1 # 报名中
+    elif date < bsks:
+        event['status'] = 2 # 报名结束
+    elif date < bsjs:
+        event['status'] = 3 # 进行中
+    else:
+        event['status'] = 4 # 已结束
+
+with open('./CN.json', 'w', encoding='utf-8') as f:
+    json.dump(CN, f, ensure_ascii=False, indent=4)
+
     
