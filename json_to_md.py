@@ -141,7 +141,7 @@ def main():
         "            "
     )
     cn_template_index = (
-        '        ??? Abstract "{name}"  \n'
+        '        ??? Abstract "[{name}]({url})"  \n'
         "            **比赛名称** : [{name}]({url})  \n"
         "            **比赛类型** : {type}  \n"
         "            **报名时间** : {bmks} - {bmjz}  \n"
@@ -150,7 +150,7 @@ def main():
         "            "
     )
     cn_template_index_register = (
-        '    ??? Abstract "{name}"  \n'
+        '    ??? Abstract "[{name}]({url})"  \n'
         "        **比赛名称** : [{name}]({url})  \n"
         "        **比赛类型** : {type}  \n"
         "        **报名时间** : {bmks} - {bmjz}  \n"
