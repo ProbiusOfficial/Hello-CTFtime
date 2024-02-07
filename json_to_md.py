@@ -160,31 +160,31 @@ def main():
     )
 
 
-    register_events_md_index = """    === "点击右边标签查看比赛:"
+    register_events_md_index = """    === "查看比赛:"
 
     !!! warning "健康比赛忠告"
         抵制不良比赛，拒绝盗版比赛。注意自我保护，谨防受骗上当。  
         适度CTF益脑，沉迷CTF伤身。合理安排时间，享受健康生活。
 
-=== "*正 在 报 名*"
+=== "*正在报名*"
 """ + create_md_content(register_events, cn_template_index_register, "cn")
     
     now_running_md_index = """
-=== "*即 将 开 始*"
+=== "*即将开始*"
     === "国内赛事"
 """ + create_md_content(upcoming_cn, cn_template_index, "cn") + """
     === "国外赛事"
 """ + create_md_content(upcoming_global, global_template_index)
 
     upcoming_events_md_index = """
-=== "*正 在 进 行*"
+=== "*正在进行*"
     === "国内赛事"
 """ + create_md_content(running_cn, cn_template_index, "cn") + """
     === "国外赛事"
 """ + create_md_content(running_global, global_template_index)
     
     past_events_md_index = """
-=== "*已 经 结 束*"
+=== "*已经结束*"
     === "国内赛事"
 """ + create_md_content(past_cn, cn_template_index, "cn") + """
     === "国外赛事"
