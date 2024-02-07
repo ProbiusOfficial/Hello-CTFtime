@@ -1,10 +1,10 @@
-    === "点击右边标签查看比赛:"
+    === "查看比赛:"
     
         !!! warning "健康比赛忠告"
             抵制不良比赛，拒绝盗版比赛。注意自我保护，谨防受骗上当。  
             适度CTF益脑，沉迷CTF伤身。合理安排时间，享受健康生活。
     
-    === "*正 在 报 名*"
+    === "*正在报名*"
         ??? Abstract "[青少年CTF擂台挑战赛 2024 #Round 1](https://www.qsnctf.com/#/main/race-center/race-guide?id=11)"  
             **比赛名称** : [青少年CTF擂台挑战赛 2024 #Round 1](https://www.qsnctf.com/#/main/race-center/race-guide?id=11)  
             **比赛类型** : 团队赛|1-4人  
@@ -40,7 +40,7 @@
             **比赛时间** : 2024年02月16日 09:00 - 2024年02月18日 18:00  
             **其他说明** : 比赛QQ群：737732413  本次比赛采用CTF赛制，题目难度两级分化，无论是刚刚入门的萌新还是轻车熟路的大神，都可以快速找到属于你的比赛乐趣哦~  
             
-    === "*即 将 开 始*"
+    === "*即将开始*"
         === "国内赛事"
             ??? Abstract "[青少年CTF擂台挑战赛 2024 #Round 1](https://www.qsnctf.com/#/main/race-center/race-guide?id=11)"  
                 **比赛名称** : [青少年CTF擂台挑战赛 2024 #Round 1](https://www.qsnctf.com/#/main/race-center/race-guide?id=11)  
@@ -427,7 +427,7 @@
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/2211.ics  
                 
-    === "*正 在 进 行*"
+    === "*正在进行*"
         === "国内赛事"
             ??? Abstract "[HGAME2024网络攻防大赛](https://hgame.vidar.club)"  
                 **比赛名称** : [HGAME2024网络攻防大赛](https://hgame.vidar.club)  
@@ -446,7 +446,7 @@
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-    === "*已 经 结 束*"
+    === "*已经结束*"
         === "国内赛事"
             ??? Abstract "[第二届BeginCTF](http://47.100.169.26/)"  
                 **比赛名称** : [第二届BeginCTF](http://47.100.169.26/)  
