@@ -197,7 +197,21 @@ def main():
         file.write(content)
 
     print("Done!")
+
+    # 根据比赛时间排序，国内国外分别生成最近的四场比赛并且输出为home.md
+    upcoming_cn.sort(key=lambda x: x['bsks'])
+    upcoming_global.sort(key=lambda x: x['比赛时间'])
+    upcoming_cn = upcoming_cn[:4]
+    upcoming_global = upcoming_global[:4]
+    upcoming_cn_md = """    === "国内比赛"
+""" + create_md_content(upcoming_cn, cn_template_index, "cn")
     
+    upcoming_global_md = """    
+    === "国外比赛"
+""" + create_md_content(upcoming_global, global_template_index)
+    with open('Out/home.md', 'w', encoding='utf-8') as file:
+        content = upcoming_cn_md + upcoming_global_md
+        file.write(content)
     
 if __name__ == "__main__":
     main()
