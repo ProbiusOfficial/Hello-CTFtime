@@ -88,7 +88,7 @@ def main():
 
     # Markdown templates
     global_template = (
-        '??? Abstract "[{比赛名称}]({比赛链接})"  \n'
+        '??? Quote "[{比赛名称}]({比赛链接})"  \n'
         "    [![]({比赛标志}){{ width=\"200\" align=left }}]({比赛链接})  \n"
         "    **比赛名称** : [{比赛名称}]({比赛链接})  \n"
         "    **比赛形式** : {比赛形式}  \n"
@@ -99,7 +99,7 @@ def main():
         "    "
     )
     cn_template = (
-        '??? Abstract "{name}"  \n'
+        '??? Quote "{name}"  \n'
         "    **比赛名称** : [{name}]({url})  \n"
         "    **比赛类型** : {type}  \n"
         "    **报名时间** : {bmks} - {bmjz}  \n"
@@ -130,7 +130,7 @@ def main():
 
     # 生成index.md
     global_template_index = (
-        '        ??? Abstract "[{比赛名称}]({比赛链接})"  \n'
+        '        ??? Quote "[{比赛名称}]({比赛链接})"  \n'
         "            [![]({比赛标志}){{ width=\"200\" align=left }}]({比赛链接})  \n"
         "            **比赛名称** : [{比赛名称}]({比赛链接})  \n"
         "            **比赛形式** : {比赛形式}  \n"
@@ -141,7 +141,7 @@ def main():
         "            "
     )
     cn_template_index = (
-        '        ??? Abstract "[{name}]({url})"  \n'
+        '        ??? Quote "[{name}]({url})"  \n'
         "            **比赛名称** : [{name}]({url})  \n"
         "            **比赛类型** : {type}  \n"
         "            **报名时间** : {bmks} - {bmjz}  \n"
@@ -150,7 +150,7 @@ def main():
         "            "
     )
     cn_template_index_register = (
-        '    ??? Abstract "[{name}]({url})"  \n'
+        '    ??? Quote "[{name}]({url})"  \n'
         "        **比赛名称** : [{name}]({url})  \n"
         "        **比赛类型** : {type}  \n"
         "        **报名时间** : {bmks} - {bmjz}  \n"
