@@ -441,7 +441,7 @@
         "比赛权重": "0",
         "赛事主办": "C4T BuT S4D (https://ctftime.org/team/83435)",
         "比赛ID": "436",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "0xL4ugh CTF 2024",
@@ -1629,18 +1629,6 @@
         "比赛权重": "24.61",
         "赛事主办": "Blue Hens (https://ctftime.org/team/64660)",
         "比赛ID": "603",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "FE-CTF 2023: The UniPwnie Experience",
-        "比赛时间": "2023-10-27 19:37:00 - 2023-10-29 20:37:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/1979.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://fe-ctf.dk/",
-        "比赛标志": "https://ctftime.org/media/events/UNI-PWNIE_logo.png",
-        "比赛权重": "25.00",
-        "赛事主办": "FE-CTF (https://ctftime.org/team/200558)",
-        "比赛ID": "846",
         "比赛状态": "past"
     }
 ]
