@@ -486,7 +486,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://l3hctf2024.xctf.org.cn/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
+        "比赛权重": "25.00",
         "赛事主办": "L3H Sec (https://ctftime.org/team/75946)",
         "比赛ID": "701",
         "比赛状态": "past"
