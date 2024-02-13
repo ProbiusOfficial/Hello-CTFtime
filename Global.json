@@ -480,18 +480,6 @@
         "比赛状态": "oncoming"
     },
     {
-        "比赛名称": "AkaSec CTF 2024",
-        "比赛时间": "2024-06-05 21:37:00 - 2024-06-07 21:37:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2222.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "",
-        "比赛标志": "https://ctftime.org/media/events/akasec_icon-15.png",
-        "比赛权重": "0.00",
-        "赛事主办": "AkaSec (https://ctftime.org/team/107202)",
-        "比赛ID": "1047",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "GPN CTF 2024",
         "比赛时间": "2024-06-07 18:00:00 - 2024-06-09 06:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2257.ics",
@@ -501,6 +489,18 @@
         "比赛权重": "31.17",
         "赛事主办": "KITCTF (https://ctftime.org/team/7221)",
         "比赛ID": "854",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "AkaSec CTF 2024",
+        "比赛时间": "2024-06-07 21:37:00 - 2024-06-09 21:37:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2222.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "",
+        "比赛标志": "https://ctftime.org/media/events/akasec_icon-15.png",
+        "比赛权重": "0.00",
+        "赛事主办": "AkaSec (https://ctftime.org/team/107202)",
+        "比赛ID": "1047",
         "比赛状态": "oncoming"
     },
     {
