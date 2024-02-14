@@ -58,17 +58,6 @@
                 "status": 2
             },
             {
-                "name": "NSSCTF Round#18 Basic",
-                "link": "https://www.nssctf.cn/contest/317/",
-                "type": "团队赛|1-3人",
-                "bmks": "2024年02月06日 09:30",
-                "bmjz": "2024年02月14日 09:30",
-                "bsks": "2024年02月14日 09:30",
-                "bsjs": "2024年02月14日 17:30",
-                "readmore": "QQ群：521330139",
-                "status": 3
-            },
-            {
                 "name": "HGAME2024网络攻防大赛",
                 "link": "https://hgame.vidar.club",
                 "type": "个人赛",
@@ -78,6 +67,17 @@
                 "bsjs": "2024年02月27日 20:00",
                 "readmore": "QQ群：134591168 \r\n适合新手参加",
                 "status": 3
+            },
+            {
+                "name": "NSSCTF Round#18 Basic",
+                "link": "https://www.nssctf.cn/contest/317/",
+                "type": "团队赛|1-3人",
+                "bmks": "2024年02月06日 09:30",
+                "bmjz": "2024年02月14日 09:30",
+                "bsks": "2024年02月14日 09:30",
+                "bsjs": "2024年02月14日 17:30",
+                "readmore": "QQ群：521330139",
+                "status": 4
             },
             {
                 "name": "第二届BeginCTF",
