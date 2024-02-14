@@ -139,12 +139,12 @@ CN['data']['result'] = sorted(CN['data']['result'], key=lambda x: x['status'])
 with open('./CN.json', 'w', encoding='utf-8') as f:
     json.dump(CN, f, ensure_ascii=False, indent=4)
 
-# 生成国内国外比赛的日历订阅内容
+# 生成国内比赛的日历订阅内容
 def create_CN_ical_event(event):
     start_date = datetime.strptime(event['bsks'], '%Y年%m月%d日 %H:%M')
     finish_date = datetime.strptime(event['bsjs'], '%Y年%m月%d日 %H:%M')
-    start_date_utc8 = start_date + timedelta(hours=8)
-    finish_date_utc8 = finish_date + timedelta(hours=8)
+    start_date_utc8 = start_date
+    finish_date_utc8 = finish_date
     eventData= {
                 'BEGIN':'VEVENT',
                 'SUMMARY':event['name'],
@@ -159,6 +159,8 @@ def create_CN_ical_event(event):
                 'END':'VEVENT'
             }
     return eventData
+
+# 生成国外比赛的日历订阅内容
 
 def create_Global_ical_event(event):
     start_date = event['比赛时间'].split(' - ')[0]
