@@ -141,8 +141,8 @@ with open('./CN.json', 'w', encoding='utf-8') as f:
 
 # 生成国内比赛的日历订阅内容
 def create_CN_ical_event(event):
-    start_date = datetime.strptime(event['bsks'], '%Y年%m月%d日 %H:%M')
-    finish_date = datetime.strptime(event['bsjs'], '%Y年%m月%d日 %H:%M')
+    start_date = datetime.strptime(event['bsks'], '%Y年%m月%d日 %H:%M') - timedelta(hours=8)
+    finish_date = datetime.strptime(event['bsjs'], '%Y年%m月%d日 %H:%M') - timedelta(hours=8)
     start_date_utc8 = start_date
     finish_date_utc8 = finish_date
     eventData= {
@@ -165,8 +165,8 @@ def create_CN_ical_event(event):
 def create_Global_ical_event(event):
     start_date = event['比赛时间'].split(' - ')[0]
     finish_date = event['比赛时间'].split(' - ')[1].replace(' UTC+8', '')
-    start_date = datetime.strptime(start_date, '%Y-%m-%d %H:%M:%S')
-    finish_date = datetime.strptime(finish_date, '%Y-%m-%d %H:%M:%S')
+    start_date = datetime.strptime(start_date, '%Y-%m-%d %H:%M:%S') - timedelta(hours=8)
+    finish_date = datetime.strptime(finish_date, '%Y-%m-%d %H:%M:%S') - timedelta(hours=8)
     eventData= {
                 'BEGIN':'VEVENT',
                 'SUMMARY':event['比赛名称'],
@@ -206,6 +206,7 @@ for event in all_events:
 
 with open('./calendar/Global.ics', 'w', encoding='utf-8') as f:
     f.write('BEGIN:VCALENDAR\n')
+    f.write('TZID:Asia/Shanghai\n')
     f.write('VERSION:2.0\n')
     f.write('PRODID:-//CTF//Global//\n')
     f.write('CALSCALE:GREGORIAN\n')
