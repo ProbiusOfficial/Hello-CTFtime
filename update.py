@@ -217,3 +217,17 @@ with open('./calendar/Global.ics', 'w', encoding='utf-8') as f:
         f.write('\n')
     f.write('END:VCALENDAR')
 
+# 将Global.json 和 CN.json 通过Base64编码后存储为 Global.b64 以供大陆用户使用
+with open('Global.json', 'r', encoding='utf-8') as f:
+    Global = f.read()
+    Global = Global.encode('utf-8')
+    Global = Global.hex()
+    with open('Global.b64', 'w', encoding='utf-8') as f:
+        f.write(Global)
+
+with open('CN.json', 'r', encoding='utf-8') as f:
+    CN = f.read()
+    CN = CN.encode('utf-8')
+    CN = CN.hex()
+    with open('CN.b64', 'w', encoding='utf-8') as f:
+        f.write(CN)
