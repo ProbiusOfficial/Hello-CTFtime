@@ -6,6 +6,7 @@ import json
 import hashlib
 import re
 
+flag = True
 # 国外赛事更新:
 
 rssUpcoming = 'https://ctftime.org/event/list/upcoming/rss/'
@@ -19,6 +20,8 @@ def fetch_global_ctf_content(rss_url):
         feedTitle = feed['feed']['title']
     except KeyError:
         print('RSS源解析失败，请检查URL是否正确')
+        flag = False
+        return False
 
     for entry in feed.entries:
 
@@ -88,12 +91,17 @@ def fetch_global_ctf_content(rss_url):
 upcoming_events = fetch_global_ctf_content(rssUpcoming)
 active_events = fetch_global_ctf_content(rssActive)
 running_events = fetch_global_ctf_content(rssNowrunning)
+all_events = None
 
-all_events = upcoming_events + running_events + active_events 
-with open('Global.json', 'w', encoding='utf-8') as file:
-    json.dump(all_events, file, ensure_ascii=False, indent=4)
+if flag:
+    all_events = upcoming_events + running_events + active_events
+    with open('Global.json', 'w', encoding='utf-8') as file:
+        json.dump(all_events, file, ensure_ascii=False, indent=4)
+    print("国际赛事数据已更新至Global.json")
 
-print("国际赛事数据已更新至Global.json")
+else:
+    print("国际赛事数据更新失败")
+
 
 # 国内赛事状态更新
 
@@ -140,6 +148,10 @@ CN['data']['result'] = sorted(CN['data']['result'], key=lambda x: x['status'])
 with open('./CN.json', 'w', encoding='utf-8') as f:
     json.dump(CN, f, ensure_ascii=False, indent=4)
 
+if all_events == None:
+    with open('Global.json', 'r', encoding='utf-8') as f:
+        all_events = json.load(f)
+        
 # 生成国内比赛的日历订阅内容
 def create_CN_ical_event(event):
     start_date = datetime.strptime(event['bsks'], '%Y年%m月%d日 %H:%M') - timedelta(hours=8)
