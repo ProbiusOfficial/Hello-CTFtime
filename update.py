@@ -231,4 +231,4 @@ with open('CN.json', 'r', encoding='utf-8') as f:
     CN = CN.encode('utf-8')
     CN = base64.b64encode(CN).decode('utf-8')
     with open('CN.b64', 'w', encoding='utf-8') as f:
-        f.write(CN)
+        f.write(CN) 
