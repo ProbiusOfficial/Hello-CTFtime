@@ -93,12 +93,11 @@ active_events = fetch_global_ctf_content(rssActive)
 running_events = fetch_global_ctf_content(rssNowrunning)
 all_events = None
 
-if flag:
+if False not in [upcoming_events, active_events, running_events]:
     all_events = upcoming_events + running_events + active_events
     with open('Global.json', 'w', encoding='utf-8') as file:
         json.dump(all_events, file, ensure_ascii=False, indent=4)
     print("国际赛事数据已更新至Global.json")
-
 else:
     print("国际赛事数据更新失败")
 
