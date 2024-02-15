@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta
 import feedparser
 import requests
+import base64
 import json
 import hashlib
 import re
@@ -221,13 +222,13 @@ with open('./calendar/Global.ics', 'w', encoding='utf-8') as f:
 with open('Global.json', 'r', encoding='utf-8') as f:
     Global = f.read()
     Global = Global.encode('utf-8')
-    Global = Global.hex()
+    Global = base64.b64encode(Global).decode('utf-8')
     with open('Global.b64', 'w', encoding='utf-8') as f:
         f.write(Global)
 
 with open('CN.json', 'r', encoding='utf-8') as f:
     CN = f.read()
     CN = CN.encode('utf-8')
-    CN = CN.hex()
+    CN = base64.b64encode(CN).decode('utf-8')
     with open('CN.b64', 'w', encoding='utf-8') as f:
         f.write(CN)
