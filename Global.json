@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "BITSCTF 2024",
-        "比赛时间": "2024-02-16 02:30:00 - 2024-02-18 02:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2235.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.bitskrieg.org/",
-        "比赛标志": "https://ctftime.org/media/events/bitskrieg.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "BITSkrieg (https://ctftime.org/team/22310)",
-        "比赛ID": "182",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "SAIBORG - Elite Hacking Competition",
-        "比赛时间": "2024-02-16 12:00:00 - 2024-02-16 18:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2147.ics",
-        "比赛形式": "Hack quest",
-        "比赛链接": "https://www.saiborg.io/",
-        "比赛标志": "https://ctftime.org/media/events/saiborg-profile.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "Saiborg (https://ctftime.org/team/271868)",
-        "比赛ID": "1009",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "LA CTF 2024",
         "比赛时间": "2024-02-17 12:00:00 - 2024-02-19 06:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2102.ics",
@@ -256,7 +232,7 @@
         "比赛时间": "2024-03-24 00:00:00 - 2024-03-25 00:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2230.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://www.jerseyctf.com/",
+        "比赛链接": "https://ctf.jerseyctf.com/",
         "比赛标志": "https://ctftime.org/media/events/lock.png",
         "比赛权重": "21.26",
         "赛事主办": "Highlander Hackers (https://ctftime.org/team/173925)",
@@ -598,6 +574,30 @@
         "赛事主办": "Exherbo GNU/Linux (https://ctftime.org/team/275214)",
         "比赛ID": "1027",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "BITSCTF 2024",
+        "比赛时间": "2024-02-16 02:30:00 - 2024-02-18 02:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2235.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.bitskrieg.org/",
+        "比赛标志": "https://ctftime.org/media/events/bitskrieg.jpg",
+        "比赛权重": "0",
+        "赛事主办": "BITSkrieg (https://ctftime.org/team/22310)",
+        "比赛ID": "182",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "SAIBORG - Elite Hacking Competition",
+        "比赛时间": "2024-02-16 12:00:00 - 2024-02-16 18:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2147.ics",
+        "比赛形式": "Hack quest",
+        "比赛链接": "https://www.saiborg.io/",
+        "比赛标志": "https://ctftime.org/media/events/saiborg-profile.jpg",
+        "比赛权重": "0.00",
+        "赛事主办": "Saiborg (https://ctftime.org/team/271868)",
+        "比赛ID": "1009",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "GoldCTF 2024",
@@ -1785,18 +1785,6 @@
         "比赛权重": "25.00",
         "赛事主办": "paradigm.xyz (https://ctftime.org/team/144256)",
         "比赛ID": "592",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "SpookyCTF 2023",
-        "比赛时间": "2023-10-28 07:00:00 - 2023-10-29 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2137.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://spooky.ctfd.io/",
-        "比赛标志": "https://ctftime.org/media/events/spookyctf.jpg",
-        "比赛权重": "22.40",
-        "赛事主办": "NICC (https://ctftime.org/team/214936)",
-        "比赛ID": "987",
         "比赛状态": "past"
     }
 ]
