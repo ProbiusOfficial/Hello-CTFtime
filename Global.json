@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "BroncoCTF 2024",
-        "比赛时间": "2024-02-18 03:00:00 - 2024-02-19 03:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2261.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://broncoctf.xyz/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0.00",
-        "赛事主办": "BroncoSec (https://ctftime.org/team/112673)",
-        "比赛ID": "1017",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "BraekerCTF",
         "比赛时间": "2024-02-23 20:00:00 - 2024-02-25 00:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2181.ics",
@@ -564,18 +552,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "BITSCTF 2024",
-        "比赛时间": "2024-02-16 02:30:00 - 2024-02-18 02:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2235.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.bitskrieg.org/",
-        "比赛标志": "https://ctftime.org/media/events/bitskrieg.jpg",
-        "比赛权重": "0",
-        "赛事主办": "BITSkrieg (https://ctftime.org/team/22310)",
-        "比赛ID": "182",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "LA CTF 2024",
         "比赛时间": "2024-02-17 12:00:00 - 2024-02-19 06:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2102.ics",
@@ -588,6 +564,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "BroncoCTF 2024",
+        "比赛时间": "2024-02-18 03:00:00 - 2024-02-19 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2261.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://broncoctf.xyz/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0",
+        "赛事主办": "BroncoSec (https://ctftime.org/team/112673)",
+        "比赛ID": "1017",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "SAIBORG - Elite Hacking Competition",
         "比赛时间": "2024-02-16 12:00:00 - 2024-02-16 18:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2147.ics",
@@ -597,6 +585,18 @@
         "比赛权重": "0.00",
         "赛事主办": "Saiborg (https://ctftime.org/team/271868)",
         "比赛ID": "1009",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "BITSCTF 2024",
+        "比赛时间": "2024-02-16 02:30:00 - 2024-02-18 02:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2235.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.bitskrieg.org/",
+        "比赛标志": "https://ctftime.org/media/events/bitskrieg.jpg",
+        "比赛权重": "0",
+        "赛事主办": "BITSkrieg (https://ctftime.org/team/22310)",
+        "比赛ID": "182",
         "比赛状态": "past"
     },
     {
@@ -1773,18 +1773,6 @@
         "比赛权重": "23.80",
         "赛事主办": "Azure Assassin Alliance (https://ctftime.org/team/4070)",
         "比赛ID": "800",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Paradigm CTF 2023",
-        "比赛时间": "2023-10-28 08:00:00 - 2023-10-30 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2151.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.paradigm.xyz/",
-        "比赛标志": "https://ctftime.org/media/events/CTF.png",
-        "比赛权重": "25.00",
-        "赛事主办": "paradigm.xyz (https://ctftime.org/team/144256)",
-        "比赛ID": "592",
         "比赛状态": "past"
     }
 ]
