@@ -573,7 +573,7 @@
         "比赛权重": "0",
         "赛事主办": "BroncoSec (https://ctftime.org/team/112673)",
         "比赛ID": "1017",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "SAIBORG - Elite Hacking Competition",
@@ -1761,18 +1761,6 @@
         "比赛权重": "24.17",
         "赛事主办": "Srdnlen (https://ctftime.org/team/83421)",
         "比赛ID": "840",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Azure Assassin Alliance CTF 2023",
-        "比赛时间": "2023-10-28 09:00:00 - 2023-10-30 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2104.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://actf2023.xctf.org.cn/",
-        "比赛标志": "https://ctftime.org/media/events/AAA-smaller.bmp.png",
-        "比赛权重": "23.80",
-        "赛事主办": "Azure Assassin Alliance (https://ctftime.org/team/4070)",
-        "比赛ID": "800",
         "比赛状态": "past"
     }
 ]
