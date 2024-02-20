@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "HelloCTF2024",
+                "link": "https://hello-ctf.com/",
+                "type": "个人赛",
+                "bmks": "1",
+                "bmjz": "1",
+                "bsks": "1",
+                "bsjs": "1",
+                "readmore": "1",
+                "status": 0
+            },
+            {
                 "name": "DubheCTF 2024",
                 "link": "https://adworld.xctf.org.cn/contest/assess?hash=94938be6-ce42-11ee-ab28-000c29bc20bf",
                 "type": "团队赛 | 1-n",
