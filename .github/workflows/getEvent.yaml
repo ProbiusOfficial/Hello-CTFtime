@@ -50,6 +50,7 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
+            -H "User-Agent: Webhook" \ 
             https://api.github.com/repos/ProbiusOfficial/Hello-CTF/dispatches \
             -d '{"event_type":"Hello-CTFTime","client_payload":{"unit":false,"integration":true}}'
 
