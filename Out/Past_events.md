@@ -147,6 +147,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[WxMCTF 2024](https://ctf.mcpt.ca/contest/wxmctf)"  
+    [![](https://ctftime.org/media/events/Logo_thing_1.png){ width="200" align=left }](https://ctf.mcpt.ca/contest/wxmctf)  
+    **比赛名称** : [WxMCTF 2024](https://ctf.mcpt.ca/contest/wxmctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-03-09 08:00:00 - 2024-03-11 07:00:00 UTC+8  
+    **比赛权重** : 23.59  
+    **赛事主办** : X Series CTF (https://ctftime.org/team/211390)  
+    **添加日历** : https://ctftime.org/event/2179.ics  
+    
 ??? Quote "[HackDay 2024 - Finals](https://www.hackday.fr/)"  
     [![](https://ctftime.org/media/events/CREA_LOGO_Blason_Espion_1.png){ width="200" align=left }](https://www.hackday.fr/)  
     **比赛名称** : [HackDay 2024 - Finals](https://www.hackday.fr/)  
@@ -1037,13 +1046,4 @@ comments: true
     **比赛权重** : 71.71  
     **赛事主办** : HackerDom (https://ctftime.org/team/552)  
     **添加日历** : https://ctftime.org/event/2120.ics  
-    
-??? Quote "[Oscar Zulu OSINT CTF Disparue(s)](https://ctfisended.old/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://ctfisended.old/)  
-    **比赛名称** : [Oscar Zulu OSINT CTF Disparue(s)](https://ctfisended.old/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2023-11-04 17:00:00 - 2024-01-01 17:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : OSCAR ZULU (https://ctftime.org/team/270624)  
-    **添加日历** : https://ctftime.org/event/2154.ics  
     
