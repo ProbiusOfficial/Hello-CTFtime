@@ -56,6 +56,17 @@
                 "bsjs": "2024年01月17日 10:00",
                 "readmore": "",
                 "status": 4
+            },
+            {
+                "name": "春秋杯网络安全联赛冬季赛",
+                "link": "https://endbm.ichunqiu.com/2023cqgames2",
+                "type": "个人赛CTF+RDG",
+                "bmks": "2023年12月18日 00:00",
+                "bmjz": "2024年01月22日 17:00",
+                "bsks": "2024年01月20日 10:00",
+                "bsjs": "2024年01月22日 18:00",
+                "readmore": "赛事QQ群：277328440",
+                "status": 4
             }
         ],
         "msg": ""
