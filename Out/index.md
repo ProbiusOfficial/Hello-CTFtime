@@ -699,7 +699,7 @@
                 **比赛名称** : [Undutmaning 2024](https://undutmaning.se/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-03-23 20:00:00 - 2024-03-24 04:00:00 UTC+8  
-                **比赛权重** : 24.40  
+                **比赛权重** : 24.50  
                 **赛事主办** : Undutmaning (https://ctftime.org/team/212504)  
                 **添加日历** : https://ctftime.org/event/2283.ics  
                 
@@ -879,7 +879,7 @@
                 **比赛名称** : [osu!gaming CTF 2024](https://www.osugaming.lol/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-03-02 01:00:00 - 2024-03-04 01:00:00 UTC+8  
-                **比赛权重** : 23.93  
+                **比赛权重** : 23.81  
                 **赛事主办** : osu!gaming (https://ctftime.org/team/186954)  
                 **添加日历** : https://ctftime.org/event/2165.ics  
                 
