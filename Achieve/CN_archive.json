@@ -155,6 +155,17 @@
                 "bsjs": "2024年02月05日 09:00",
                 "readmore": "QQ群：512066352",
                 "status": 4
+            },
+            {
+                "name": "zkCTF",
+                "link": "https://zkctf.scalebit.xyz",
+                "type": "个人赛 | WEB3",
+                "bmks": "2024年01月16日 00:00",
+                "bmjz": "2024年02月05日 09:00",
+                "bsks": "2024年02月03日 09:00",
+                "bsjs": "2024年02月05日 09:00",
+                "readmore": "TG官方群：https://t.me/ScaleBitAudit",
+                "status": 4
             }
         ],
         "msg": ""
