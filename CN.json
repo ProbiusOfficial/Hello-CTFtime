@@ -3,17 +3,6 @@
     "data": {
         "result": [
             {
-                "name": "GEEK CTF 2024",
-                "link": "https://geekctf.geekcon.top/",
-                "type": "个人赛 | Jeopardy",
-                "bmks": "2024年04月05日 18:00",
-                "bmjz": "2024年04月05日 19:00",
-                "bsks": "2024年04月05日 20:00",
-                "bsjs": "2024年04月14日 20:00",
-                "readmore": "https://discord.gg/dWvBrfwAmF",
-                "status": 3
-            },
-            {
                 "name": "第二届数据安全大赛暨首届“数信杯”数据安全大赛",
                 "link": "https://shuxinbei.ichunqiu.com/",
                 "type": "团队赛|1-3人",
@@ -23,6 +12,17 @@
                 "bsjs": "2024年05月02日 00:00",
                 "readmore": "比赛时间未定",
                 "status": 1
+            },
+            {
+                "name": "GEEK CTF 2024",
+                "link": "https://geekctf.geekcon.top/",
+                "type": "个人赛 | Jeopardy",
+                "bmks": "2024年04月05日 18:00",
+                "bmjz": "2024年04月05日 19:00",
+                "bsks": "2024年04月05日 20:00",
+                "bsjs": "2024年04月14日 20:00",
+                "readmore": "https://discord.gg/dWvBrfwAmF",
+                "status": 3
             },
             {
                 "name": "XYCTF高校新生联合赛 2024",
