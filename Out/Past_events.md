@@ -93,6 +93,15 @@ comments: true
     **赛事主办** : Challenge the Cyber (https://ctftime.org/team/181210)  
     **添加日历** : https://ctftime.org/event/2277.ics  
     
+??? Quote "[Midnight Sun CTF 2024 Quals](https://midnightsunctf.com/)"  
+    [![](https://ctftime.org/media/events/midnight.png){ width="200" align=left }](https://midnightsunctf.com/)  
+    **比赛名称** : [Midnight Sun CTF 2024 Quals](https://midnightsunctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-04-20 18:00:00 - 2024-04-21 18:00:00 UTC+8  
+    **比赛权重** : 35.74  
+    **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
+    **添加日历** : https://ctftime.org/event/2247.ics  
+    
 ??? Quote "[Grey Cat The Flag 2024 Qualifiers](https://ctf.nusgreyhats.org/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
     **比赛名称** : [Grey Cat The Flag 2024 Qualifiers](https://ctf.nusgreyhats.org/)  
@@ -974,13 +983,4 @@ comments: true
     **比赛权重** : 6.67  
     **赛事主办** : UAC (https://ctftime.org/team/140846)  
     **添加日历** : https://ctftime.org/event/2099.ics  
-    
-??? Quote "[IWCON CTF](https://iwcon.live/ctf)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://iwcon.live/ctf)  
-    **比赛名称** : [IWCON CTF](https://iwcon.live/ctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2023-12-14 18:26:53 - 2023-12-15 18:26:53 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : IWCON (https://ctftime.org/team/277281)  
-    **添加日历** : https://ctftime.org/event/2214.ics  
     
