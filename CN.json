@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "第二届黄河流域公安院校网络空间安全技能挑战赛",
+                "link": "http://sdpctf.sdpcsec.cn/",
+                "type": "个人赛",
+                "bmks": "2024年5月1日 00:00",
+                "bmjz": "2024年5月12日  17:00:00",
+                "bsks": "2024年5月12日  9:00:00",
+                "bsjs": "2024年5月12日  17:00:00",
+                "readmore": "QQ1群:915263648 QQ2群:964202741",
+                "status": 1
+            },
+            {
                 "name": "H&NCTF",
                 "link": "https://hnctf.imxbt.cn/",
                 "type": "团队赛|1-4人",
