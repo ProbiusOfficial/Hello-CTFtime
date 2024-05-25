@@ -98,6 +98,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[AI CTF 2024](https://aictf.phdays.fun/)"  
+    [![](https://ctftime.org/media/events/AI_CTF_AI_TRACK_.png){ width="200" align=left }](https://aictf.phdays.fun/)  
+    **比赛名称** : [AI CTF 2024](https://aictf.phdays.fun/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-05-24 17:00:00 - 2024-05-26 05:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : [TechnoPandas] (https://ctftime.org/team/1946)  
+    **添加日历** : https://ctftime.org/event/2383.ics  
+    
 ??? Quote "[NahamCon CTF 2024](https://ctf.nahamcon.com/)"  
     [![](https://ctftime.org/media/events/NAHAMCON-LOGO_BRANDING_D3_A1_1.png){ width="200" align=left }](https://ctf.nahamcon.com/)  
     **比赛名称** : [NahamCon CTF 2024](https://ctf.nahamcon.com/)  
@@ -988,13 +997,4 @@ comments: true
     **比赛权重** : 24.92  
     **赛事主办** : Galette Cidre CTF (https://ctftime.org/team/246488)  
     **添加日历** : https://ctftime.org/event/2251.ics  
-    
-??? Quote "[osu!gaming CTF 2024](https://osugaming.pages.dev/)"  
-    [![](https://ctftime.org/media/events/unknown_1.png){ width="200" align=left }](https://osugaming.pages.dev/)  
-    **比赛名称** : [osu!gaming CTF 2024](https://osugaming.pages.dev/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-03-02 01:00:00 - 2024-03-04 01:00:00 UTC+8  
-    **比赛权重** : 23.93  
-    **赛事主办** : osu!gaming (https://ctftime.org/team/186954)  
-    **添加日历** : https://ctftime.org/event/2165.ics  
     
