@@ -3,6 +3,18 @@
     "data": {
         "result": [
             {
+                "name": "第四届极客少年挑战赛（初赛）",
+                "link": "https://www.cdccs.cn/#/geekYouth",
+                "type": "个人赛",
+                "bmks": "2024年6月19日 00:00",
+                "bmjz": "2024年7月13日 23:59",
+                "bsks": "2024年7月6日 10:00",
+                "bsjs": "2024年7月20日 12:00",
+                "readmore": "961713058",
+                "status": 1
+            },
+            {
+
                 "name": "CTFshow-西瓜杯CTF",
                 "link": "https://ctf.show/",
                 "type": "个人赛",
