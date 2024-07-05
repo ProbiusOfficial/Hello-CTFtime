@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "第四届极客少年挑战赛（决赛）",
+                "link": "https://www.cdccs.cn/#/geekYouth",
+                "type": "个人赛",
+                "bmks": "2024年7月22日 10:00",
+                "bmjz": "2024年7月24日 18:00",
+                "bsks": "2024年8月23日 10:00",
+                "bsjs": "2024年8月23日 15:00",
+                "readmore": "961713058",
+                "status": 0
+            },
+            {
                 "name": "第四届极客少年挑战赛（初赛）",
                 "link": "https://www.cdccs.cn/#/geekYouth",
                 "type": "个人赛",
