@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "第八届御网杯信息安全大赛",
+                "link": "https://www.hncsisc.com/hncsisc/index.html",
+                "type": "个人赛 and 团体赛|3人",
+                "bmks": "2024年07月26日 08:00",
+                "bmjz": "2024年09月20日 18:00",
+                "bsks": "2024年09月21日 00:00",
+                "bsjs": "2024年10月27日 23:59",
+                "readmore": "更多信息请前往官网https://www.hncsisc.com 的“赛事活动”查看",
+                "status": 0
+            },
+            {
                 "name": "第四届极客少年挑战赛（决赛）",
                 "link": "https://www.cdccs.cn/#/geekYouth",
                 "type": "个人赛",
