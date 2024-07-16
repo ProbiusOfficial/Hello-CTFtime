@@ -42,6 +42,13 @@
             
     === "*即将开始*"
         === "国内赛事"
+            ??? Quote "[第八届御网杯信息安全大赛](https://www.hncsisc.com/hncsisc/index.html)"  
+                **比赛名称** : [第八届御网杯信息安全大赛](https://www.hncsisc.com/hncsisc/index.html)  
+                **比赛类型** : 个人赛 and 团体赛|3人  
+                **报名时间** : 2024年07月26日 08:00 - 2024年09月20日 18:00  
+                **比赛时间** : 2024年09月21日 00:00 - 2024年10月27日 23:59  
+                **其他说明** : 更多信息请前往官网https://www.hncsisc.com 的“赛事活动”查看  
+                
             ??? Quote "[第四届极客少年挑战赛（决赛）](https://www.cdccs.cn/#/geekYouth)"  
                 **比赛名称** : [第四届极客少年挑战赛（决赛）](https://www.cdccs.cn/#/geekYouth)  
                 **比赛类型** : 个人赛  
