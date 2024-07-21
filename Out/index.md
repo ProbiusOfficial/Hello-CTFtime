@@ -517,15 +517,6 @@
                 **赛事主办** : ImaginaryCTF (https://ctftime.org/team/131529)  
                 **添加日历** : https://ctftime.org/event/2396.ics  
                 
-            ??? Quote "[BDSec CTF 2024](https://bdsec-ctf.com/)"  
-                [![](https://ctftime.org/media/events/brand-logo_1.png){ width="200" align=left }](https://bdsec-ctf.com/)  
-                **比赛名称** : [BDSec CTF 2024](https://bdsec-ctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-07-20 23:00:00 - 2024-07-21 23:00:00 UTC+8  
-                **比赛权重** : 16.00  
-                **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
-                **添加日历** : https://ctftime.org/event/2421.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[第四届极客少年挑战赛（初赛）](https://www.cdccs.cn/#/geekYouth)"  
@@ -641,6 +632,15 @@
                 **其他说明** : QQ群:619577692 / 852601317 邮箱:iscc2004@163.com  
                 
         === "国外赛事"
+            ??? Quote "[BDSec CTF 2024](https://bdsec-ctf.com/)"  
+                [![](https://ctftime.org/media/events/brand-logo_1.png){ width="200" align=left }](https://bdsec-ctf.com/)  
+                **比赛名称** : [BDSec CTF 2024](https://bdsec-ctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-07-20 23:00:00 - 2024-07-21 23:00:00 UTC+8  
+                **比赛权重** : 16.00  
+                **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
+                **添加日历** : https://ctftime.org/event/2421.ics  
+                
             ??? Quote "[pbctf 2024](https://ctf.perfect.blue/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.perfect.blue/)  
                 **比赛名称** : [pbctf 2024](https://ctf.perfect.blue/)  
@@ -1531,13 +1531,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : WayneStateCTF (https://ctftime.org/team/135263)  
                 **添加日历** : https://ctftime.org/event/2337.ics  
-                
-            ??? Quote "[CybHackCTF 2024 Spring](https://event.kibhackctf.ru/)"  
-                [![](https://ctftime.org/media/events/logo_98.png){ width="200" align=left }](https://event.kibhackctf.ru/)  
-                **比赛名称** : [CybHackCTF 2024 Spring](https://event.kibhackctf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-13 17:00:00 - 2024-04-14 17:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : CybHackCTF (https://ctftime.org/team/278998)  
-                **添加日历** : https://ctftime.org/event/2344.ics  
                 
