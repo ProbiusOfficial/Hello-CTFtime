@@ -2,6 +2,17 @@
     "success": true,
     "data": {
         "result": [
+                        {
+                "name": "NepCTF 2024",
+                "link": "暂定",
+                "type": "个人赛",
+                "bmks": "2024年07月25日 08:00",
+                "bmjz": "2024年08月22日 23:59",
+                "bsks": "2024年08月23日 00:00",
+                "bsjs": "2024年08月25日 23:59",
+                "readmore": "QQ群: 560946020",
+                "status": 0
+            },
             {
                 "name": "第八届御网杯信息安全大赛",
                 "link": "https://www.hncsisc.com/hncsisc/index.html",
