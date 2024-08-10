@@ -135,6 +135,10 @@ for event in CN['data']['result']:
             print(event['name'] + "已结束超过60天，移至存档")
             archive['archive']['result'].append(event)
             CN['data']['result'].remove(event)
+
+    if date >= bsks and date < bsjs: # 单独判断一下是否正在进行中，进行中的优先级 > 报名中
+        event['status'] = 3 # 进行中
+
         
 # 更新存档
             
