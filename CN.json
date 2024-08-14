@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "“深育杯”大学生网络安全大赛",
+                "link": "https://sy.edu.sangfor.com.cn/contest",
+                "type": "个人赛/团队赛|1-4人",
+                "bmks": "2024年08月10日 00:00",
+                "bmjz": "2024年09月30日",
+                "bsks": "2024年10月19日 00:00",
+                "bsjs": "2024年12月15日 00:00",
+                "readmore": "比赛包含两个赛道，报名截止和比赛具体开始都不相同，详情请通过链接进行查看",
+                "status": 1
+            },
+            {
                 "name": "BaseCTF 2024 高校联合新生赛",
                 "link": "https://www.basectf.fun/",
                 "type": "1-2 人",
