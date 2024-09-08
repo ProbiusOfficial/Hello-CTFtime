@@ -585,15 +585,6 @@
                 **赛事主办** : W&M (https://ctftime.org/team/54666)  
                 **添加日历** : https://ctftime.org/event/2457.ics  
                 
-            ??? Quote "[snakeCTF 2024 Quals](https://2024.snakectf.org/)"  
-                [![](https://ctftime.org/media/events/LogoCroppable_1.png){ width="200" align=left }](https://2024.snakectf.org/)  
-                **比赛名称** : [snakeCTF 2024 Quals](https://2024.snakectf.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-07 16:00:00 - 2024-09-08 16:00:00 UTC+8  
-                **比赛权重** : 24.79  
-                **赛事主办** : MadrHacks (https://ctftime.org/team/114509)  
-                **添加日历** : https://ctftime.org/event/2418.ics  
-                
             ??? Quote "[Urmia CTF 2024](https://uctf.ir/)"  
                 [![](https://ctftime.org/media/events/NewLogo_1.jpg){ width="200" align=left }](https://uctf.ir/)  
                 **比赛名称** : [Urmia CTF 2024](https://uctf.ir/)  
@@ -707,6 +698,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : The DFIR Report (https://ctftime.org/team/309500)  
                 **添加日历** : https://ctftime.org/event/2451.ics  
+                
+            ??? Quote "[snakeCTF 2024 Quals](https://2024.snakectf.org/)"  
+                [![](https://ctftime.org/media/events/LogoCroppable_1.png){ width="200" align=left }](https://2024.snakectf.org/)  
+                **比赛名称** : [snakeCTF 2024 Quals](https://2024.snakectf.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-09-07 16:00:00 - 2024-09-08 16:00:00 UTC+8  
+                **比赛权重** : 24.79  
+                **赛事主办** : MadrHacks (https://ctftime.org/team/114509)  
+                **添加日历** : https://ctftime.org/event/2418.ics  
                 
             ??? Quote "[HackTheDrone CTF Qualifier](http://hackthedrone.org/eng/ctf.php)"  
                 [![](https://ctftime.org/media/events/hackthedrone.png){ width="200" align=left }](http://hackthedrone.org/eng/ctf.php)  
@@ -1589,13 +1589,4 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : AirOverFlow (https://ctftime.org/team/140448)  
                 **添加日历** : https://ctftime.org/event/2360.ics  
-                
-            ??? Quote "[THJCC CTF](https://ctf-hobby.scint.org/)"  
-                [![](https://ctftime.org/media/events/logo1_4.png){ width="200" align=left }](https://ctf-hobby.scint.org/)  
-                **比赛名称** : [THJCC CTF](https://ctf-hobby.scint.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-27 16:00:00 - 2024-04-29 04:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
-                **添加日历** : https://ctftime.org/event/2362.ics  
                 
