@@ -516,6 +516,15 @@
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/2403.ics  
                 
+            ??? Quote "[N0PSctf](https://www.nops.re/)"  
+                [![](https://ctftime.org/media/events/logo-news.png){ width="200" align=left }](https://www.nops.re/)  
+                **比赛名称** : [N0PSctf](https://www.nops.re/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-05-31 16:00:00 - 2025-06-02 04:00:00 UTC+8  
+                **比赛权重** : 24.30  
+                **赛事主办** : NOPS (https://ctftime.org/team/4056)  
+                **添加日历** : https://ctftime.org/event/2486.ics  
+                
     === "*正在进行*"
         === "国内赛事"
             ??? Quote "[BaseCTF 2024 高校联合新生赛](https://www.basectf.fun/)"  
