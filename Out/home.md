@@ -21,15 +21,6 @@
             **其他说明** : QQ群:437096728 更多信息请前往赛事官网 https://ctf.yuanloo.com/  
                 
     === "国外比赛"
-        ??? Quote "[m0leCon CTF 2025 Teaser](https://ctf.m0lecon.it/)"  
-            [![](https://ctftime.org/media/events/ctftime_2025.png){ width="200" align=left }](https://ctf.m0lecon.it/)  
-            **比赛名称** : [m0leCon CTF 2025 Teaser](https://ctf.m0lecon.it/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-09-14 01:00:00 - 2024-09-15 01:00:00 UTC+8  
-            **比赛权重** : 80.00  
-            **赛事主办** : pwnthem0le (https://ctftime.org/team/60467)  
-            **添加日历** : https://ctftime.org/event/2440.ics  
-            
         ??? Quote "[RSTCON 2024 CTF (Online/Hybrid)](https://metactf.com/join/rstcon24)"  
             [![](https://ctftime.org/media/events/rstcon.png){ width="200" align=left }](https://metactf.com/join/rstcon24)  
             **比赛名称** : [RSTCON 2024 CTF (Online/Hybrid)](https://metactf.com/join/rstcon24)  
@@ -56,4 +47,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : Codeby Games (https://ctftime.org/team/299486)  
             **添加日历** : https://ctftime.org/event/2464.ics  
+            
+        ??? Quote "[Securinets CTF Quals 2024](https://ctf.securinets.tn/)"  
+            [![](https://ctftime.org/media/events/d82bcfc5f1d83b7cc51c7dd0dbc8f5c6.png){ width="200" align=left }](https://ctf.securinets.tn/)  
+            **比赛名称** : [Securinets CTF Quals 2024](https://ctf.securinets.tn/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-09-15 03:00:00 - 2024-09-16 03:00:00 UTC+8  
+            **比赛权重** : 95.59  
+            **赛事主办** : Securinets (https://ctftime.org/team/5084)  
+            **添加日历** : https://ctftime.org/event/2410.ics  
             
