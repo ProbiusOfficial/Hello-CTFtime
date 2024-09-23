@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "2024“季博杯”网络安全挑战",
+                "link": "http://nysec.ctf.center/",
+                "type": "个人赛",
+                "bmks": "2024年-9月-15日",
+                "bmjz": "2024年-10月-15日",
+                "bsks": "2024年-9月-15日",
+                "bsjs": "2024年-10月-15日",
+                "readmore": "856080161",
+                "status": 3
+            },
+            {
                 "name": "0xGame 2024",
                 "link": "https://0xgame.exp10it.cn/",
                 "type": "个人赛",
