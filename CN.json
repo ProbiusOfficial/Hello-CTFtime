@@ -3,6 +3,17 @@
     "data": {
         "result": [
             {
+                "name": "第一届季博杯",
+                "link": "http://nysec.ctf.center/",
+                "type": "个人赛",
+                "bmks": "2024年9月15日 12:00",
+                "bmjz": "2024年10月15日 12:00",
+                "bsks": "2024年9月15日 12:00",
+                "bsjs": "2024年10月15日 12:00",
+                "readmore": "856080161",
+                "status": 3
+            },
+            {
                 "name": "0xGame 2024",
                 "link": "https://0xgame.exp10it.cn/",
                 "type": "个人赛",
