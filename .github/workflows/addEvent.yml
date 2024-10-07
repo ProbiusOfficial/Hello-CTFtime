@@ -20,7 +20,10 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-      
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        
       - name: Save Issue to JSON
         run: |
          line=$(cat ${GITHUB_EVENT_PATH} | jq -r '.issue.body' | head -n 1)
