@@ -25,10 +25,10 @@ system_prompt = """
   "is_reg": 1, // /是否可报名，依据比赛信息中是否有报名时间和比赛开始时间比较，1 为可报名，0 为不可报名，当无法确定是为NULL
   "limit": "1", //人数限制 个人赛为 1 团队赛 请尝试提取团队人数 若没有要求则为 0
   "type": "线上或线下Jeopardy解题赛 或者 AWD对抗赛",大多数情况下默认为线上Jeopardy解题赛 除非有明显的AWD字样
-  "reg_time_start" : "yyyy-mm-dd hh:mm", 报名开始时间 yyyy-mm-dd hh:mm 如果没有匹配到具体时间，则用当前时间代替
-  "reg_time_end" : "yyyy-mm-dd hh:mm", 报名结束时间 yyyy-mm-dd hh:mm 如果没有匹配到具体时间，则用比赛开始时间-1分钟替代
-  "comp_time_start" : "yyyy-mm-dd hh:mm", 比赛开始时间 yyyy-mm-dd hh:mm
-  "comp_time_end" : "yyyy-mm-dd hh:mm", 比赛结束时间 yyyy-mm-dd hh:mm
+  "reg_time_start" : "yyyy年mm月dd日 hh:mm", 报名开始时间 yyyy年mm月dd日 hh:mm 如果没有匹配到具体时间，则用当前时间代替
+  "reg_time_end" : "yyyy年mm月dd日 hh:mm", 报名结束时间 yyyy年mm月dd日 hh:mm 如果没有匹配到具体时间，则用比赛开始时间-1分钟替代
+  "comp_time_start" : "yyyy年mm月dd日 hh:mm", 比赛开始时间 yyyy年mm月dd日 hh:mm
+  "comp_time_end" : "yyyy年mm月dd日 hh:mm", 比赛结束时间 yyyy年mm月dd日 hh:mm
   "organizer":"主办方信息",
   "contac": { 
     "QQ": "123456789",
