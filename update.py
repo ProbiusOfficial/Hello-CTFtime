@@ -142,13 +142,16 @@ for event in CN['data']['result']:
 with open('Achieve/CN_archive.json', 'w', encoding='utf-8') as file:
     json.dump(archive, file, ensure_ascii=False, indent=4)
         
+# 定义状态映射表
 status_order = {
     '即将开始': 0,
     '正在进行': 1,
     '已经结束': 2
 }
-# 状态排序
-CN['data']['result'] = sorted(CN['data']['result'], key=lambda x: status_order[x['status']])
+
+# 使用get方法提供默认排序值，避免KeyError
+CN['data']['result'] = sorted(CN['data']['result'], key=lambda x: status_order.get(x['status'], float('inf')))
+
 
 with open('./CN.json', 'w', encoding='utf-8') as f:
     json.dump(CN, f, ensure_ascii=False, indent=4)
