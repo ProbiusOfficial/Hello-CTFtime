@@ -47,10 +47,10 @@ def create_md_content(events, template, event_type="global"):
             'name': event.get('name', ''),
             'url': event.get('link', ''),
             'type': event.get('type', ''),
-            'bmks': event.get('bmks', ''),
-            'bmjz': event.get('bmjz', ''),
-            'bsks': event.get('bsks', ''),
-            'bsjs': event.get('bsjs', ''),
+            'reg_time_start': event.get('reg_time_start', ''),
+            'reg_time_end': event.get('reg_time_end', ''),
+            'comp_time_start': event.get('comp_time_start', ''),
+            'comp_time_end': event.get('comp_time_end', ''),
             'readmore': event.get('readmore', '').replace('\n', ' ').replace('\r', ' '),
         }
         if event_type == "global":
@@ -102,8 +102,8 @@ def main():
         '??? Quote "{name}"  \n'
         "    **比赛名称** : [{name}]({url})  \n"
         "    **比赛类型** : {type}  \n"
-        "    **报名时间** : {bmks} - {bmjz}  \n"
-        "    **比赛时间** : {bsks} - {bsjs}  \n"
+        "    **报名时间** : {reg_time_start} - {reg_time_end}  \n"
+        "    **比赛时间** : {comp_time_start} - {comp_time_end}  \n"
         "    **其他说明** : {readmore}  \n"
         "    "
     )
@@ -144,8 +144,8 @@ def main():
         '        ??? Quote "[{name}]({url})"  \n'
         "            **比赛名称** : [{name}]({url})  \n"
         "            **比赛类型** : {type}  \n"
-        "            **报名时间** : {bmks} - {bmjz}  \n"
-        "            **比赛时间** : {bsks} - {bsjs}  \n"
+        "            **报名时间** : {reg_time_start} - {reg_time_end}  \n"
+        "            **比赛时间** : {comp_time_start} - {comp_time_end}  \n"
         "            **其他说明** : {readmore}  \n"
         "            "
     )
@@ -153,8 +153,8 @@ def main():
         '    ??? Quote "[{name}]({url})"  \n'
         "        **比赛名称** : [{name}]({url})  \n"
         "        **比赛类型** : {type}  \n"
-        "        **报名时间** : {bmks} - {bmjz}  \n"
-        "        **比赛时间** : {bsks} - {bsjs}  \n"
+        "        **报名时间** : {reg_time_start} - {reg_time_end}  \n"
+        "        **比赛时间** : {comp_time_start} - {comp_time_end}  \n"
         "        **其他说明** : {readmore}  \n"
         "        "
     )
@@ -199,7 +199,7 @@ def main():
     print("Done!")
 
     # 根据比赛时间排序，国内国外分别生成最近的四场比赛并且输出为home.md
-    upcoming_cn.sort(key=lambda x: x['bsks'])
+    upcoming_cn.sort(key=lambda x: x['comp_time_start'])
     upcoming_global.sort(key=lambda x: x['比赛时间'])
     upcoming_cn = upcoming_cn[:4]
     upcoming_global = upcoming_global[:4]

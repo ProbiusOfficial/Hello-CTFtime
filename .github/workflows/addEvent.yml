@@ -24,12 +24,12 @@ jobs:
       - name: Save Issue to JSON
         run: |
          line=$(cat ${GITHUB_EVENT_PATH} | jq -r '.issue.body' | head -n 1)
-         if [ "$line" != "### 赛事名称" ] ; then
+         if [ "$line" != "### 赛事信息" ] ; then
             exit 0
          fi
          jq -r '.issue.body' "${GITHUB_EVENT_PATH}" > temp
 
-         python issue2Event.py
+         python issue2Event.py ${{ secrets.KEY}}
 
          echo "EVENTNAME=$(<temp_name)" >> $GITHUB_ENV
 
@@ -56,7 +56,7 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add .
-          git commit -m "[bot]添加赛事待审核"
+          git commit -m "[bot]添加赛事"
 
       - name: Push changes
         if: env.CHANGES == 'true'
@@ -70,7 +70,7 @@ jobs:
           source_branch: "review-pending-${{ env.EVENTNAME }}"
           destination_branch: "main"
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          pr_title: "[bot] 添加的赛事 ${{ env.EVENTNAME }} 待审核"
+          pr_title: "[bot] 添加赛事 ${{ env.EVENTNAME }} "
           pr_body: "请审查提交的赛事信息：\n\n${{ github.event.issue.body }}"
           pr_label: "赛事审核"
 

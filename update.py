@@ -115,23 +115,20 @@ with open('Achieve/CN_archive.json', 'r', encoding='utf-8') as file:
     archive = json.load(file)
 
 for event in CN['data']['result']:
-    bmks = datetime.strptime(event['bmks'], '%Y年%m月%d日 %H:%M')
-    bmjz = datetime.strptime(event['bmjz'], '%Y年%m月%d日 %H:%M')
-    bsks = datetime.strptime(event['bsks'], '%Y年%m月%d日 %H:%M')
-    bsjs = datetime.strptime(event['bsjs'], '%Y年%m月%d日 %H:%M')
-    if date < bmks:
-        event['status'] = 0 # 未开始
-    elif date < bmjz:
-        event['status'] = 1 # 报名中
-    elif date < bsks:
-        event['status'] = 2 # 报名结束
-    elif date < bsjs:
-        event['status'] = 3 # 进行中
-    else:
-        event['status'] = 4 # 已结束
+    reg_time_start = datetime.strptime(event['reg_time_start'], '%Y年%m月%d日 %H:%M')
+    reg_time_end = datetime.strptime(event['reg_time_end'], '%Y年%m月%d日 %H:%M')
+    comp_time_start = datetime.strptime(event['comp_time_start'], '%Y年%m月%d日 %H:%M')
+    comp_time_end = datetime.strptime(event['comp_time_end'], '%Y年%m月%d日 %H:%M')
+    
+    if date < comp_time_start:
+        event['status'] = "即将开始"
+    elif date < comp_time_end:
+        event['status'] = "正在就行"
+    elif date > comp_time_end:
+        event['status'] = "已经结束"
         
-        bsjs = datetime.strptime(event['bsjs'], '%Y年%m月%d日 %H:%M')
-        if date > bsjs + timedelta(days=60):
+        comp_time_end = datetime.strptime(event['comp_time_end'], '%Y年%m月%d日 %H:%M')
+        if date > comp_time_end + timedelta(days=60):
             print(event['name'] + "已结束超过60天，移至存档")
             archive['archive']['result'].append(event)
             CN['data']['result'].remove(event)
@@ -141,8 +138,13 @@ for event in CN['data']['result']:
 with open('Achieve/CN_archive.json', 'w', encoding='utf-8') as file:
     json.dump(archive, file, ensure_ascii=False, indent=4)
         
-# 按照状态排序 0 1 2 3 4
-CN['data']['result'] = sorted(CN['data']['result'], key=lambda x: x['status'])
+status_order = {
+    '即将开始': 0,
+    '正在进行': 1,
+    '已经结束': 2
+}
+# 状态排序
+CN['data']['result'] = sorted(CN['data']['result'], key=lambda x: status_order[x['status']])
 
 with open('./CN.json', 'w', encoding='utf-8') as f:
     json.dump(CN, f, ensure_ascii=False, indent=4)
@@ -153,8 +155,8 @@ if all_events == None:
         
 # 生成国内比赛的日历订阅内容
 def create_CN_ical_event(event):
-    start_date = datetime.strptime(event['bsks'], '%Y年%m月%d日 %H:%M') - timedelta(hours=8)
-    finish_date = datetime.strptime(event['bsjs'], '%Y年%m月%d日 %H:%M') - timedelta(hours=8)
+    start_date = datetime.strptime(event['comp_time_start'], '%Y年%m月%d日 %H:%M') - timedelta(hours=8)
+    finish_date = datetime.strptime(event['comp_time_end'], '%Y年%m月%d日 %H:%M') - timedelta(hours=8)
     start_date_utc8 = start_date
     finish_date_utc8 = finish_date
     eventData= {
@@ -167,7 +169,7 @@ def create_CN_ical_event(event):
                 'DTSTAMP':datetime.now().strftime("%Y%m%dT%H%M%SZ"),
                 'CREATED':datetime.now().strftime("%Y%m%dT%H%M%SZ"),
                 'URL':event['link'],
-                'DESCRIPTION':event['type']+' | '+event['link']+' | '+' | '+'报名---'+event['bmks']+'-'+event['bmjz']+'-备注-'+re.sub(r"\s+", "", event['readmore']),
+                'DESCRIPTION':event['type']+' | '+event['link']+' | '+' | '+'报名---'+event['reg_time_start']+'-'+event['reg_time_end']+'-备注-'+re.sub(r"\s+", "", event['readmore']),
                 'END':'VEVENT'
             }
     return eventData

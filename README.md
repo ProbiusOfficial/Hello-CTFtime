@@ -4,6 +4,8 @@
 
 如需查看赛事信息，请前往：[https://hello-ctf.com/Event/](https://hello-ctf.com/Event/)
 
+*我们正在测试基于llm模型的赛事信息提取功能，如果您在使用的时候遇到问题，请联系我们(QQ群:590430891)。*
+
 ## 数据来源
 
 国外赛事数据来源于 CTFtime RSS源 - https://ctftime.org

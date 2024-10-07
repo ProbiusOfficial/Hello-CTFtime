@@ -1,84 +1,13 @@
 name: 添加比赛
-description: 在Hello-CTF赛事日历以及Hello-CTFtime赛事信息中添加比赛信息。注意，项目接受的比赛信息仅会展示在国内赛事中，国际赛事请在CTFtime上提交。
+description: 在Hello-CTF赛事日历以及Hello-CTFtime赛事信息中添加比赛信息。注意，项目接受的比赛信息仅会展示在国内赛事中，国际赛事请在CTFtime上提交。*我们正在测试基于llm模型的赛事信息提取功能，如果您在使用的时候遇到问题，请联系我们(QQ群:590430891)。*
 title: "<添加比赛>"
 labels: []
 assignees:
   - ProbiusOfficial 
 body:
-  - type: input
-    id: name
+  - type: textarea
+    id: matchInformationText
     attributes:
-      label: 赛事名称
-      placeholder: HelloCTF2024 / 第?届xx赛/xx杯...
-    validations:
-      required: true
-
-  - type: input
-    id: link
-    attributes:
-      label: 比赛链接
-      placeholder: https://hello-ctf.com/
-    validations:
-      required: true
-
-  - type: input
-    id: type
-    attributes:
-      label: 比赛类型
-      description: 个人赛请直接填写个人赛，团队赛请注明人数。
-      placeholder: 个人赛 / 团队赛|1-3人
-    validations:
-      required: true
-
-  - type: input
-    id: bmks
-    attributes:
-      label: 报名开始时间
-      description: 注意时间格式统一使用 yyyy年-MM月-dd日 HH:mm
-      placeholder: 2024年01月01日 00:00 
-    validations:
-      required: true
-
-  - type: input
-    id: bmjz
-    attributes:
-      label: 报名结束时间
-      placeholder: 2024年01月02日 00:00 
-    validations:
-      required: true
-  
-  - type: input
-    id: bsks
-    attributes:
-      label: 比赛开始时间
-      placeholder: 2024年01月03日 00:00 
-    validations:
-      required: true
-
-  - type: input
-    id: bsjs
-    attributes:
-      label: 比赛结束时间
-      placeholder: 2024年01月04日 00:00 
-    validations:
-      required: true
-  
-  - type: input
-    id: readmore
-    attributes:
-      label: 备注信息
-      description: 有关比赛的其他信息，如赛事交流群、赛事详情等内容。
-      placeholder: QQ群：590430891
-    validations:
-      required: true
-  
-  - type: dropdown
-    id: status
-    attributes:
-      label: 比赛状态
-      options:
-        - 0 - 报名未开始
-        - 1 - 报名中
-        - 2 - 报名结束
-        - 3 - 比赛进行中
-        - 4 - 比赛结束
+    label: 赛事信息
+    description: 请在下方的文本框中粘贴赛事相关的信息，内容尽量详细，以便我们的语义模型更好的提取。
+    placeholder: 在此输入比赛相关文本，您的文本至少需要包含：比赛名称，比赛链接，比赛开始和结束时间的相关信息，您可以直接复制相关比赛的宣传文本或者将海报图片ocr后的文本直接粘贴到此处（由于一些功能限制，暂不支持自动的图片识别）。
