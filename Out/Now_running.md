@@ -5,19 +5,40 @@ comments: true
 
 ## 国内赛事
 
-??? Quote "GEEK CTF 2024"  
-    **比赛名称** : [GEEK CTF 2024](https://geekctf.geekcon.top/)  
-    **比赛类型** : 个人赛 | Jeopardy  
-    **报名时间** : 2024年04月05日 18:00 - 2024年04月05日 19:00  
-    **比赛时间** : 2024年04月05日 20:00 - 2024年04月14日 20:00  
-    **其他说明** : https://discord.gg/dWvBrfwAmF  
+??? Quote "0xGame 2024"  
+    **比赛名称** : [0xGame 2024](https://0xgame.exp10it.cn/)  
+    **比赛类型** : 个人赛  
+    **报名时间** : 2024年09月17日 10:30 - 2024年11月03日 21:00  
+    **比赛时间** : 2024年10月06日 09:00 - 2024年11月03日 21:00  
+    **其他说明** : QQ群: 746958713  
     
-??? Quote "XYCTF高校新生联合赛 2024"  
-    **比赛名称** : [XYCTF高校新生联合赛 2024](https://www.xyctf.top/)  
-    **比赛类型** : 团队赛 | 1-3人  
-    **报名时间** : 2024年03月05日 10:00 - 2024年04月01日 09:00  
-    **比赛时间** : 2024年04月01日 10:00 - 2024年05月01日 10:00  
-    **其他说明** : 赛事群：798794707  
+??? Quote "SHCTF2024"  
+    **比赛名称** : [SHCTF2024](https://shc.tf/)  
+    **比赛类型** : 个人赛  
+    **报名时间** : 2024年09月26日 00:00 - 2024年10月31日 10:00  
+    **比赛时间** : 2024年10月02日 10:00 - 2024年10月31日 10:00  
+    **其他说明** : QQ 一群：536115792  二群：721693440  
+    
+??? Quote "NewStar CTF 2024"  
+    **比赛名称** : [NewStar CTF 2024](https://ns.openctf.net)  
+    **比赛类型** : 个人赛  
+    **报名时间** : 2024年09月13日 00:00 - 2024年11月03日 21:00  
+    **比赛时间** : 2024年09月30日 09:00 - 2024年11月03日 21:00  
+    **其他说明** : 赛事QQ群：1169651901  
+    
+??? Quote "第八届御网杯信息安全大赛"  
+    **比赛名称** : [第八届御网杯信息安全大赛](https://www.hncsisc.com/hncsisc/index.html)  
+    **比赛类型** : 个人赛 and 团体赛|3人  
+    **报名时间** : 2024年07月26日 08:00 - 2024年09月20日 18:00  
+    **比赛时间** : 2024年09月21日 00:00 - 2024年10月27日 23:59  
+    **其他说明** : 更多信息请前往官网https://www.hncsisc.com 的“赛事活动”查看  
+    
+??? Quote "MoeCTF 2024"  
+    **比赛名称** : [MoeCTF 2024](https://ctf.xidian.edu.cn)  
+    **比赛类型** : 个人赛  
+    **报名时间** : 2024年08月07日 14:23 - 2024年10月14日 21:00  
+    **比赛时间** : 2024年08月10日 09:00 - 2024年10月14日 21:00  
+    **其他说明** : QQ 群：187536315  
     
 
 ## 国际赛事
@@ -31,12 +52,12 @@ comments: true
     **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
     **添加日历** : https://ctftime.org/event/2178.ics  
     
-??? Quote "[AmateursCTF 2024](https://ctf.amateurs.team/)"  
-    [![](https://ctftime.org/media/events/2d6bd602-ecce-47e6-8f53-b352af222287.915ceb9574bb9759b4dd16bf8a744d25_1.jpeg){ width="200" align=left }](https://ctf.amateurs.team/)  
-    **比赛名称** : [AmateursCTF 2024](https://ctf.amateurs.team/)  
+??? Quote "[Pointer Overflow CTF - 2024](http://pointeroverflowctf.com/)"  
+    [![](https://ctftime.org/media/events/poctflogo1transp.png){ width="200" align=left }](http://pointeroverflowctf.com/)  
+    **比赛名称** : [Pointer Overflow CTF - 2024](http://pointeroverflowctf.com/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-05 22:00:00 - 2024-04-10 11:00:00 UTC+8  
-    **比赛权重** : 24.54  
-    **赛事主办** : les amateurs (https://ctftime.org/team/166729)  
-    **添加日历** : https://ctftime.org/event/2226.ics  
+    **比赛时间** : 2024-09-15 20:00:00 - 2025-01-19 20:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
+    **添加日历** : https://ctftime.org/event/2121.ics  
     
