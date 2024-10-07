@@ -1,13 +1,13 @@
 name: 比赛信息更新
 description: 适用于已经添加的比赛需要更新如比赛链接，时间，备注等信息。
 title: "<更新比赛>"
-llabels: []
+labels: [] 
 assignees:
-  - ProbiusOfficial 
+  - ProbiusOfficial
 body:
   - type: textarea
     id: matchInformationText
     attributes:
-    label: 赛事更新
-    description: 请在下方的文本框中描述您需要更新的比赛和相关内容。
-    placeholder: 请确认比赛名称与现有赛事信息一致，然后在此处输入您需要更新的内容。
+      label: "赛事更新"
+      description: "请在下方的文本框中描述您需要更新的比赛和相关内容。"
+      placeholder: "请确认比赛名称与现有赛事信息一致，然后在此处输入您需要更新的内容。"

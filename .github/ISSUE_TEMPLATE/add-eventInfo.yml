@@ -3,11 +3,11 @@ description: 在Hello-CTF赛事日历以及Hello-CTFtime赛事信息中添加比
 title: "<添加比赛>"
 labels: []
 assignees:
-  - ProbiusOfficial 
+  - ProbiusOfficial
 body:
   - type: textarea
     id: matchInformationText
     attributes:
-    label: 赛事信息
-    description: 请在下方的文本框中粘贴赛事相关的信息，内容尽量详细，以便我们的语义模型更好的提取。
-    placeholder: 在此输入比赛相关文本，您的文本至少需要包含：比赛名称，比赛链接，比赛开始和结束时间的相关信息，您可以直接复制相关比赛的宣传文本或者将海报图片ocr后的文本直接粘贴到此处（由于一些功能限制，暂不支持自动的图片识别）。
+      label: "赛事信息"
+      description: "请在下方的文本框中粘贴赛事相关的信息，内容尽量详细，以便我们的语义模型更好的提取。"
+      placeholder: "在此输入比赛相关文本，您的文本至少需要包含：比赛名称，比赛链接，比赛开始和结束时间的相关信息，您可以直接复制相关比赛的宣传文本或者将海报图片ocr后的文本直接粘贴到此处（由于一些功能限制，暂不支持自动的图片识别）。"
