@@ -21,15 +21,14 @@ def process_cn_events(data):
     past_events = []
     for event in data['data']['result']:
         status = event['status']
-        if status in [0, 1, 2]:
+        if status == "即将开始":  # 即将开始
             upcoming_events.append(event)
-            if status == 1:
-                register_events.append(event)
-        elif status == 3:
+        elif status == "正在进行":  # 正在进行
             now_running_events.append(event)
-        elif status == 4:
+        elif status == "已经结束":  # 已经结束
             past_events.append(event)
     return upcoming_events, now_running_events, past_events
+
 
 def create_md_content(events, template, event_type="global"):
     md_content = []
