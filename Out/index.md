@@ -610,6 +610,13 @@
                 **比赛时间** : 2024年09月21日 00:00 - 2024年10月27日 23:59  
                 **其他说明** : 更多信息请前往官网https://www.hncsisc.com 的“赛事活动”查看  
                 
+            ??? Quote "[SHCTF2024](https://shc.tf/)"  
+                **比赛名称** : [SHCTF2024](https://shc.tf/)  
+                **比赛类型** : 个人赛  
+                **报名时间** : 2024年09月26日 00:00 - 2024年10月31日 10:00  
+                **比赛时间** : 2024年10月02日 10:00 - 2024年10月31日 10:00  
+                **其他说明** : QQ 一群：536115792  二群：721693440  
+                
         === "国外赛事"
             ??? Quote "[The Cyber Jawara International 2024](https://international.cyberjawara.pro/)"  
                 [![](https://ctftime.org/media/events/73b32f71c82304b9e3df7fe9dedada59-transformed.png){ width="200" align=left }](https://international.cyberjawara.pro/)  
