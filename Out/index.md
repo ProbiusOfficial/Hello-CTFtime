@@ -911,7 +911,7 @@
                 **比赛名称** : [IRON CTF 2024](https://ctf.1nf1n1ty.team/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-10-05 13:30:00 - 2024-10-06 13:30:00 UTC+8  
-                **比赛权重** : 24.67  
+                **比赛权重** : 24.68  
                 **赛事主办** : 1nf1n1ty (https://ctftime.org/team/151859)  
                 **添加日历** : https://ctftime.org/event/2497.ics  
                 
@@ -1028,7 +1028,7 @@
                 **比赛名称** : [H7CTF International](https://ctf.h7tex.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-09-26 11:30:00 - 2024-09-27 19:30:00 UTC+8  
-                **比赛权重** : 23.41  
+                **比赛权重** : 23.39  
                 **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
                 **添加日历** : https://ctftime.org/event/2491.ics  
                 
