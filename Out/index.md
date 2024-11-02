@@ -500,15 +500,6 @@
                 **赛事主办** : 7r0j4npwn135 (https://ctftime.org/team/214221)  
                 **添加日历** : https://ctftime.org/event/2543.ics  
                 
-            ??? Quote "[Equinor CTF 2024](https://ctf.equinor.com/)"  
-                [![](https://ctftime.org/media/events/ept_1.png){ width="200" align=left }](https://ctf.equinor.com/)  
-                **比赛名称** : [Equinor CTF 2024](https://ctf.equinor.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-02 17:00:00 - 2024-11-03 03:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : EPT (https://ctftime.org/team/119480)  
-                **添加日历** : https://ctftime.org/event/2292.ics  
-                
             ??? Quote "[Hackers N' Hops](https://hackersnhops.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/HACKERSNHOPS.png){ width="200" align=left }](https://hackersnhops.ctfd.io/)  
                 **比赛名称** : [Hackers N' Hops](https://hackersnhops.ctfd.io/)  
@@ -600,6 +591,15 @@
                 **其他说明** : QQ 一群：536115792  二群：721693440  
                 
         === "国外赛事"
+            ??? Quote "[Equinor CTF 2024](https://ctf.equinor.com/)"  
+                [![](https://ctftime.org/media/events/ept_1.png){ width="200" align=left }](https://ctf.equinor.com/)  
+                **比赛名称** : [Equinor CTF 2024](https://ctf.equinor.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-11-02 17:00:00 - 2024-11-03 03:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : EPT (https://ctftime.org/team/119480)  
+                **添加日历** : https://ctftime.org/event/2292.ics  
+                
             ??? Quote "[M*CTF 2024 Junior Quals](https://mctf.mtuci.ru/)"  
                 [![](https://ctftime.org/media/events/NbK6tTQdEPQ.jpg){ width="200" align=left }](https://mctf.mtuci.ru/)  
                 **比赛名称** : [M*CTF 2024 Junior Quals](https://mctf.mtuci.ru/)  
@@ -1490,13 +1490,4 @@
                 **比赛权重** : 20.00  
                 **赛事主办** : DASCTF (https://ctftime.org/team/303691)  
                 **添加日历** : https://ctftime.org/event/2429.ics  
-                
-            ??? Quote "[ImaginaryCTF 2024](https://2024.imaginaryctf.org/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://2024.imaginaryctf.org/)  
-                **比赛名称** : [ImaginaryCTF 2024](https://2024.imaginaryctf.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-07-20 03:00:00 - 2024-07-22 03:00:00 UTC+8  
-                **比赛权重** : 49.81  
-                **赛事主办** : ImaginaryCTF (https://ctftime.org/team/131529)  
-                **添加日历** : https://ctftime.org/event/2396.ics  
                 
