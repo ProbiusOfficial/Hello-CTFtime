@@ -123,7 +123,7 @@ for event in CN['data']['result']:
     if date < comp_time_start:
         event['status'] = "即将开始"
     elif date < comp_time_end:
-        event['status'] = "正在就行"
+        event['status'] = "正在进行"
     elif date > comp_time_end:
         event['status'] = "已经结束"
         
@@ -134,7 +134,7 @@ for event in CN['data']['result']:
             CN['data']['result'].remove(event)
 
     if date >= comp_time_start and date < comp_time_end: # 单独判断一下是否正在进行中，进行中的优先级 > 报名中
-        event['status'] = 3 # 进行中
+        event['status'] = "正在进行" # 进行中
 
         
 # 更新存档
