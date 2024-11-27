@@ -18,30 +18,12 @@ comments: true
     **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
     **添加日历** : https://ctftime.org/event/2121.ics  
     
-??? Quote "[GlacierCTF 2024](https://glacierctf.com/)"  
-    [![](https://ctftime.org/media/events/3ae6516246966c8d08c81d3bd5451cfa_1.png){ width="200" align=left }](https://glacierctf.com/)  
-    **比赛名称** : [GlacierCTF 2024](https://glacierctf.com/)  
+??? Quote "[BlackHat MEA CTF Final 2024](https://blackhatmea.com/capture-the-flag)"  
+    [![](https://ctftime.org/media/events/e0c283c95f7b0db516dae505d31ca20b_3.jpg){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
+    **比赛名称** : [BlackHat MEA CTF Final 2024](https://blackhatmea.com/capture-the-flag)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-23 02:00:00 - 2024-11-24 02:00:00 UTC+8  
-    **比赛权重** : 35.69  
-    **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
-    **添加日历** : https://ctftime.org/event/2402.ics  
-    
-??? Quote "[SECCON CTF 13 Quals](https://ctf.seccon.jp/)"  
-    [![](https://ctftime.org/media/events/seccon_s_7.png){ width="200" align=left }](https://ctf.seccon.jp/)  
-    **比赛名称** : [SECCON CTF 13 Quals](https://ctf.seccon.jp/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-23 13:00:00 - 2024-11-24 13:00:00 UTC+8  
-    **比赛权重** : 100.00  
-    **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
-    **添加日历** : https://ctftime.org/event/2478.ics  
-    
-??? Quote "[WP CTF 2024](https://wpctf.it/)"  
-    [![](https://ctftime.org/media/events/WP_CTF_logo.png){ width="200" align=left }](https://wpctf.it/)  
-    **比赛名称** : [WP CTF 2024](https://wpctf.it/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-23 16:00:00 - 2024-11-24 00:00:00 UTC+8  
+    **比赛时间** : 2024-11-26 16:00:00 - 2024-11-28 11:00:00 UTC+8  
     **比赛权重** : 0  
-    **赛事主办** : WP CTF (https://ctftime.org/team/303099)  
-    **添加日历** : https://ctftime.org/event/2395.ics  
+    **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
+    **添加日历** : https://ctftime.org/event/2431.ics  
     
