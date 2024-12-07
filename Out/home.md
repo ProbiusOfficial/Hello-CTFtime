@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[RedShift.Eclipse 2 Finals]()"  
-            [![](https://ctftime.org/media/events/5202034882946130981.jpg){ width="200" align=left }]()  
-            **比赛名称** : [RedShift.Eclipse 2 Finals]()  
-            **比赛形式** : Attack-Defense  
-            **比赛时间** : 2024-12-07 18:00:00 - 2024-12-08 03:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : o1d_bu7_go1d (https://ctftime.org/team/213673)  
-            **添加日历** : https://ctftime.org/event/2538.ics  
-            
         ??? Quote "[Platypwn 2024](https://platypwn.ctf.platypwnies.de/)"  
             [![](https://ctftime.org/media/events/Platypwnie.png){ width="200" align=left }](https://platypwn.ctf.platypwnies.de/)  
             **比赛名称** : [Platypwn 2024](https://platypwn.ctf.platypwnies.de/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 36.00  
             **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
             **添加日历** : https://ctftime.org/event/2502.ics  
+            
+        ??? Quote "[WannaGame Championship 2024](https://cnsc.com.vn/ctf/)"  
+            [![](https://ctftime.org/media/events/WGC2024_2.png){ width="200" align=left }](https://cnsc.com.vn/ctf/)  
+            **比赛名称** : [WannaGame Championship 2024](https://cnsc.com.vn/ctf/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-12-13 09:00:00 - 2024-12-14 09:00:00 UTC+8  
+            **比赛权重** : 19.80  
+            **赛事主办** : Wanna.W1n (https://ctftime.org/team/138431)  
+            **添加日历** : https://ctftime.org/event/2515.ics  
             
