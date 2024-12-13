@@ -760,6 +760,17 @@
                 "comp_time_end": "2024年10月06日 18:00",
                 "readmore": "初赛将以在线解题赛的形式进行.计划邀请来自金砖国家的15支队伍（每个国家不超过3支队伍）以及总排名前10的最佳队伍参与线上的决赛.同时详情信息请加入discord -> https://discord.gg/3AwqYTvaMw 决赛总奖池7w人民币左右",
                 "status": "已经结束"
+            },
+            {
+                "name": "MoeCTF 2024",
+                "link": "https://ctf.xidian.edu.cn",
+                "type": "个人赛",
+                "reg_time_start": "2024年08月07日 14:23",
+                "reg_time_end": "2024年10月14日 21:00",
+                "comp_time_start": "2024年08月10日 09:00",
+                "comp_time_end": "2024年10月14日 21:00",
+                "readmore": "QQ 群：187536315",
+                "status": "已经结束"
             }
         ],
         "msg": ""
