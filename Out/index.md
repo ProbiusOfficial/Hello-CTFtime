@@ -203,15 +203,6 @@
                 **赛事主办** : CyberStudentsCTF (https://ctftime.org/team/365239)  
                 **添加日历** : https://ctftime.org/event/2600.ics  
                 
-            ??? Quote "[0xL4ugh CTF](https://0xl4ugh.ctf.ae/)"  
-                [![](https://ctftime.org/media/events/logo_101.png){ width="200" align=left }](https://0xl4ugh.ctf.ae/)  
-                **比赛名称** : [0xL4ugh CTF](https://0xl4ugh.ctf.ae/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-12-27 20:00:00 - 2024-12-28 20:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
-                **添加日历** : https://ctftime.org/event/2587.ics  
-                
             ??? Quote "[Wargames.MY CTF 2024](https://ctf2024.wargames.my/)"  
                 [![](https://ctftime.org/media/events/WGMY24-PFP1.png){ width="200" align=left }](https://ctf2024.wargames.my/)  
                 **比赛名称** : [Wargames.MY CTF 2024](https://ctf2024.wargames.my/)  
@@ -296,6 +287,15 @@
                 **其他说明** : CTFshow单身杯(DSBCTF)比赛由CTFshow主办，是一场个人赛形式的CTF夺旗赛，比赛时间为2024年11月11日11时11分至2024年11月13日11时11分，共48小时。比赛报名需提前注册账号，比赛开始后放出题目。  
                 
         === "国外赛事"
+            ??? Quote "[0xL4ugh CTF](https://0xl4ugh.ctf.ae/)"  
+                [![](https://ctftime.org/media/events/logo_101.png){ width="200" align=left }](https://0xl4ugh.ctf.ae/)  
+                **比赛名称** : [0xL4ugh CTF](https://0xl4ugh.ctf.ae/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-12-27 20:00:00 - 2024-12-28 20:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
+                **添加日历** : https://ctftime.org/event/2587.ics  
+                
             ??? Quote "[BackdoorCTF 2024](https://backdoor.infoseciitr.in/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://backdoor.infoseciitr.in/)  
                 **比赛名称** : [BackdoorCTF 2024](https://backdoor.infoseciitr.in/)  
@@ -1186,13 +1186,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : TU Delft CTF Team (https://ctftime.org/team/134822)  
                 **添加日历** : https://ctftime.org/event/2487.ics  
-                
-            ??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
-                [![](https://ctftime.org/media/events/logo-2024.png){ width="200" align=left }](https://brics-ctf.com/)  
-                **比赛名称** : [BRICS+ CTF Quals 2024](https://brics-ctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-05 18:00:00 - 2024-10-06 18:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
-                **添加日历** : https://ctftime.org/event/2389.ics  
                 
