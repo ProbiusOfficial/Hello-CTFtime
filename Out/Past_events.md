@@ -49,6 +49,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Cyber League 2025 - Major](https://ctfd.cyberleague.co/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://ctfd.cyberleague.co/)  
+    **比赛名称** : [Cyber League 2025 - Major](https://ctfd.cyberleague.co/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-01-11 10:00:00 - 2025-01-12 10:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : DIV0-N0H4TS (https://ctftime.org/team/354275)  
+    **添加日历** : https://ctftime.org/event/2530.ics  
+    
 ??? Quote "[IrisCTF 2025](https://2025.irisc.tf/)"  
     [![](https://ctftime.org/media/events/IrisSec.png){ width="200" align=left }](https://2025.irisc.tf/)  
     **比赛名称** : [IrisCTF 2025](https://2025.irisc.tf/)  
@@ -939,13 +948,4 @@ comments: true
     **比赛权重** : 95.59  
     **赛事主办** : Securinets (https://ctftime.org/team/5084)  
     **添加日历** : https://ctftime.org/event/2520.ics  
-    
-??? Quote "[NoHat CTF 2024](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)  
-    **比赛名称** : [NoHat CTF 2024](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-10-13 00:00:00 - 2024-10-14 00:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : PWNX (https://ctftime.org/team/179989)  
-    **添加日历** : https://ctftime.org/event/2518.ics  
     
