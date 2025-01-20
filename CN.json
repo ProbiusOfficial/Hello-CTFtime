@@ -11,10 +11,10 @@
                 "is_reg": 1,
                 "limit": 1,
                 "type": "线上Jeopardy解题赛",
-                "reg_time_start": "2025年1月20日20:00",
-                "reg_time_end": "2025年2月17日19:59",
-                "comp_time_start": "2025年2月3日20:00",
-                "comp_time_end": "2025年2月17日20:00",
+                "reg_time_start": "2025年1月20日 20:00",
+                "reg_time_end": "2025年2月17日 19:59",
+                "comp_time_start": "2025年2月3日 20:00",
+                "comp_time_end": "2025年2月17日 20:00",
                 "organizer": "杭州电子科技大学信息安全协会 Vidar-Team",
                 "contac": {
                     "QQ群": "576834793"
