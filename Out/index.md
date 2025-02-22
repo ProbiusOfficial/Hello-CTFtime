@@ -590,15 +590,6 @@
                 **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
                 **添加日历** : https://ctftime.org/event/2542.ics  
                 
-            ??? Quote "[Dreamhack CTF Season 7 Round #4 (Div. 2)](https://dreamhack.io/ctf/658)"  
-                [![](https://ctftime.org/media/events/cover04.jpg){ width="200" align=left }](https://dreamhack.io/ctf/658)  
-                **比赛名称** : [Dreamhack CTF Season 7 Round #4 (Div. 2)](https://dreamhack.io/ctf/658)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-02-22 08:00:00 - 2025-02-22 23:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
-                **添加日历** : https://ctftime.org/event/2624.ics  
-                
             ??? Quote "[Kashi CTF 2025](https://kashictf.iitbhucybersec.in/)"  
                 [![](https://ctftime.org/media/events/logo_105.png){ width="200" align=left }](https://kashictf.iitbhucybersec.in/)  
                 **比赛名称** : [Kashi CTF 2025](https://kashictf.iitbhucybersec.in/)  
@@ -641,6 +632,15 @@
                 **其他说明** : NSSCTF Round26 由NSSCTF主办，比赛时间为2024年12月28日 14:00至17:00，报名已结束，比赛QQ群为864395049。  
                 
         === "国外赛事"
+            ??? Quote "[Dreamhack CTF Season 7 Round #4 (Div. 2)](https://dreamhack.io/ctf/658)"  
+                [![](https://ctftime.org/media/events/cover04.jpg){ width="200" align=left }](https://dreamhack.io/ctf/658)  
+                **比赛名称** : [Dreamhack CTF Season 7 Round #4 (Div. 2)](https://dreamhack.io/ctf/658)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-02-22 08:00:00 - 2025-02-22 23:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
+                **添加日历** : https://ctftime.org/event/2624.ics  
+                
             ??? Quote "[SAIBORG | Elite Hacking Competition | Edition #2 | 21/Feb/2025](https://www.saiborg.io/)"  
                 [![](https://ctftime.org/media/events/saiborg-profile_1.jpg){ width="200" align=left }](https://www.saiborg.io/)  
                 **比赛名称** : [SAIBORG | Elite Hacking Competition | Edition #2 | 21/Feb/2025](https://www.saiborg.io/)  
@@ -1531,13 +1531,4 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : EPT (https://ctftime.org/team/119480)  
                 **添加日历** : https://ctftime.org/event/2292.ics  
-                
-            ??? Quote "[M*CTF 2024 Junior Quals](https://mctf.mtuci.ru/)"  
-                [![](https://ctftime.org/media/events/NbK6tTQdEPQ.jpg){ width="200" align=left }](https://mctf.mtuci.ru/)  
-                **比赛名称** : [M*CTF 2024 Junior Quals](https://mctf.mtuci.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-02 15:00:00 - 2024-11-03 01:00:00 UTC+8  
-                **比赛权重** : 24.23  
-                **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
-                **添加日历** : https://ctftime.org/event/2535.ics  
                 
