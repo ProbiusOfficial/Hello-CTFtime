@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[UTCTF 2025](https://utctf.live/)"  
-                [![](https://ctftime.org/media/events/Illustration.png){ width="200" align=left }](https://utctf.live/)  
-                **比赛名称** : [UTCTF 2025](https://utctf.live/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-15 07:00:00 - 2025-03-17 07:00:00 UTC+8  
-                **比赛权重** : 67.21  
-                **赛事主办** : isss (https://ctftime.org/team/69010)  
-                **添加日历** : https://ctftime.org/event/2641.ics  
-                
             ??? Quote "[@Hack 2025](https://athackctf.com/?s=ju8uvw)"  
                 [![](https://ctftime.org/media/events/Hack_Logo_WIDTH_600px.png){ width="200" align=left }](https://athackctf.com/?s=ju8uvw)  
                 **比赛名称** : [@Hack 2025](https://athackctf.com/?s=ju8uvw)  
@@ -625,6 +616,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
                 **添加日历** : https://ctftime.org/event/2634.ics  
+                
+            ??? Quote "[UTCTF 2025](https://utctf.live/)"  
+                [![](https://ctftime.org/media/events/Illustration.png){ width="200" align=left }](https://utctf.live/)  
+                **比赛名称** : [UTCTF 2025](https://utctf.live/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-15 07:00:00 - 2025-03-17 07:00:00 UTC+8  
+                **比赛权重** : 67.21  
+                **赛事主办** : isss (https://ctftime.org/team/69010)  
+                **添加日历** : https://ctftime.org/event/2641.ics  
                 
     === "*已经结束*"
         === "国内赛事"
