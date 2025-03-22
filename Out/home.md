@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[FooBar CTF 2025](https://foobarctf.nitdgplug.org/)"  
-            [![](https://ctftime.org/media/events/Foobar_logo_1.png){ width="200" align=left }](https://foobarctf.nitdgplug.org/)  
-            **比赛名称** : [FooBar CTF 2025](https://foobarctf.nitdgplug.org/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-03-22 14:30:00 - 2025-03-23 14:30:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : Alchemists of Kernel (https://ctftime.org/team/130794)  
-            **添加日历** : https://ctftime.org/event/2720.ics  
-            
         ??? Quote "[ZeroDays CTF 2025](http://www.zerodays.ie/)"  
             [![](https://ctftime.org/media/events/zerodays_logo.png){ width="200" align=left }](http://www.zerodays.ie/)  
             **比赛名称** : [ZeroDays CTF 2025](http://www.zerodays.ie/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 40.40  
             **赛事主办** : Kernel Sanders (https://ctftime.org/team/397)  
             **添加日历** : https://ctftime.org/event/2573.ics  
+            
+        ??? Quote "[StealthCup](https://stealth.ait.ac.at/)"  
+            [![](https://ctftime.org/media/events/StealthCup-2-1311x2048.png){ width="200" align=left }](https://stealth.ait.ac.at/)  
+            **比赛名称** : [StealthCup](https://stealth.ait.ac.at/)  
+            **比赛形式** : Hack quest  
+            **比赛时间** : 2025-03-28 15:00:00 - 2025-03-28 23:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : 0x01DA (https://ctftime.org/team/104949)  
+            **添加日历** : https://ctftime.org/event/2666.ics  
             
