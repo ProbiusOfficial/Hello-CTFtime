@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[ZeroDays CTF 2025](http://www.zerodays.ie/)"  
-                [![](https://ctftime.org/media/events/zerodays_logo.png){ width="200" align=left }](http://www.zerodays.ie/)  
-                **比赛名称** : [ZeroDays CTF 2025](http://www.zerodays.ie/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-22 17:30:00 - 2025-03-23 01:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : Ireland without the RE (https://ctftime.org/team/179144)  
-                **添加日历** : https://ctftime.org/event/2614.ics  
-                
             ??? Quote "[HICAThon 1.0](https://hicathon01.xyz/)"  
                 [![](https://ctftime.org/media/events/Frame_4034.png){ width="200" align=left }](https://hicathon01.xyz/)  
                 **比赛名称** : [HICAThon 1.0](https://hicathon01.xyz/)  
@@ -572,6 +563,15 @@
                 **赛事主办** : Alchemists of Kernel (https://ctftime.org/team/130794)  
                 **添加日历** : https://ctftime.org/event/2720.ics  
                 
+            ??? Quote "[ZeroDays CTF 2025](http://www.zerodays.ie/)"  
+                [![](https://ctftime.org/media/events/zerodays_logo.png){ width="200" align=left }](http://www.zerodays.ie/)  
+                **比赛名称** : [ZeroDays CTF 2025](http://www.zerodays.ie/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-22 17:30:00 - 2025-03-23 01:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : Ireland without the RE (https://ctftime.org/team/179144)  
+                **添加日历** : https://ctftime.org/event/2614.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[HGAME 2025](https://hgame.vidar.club/games/2)"  
@@ -1017,7 +1017,7 @@
                 **比赛名称** : [x3CTF 2025 (feat. mvm)](https://x3c.tf/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-01-25 02:00:00 - 2025-01-27 02:00:00 UTC+8  
-                **比赛权重** : 23.58  
+                **比赛权重** : 23.61  
                 **赛事主办** : x3CTF (https://ctftime.org/team/309820)  
                 **添加日历** : https://ctftime.org/event/2467.ics  
                 
