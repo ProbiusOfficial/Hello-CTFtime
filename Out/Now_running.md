@@ -108,3 +108,12 @@ comments: true
     **赛事主办** : PolyCyber (https://ctftime.org/team/212241)  
     **添加日历** : https://ctftime.org/event/2734.ics  
     
+??? Quote "[Undutmaning 2025](https://undutmaning.se/)"  
+    [![](https://ctftime.org/media/events/2025logo_ctfd.jpg){ width="200" align=left }](https://undutmaning.se/)  
+    **比赛名称** : [Undutmaning 2025](https://undutmaning.se/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-03-29 19:00:00 - 2025-03-30 03:00:00 UTC+8  
+    **比赛权重** : 24.50  
+    **赛事主办** : Undutmaning (https://ctftime.org/team/212504)  
+    **添加日历** : https://ctftime.org/event/2589.ics  
+    
