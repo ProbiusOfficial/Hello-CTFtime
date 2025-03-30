@@ -8,6 +8,13 @@
     
     === "*即将开始*"
         === "国内赛事"
+            ??? Quote "[商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）](www.qsnctf.com)"  
+                **比赛名称** : [商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）](www.qsnctf.com)  
+                **比赛类型** : 线上Jeopardy解题赛  
+                **报名时间** : 2025年04月01日 00:00 - 2025年04月07日 09:59  
+                **比赛时间** : 2025年04月07日 10:00 - 2025年04月13日 17:00  
+                **其他说明** : 商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）是一个由商丘师范学院主办的线上个人赛。报名开始时间为2025年04月01日 00:00，报名结束时间为2025年04月07日 09:59。比赛时间为2025年04月07日 10:00至2025年04月13日 17:00。更多信息请访问比赛官网www.qsnctf.com，或加入QQ群1021827215进行咨询。比赛设有证书和周边奖励。  
+                
             ??? Quote "[2025年能源网络安全大赛](https://www.cers.org.cn/site/content/883b36f00aff466fa37efcef0c074915.html)"  
                 **比赛名称** : [2025年能源网络安全大赛](https://www.cers.org.cn/site/content/883b36f00aff466fa37efcef0c074915.html)  
                 **比赛类型** : 线上Jeopardy解题赛  
@@ -659,15 +666,6 @@
                 **赛事主办** : PolyCyber (https://ctftime.org/team/212241)  
                 **添加日历** : https://ctftime.org/event/2734.ics  
                 
-            ??? Quote "[VolgaCTF 2025 Qualifier](https://q.2025.volgactf.ru/)"  
-                [![](https://ctftime.org/media/events/logo-social-yellow_16.png){ width="200" align=left }](https://q.2025.volgactf.ru/)  
-                **比赛名称** : [VolgaCTF 2025 Qualifier](https://q.2025.volgactf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-29 20:00:00 - 2025-03-30 20:00:00 UTC+8  
-                **比赛权重** : 27.14  
-                **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
-                **添加日历** : https://ctftime.org/event/2676.ics  
-                
             ??? Quote "[JerseyCTF V](https://ctf.jerseyctf.com/)"  
                 [![](https://ctftime.org/media/events/jctfv_hat_1.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
                 **比赛名称** : [JerseyCTF V](https://ctf.jerseyctf.com/)  
@@ -718,6 +716,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : Penn State CCSO (https://ctftime.org/team/367931)  
                 **添加日历** : https://ctftime.org/event/2637.ics  
+                
+            ??? Quote "[VolgaCTF 2025 Qualifier](https://q.2025.volgactf.ru/)"  
+                [![](https://ctftime.org/media/events/logo-social-yellow_16.png){ width="200" align=left }](https://q.2025.volgactf.ru/)  
+                **比赛名称** : [VolgaCTF 2025 Qualifier](https://q.2025.volgactf.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-29 20:00:00 - 2025-03-30 20:00:00 UTC+8  
+                **比赛权重** : 27.14  
+                **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
+                **添加日历** : https://ctftime.org/event/2676.ics  
                 
             ??? Quote "[Undutmaning 2025](https://undutmaning.se/)"  
                 [![](https://ctftime.org/media/events/2025logo_ctfd.jpg){ width="200" align=left }](https://undutmaning.se/)  
@@ -823,7 +830,7 @@
                 **比赛名称** : [FooBar CTF 2025](https://foobarctf.nitdgplug.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-03-22 14:30:00 - 2025-03-23 14:30:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 35.50  
                 **赛事主办** : Alchemists of Kernel (https://ctftime.org/team/130794)  
                 **添加日历** : https://ctftime.org/event/2720.ics  
                 
@@ -1591,13 +1598,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : o1d_bu7_go1d (https://ctftime.org/team/213673)  
                 **添加日历** : https://ctftime.org/event/2538.ics  
-                
-            ??? Quote "[M*CTF 2024 Finals](https://mctf.ru/)"  
-                [![](https://ctftime.org/media/events/IMG_2613_1.PNG){ width="200" align=left }](https://mctf.ru/)  
-                **比赛名称** : [M*CTF 2024 Finals](https://mctf.ru/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2024-12-07 15:30:00 - 2024-12-08 00:30:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
-                **添加日历** : https://ctftime.org/event/2595.ics  
                 
