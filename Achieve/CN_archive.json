@@ -994,6 +994,26 @@
                 "contac": {},
                 "tag": "",
                 "readmore": "NCTF 2024 由 NCTF 2024 组织委员会主办，比赛时间为 3 月 22 日 9:00 - 3 月 23 日 21:00，共计 36 小时，比赛形式为团队赛，每队 1-4 人，分为校内、校外两个赛道。"
+            },
+            {
+                "name": "VNCTF 2025",
+                "info_confirmed": 1,
+                "mid_join": 1,
+                "link": "https://ctf.vnteam.cn",
+                "status": "已经结束",
+                "is_reg": 1,
+                "limit": 1,
+                "type": "线上Jeopardy解题赛",
+                "reg_time_start": "2025年01月01日 00:00",
+                "reg_time_end": "2025年02月08日 09:59",
+                "comp_time_start": "2025年02月08日 10:00",
+                "comp_time_end": "2025年02月09日 10:00",
+                "organizer": "V&N Team",
+                "contac": {
+                    "QQ群": "717513199"
+                },
+                "tag": "",
+                "readmore": "VNCTF 2025由V&N Team主办，个人赛，可报名，即将开始，中途可加入。报名开始时间为2025年01月01日 00:00，比赛时间为2025年02月08日 10:00至2025年02月09日 10:00。更多信息请加QQ群717513199。"
             }
         ],
         "msg": ""
