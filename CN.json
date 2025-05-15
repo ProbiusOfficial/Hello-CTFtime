@@ -3,6 +3,26 @@
     "data": {
         "result": [
             {
+                "name": "京麒CTF",
+                "info_confirmed": 1,
+                "mid_join": 0,
+                "link": "https://jqctf.ctf.cyberunited.cn/",
+                "status": "已经结束",
+                "is_reg": 0,
+                "limit": 1,
+                "type": "线上Jeopardy解题赛",
+                "reg_time_start": "2024年05月24日 09:00",
+                "reg_time_end": "2024年05月24日 20:59",
+                "comp_time_start": "2024年05月24日 09:00",
+                "comp_time_end": "2024年05月24日 21:00",
+                "organizer": "京麒",
+                "contac": {
+                    "QQ群": "605379906"
+                },
+                "tag": "普通赛",
+                "readmore": "第三届京麒CTF挑战赛由京麒主办，比赛时间为5月24日9:00-21:00，更多信息可加入QQ群605379906了解。"
+            },
+            {
                 "name": "2025年能源网络安全大赛",
                 "info_confirmed": 1,
                 "mid_join": 0,
