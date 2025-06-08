@@ -407,15 +407,6 @@
                 **赛事主办** : PlayCyber (https://ctftime.org/team/165788)  
                 **添加日历** : https://ctftime.org/event/2716.ics  
                 
-            ??? Quote "[bi0sCTF 2025](https://ctf.bi0s.in/)"  
-                [![](https://ctftime.org/media/events/image_2025-03-25_143431330.png){ width="200" align=left }](https://ctf.bi0s.in/)  
-                **比赛名称** : [bi0sCTF 2025](https://ctf.bi0s.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-06-07 13:30:00 - 2025-06-09 01:30:00 UTC+8  
-                **比赛权重** : 95.79  
-                **赛事主办** : bi0s (https://ctftime.org/team/662)  
-                **添加日历** : https://ctftime.org/event/2672.ics  
-                
             ??? Quote "[Goldrush Gauntlet 2025](https://ggctf.cyberhawks.org/)"  
                 [![](https://ctftime.org/media/events/logo_110.png){ width="200" align=left }](https://ggctf.cyberhawks.org/)  
                 **比赛名称** : [Goldrush Gauntlet 2025](https://ggctf.cyberhawks.org/)  
@@ -457,6 +448,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : The DFIR Report (https://ctftime.org/team/309500)  
                 **添加日历** : https://ctftime.org/event/2750.ics  
+                
+            ??? Quote "[bi0sCTF 2025](https://ctf.bi0s.in/)"  
+                [![](https://ctftime.org/media/events/image_2025-03-25_143431330.png){ width="200" align=left }](https://ctf.bi0s.in/)  
+                **比赛名称** : [bi0sCTF 2025](https://ctf.bi0s.in/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-06-07 13:30:00 - 2025-06-09 01:30:00 UTC+8  
+                **比赛权重** : 95.79  
+                **赛事主办** : bi0s (https://ctftime.org/team/662)  
+                **添加日历** : https://ctftime.org/event/2672.ics  
                 
             ??? Quote "[DIVER OSINT CTF 2025](https://ctfd.diverctf.org/)"  
                 [![](https://ctftime.org/media/events/logo_circle.png){ width="200" align=left }](https://ctfd.diverctf.org/)  
@@ -1039,7 +1039,7 @@
                 **比赛名称** : [Breach CTF 2025](https://www.breachers.in/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-04-05 10:30:00 - 2025-04-06 10:30:00 UTC+8  
-                **比赛权重** : 23.77  
+                **比赛权重** : 23.86  
                 **赛事主办** : IITBreachers (https://ctftime.org/team/165802)  
                 **添加日历** : https://ctftime.org/event/2671.ics  
                 
@@ -1339,13 +1339,4 @@
                 **比赛权重** : 24.81  
                 **赛事主办** : WATCTF (https://ctftime.org/team/373968)  
                 **添加日历** : https://ctftime.org/event/2727.ics  
-                
-            ??? Quote "[Nowruz 1404](https://1404.fmc.tf/)"  
-                [![](https://ctftime.org/media/events/FMCTF.png){ width="200" align=left }](https://1404.fmc.tf/)  
-                **比赛名称** : [Nowruz 1404](https://1404.fmc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-15 21:30:00 - 2025-03-16 21:30:00 UTC+8  
-                **比赛权重** : 24.51  
-                **赛事主办** : FlagMotori (https://ctftime.org/team/222060)  
-                **添加日历** : https://ctftime.org/event/2601.ics  
                 
