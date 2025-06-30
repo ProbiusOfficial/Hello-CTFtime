@@ -3,6 +3,27 @@
     "data": {
         "result": [
             {
+                "name": "D3CTF2025",
+                "info_confirmed": 1,
+                "mid_join": 0,
+                "link": "https://d3c.tf/",
+                "status": "即将开始",
+                "is_reg": 0,
+                "limit": "0",
+                "type": "线上Jeopardy解题赛",
+                "reg_time_start": "2025年05月30日 20:00",
+                "reg_time_end": "2025年05月30日 19:59",
+                "comp_time_start": "2025年05月30日 20:00",
+                "comp_time_end": "2025年05月31日 20:00",
+                "organizer": "D3CTF2025组织委员会",
+                "contac": {
+                    "QQ群": "317828357",
+                    "Telegram": "https://t.me/d3ctf"
+                },
+                "tag": "",
+                "readmore": "D3CTF2025由D3CTF2025组织委员会主办，报名已结束，比赛将于2025年05月30日 20:00开始，至2025年05月31日 20:00结束。如需进一步沟通，请联系QQ群317828357或访问Telegram群组https://t.me/d3ctf。"
+            },
+            {
                 "name": "2025年能源网络安全大赛",
                 "info_confirmed": 1,
                 "mid_join": 0,
