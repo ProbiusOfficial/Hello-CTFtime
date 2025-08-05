@@ -8,26 +8,14 @@
     
     === "*即将开始*"
         === "国内赛事"
-    
+            ??? Quote "[极客少年挑战赛](URL)"  
+                **比赛名称** : [极客少年挑战赛](URL)  
+                **比赛类型** : 线下Jeopardy解题赛  
+                **报名时间** : 2025年6月3日 00:00 - 2025年7月10日 23:59  
+                **比赛时间** : 2025年8月29日 10:00 - 2025年8月29日 16:00  
+                **其他说明** : 第五届极客少年挑战赛将于2025年8月29日10:00至16:00举行，报名从2025年6月3日00:00开始至2025年7月10日23:59结束。单人线下赛，更多信息请加入QQ群1045833929。  
+                
         === "国外赛事"
-            ??? Quote "[idekCTF 2025](https://ctf.idek.team/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.idek.team/)  
-                **比赛名称** : [idekCTF 2025](https://ctf.idek.team/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-08-02 08:00:00 - 2025-08-04 08:00:00 UTC+8  
-                **比赛权重** : 52.06  
-                **赛事主办** : idek (https://ctftime.org/team/157039)  
-                **添加日历** : https://ctftime.org/event/2746.ics  
-                
-            ??? Quote "[justCTF 2025](http://2025.justctf.team/)"  
-                [![](https://ctftime.org/media/events/b6f4bd9df7efba86c9b2d4eea9f8bc74.png){ width="200" align=left }](http://2025.justctf.team/)  
-                **比赛名称** : [justCTF 2025](http://2025.justctf.team/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-08-02 14:00:00 - 2025-08-04 03:00:00 UTC+8  
-                **比赛权重** : 97.20  
-                **赛事主办** : justCatTheFish (https://ctftime.org/team/33893)  
-                **添加日历** : https://ctftime.org/event/2711.ics  
-                
             ??? Quote "[WHY2025 CTF](https://ctf.why2025.org/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.why2025.org/)  
                 **比赛名称** : [WHY2025 CTF](https://ctf.why2025.org/)  
@@ -385,6 +373,24 @@
                 **其他说明** : 2025年能源网络安全大赛由中国能源研究会主办，面向电网企业、发电及电力建设企业、石油石化企业、煤炭企业等单位网络安全技术、运维和管理人员，以及国内网络安全领域知名高校、科研机构、产业单位等代表。报名截止日期为2025年3月31日，可通过扫描二维码下载报名表并发送至icc@cers.org.cn邮箱。联系人包括屈庆红、李理和陈炜，可通过电话或邮箱进行咨询。  
                 
         === "国外赛事"
+            ??? Quote "[idekCTF 2025](https://ctf.idek.team/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.idek.team/)  
+                **比赛名称** : [idekCTF 2025](https://ctf.idek.team/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-08-02 16:00:00 - 2025-08-04 16:00:00 UTC+8  
+                **比赛权重** : 52.06  
+                **赛事主办** : idek (https://ctftime.org/team/157039)  
+                **添加日历** : https://ctftime.org/event/2746.ics  
+                
+            ??? Quote "[justCTF 2025](http://2025.justctf.team/)"  
+                [![](https://ctftime.org/media/events/b6f4bd9df7efba86c9b2d4eea9f8bc74.png){ width="200" align=left }](http://2025.justctf.team/)  
+                **比赛名称** : [justCTF 2025](http://2025.justctf.team/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-08-02 14:00:00 - 2025-08-04 03:00:00 UTC+8  
+                **比赛权重** : 97.20  
+                **赛事主办** : justCatTheFish (https://ctftime.org/team/33893)  
+                **添加日历** : https://ctftime.org/event/2711.ics  
+                
             ??? Quote "[World Wide CTF 2025](https://wwctf.com/)"  
                 [![](https://ctftime.org/media/events/ctftime.jpg){ width="200" align=left }](https://wwctf.com/)  
                 **比赛名称** : [World Wide CTF 2025](https://wwctf.com/)  
@@ -444,7 +450,7 @@
                 **比赛名称** : [BDSec CTF 2025](https://bdsec-ctf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-07-20 23:00:00 - 2025-07-21 23:00:00 UTC+8  
-                **比赛权重** : 16.41  
+                **比赛权重** : 15.81  
                 **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
                 **添加日历** : https://ctftime.org/event/2784.ics  
                 
@@ -597,7 +603,7 @@
                 **比赛名称** : [CubeCTF](https://cubectf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-07-05 06:16:00 - 2025-07-07 08:25:00 UTC+8  
-                **比赛权重** : 24.68  
+                **比赛权重** : 24.70  
                 **赛事主办** : CubeMastery (https://ctftime.org/team/168744)  
                 **添加日历** : https://ctftime.org/event/2820.ics  
                 
@@ -1266,22 +1272,4 @@
                 **比赛权重** : 69.00  
                 **赛事主办** : UMBC Cyber Dawgs (https://ctftime.org/team/18405)  
                 **添加日历** : https://ctftime.org/event/2651.ics  
-                
-            ??? Quote "[CPCTF 2025](https://cpctf.space/)"  
-                [![](https://ctftime.org/media/events/cpctf_logo_1.png){ width="200" align=left }](https://cpctf.space/)  
-                **比赛名称** : [CPCTF 2025](https://cpctf.space/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-04-18 19:00:00 - 2025-04-20 19:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : traP (https://ctftime.org/team/62510)  
-                **添加日历** : https://ctftime.org/event/2760.ics  
-                
-            ??? Quote "[SECPlayground Cybersplash 2025](https://lobby-ctf.secplayground.com/lobby/df6ff4f1-4187-472e-979d-b45ebc7f236d)"  
-                [![](https://ctftime.org/media/events/Cybersplash_2025__FB_Profile_500_x_500_px.png){ width="200" align=left }](https://lobby-ctf.secplayground.com/lobby/df6ff4f1-4187-472e-979d-b45ebc7f236d)  
-                **比赛名称** : [SECPlayground Cybersplash 2025](https://lobby-ctf.secplayground.com/lobby/df6ff4f1-4187-472e-979d-b45ebc7f236d)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-04-18 10:00:00 - 2025-04-19 10:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : SECPlayground (https://ctftime.org/team/375409)  
-                **添加日历** : https://ctftime.org/event/2754.ics  
                 

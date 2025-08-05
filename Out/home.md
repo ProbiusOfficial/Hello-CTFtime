@@ -1,24 +1,12 @@
     === "国内比赛"
-    
+        ??? Quote "[极客少年挑战赛](URL)"  
+            **比赛名称** : [极客少年挑战赛](URL)  
+            **比赛类型** : 线下Jeopardy解题赛  
+            **报名时间** : 2025年6月3日 00:00 - 2025年7月10日 23:59  
+            **比赛时间** : 2025年8月29日 10:00 - 2025年8月29日 16:00  
+            **其他说明** : 第五届极客少年挑战赛将于2025年8月29日10:00至16:00举行，报名从2025年6月3日00:00开始至2025年7月10日23:59结束。单人线下赛，更多信息请加入QQ群1045833929。  
+                
     === "国外比赛"
-        ??? Quote "[idekCTF 2025](https://ctf.idek.team/)"  
-            [![](https://ctftime.org){ width="200" align=left }](https://ctf.idek.team/)  
-            **比赛名称** : [idekCTF 2025](https://ctf.idek.team/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-08-02 08:00:00 - 2025-08-04 08:00:00 UTC+8  
-            **比赛权重** : 52.06  
-            **赛事主办** : idek (https://ctftime.org/team/157039)  
-            **添加日历** : https://ctftime.org/event/2746.ics  
-            
-        ??? Quote "[justCTF 2025](http://2025.justctf.team/)"  
-            [![](https://ctftime.org/media/events/b6f4bd9df7efba86c9b2d4eea9f8bc74.png){ width="200" align=left }](http://2025.justctf.team/)  
-            **比赛名称** : [justCTF 2025](http://2025.justctf.team/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-08-02 14:00:00 - 2025-08-04 03:00:00 UTC+8  
-            **比赛权重** : 97.20  
-            **赛事主办** : justCatTheFish (https://ctftime.org/team/33893)  
-            **添加日历** : https://ctftime.org/event/2711.ics  
-            
         ??? Quote "[Startpwn CTF 2025](https://app.metactf.com/starpwn-2025)"  
             [![](https://ctftime.org/media/events/starpwn_logo_cr.png){ width="200" align=left }](https://app.metactf.com/starpwn-2025)  
             **比赛名称** : [Startpwn CTF 2025](https://app.metactf.com/starpwn-2025)  
@@ -36,4 +24,22 @@
             **比赛权重** : 0.00  
             **赛事主办** : Eindbazen (https://ctftime.org/team/322)  
             **添加日历** : https://ctftime.org/event/2680.ics  
+            
+        ??? Quote "[scriptCTF 2025](https://ctf.scriptsorcerers.xyz/)"  
+            [![](https://ctftime.org/media/events/final_logo.png){ width="200" align=left }](https://ctf.scriptsorcerers.xyz/)  
+            **比赛名称** : [scriptCTF 2025](https://ctf.scriptsorcerers.xyz/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-08-16 08:00:00 - 2025-08-18 08:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : ScriptSorcerers (https://ctftime.org/team/284260)  
+            **添加日历** : https://ctftime.org/event/2792.ics  
+            
+        ??? Quote "[SekaiCTF 2025](https://ctf.sekai.team/)"  
+            [![](https://ctftime.org/media/events/sekai2_SEKAI_CTF_Square_Black_BG.r_1_1_1.png){ width="200" align=left }](https://ctf.sekai.team/)  
+            **比赛名称** : [SekaiCTF 2025](https://ctf.sekai.team/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-08-16 09:00:00 - 2025-08-18 09:00:00 UTC+8  
+            **比赛权重** : 55.00  
+            **赛事主办** : Project Sekai (https://ctftime.org/team/169557)  
+            **添加日历** : https://ctftime.org/event/2683.ics  
             
