@@ -217,7 +217,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/2901.ics  
     
 ??? Quote "[WannaGame Championship 2025](https://ctf.cnsc.com.vn/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://ctf.cnsc.com.vn/)  
+    [![](https://ctftime.org/media/events/Artboard_13x.png){ width="200" align=left }](https://ctf.cnsc.com.vn/)  
     **比赛名称** : [WannaGame Championship 2025](https://ctf.cnsc.com.vn/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-12-06 09:00:00 - 2025-12-08 09:00:00 UTC+8  
