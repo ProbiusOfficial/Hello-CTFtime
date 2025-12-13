@@ -221,15 +221,6 @@
                 **赛事主办** : CyberStudentsCTF (https://ctftime.org/team/365239)  
                 **添加日历** : https://ctftime.org/event/3022.ics  
                 
-            ??? Quote "[NexHunt CTF](https://nexus-security.club/)"  
-                [![](https://ctftime.org/media/events/Group_64_2.png){ width="200" align=left }](https://nexus-security.club/)  
-                **比赛名称** : [NexHunt CTF](https://nexus-security.club/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-12-12 02:00:00 - 2025-12-13 18:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Nexus Team (https://ctftime.org/team/361096)  
-                **添加日历** : https://ctftime.org/event/3037.ics  
-                
             ??? Quote "[niteCTF 2025](https://nitectf25.live/)"  
                 [![](https://ctftime.org/media/events/nitectf2025.png){ width="200" align=left }](https://nitectf25.live/)  
                 **比赛名称** : [niteCTF 2025](https://nitectf25.live/)  
@@ -261,6 +252,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[NexHunt CTF](https://nexus-security.club/)"  
+                [![](https://ctftime.org/media/events/Group_64_2.png){ width="200" align=left }](https://nexus-security.club/)  
+                **比赛名称** : [NexHunt CTF](https://nexus-security.club/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-12-12 02:00:00 - 2025-12-13 18:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Nexus Team (https://ctftime.org/team/361096)  
+                **添加日历** : https://ctftime.org/event/3037.ics  
+                
             ??? Quote "[BackdoorCTF 2025](https://backdoor.infoseciitr.in/)"  
                 [![](https://ctftime.org/media/events/0b4a317ba84bb2bd6e871c5eec6fdb00_1.png){ width="200" align=left }](https://backdoor.infoseciitr.in/)  
                 **比赛名称** : [BackdoorCTF 2025](https://backdoor.infoseciitr.in/)  
@@ -1151,13 +1151,4 @@
                 **比赛权重** : 12.40  
                 **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
                 **添加日历** : https://ctftime.org/event/2892.ics  
-                
-            ??? Quote "[CyberKumbez 2025](https://kazhackstan.com/)"  
-                [![](https://ctftime.org/media/events/kkk.png){ width="200" align=left }](https://kazhackstan.com/)  
-                **比赛名称** : [CyberKumbez 2025](https://kazhackstan.com/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2025-09-17 18:00:00 - 2025-09-20 00:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : KazHackStan (https://ctftime.org/team/396364)  
-                **添加日历** : https://ctftime.org/event/2875.ics  
                 
