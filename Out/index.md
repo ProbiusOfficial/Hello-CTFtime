@@ -149,15 +149,6 @@
                 **赛事主办** : CyberStudentsCTF (https://ctftime.org/team/365239)  
                 **添加日历** : https://ctftime.org/event/3022.ics  
                 
-            ??? Quote "[ASIS CTF Finals 2025](https://asisctf.com/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://asisctf.com/)  
-                **比赛名称** : [ASIS CTF Finals 2025](https://asisctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-12-27 22:00:00 - 2025-12-28 22:00:00 UTC+8  
-                **比赛权重** : 100.00  
-                **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-                **添加日历** : https://ctftime.org/event/2613.ics  
-                
             ??? Quote "[hxp 39C3 CTF](https://2025.ctf.link/)"  
                 [![](https://ctftime.org/media/events/hxp-39c3.png){ width="200" align=left }](https://2025.ctf.link/)  
                 **比赛名称** : [hxp 39C3 CTF](https://2025.ctf.link/)  
@@ -171,6 +162,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[ASIS CTF Finals 2025](https://asisctf.com/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://asisctf.com/)  
+                **比赛名称** : [ASIS CTF Finals 2025](https://asisctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-12-27 22:00:00 - 2025-12-28 22:00:00 UTC+8  
+                **比赛权重** : 100.00  
+                **赛事主办** : ASIS (https://ctftime.org/team/4140)  
+                **添加日历** : https://ctftime.org/event/2613.ics  
+                
             ??? Quote "[MetaCTF December 2025 Flash CTF](https://mctf.io/dec2025)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://mctf.io/dec2025)  
                 **比赛名称** : [MetaCTF December 2025 Flash CTF](https://mctf.io/dec2025)  
@@ -1061,13 +1061,4 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/2775.ics  
-                
-            ??? Quote "[Srdnlen CTF 2025 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)"  
-                [![](https://ctftime.org/media/events/logo-srdnlen-color-260-social.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
-                **比赛名称** : [Srdnlen CTF 2025 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-09-25 18:00:00 - 2025-09-26 06:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
-                **添加日历** : https://ctftime.org/event/2840.ics  
                 
