@@ -148,7 +148,7 @@ comments: true
     **比赛名称** : [P3rf3ctr00t CTF 2025](https://ctf.perfectroot.wiki/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-12-05 23:00:00 - 2025-12-07 23:00:00 UTC+8  
-    **比赛权重** : 24.37  
+    **比赛权重** : 24.40  
     **赛事主办** : L3v3l 6 (https://ctftime.org/team/206364)  
     **添加日历** : https://ctftime.org/event/3009.ics  
     
