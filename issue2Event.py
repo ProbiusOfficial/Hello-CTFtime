@@ -66,13 +66,16 @@ def add_Event(json_data):
     with open('./CN.json', 'r', encoding='utf-8') as f:
         CN = json.load(f)
     
-    print("Now:" + str(CN['data']['result'][0]))
+    if CN['data']['result']:
+        print("Now:" + str(CN['data']['result'][0]))
+    else:
+        print("Now: CN.json result list is empty")
 
-    print("Insert " + str(json_data) + "into CN.json")
+    print("Insert " + str(json_data) + " into CN.json")
     
     CN['data']['result'].insert(0, json_data)
 
-    print(CN['data']['result'][0])
+    print("After insert:" + str(CN['data']['result'][0]))
 
     with open('./CN.json', 'w', encoding='utf-8') as f:
         json.dump(CN, f, ensure_ascii=False, indent=4)
