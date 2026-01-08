@@ -123,14 +123,11 @@ def add_Event(json_data):
 json_data = json.loads(matchInformationText2json())
 
 # --- normalize / guardrails ---
-if "contac" in json_data and "contact" not in json_data:
-    json_data["contact"] = json_data.pop("contac")
-
-# Ensure contact is an object
-if not isinstance(json_data.get("contact"), dict):
-    json_data["contact"] = {"QQ群": ""}
+# Ensure contac is an object
+if not isinstance(json_data.get("contac"), dict):
+    json_data["contac"] = {"QQ群": ""}
 else:
-    json_data["contact"].setdefault("QQ群", "")
+    json_data["contac"].setdefault("QQ群", "")
 
 # Ensure limit is a number
 try:

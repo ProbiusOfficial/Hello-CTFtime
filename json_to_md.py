@@ -1,6 +1,38 @@
 import json
+from datetime import datetime
+import re
 
-register_events = []
+def parse_cn_datetime(time_str):
+    """解析中文时间格式，支持补零和不补零两种格式"""
+    if not time_str:
+        return None
+    normalized = re.sub(r'(\d{4})年(\d{1,2})月(\d{1,2})日', 
+                        lambda m: f"{m.group(1)}年{int(m.group(2)):02d}月{int(m.group(3)):02d}日", 
+                        time_str)
+    try:
+        return datetime.strptime(normalized, '%Y年%m月%d日 %H:%M')
+    except ValueError:
+        return None
+
+def get_register_events(data):
+    """获取正在报名的赛事（当前时间在报名时间区间内，且比赛尚未开始）"""
+    register_events = []
+    now = datetime.now()
+    
+    for event in data.get('data', {}).get('result', []):
+        reg_start = parse_cn_datetime(event.get('reg_time_start', ''))
+        reg_end = parse_cn_datetime(event.get('reg_time_end', ''))
+        comp_start = parse_cn_datetime(event.get('comp_time_start', ''))
+        
+        # 如果无法解析时间，跳过
+        if not reg_start or not reg_end or not comp_start:
+            continue
+        
+        # 当前时间在报名时间区间内，且比赛尚未开始
+        if reg_start <= now <= reg_end and now < comp_start:
+            register_events.append(event)
+    
+    return register_events
 
 def process_global_events(events):
     upcoming_events = []
@@ -58,21 +90,21 @@ def create_md_content(events, template, event_type="global"):
             md_content.append(template.format(**event_with_defaults))
     return "\n".join(md_content)
 
-def create_html_content(register_cn_count, upcoming_cn_count,running_cn_count,upcoming_global_count, running_global_count):
+def create_html_content(register_cn_count, upcoming_cn_count, running_cn_count, upcoming_global_count, running_global_count):
     html_template = """                    <div>
                         <strong id="greeting"></strong><br>
                         <br>
-                        <b>国内</b> 共有 9 场比赛正在报名,<br>
-                        <a href="Upcoming_events/#_2">11</a> 场比赛即将开始,
-                        <a href="Now_running/#_2">2</a> 场比赛正在进行。<br>
-                        <b>国外</b> 共有 <a href="Upcoming_events/#_3">21</a> 场比赛即将开始,<br>
-                        <a href="Now_running/#_3">2</a> 场比赛正在进行。<br>
+                        <b>国内</b> 共有 {0} 场比赛正在报名,<br>
+                        <a href="Upcoming_events/#_2">{1}</a> 场比赛即将开始,
+                        <a href="Now_running/#_2">{2}</a> 场比赛正在进行。<br>
+                        <b>国外</b> 共有 <a href="Upcoming_events/#_3">{3}</a> 场比赛即将开始,<br>
+                        <a href="Now_running/#_3">{4}</a> 场比赛正在进行。<br>
                         <br>
                         您可以点击左侧栏来查看不同状态的比赛详细。
 
                     </div>
 """
-    return html_template.format(register_cn_count, upcoming_cn_count,running_cn_count,upcoming_global_count, running_global_count)
+    return html_template.format(register_cn_count, upcoming_cn_count, running_cn_count, upcoming_global_count, running_global_count)
 
 def main():
     # Load Global.json and CN.json
@@ -84,6 +116,7 @@ def main():
     # Process events
     upcoming_global, running_global, past_global = process_global_events(global_data)
     upcoming_cn, running_cn, past_cn = process_cn_events(cn_data)
+    register_events = get_register_events(cn_data)
 
     # Markdown templates
     global_template = (
