@@ -115,10 +115,27 @@ with open('Achieve/CN_archive.json', 'r', encoding='utf-8') as file:
     archive = json.load(file)
 
 for event in CN['data']['result']:
-    reg_time_start = datetime.strptime(event['reg_time_start'], '%Y年%m月%d日 %H:%M')
-    reg_time_end = datetime.strptime(event['reg_time_end'], '%Y年%m月%d日 %H:%M')
-    comp_time_start = datetime.strptime(event['comp_time_start'], '%Y年%m月%d日 %H:%M')
-    comp_time_end = datetime.strptime(event['comp_time_end'], '%Y年%m月%d日 %H:%M')
+    try:
+        reg_time_start = datetime.strptime(event['reg_time_start'], '%Y年%m月%d日 %H:%M')
+    except ValueError:
+        reg_time_start = date
+    
+    try:
+        reg_time_end = datetime.strptime(event['reg_time_end'], '%Y年%m月%d日 %H:%M')
+    except ValueError:
+        reg_time_end = date
+    
+    try:
+        comp_time_start = datetime.strptime(event['comp_time_start'], '%Y年%m月%d日 %H:%M')
+    except ValueError:
+        print(f"Warning: Invalid comp_time_start format for event '{event.get('name', 'Unknown')}': {event.get('comp_time_start')}")
+        continue
+    
+    try:
+        comp_time_end = datetime.strptime(event['comp_time_end'], '%Y年%m月%d日 %H:%M')
+    except ValueError:
+        print(f"Warning: Invalid comp_time_end format for event '{event.get('name', 'Unknown')}': {event.get('comp_time_end')}")
+        continue
     
     if date < comp_time_start:
         event['status'] = "即将开始"
@@ -127,14 +144,13 @@ for event in CN['data']['result']:
     elif date > comp_time_end:
         event['status'] = "已经结束"
         
-        comp_time_end = datetime.strptime(event['comp_time_end'], '%Y年%m月%d日 %H:%M')
         if date > comp_time_end + timedelta(days=60):
             print(event['name'] + "已结束超过60天，移至存档")
             archive['archive']['result'].append(event)
             CN['data']['result'].remove(event)
 
-    if date >= comp_time_start and date < comp_time_end: # 单独判断一下是否正在进行中，进行中的优先级 > 报名中
-        event['status'] = "正在进行" # 进行中
+    if date >= comp_time_start and date < comp_time_end:
+        event['status'] = "正在进行"
 
         
 # 更新存档
