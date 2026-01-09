@@ -3,6 +3,26 @@
     "data": {
         "result": [
             {
+                "name": "UniCTF",
+                "info_confirmed": 1,
+                "mid_join": null,
+                "link": "https://www.ctfplus.cn",
+                "status": "即将开始",
+                "is_reg": null,
+                "limit": 4,
+                "type": "线上Jeopardy解题赛",
+                "reg_time_start": "2026年01月09日 10:09",
+                "reg_time_end": "2026年01月25日 09:59",
+                "comp_time_start": "2026年01月25日 10:00",
+                "comp_time_end": "2026年01月31日 10:00",
+                "organizer": "",
+                "contac": {
+                    "QQ群": ""
+                },
+                "tag": "",
+                "readmore": "4人一组团队赛，需先在CTFPlus比赛大厅报名；奖项含社会赛道与新生赛道奖金及证书，单方向额外奖励。"
+            },
+            {
                 "name": "HGAME 2026",
                 "info_confirmed": 1,
                 "mid_join": 0,
