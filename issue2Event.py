@@ -69,7 +69,7 @@ with open("temp", "r", encoding="utf-8") as f:
 matchInformationText = issue_body
 
 now_cn = datetime.datetime.now(ZoneInfo("Asia/Shanghai")).strftime("%Y年%m月%d日 %H:%M")
-system_prompt_rendered = system_prompt.format(NOW_CN=now_cn)
+system_prompt_rendered = system_prompt.replace("{NOW_CN}", now_cn)
 
 def matchInformationText2json():
     try:
