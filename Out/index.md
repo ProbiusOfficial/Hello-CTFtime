@@ -596,6 +596,10 @@
                 **赛事主办** : Hacking Indian Ocean (https://ctftime.org/team/399138)  
                 **添加日历** : https://ctftime.org/event/3089.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[SWIMMER OSINT CTF](https://twitter.com/DIVER_OSINT_CTF)"  
                 [![](https://ctftime.org/media/events/circle-white-text.png){ width="200" align=left }](https://twitter.com/DIVER_OSINT_CTF)  
                 **比赛名称** : [SWIMMER OSINT CTF](https://twitter.com/DIVER_OSINT_CTF)  
@@ -605,10 +609,6 @@
                 **赛事主办** : diver_osint (https://ctftime.org/team/299569)  
                 **添加日历** : https://ctftime.org/event/2986.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[New Year CTF 2026](http://ctf-spcs.mf.grsu.by/)"  
                 [![](https://ctftime.org/media/events/NY2026.jpg){ width="200" align=left }](http://ctf-spcs.mf.grsu.by/)  
                 **比赛名称** : [New Year CTF 2026](http://ctf-spcs.mf.grsu.by/)  
@@ -1499,13 +1499,4 @@
                 **比赛权重** : 64.00  
                 **赛事主办** : CSUI (https://ctftime.org/team/70551)  
                 **添加日历** : https://ctftime.org/event/2900.ics  
-                
-            ??? Quote "[jailCTF 2025](https://ctf.pyjail.club/)"  
-                [![](https://ctftime.org/media/events/jailctf.png){ width="200" align=left }](https://ctf.pyjail.club/)  
-                **比赛名称** : [jailCTF 2025](https://ctf.pyjail.club/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-10-04 04:00:00 - 2025-10-07 04:00:00 UTC+8  
-                **比赛权重** : 24.88  
-                **赛事主办** : jailctf (https://ctftime.org/team/311088)  
-                **添加日历** : https://ctftime.org/event/2737.ics  
                 
