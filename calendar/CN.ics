@@ -9,8 +9,8 @@ DTSTART:20260125T020000Z
 DTEND:20260131T020000Z
 UID:15f9a081b7134a8c828961d65f6fa8f5
 VTIMEZONE:Asia/Shanghai
-DTSTAMP:20260121T112123Z
-CREATED:20260121T112123Z
+DTSTAMP:20260121T124312Z
+CREATED:20260121T124312Z
 URL:https://unictf.play.ctfplus.cn/
 DESCRIPTION:线上Jeopardy解题赛 | https://unictf.play.ctfplus.cn/ | 报名---2026年01月09日 10:09-2026年01月25日 09:59-备注-4人一组团队赛，需先在CTFPlus比赛大厅报名（https://www.ctfplus.cn）；奖项含社会赛道与新生赛道奖金及证书，单方向额外奖励。
 END:VEVENT
@@ -21,8 +21,8 @@ DTSTART:20260202T020000Z
 DTEND:20260215T120000Z
 UID:89df9df5f422e301fad73572485758d3
 VTIMEZONE:Asia/Shanghai
-DTSTAMP:20260121T112123Z
-CREATED:20260121T112123Z
+DTSTAMP:20260121T124312Z
+CREATED:20260121T124312Z
 URL:https://hgame.vidar.club/
 DESCRIPTION:线上Jeopardy解题赛 | https://hgame.vidar.club/ | 报名---2026年01月26日 00:00-2026年02月15日 19:59-备注-HGAME2026是一场由Vidar-Team组织的线上Jeopardy解题赛，。报名从2026年01月26日00:00开始，到2026年02月15日20:00结束。比赛从2026年02月02日10:00开始，至2026年02月15日20:00结束。更多信息，请加入QQ群576834793。
 END:VEVENT
@@ -33,8 +33,8 @@ DTSTART:20260130T040000Z
 DTEND:20260202T040000Z
 UID:4644ad540cf1074efcf42c6ca8ba712e
 VTIMEZONE:Asia/Shanghai
-DTSTAMP:20260121T112123Z
-CREATED:20260121T112123Z
+DTSTAMP:20260121T124312Z
+CREATED:20260121T124312Z
 URL:https://furryctf.com/games/2
 DESCRIPTION:线上Jeopardy解题赛 | https://furryctf.com/games/2 | 报名---2026年1月1日 00:00-2026年1月30日 11:59-备注-furryCTF2025是一款直至目前花销自理的，具有一定娱乐性质的，安徽师范大学计算机爱好者协会协办的网络与信息安全新神赛，初心是不为盈利，Hackforfun！比赛允许使用AI，我们鼓励选手能在比赛中合理的将AI当做辅助解题的工具。同时我们不限制搜索引擎的使用，除了因为确实也不好限制以外，我们鼓励选手能从比赛过程中通过思考与探索学到更多知识。比赛链接：furryCTF2025正赛（比赛时间为2026年1月30日中午12点~2月2日中午12点，共72小时）：https://furryctf.com/games/2。官方交流群QQ:746480442。
 END:VEVENT
