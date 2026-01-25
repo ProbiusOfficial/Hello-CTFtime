@@ -9,7 +9,7 @@
                 "link": "https://hgame.vidar.club/",
                 "status": "即将开始",
                 "is_reg": 1,
-                "limit": "1",
+                "limit": 1,
                 "type": "线上Jeopardy解题赛",
                 "reg_time_start": "2026年01月26日 00:00",
                 "reg_time_end": "2026年02月15日 19:59",
@@ -41,7 +41,7 @@
                 },
                 "tag": "公益赛",
                 "readmore": "主办方为furryCTF及POFP联合战队，严禁攻击平台或使用扫描器，设有多种奖品，详情请到QQ群查看；祝各位玩的开心~"
-            }
+            },
             {
                 "name": "UniCTF",
                 "info_confirmed": 1,
