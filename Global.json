@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "CSCG 2026",
-        "比赛时间": "2026-03-02 01:00:00 - 2026-05-02 00:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2907.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://play.cscg.live/",
-        "比赛标志": "",
-        "比赛权重": "0",
-        "赛事主办": "NFITS (https://ctftime.org/team/360674)",
-        "比赛ID": "1200",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Axiom CTF 2026",
         "比赛时间": "2026-03-07 15:00:00 - 2026-03-09 03:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3129.ics",
@@ -561,6 +549,18 @@
         "比赛权重": "0",
         "赛事主办": "SK-CERT (https://ctftime.org/team/378916)",
         "比赛ID": "1303",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "CSCG 2026",
+        "比赛时间": "2026-03-02 01:00:00 - 2026-05-02 00:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2907.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://play.cscg.live/",
+        "比赛标志": "",
+        "比赛权重": "0",
+        "赛事主办": "NFITS (https://ctftime.org/team/360674)",
+        "比赛ID": "1200",
         "比赛状态": "nowrunning"
     },
     {
