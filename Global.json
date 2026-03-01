@@ -540,6 +540,90 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "SwampCTF 2026",
+        "比赛时间": "2026-04-18 05:00:00 - 2026-04-20 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3118.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.swampctf.com/",
+        "比赛标志": "",
+        "比赛权重": "48.94",
+        "赛事主办": "Kernel Sanders (https://ctftime.org/team/397)",
+        "比赛ID": "241",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "b01lers CTF 2026",
+        "比赛时间": "2026-04-18 08:00:00 - 2026-04-20 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3153.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://b01lersc.tf/",
+        "比赛标志": "https://ctftime.org/media/events/b01lers.png",
+        "比赛权重": "66.00",
+        "赛事主办": "b01lers (https://ctftime.org/team/11464)",
+        "比赛ID": "408",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "pingCTF 2026",
+        "比赛时间": "2026-04-18 18:00:00 - 2026-04-19 18:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3147.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://knping.pl/ctf",
+        "比赛标志": "https://ctftime.org/media/events/logo_121.png",
+        "比赛权重": "46.20",
+        "赛事主办": "pingCTF (https://ctftime.org/team/147266)",
+        "比赛ID": "715",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "KubSTU CTF",
+        "比赛时间": "2026-04-18 18:00:00 - 2026-04-20 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3177.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://kubstu-ctf.online/",
+        "比赛标志": "https://ctftime.org/media/events/1233.png",
+        "比赛权重": "0.00",
+        "赛事主办": "Capybaras (https://ctftime.org/team/223931)",
+        "比赛ID": "1499",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "K!nd4SUS CTF 2026",
+        "比赛时间": "2026-04-18 20:00:00 - 2026-04-19 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3143.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.k1nd4sus.it/",
+        "比赛标志": "https://ctftime.org/media/events/81649886.png",
+        "比赛权重": "18.70",
+        "赛事主办": "K!nd4SUS (https://ctftime.org/team/150337)",
+        "比赛ID": "1264",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "JerseyCTF VI",
+        "比赛时间": "2026-04-19 03:00:00 - 2026-04-20 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3117.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.jerseyctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/Social_Logo2.png",
+        "比赛权重": "37.00",
+        "赛事主办": "Highlander Hackers (https://ctftime.org/team/173925)",
+        "比赛ID": "724",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "TRX CTF 2026",
+        "比赛时间": "2026-04-25 03:00:00 - 2026-04-27 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3141.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.theromanxpl0.it/",
+        "比赛标志": "https://ctftime.org/media/events/TRX_smooth_1.png",
+        "比赛权重": "24.16",
+        "赛事主办": "TheRomanXpl0it (https://ctftime.org/team/46516)",
+        "比赛ID": "1238",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "UMDCTF 2026",
         "比赛时间": "2026-04-25 06:00:00 - 2026-04-27 06:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3056.ics",
@@ -561,6 +645,30 @@
         "比赛权重": "0.00",
         "赛事主办": "PH03N1X V1P3R N0V4 CTF (https://ctftime.org/team/395369)",
         "比赛ID": "1374",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "Break The Syntax CTF 2026",
+        "比赛时间": "2026-05-09 00:00:00 - 2026-05-10 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3137.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://bts2026.wh.edu.pl/",
+        "比赛标志": "https://ctftime.org/media/events/Logo_15.png",
+        "比赛权重": "56.25",
+        "赛事主办": "PWr Synt@x Err0r (https://ctftime.org/team/88205)",
+        "比赛ID": "558",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "DAMCTF 2026",
+        "比赛时间": "2026-05-09 08:00:00 - 2026-05-11 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3124.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://damctf.xyz/",
+        "比赛标志": "https://ctftime.org/media/events/damctf.png",
+        "比赛权重": "33.42",
+        "赛事主办": "OSUSEC (https://ctftime.org/team/12858)",
+        "比赛ID": "423",
         "比赛状态": "oncoming"
     },
     {
