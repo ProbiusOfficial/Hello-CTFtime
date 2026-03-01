@@ -410,15 +410,6 @@
                 **赛事主办** : vulnbydefault (https://ctftime.org/team/423471)  
                 **添加日历** : https://ctftime.org/event/3135.ics  
                 
-            ??? Quote "[Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)"  
-                [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_1.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
-                **比赛名称** : [Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-01 02:00:00 - 2026-03-02 02:00:00 UTC+8  
-                **比赛权重** : 34.76  
-                **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
-                **添加日历** : https://ctftime.org/event/3043.ics  
-                
             ??? Quote "[CyberGame 2026](https://cybergame.sk/)"  
                 [![](https://ctftime.org/media/events/76a04fd5e7b9d834480d92fbf702f749.png){ width="200" align=left }](https://cybergame.sk/)  
                 **比赛名称** : [CyberGame 2026](https://cybergame.sk/)  
@@ -461,6 +452,15 @@
                 **其他说明** : 4人一组团队赛，需先在CTFPlus比赛大厅报名（https://www.ctfplus.cn）；奖项含社会赛道与新生赛道奖金及证书，单方向额外奖励。  
                 
         === "国外赛事"
+            ??? Quote "[Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)"  
+                [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_1.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
+                **比赛名称** : [Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-01 02:00:00 - 2026-03-02 02:00:00 UTC+8  
+                **比赛权重** : 34.76  
+                **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
+                **添加日历** : https://ctftime.org/event/3043.ics  
+                
             ??? Quote "[CREST CTF](https://crestpcu.in/)"  
                 [![](https://ctftime.org/media/events/crest_logo.jpeg){ width="200" align=left }](https://crestpcu.in/)  
                 **比赛名称** : [CREST CTF](https://crestpcu.in/)  
@@ -1351,13 +1351,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
                 **添加日历** : https://ctftime.org/event/2980.ics  
-                
-            ??? Quote "[CSAW CTF Final Round 2025](https://ctf.csaw.io/)"  
-                [![](https://ctftime.org/media/events/csaw-stars_1.png){ width="200" align=left }](https://ctf.csaw.io/)  
-                **比赛名称** : [CSAW CTF Final Round 2025](https://ctf.csaw.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-07 01:00:00 - 2025-11-08 13:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
-                **添加日历** : https://ctftime.org/event/2982.ics  
                 
