@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "ARA 7.0 CTF",
-        "比赛时间": "2026-03-02 17:00:00 - 2026-03-03 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3152.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ara-its.id/",
-        "比赛标志": "https://ctftime.org/media/events/logo_ara_1.png",
-        "比赛权重": "0.00",
-        "赛事主办": "rizztechitits (https://ctftime.org/team/418688)",
-        "比赛ID": "1486",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "KI CTF 2026",
         "比赛时间": "2026-03-03 11:30:00 - 2026-03-03 19:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3167.ics",
@@ -270,7 +258,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.bsidessf.net/",
         "比赛标志": "https://ctftime.org/media/events/bsides_logo_short.png",
-        "比赛权重": "0",
+        "比赛权重": "25.00",
         "赛事主办": "BSidesSF (https://ctftime.org/team/54737)",
         "比赛ID": "252",
         "比赛状态": "oncoming"
@@ -297,6 +285,18 @@
         "比赛权重": "33.00",
         "赛事主办": "Undutmaning (https://ctftime.org/team/212504)",
         "比赛ID": "885",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "Redfox CTF 2026",
+        "比赛时间": "2026-03-21 20:30:00 - 2026-03-22 20:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3163.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://academy.redfoxsec.com/course/redfox-ctf-85076",
+        "比赛标志": "",
+        "比赛权重": "0.00",
+        "赛事主办": "redfoxteam (https://ctftime.org/team/424518)",
+        "比赛ID": "1516",
         "比赛状态": "oncoming"
     },
     {
@@ -336,6 +336,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "Codegate CTF 2026 Preliminary",
+        "比赛时间": "2026-03-28 08:00:00 - 2026-03-28 23:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3131.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://ctf.codegate.org/",
+        "比赛标志": "",
+        "比赛权重": "62.00",
+        "赛事主办": "CODEGATE (https://ctftime.org/team/39352)",
+        "比赛ID": "3",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "Flag Wars",
         "比赛时间": "2026-03-28 17:00:00 - 2026-03-29 03:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3084.ics",
@@ -360,6 +372,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "CU school CTF 2026",
+        "比赛时间": "2026-03-29 15:00:00 - 2026-03-29 23:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3155.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://cu.ru/olympiad/events/cu-school-ctf",
+        "比赛标志": "https://ctftime.org/media/events/cu_school_ctf.png",
+        "比赛权重": "0",
+        "赛事主办": "CUT (https://ctftime.org/team/358931)",
+        "比赛ID": "1320",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "GLOBAL CYBER GAMES: Women's Attack and Defense Edition @Wicked6",
         "比赛时间": "2026-03-29 20:00:00 - 2026-03-30 05:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3057.ics",
@@ -369,6 +393,54 @@
         "比赛权重": "0.00",
         "赛事主办": "PlayCyber (https://ctftime.org/team/165788)",
         "比赛ID": "740",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "Kashi CTF 2026",
+        "比赛时间": "2026-04-03 20:00:00 - 2026-04-04 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3150.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://kashictf.iitbhucybersec.in/",
+        "比赛标志": "https://ctftime.org/media/events/kashi-ctf-logo.png",
+        "比赛权重": "21.78",
+        "赛事主办": "IIT(BHU)CyberSec (https://ctftime.org/team/22546)",
+        "比赛ID": "1251",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "RITSEC CTF 2026",
+        "比赛时间": "2026-04-04 05:00:00 - 2026-04-06 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3096.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctfd.ritsec.club/",
+        "比赛标志": "https://ctftime.org/media/events/ritsec_ctf_2026_TP.png",
+        "比赛权重": "48.64",
+        "赛事主办": "Contagion (https://ctftime.org/team/152691)",
+        "比赛ID": "170",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "CITEFLAG QUALS 2026",
+        "比赛时间": "2026-04-04 06:00:00 - 2026-04-05 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3175.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.citeflag.online/",
+        "比赛标志": "https://ctftime.org/media/events/logo_white_on_black_rounded.png",
+        "比赛权重": "0.00",
+        "赛事主办": "CITEFLAG (https://ctftime.org/team/425411)",
+        "比赛ID": "1522",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "Breach CTF 2026",
+        "比赛时间": "2026-04-04 10:30:00 - 2026-04-05 10:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3119.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://breachers.in/",
+        "比赛标志": "https://ctftime.org/media/events/breachctf_logo.png",
+        "比赛权重": "23.86",
+        "赛事主办": "IITBreachers (https://ctftime.org/team/165802)",
+        "比赛ID": "1098",
         "比赛状态": "oncoming"
     },
     {
@@ -393,6 +465,18 @@
         "比赛权重": "0",
         "赛事主办": "Dreamhack (https://ctftime.org/team/367894)",
         "比赛ID": "1090",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "DawgCTF 2026",
+        "比赛时间": "2026-04-11 00:00:00 - 2026-04-13 00:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3102.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://metactf.com/join/dawgctf26",
+        "比赛标志": "https://ctftime.org/media/events/dawgsec_shield-ctftime_2_1.png",
+        "比赛权重": "66.64",
+        "赛事主办": "UMBC Cyber Dawgs (https://ctftime.org/team/18405)",
+        "比赛ID": "437",
         "比赛状态": "oncoming"
     },
     {
@@ -429,6 +513,18 @@
         "比赛权重": "0",
         "赛事主办": "traP (https://ctftime.org/team/62510)",
         "比赛ID": "934",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "CTF@CIT 2026",
+        "比赛时间": "2026-04-18 00:00:00 - 2026-04-20 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3156.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.cyber-cit.club/",
+        "比赛标志": "https://ctftime.org/media/events/CTF-CIT-ctftime_3.png",
+        "比赛权重": "23.93",
+        "赛事主办": "HACK@CIT (https://ctftime.org/team/287896)",
+        "比赛ID": "1109",
         "比赛状态": "oncoming"
     },
     {
