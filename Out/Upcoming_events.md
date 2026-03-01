@@ -9,6 +9,42 @@ comments: true
 
 ## 国际赛事
 
+??? Quote "[ARA 7.0 CTF](https://ara-its.id/)"  
+    [![](https://ctftime.org/media/events/logo_ara_1.png){ width="200" align=left }](https://ara-its.id/)  
+    **比赛名称** : [ARA 7.0 CTF](https://ara-its.id/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-02 17:00:00 - 2026-03-03 17:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : rizztechitits (https://ctftime.org/team/418688)  
+    **添加日历** : https://ctftime.org/event/3152.ics  
+    
+??? Quote "[KI CTF 2026](https://cyberconclave.yugam.in/)"  
+    [![](https://ctftime.org/media/events/cyber-conclave-ki-ctf_1.png){ width="200" align=left }](https://cyberconclave.yugam.in/)  
+    **比赛名称** : [KI CTF 2026](https://cyberconclave.yugam.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-03 11:30:00 - 2026-03-03 19:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : YUGAM KUMARAGURU (https://ctftime.org/team/425387)  
+    **添加日历** : https://ctftime.org/event/3167.ics  
+    
+??? Quote "[UNbreakable International 2026 - Team Phase](https://app.cyber-edu.co/competition/unr26t-international)"  
+    [![](https://ctftime.org/media/events/871e96a389ac3c21b9beab2096969903.jpg){ width="200" align=left }](https://app.cyber-edu.co/competition/unr26t-international)  
+    **比赛名称** : [UNbreakable International 2026 - Team Phase](https://app.cyber-edu.co/competition/unr26t-international)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-06 17:00:00 - 2026-03-08 17:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : bitsentinel (https://ctftime.org/team/280005)  
+    **添加日历** : https://ctftime.org/event/3172.ics  
+    
+??? Quote "[ApoorvCTF 2026](https://apoorvctf.iiitkottayam.ac.in/)"  
+    [![](https://ctftime.org/media/events/A5_-_98.png){ width="200" align=left }](https://apoorvctf.iiitkottayam.ac.in/)  
+    **比赛名称** : [ApoorvCTF 2026](https://apoorvctf.iiitkottayam.ac.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-07 05:00:00 - 2026-03-09 05:00:00 UTC+8  
+    **比赛权重** : 24.10  
+    **赛事主办** : r3d_kn1ght5 (https://ctftime.org/team/212248)  
+    **添加日历** : https://ctftime.org/event/3171.ics  
+    
 ??? Quote "[Axiom CTF 2026](https://ctf.4x10m.ru/)"  
     [![](https://ctftime.org/media/events/Frame_1.png){ width="200" align=left }](https://ctf.4x10m.ru/)  
     **比赛名称** : [Axiom CTF 2026](https://ctf.4x10m.ru/)  
@@ -54,6 +90,15 @@ comments: true
     **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
     **添加日历** : https://ctftime.org/event/3110.ics  
     
+??? Quote "[ShellCTF](https://shellctf.me/)"  
+    [![](https://ctftime.org/media/events/shell-ctf-icon.jpg){ width="200" align=left }](https://shellctf.me/)  
+    **比赛名称** : [ShellCTF](https://shellctf.me/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-08 14:30:00 - 2026-03-08 18:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Utopains (https://ctftime.org/team/408650)  
+    **添加日历** : https://ctftime.org/event/3170.ics  
+    
 ??? Quote "[UTCTF 2026](https://www.isss.io/utctf/)"  
     [![](){ width="200" align=left }](https://www.isss.io/utctf/)  
     **比赛名称** : [UTCTF 2026](https://www.isss.io/utctf/)  
@@ -62,6 +107,15 @@ comments: true
     **比赛权重** : 35.20  
     **赛事主办** : isss (https://ctftime.org/team/69010)  
     **添加日历** : https://ctftime.org/event/3133.ics  
+    
+??? Quote "[PsychCTF 2026](https://psychctf.xyz/)"  
+    [![](https://ctftime.org/media/events/SAIC_logo_icon_min.png){ width="200" align=left }](https://psychctf.xyz/)  
+    **比赛名称** : [PsychCTF 2026](https://psychctf.xyz/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-14 02:30:00 - 2026-03-16 02:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : SAIC_IITMandi (https://ctftime.org/team/251023)  
+    **添加日历** : https://ctftime.org/event/3166.ics  
     
 ??? Quote "[Midnight Flag CTF - EXECUTION](https://midnightflag.fr/)"  
     [![](https://ctftime.org/media/events/logo_119.png){ width="200" align=left }](https://midnightflag.fr/)  
@@ -90,6 +144,15 @@ comments: true
     **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
     **添加日历** : https://ctftime.org/event/3049.ics  
     
+??? Quote "[SUCTF 2026](https://suctf2026.xctf.org.cn/)"  
+    [![](https://ctftime.org/media/events/SU.jpg){ width="200" align=left }](https://suctf2026.xctf.org.cn/)  
+    **比赛名称** : [SUCTF 2026](https://suctf2026.xctf.org.cn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-14 09:00:00 - 2026-03-16 09:00:00 UTC+8  
+    **比赛权重** : 24.82  
+    **赛事主办** : SU (https://ctftime.org/team/29641)  
+    **添加日历** : https://ctftime.org/event/3161.ics  
+    
 ??? Quote "[tkbctf5](https://tkbctf.info/)"  
     [![](https://ctftime.org/media/events/tkbctf_logo.png){ width="200" align=left }](https://tkbctf.info/)  
     **比赛名称** : [tkbctf5](https://tkbctf.info/)  
@@ -108,6 +171,24 @@ comments: true
     **赛事主办** : L0stAx3s (https://ctftime.org/team/354995)  
     **添加日历** : https://ctftime.org/event/3162.ics  
     
+??? Quote "[Lag N Crash 6.0](https://lagncra.sh/)"  
+    [![](https://ctftime.org/media/events/d1f68ce184a147b1b87eabe3826986dd.png){ width="200" align=left }](https://lagncra.sh/)  
+    **比赛名称** : [Lag N Crash 6.0](https://lagncra.sh/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-16 12:00:00 - 2026-03-17 18:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Interpoly (https://ctftime.org/team/424494)  
+    **添加日历** : https://ctftime.org/event/3165.ics  
+    
+??? Quote "[Insomni'hack 2026](https://insomnihack.ch/contest/)"  
+    [![](){ width="200" align=left }](https://insomnihack.ch/contest/)  
+    **比赛名称** : [Insomni'hack 2026](https://insomnihack.ch/contest/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-21 01:00:00 - 2026-03-21 12:00:00 UTC+8  
+    **比赛权重** : 24.14  
+    **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
+    **添加日历** : https://ctftime.org/event/3146.ics  
+    
 ??? Quote "[Curiosity CTF 2026](https://curiosityctf.xyz/)"  
     [![](){ width="200" align=left }](https://curiosityctf.xyz/)  
     **比赛名称** : [Curiosity CTF 2026](https://curiosityctf.xyz/)  
@@ -125,6 +206,15 @@ comments: true
     **比赛权重** : 76.22  
     **赛事主办** : TAMUctf (https://ctftime.org/team/37721)  
     **添加日历** : https://ctftime.org/event/3095.ics  
+    
+??? Quote "[BSidesSF CTF 2026](https://ctf.bsidessf.net/)"  
+    [![](https://ctftime.org/media/events/bsides_logo_short.png){ width="200" align=left }](https://ctf.bsidessf.net/)  
+    **比赛名称** : [BSidesSF CTF 2026](https://ctf.bsidessf.net/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-21 07:00:00 - 2026-03-23 07:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : BSidesSF (https://ctftime.org/team/54737)  
+    **添加日历** : https://ctftime.org/event/3108.ics  
     
 ??? Quote "[ZeroDays CTF 2026](http://www.zerodays.ie/)"  
     [![](https://ctftime.org/media/events/4ed567668366c4f824552685fc0c6b04.png){ width="200" align=left }](http://www.zerodays.ie/)  

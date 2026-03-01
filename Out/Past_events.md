@@ -28,6 +28,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Winja CTF | Nullcon Goa 2026](https://ctf.winja.org/)"  
+    [![](https://ctftime.org/media/events/winja-logo-transparent_2_1.png){ width="200" align=left }](https://ctf.winja.org/)  
+    **比赛名称** : [Winja CTF | Nullcon Goa 2026](https://ctf.winja.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-01 12:30:00 - 2026-03-01 18:30:00 UTC+8  
+    **比赛权重** : 1.00  
+    **赛事主办** : Winja CTF (https://ctftime.org/team/145228)  
+    **添加日历** : https://ctftime.org/event/3160.ics  
+    
 ??? Quote "[Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)"  
     [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_1.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
     **比赛名称** : [Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)  
@@ -918,13 +927,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
     **添加日历** : https://ctftime.org/event/2921.ics  
-    
-??? Quote "[CSCTF 2025](https://2025.chronos-security.ro/)"  
-    [![](https://ctftime.org/media/events/CSCTF25-logo-bg.png){ width="200" align=left }](https://2025.chronos-security.ro/)  
-    **比赛名称** : [CSCTF 2025](https://2025.chronos-security.ro/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-11-07 20:00:00 - 2025-11-09 20:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
-    **添加日历** : https://ctftime.org/event/2980.ics  
     
