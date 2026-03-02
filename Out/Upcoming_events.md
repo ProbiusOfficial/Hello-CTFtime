@@ -18,6 +18,15 @@ comments: true
     **赛事主办** : YUGAM KUMARAGURU (https://ctftime.org/team/425387)  
     **添加日历** : https://ctftime.org/event/3167.ics  
     
+??? Quote "[ARA 7.0 CTF](https://ara-its.id/)"  
+    [![](https://ctftime.org/media/events/logo_ara_1.png){ width="200" align=left }](https://ara-its.id/)  
+    **比赛名称** : [ARA 7.0 CTF](https://ara-its.id/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-04 17:00:00 - 2026-03-05 17:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : rizztechitits (https://ctftime.org/team/418688)  
+    **添加日历** : https://ctftime.org/event/3152.ics  
+    
 ??? Quote "[UNbreakable International 2026 - Team Phase](https://app.cyber-edu.co/competition/unr26t-international)"  
     [![](https://ctftime.org/media/events/871e96a389ac3c21b9beab2096969903.jpg){ width="200" align=left }](https://app.cyber-edu.co/competition/unr26t-international)  
     **比赛名称** : [UNbreakable International 2026 - Team Phase](https://app.cyber-edu.co/competition/unr26t-international)  
@@ -89,6 +98,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Utopains (https://ctftime.org/team/408650)  
     **添加日历** : https://ctftime.org/event/3170.ics  
+    
+??? Quote "[Espilon CTF 2026](https://ctf.espilon.net/)"  
+    [![](){ width="200" align=left }](https://ctf.espilon.net/)  
+    **比赛名称** : [Espilon CTF 2026](https://ctf.espilon.net/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-11 20:00:00 - 2026-03-26 08:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Espilon (https://ctftime.org/team/423394)  
+    **添加日历** : https://ctftime.org/event/3179.ics  
     
 ??? Quote "[UTCTF 2026](https://www.isss.io/utctf/)"  
     [![](){ width="200" align=left }](https://www.isss.io/utctf/)  
@@ -701,6 +719,15 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : Norske Nøkkelsnikere (https://ctftime.org/team/222749)  
     **添加日历** : https://ctftime.org/event/3097.ics  
+    
+??? Quote "[K17 CTF 2026](https://k17ctf.secso.cc/)"  
+    [![](https://ctftime.org/media/events/20848837627a0ae11a820f3c9ed4fabc.png){ width="200" align=left }](https://k17ctf.secso.cc/)  
+    **比赛名称** : [K17 CTF 2026](https://k17ctf.secso.cc/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-11 18:00:00 - 2026-09-13 18:00:00 UTC+8  
+    **比赛权重** : 24.83  
+    **赛事主办** : K17 (https://ctftime.org/team/17058)  
+    **添加日历** : https://ctftime.org/event/3145.ics  
     
 ??? Quote "[Pointer Overflow CTF - 2026](https://pointeroverflowctf.com/)"  
     [![](https://ctftime.org/media/events/logo-mini.png){ width="200" align=left }](https://pointeroverflowctf.com/)  

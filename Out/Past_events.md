@@ -123,7 +123,7 @@ comments: true
     **比赛名称** : [Batman's Kitchen CTF 2026](https://ctf.batmans.kitchen/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-02-21 09:30:00 - 2026-02-23 09:30:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 24.41  
     **赛事主办** : Batman's Kitchen (https://ctftime.org/team/3135)  
     **添加日历** : https://ctftime.org/event/3098.ics  
     
