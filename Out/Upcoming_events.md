@@ -18,9 +18,9 @@ comments: true
     **赛事主办** : YUGAM KUMARAGURU (https://ctftime.org/team/425387)  
     **添加日历** : https://ctftime.org/event/3167.ics  
     
-??? Quote "[ARA 7.0 CTF](https://ara-its.id/)"  
-    [![](https://ctftime.org/media/events/logo_ara_1.png){ width="200" align=left }](https://ara-its.id/)  
-    **比赛名称** : [ARA 7.0 CTF](https://ara-its.id/)  
+??? Quote "[ARA 7.0 CTF](https://mirror.ara-its.id/)"  
+    [![](https://ctftime.org/media/events/logo_ara_1.png){ width="200" align=left }](https://mirror.ara-its.id/)  
+    **比赛名称** : [ARA 7.0 CTF](https://mirror.ara-its.id/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-03-04 17:00:00 - 2026-03-05 17:00:00 UTC+8  
     **比赛权重** : 0  
