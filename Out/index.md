@@ -118,6 +118,15 @@
                 **赛事主办** : Interpoly (https://ctftime.org/team/424494)  
                 **添加日历** : https://ctftime.org/event/3165.ics  
                 
+            ??? Quote "[CyberCup Indian Ocean 2026 – Team Edition | Step2](https://cybercup.ocoi.org/)"  
+                [![](https://ctftime.org/media/events/logo2_10.png){ width="200" align=left }](https://cybercup.ocoi.org/)  
+                **比赛名称** : [CyberCup Indian Ocean 2026 – Team Edition | Step2](https://cybercup.ocoi.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-18 13:00:00 - 2026-03-18 22:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Hacking Indian Ocean (https://ctftime.org/team/399138)  
+                **添加日历** : https://ctftime.org/event/3189.ics  
+                
             ??? Quote "[Insomni'hack 2026](https://insomnihack.ch/contest/)"  
                 [![](){ width="200" align=left }](https://insomnihack.ch/contest/)  
                 **比赛名称** : [Insomni'hack 2026](https://insomnihack.ch/contest/)  
@@ -860,15 +869,6 @@
                 **赛事主办** : Hexploit Alliance (https://ctftime.org/team/278003)  
                 **添加日历** : https://ctftime.org/event/3027.ics  
                 
-            ??? Quote "[CodeVinci CTF 2026](https://challs.codevinci.it/)"  
-                [![](https://ctftime.org/media/events/Logo_.png){ width="200" align=left }](https://challs.codevinci.it/)  
-                **比赛名称** : [CodeVinci CTF 2026](https://challs.codevinci.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-07 22:00:00 - 2026-03-08 03:00:00 UTC+8  
-                **比赛权重** : 18.57  
-                **赛事主办** : code-vinci (https://ctftime.org/team/365817)  
-                **添加日历** : https://ctftime.org/event/3101.ics  
-                
             ??? Quote "[DiceCTF 2026 Quals](https://ctf.dicega.ng/)"  
                 [![](https://ctftime.org/media/events/dice.png){ width="200" align=left }](https://ctf.dicega.ng/)  
                 **比赛名称** : [DiceCTF 2026 Quals](https://ctf.dicega.ng/)  
@@ -902,6 +902,15 @@
                 **其他说明** : 4人一组团队赛，需先在CTFPlus比赛大厅报名（https://www.ctfplus.cn）；奖项含社会赛道与新生赛道奖金及证书，单方向额外奖励。  
                 
         === "国外赛事"
+            ??? Quote "[CodeVinci CTF 2026](https://challs.codevinci.it/)"  
+                [![](https://ctftime.org/media/events/Logo_.png){ width="200" align=left }](https://challs.codevinci.it/)  
+                **比赛名称** : [CodeVinci CTF 2026](https://challs.codevinci.it/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-07 22:00:00 - 2026-03-08 03:00:00 UTC+8  
+                **比赛权重** : 18.57  
+                **赛事主办** : code-vinci (https://ctftime.org/team/365817)  
+                **添加日历** : https://ctftime.org/event/3101.ics  
+                
             ??? Quote "[CryptoNite CTF 2026](https://tachyon.iittp.ac.in/ctf/)"  
                 [![](){ width="200" align=left }](https://tachyon.iittp.ac.in/ctf/)  
                 **比赛名称** : [CryptoNite CTF 2026](https://tachyon.iittp.ac.in/ctf/)  
@@ -1792,13 +1801,4 @@
                 **比赛权重** : 97.22  
                 **赛事主办** : saarsec (https://ctftime.org/team/15337)  
                 **添加日历** : https://ctftime.org/event/2859.ics  
-                
-            ??? Quote "[Equinor CTF 2025](https://ctf.equinor.com/)"  
-                [![](https://ctftime.org/media/events/ept_2.png){ width="200" align=left }](https://ctf.equinor.com/)  
-                **比赛名称** : [Equinor CTF 2025](https://ctf.equinor.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-08 17:00:00 - 2025-11-09 03:00:00 UTC+8  
-                **比赛权重** : 37.00  
-                **赛事主办** : EPT (https://ctftime.org/team/119480)  
-                **添加日历** : https://ctftime.org/event/2646.ics  
                 
