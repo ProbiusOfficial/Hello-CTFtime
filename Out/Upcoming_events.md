@@ -180,6 +180,15 @@ comments: true
     **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
     **添加日历** : https://ctftime.org/event/3131.ics  
     
+??? Quote "[NovruzCTF 2026](https://canyouhack.org/)"  
+    [![](https://ctftime.org/media/events/IMG_4954.jpeg){ width="200" align=left }](https://canyouhack.org/)  
+    **比赛名称** : [NovruzCTF 2026](https://canyouhack.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-28 13:00:00 - 2026-03-29 13:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : QarabagTeam (https://ctftime.org/team/186802)  
+    **添加日历** : https://ctftime.org/event/3200.ics  
+    
 ??? Quote "[Flag Wars](https://laokoon-security.com/ctf2026)"  
     [![](https://ctftime.org/media/events/image_5.png){ width="200" align=left }](https://laokoon-security.com/ctf2026)  
     **比赛名称** : [Flag Wars](https://laokoon-security.com/ctf2026)  
@@ -656,6 +665,15 @@ comments: true
     **比赛权重** : 69.35  
     **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
     **添加日历** : https://ctftime.org/event/3148.ics  
+    
+??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
+    [![](){ width="200" align=left }](https://d3c.tf/)  
+    **比赛名称** : [D^3CTF 2026](https://d3c.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-07-25 20:00:00 - 2026-07-26 20:00:00 UTC+8  
+    **比赛权重** : 69.22  
+    **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
+    **添加日历** : https://ctftime.org/event/3201.ics  
     
 ??? Quote "[scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)"  
     [![](https://ctftime.org/media/events/final_logo_1.png){ width="200" align=left }](https://ctf.scriptsorcerers.xyz/)  
