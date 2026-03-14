@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[MIPT CTF Quals 2026](https://board.miptctf.ru/)"  
-                [![](https://ctftime.org/media/events/miptctf.jpg){ width="200" align=left }](https://board.miptctf.ru/)  
-                **比赛名称** : [MIPT CTF Quals 2026](https://board.miptctf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-14 17:00:00 - 2026-03-15 17:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : L0stAx3s (https://ctftime.org/team/354995)  
-                **添加日历** : https://ctftime.org/event/3162.ics  
-                
             ??? Quote "[Lag N Crash 6.0](https://lagncra.sh/)"  
                 [![](https://ctftime.org/media/events/d1f68ce184a147b1b87eabe3826986dd.png){ width="200" align=left }](https://lagncra.sh/)  
                 **比赛名称** : [Lag N Crash 6.0](https://lagncra.sh/)  
@@ -869,6 +860,15 @@
                 **赛事主办** : Crakon  ctf (https://ctftime.org/team/426527)  
                 **添加日历** : https://ctftime.org/event/3182.ics  
                 
+            ??? Quote "[MIPT CTF Quals 2026](https://board.miptctf.ru/)"  
+                [![](https://ctftime.org/media/events/miptctf.jpg){ width="200" align=left }](https://board.miptctf.ru/)  
+                **比赛名称** : [MIPT CTF Quals 2026](https://board.miptctf.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-14 17:00:00 - 2026-03-15 17:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : L0stAx3s (https://ctftime.org/team/354995)  
+                **添加日历** : https://ctftime.org/event/3162.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[HGAME 2026](https://hgame.vidar.club/)"  
@@ -1096,7 +1096,7 @@
                 **比赛名称** : [Batman's Kitchen CTF 2026](https://ctf.batmans.kitchen/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-21 09:30:00 - 2026-02-23 09:30:00 UTC+8  
-                **比赛权重** : 24.31  
+                **比赛权重** : 24.24  
                 **赛事主办** : Batman's Kitchen (https://ctftime.org/team/3135)  
                 **添加日历** : https://ctftime.org/event/3098.ics  
                 
@@ -1123,7 +1123,7 @@
                 **比赛名称** : [TaipanByte’s Chart CTF](https://chart.taipanbyte.ru/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-14 18:00:00 - 2026-02-15 18:00:00 UTC+8  
-                **比赛权重** : 24.09  
+                **比赛权重** : 24.29  
                 **赛事主办** : TaipanByte (https://ctftime.org/team/301788)  
                 **添加日历** : https://ctftime.org/event/3086.ics  
                 
@@ -1150,7 +1150,7 @@
                 **比赛名称** : [0xFUN CTF 2026](https://ctf.0xfun.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-13 02:00:00 - 2026-02-15 02:00:00 UTC+8  
-                **比赛权重** : 17.50  
+                **比赛权重** : 18.05  
                 **赛事主办** : 0xFUN (https://ctftime.org/team/354033)  
                 **添加日历** : https://ctftime.org/event/3081.ics  
                 
@@ -1168,7 +1168,7 @@
                 **比赛名称** : [DUCKERZ CTF 2026](https://teams.duckerz.ru/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-07 17:00:00 - 2026-02-08 17:00:00 UTC+8  
-                **比赛权重** : 23.80  
+                **比赛权重** : 23.20  
                 **赛事主办** : DUCKERZ (https://ctftime.org/team/372036)  
                 **添加日历** : https://ctftime.org/event/3067.ics  
                 
@@ -1195,7 +1195,7 @@
                 **比赛名称** : [Pragyan CTF 2026](https://ctf.prgy.in/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-06 21:00:00 - 2026-02-08 21:00:00 UTC+8  
-                **比赛权重** : 1.87  
+                **比赛权重** : 1.88  
                 **赛事主办** : Pragyan (https://ctftime.org/team/33867)  
                 **添加日历** : https://ctftime.org/event/3058.ics  
                 
@@ -1204,7 +1204,7 @@
                 **比赛名称** : [PascalCTF 2026](https://ctf.pascalctf.it/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-31 16:00:00 - 2026-02-01 16:00:00 UTC+8  
-                **比赛权重** : 24.02  
+                **比赛权重** : 23.94  
                 **赛事主办** : Paolo (https://ctftime.org/team/263145)  
                 **添加日历** : https://ctftime.org/event/2767.ics  
                 
@@ -1213,7 +1213,7 @@
                 **比赛名称** : [Eschaton CTF 2026 Quals](https://esch26.mcsc.space/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-31 12:30:00 - 2026-02-01 12:30:00 UTC+8  
-                **比赛权重** : 23.57  
+                **比赛权重** : 23.42  
                 **赛事主办** : Team MCSC (https://ctftime.org/team/418958)  
                 **添加日历** : https://ctftime.org/event/3072.ics  
                 
@@ -1258,7 +1258,7 @@
                 **比赛名称** : [Hack for a Change 2026 January: UN SDG 15](http://www.hackforachange.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-30 08:00:00 - 2026-02-03 07:59:59 UTC+8  
-                **比赛权重** : 12.60  
+                **比赛权重** : 14.38  
                 **赛事主办** : Hack for a Change (https://ctftime.org/team/419248)  
                 **添加日历** : https://ctftime.org/event/3083.ics  
                 
@@ -1285,7 +1285,7 @@
                 **比赛名称** : [VSL CTF 2026](https://vsl-ctf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-24 16:00:00 - 2026-01-25 16:00:00 UTC+8  
-                **比赛权重** : 23.62  
+                **比赛权重** : 23.60  
                 **赛事主办** : VSL (https://ctftime.org/team/284373)  
                 **添加日历** : https://ctftime.org/event/3060.ics  
                 
@@ -1330,7 +1330,7 @@
                 **比赛名称** : [0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-23 21:00:00 - 2026-01-25 21:00:00 UTC+8  
-                **比赛权重** : 28.45  
+                **比赛权重** : 29.19  
                 **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
                 **添加日历** : https://ctftime.org/event/3024.ics  
                 
@@ -1402,7 +1402,7 @@
                 **比赛名称** : [Scarlet CTF 2026](http://ctf.rusec.club/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-09 08:00:00 - 2026-01-12 08:00:00 UTC+8  
-                **比赛权重** : 22.95  
+                **比赛权重** : 23.82  
                 **赛事主办** : ScarletCTF (https://ctftime.org/team/226444)  
                 **添加日历** : https://ctftime.org/event/2981.ics  
                 
