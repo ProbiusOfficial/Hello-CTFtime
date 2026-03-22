@@ -10,39 +10,39 @@
             **比赛详细** : 筹备中  
                 
     === "国外比赛"
-        ??? Quote "[TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://ctf.tcp1p.team/)"  
-            [![](https://ctftime.org/media/events/Asset_10.jpg){ width="200" align=left }](https://ctf.tcp1p.team/)  
-            **比赛名称** : [TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://ctf.tcp1p.team/)  
+        ??? Quote "[AITU CTF 2026 Quals](https://ctf.fr13nds.team/)"  
+            [![](https://ctftime.org/media/events/icon-black.png){ width="200" align=left }](https://ctf.fr13nds.team/)  
+            **比赛名称** : [AITU CTF 2026 Quals](https://ctf.fr13nds.team/)  
             **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-10-11 20:00:00 - 2024-10-13 20:00:00 UTC+8  
-            **比赛权重** : 24.85  
-            **赛事主办** : TCP1P (https://ctftime.org/team/187248)  
-            **添加日历** : https://ctftime.org/event/2256.ics  
-            
-        ??? Quote "[AlpacaHack Round 5 (Crypto)](https://alpacahack.com/ctfs/round-5)"  
-            [![](https://ctftime.org/media/events/ctftime_6.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-5)  
-            **比赛名称** : [AlpacaHack Round 5 (Crypto)](https://alpacahack.com/ctfs/round-5)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-10-12 11:00:00 - 2024-10-12 17:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
-            **添加日历** : https://ctftime.org/event/2500.ics  
-            
-        ??? Quote "[Haus der Flaggen/Flag Heist](https://laokoon-security.com/ctf2024)"  
-            [![](https://ctftime.org/media/events/HausDerFlaggen_Plakat_1080_x_1080_px.png){ width="200" align=left }](https://laokoon-security.com/ctf2024)  
-            **比赛名称** : [Haus der Flaggen/Flag Heist](https://laokoon-security.com/ctf2024)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-10-12 16:00:00 - 2024-10-13 02:00:00 UTC+8  
+            **比赛时间** : 2026-03-23 15:00:00 - 2026-03-24 03:00:00 UTC+8  
             **比赛权重** : 0.00  
-            **赛事主办** : Laokoon SecurITy (https://ctftime.org/team/201667)  
-            **添加日历** : https://ctftime.org/event/2436.ics  
+            **赛事主办** : FR13NDS TEAM (https://ctftime.org/team/155678)  
+            **添加日历** : https://ctftime.org/event/3204.ics  
             
-        ??? Quote "[Blue Water CTF 2024](https://ctf.perfect.blue/)"  
-            [![](https://ctftime.org/media/events/4872c3c168bd1cdeb5dc564bb3a0416f.png){ width="200" align=left }](https://ctf.perfect.blue/)  
-            **比赛名称** : [Blue Water CTF 2024](https://ctf.perfect.blue/)  
+        ??? Quote "[Stranger's CTF - Techtrix '26](https://upsidectf.online/)"  
+            [![](){ width="200" align=left }](https://upsidectf.online/)  
+            **比赛名称** : [Stranger's CTF - Techtrix '26](https://upsidectf.online/)  
             **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-10-12 22:00:00 - 2024-10-14 10:00:00 UTC+8  
+            **比赛时间** : 2026-03-26 15:30:00 - 2026-03-27 15:30:00 UTC+8  
             **比赛权重** : 0.00  
-            **赛事主办** : 💦​ (https://ctftime.org/team/205897)  
-            **添加日历** : https://ctftime.org/event/2479.ics  
+            **赛事主办** : UpsideCTF (https://ctftime.org/team/426714)  
+            **添加日历** : https://ctftime.org/event/3188.ics  
+            
+        ??? Quote "[TexSAW 2026]()"  
+            [![](){ width="200" align=left }]()  
+            **比赛名称** : [TexSAW 2026]()  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-03-27 20:00:00 - 2026-03-29 20:00:00 UTC+8  
+            **比赛权重** : 41.59  
+            **赛事主办** : CSG (https://ctftime.org/team/333)  
+            **添加日历** : https://ctftime.org/event/3130.ics  
+            
+        ??? Quote "[KalmarCTF 2026](https://kalmarc.tf/)"  
+            [![](https://ctftime.org/media/events/kalmar-logo_1.png){ width="200" align=left }](https://kalmarc.tf/)  
+            **比赛名称** : [KalmarCTF 2026](https://kalmarc.tf/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-03-28 01:00:00 - 2026-03-30 01:00:00 UTC+8  
+            **比赛权重** : 49.97  
+            **赛事主办** : kalmarunionen (https://ctftime.org/team/114856)  
+            **添加日历** : https://ctftime.org/event/2983.ics  
             

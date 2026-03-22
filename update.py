@@ -8,7 +8,6 @@ import re
 
 from cn_helpers import utc8_now, parse_cn_time, cn_derived_status
 
-flag = True
 # 国外赛事更新:
 
 rssUpcoming = 'https://ctftime.org/event/list/upcoming/rss/'
@@ -16,77 +15,99 @@ rssActive = 'https://ctftime.org/event/list/archive/rss/'
 rssNowrunning = 'https://ctftime.org/event/list/running/rss/'
 
 def fetch_global_ctf_content(rss_url):
-    feed = feedparser.parse(rss_url)
-    events = []  
     try:
-        feedTitle = feed['feed']['title']
-    except KeyError:
+        feed = feedparser.parse(rss_url)
+    except Exception as e:
+        print(f'RSS源获取失败: {e}')
+        return False
+    
+    events = []
+    
+    # 检查feed是否有效
+    if not feed or 'feed' not in feed or 'title' not in feed.get('feed', {}):
         print('RSS源解析失败，请检查URL是否正确')
-        flag = False
         return False
 
     for entry in feed.entries:
+        try:
+            eventName = getattr(entry, 'title', 'Unknown Event')
 
-        eventName = entry.title
+            # 时间处理部分
+            start_date_str = getattr(entry, 'start_date', None)
+            finish_date_str = getattr(entry, 'finish_date', None)
+            
+            if not start_date_str or not finish_date_str:
+                print(f'Warning: Event "{eventName}" missing date info, skipping')
+                continue
+                
+            start_date = datetime.strptime(start_date_str, '%Y%m%dT%H%M%S')
+            finish_date = datetime.strptime(finish_date_str, '%Y%m%dT%H%M%S')
+            start_date_utc8 = start_date + timedelta(hours=8)
+            finish_date_utc8 = finish_date + timedelta(hours=8)
+            time_range = f'{start_date_utc8.strftime("%Y-%m-%d %H:%M:%S")} - {finish_date_utc8.strftime("%Y-%m-%d %H:%M:%S")} UTC+8'
+            eventTime = time_range
 
-        # 时间处理部分
-        start_date = datetime.strptime(entry.start_date, '%Y%m%dT%H%M%S')
-        finish_date = datetime.strptime(entry.finish_date, '%Y%m%dT%H%M%S')
-        start_date_utc8 = start_date + timedelta(hours=8)
-        finish_date_utc8 = finish_date + timedelta(hours=8)
-        time_range = f'{start_date_utc8.strftime("%Y-%m-%d %H:%M:%S")} - {finish_date_utc8.strftime("%Y-%m-%d %H:%M:%S")} UTC+8'
-        eventTime = time_range
-
-        # 添加日历部分
-        calendar_start_index = entry.description.find('[add to calendar]')
-        if calendar_start_index != -1:
-            calendar_end_index = entry.description.find('</a>', calendar_start_index)
-            calendar_link_start_index = entry.description.rfind('href="', 0, calendar_start_index) + 6
-            calendar_link = entry.description[calendar_link_start_index:calendar_end_index]
-            calendar_link = calendar_link.replace('">[add to calendar]','')
-            addCalendar = calendar_link
-        else:
+            # 添加日历部分
+            description = getattr(entry, 'description', '')
             addCalendar = None
+            calendar_start_index = description.find('[add to calendar]')
+            if calendar_start_index != -1:
+                calendar_end_index = description.find('</a>', calendar_start_index)
+                calendar_link_start_index = description.rfind('href="', 0, calendar_start_index) + 6
+                calendar_link = description[calendar_link_start_index:calendar_end_index]
+                calendar_link = calendar_link.replace('">[add to calendar]','')
+                addCalendar = calendar_link
 
-        # 主办方部分
-        organizers_data = json.loads(entry.organizers)
-        organizers_names = []
-        organizers_urls = []
-        for organizer in organizers_data:
-            name = organizer['name']
-            url = 'https://ctftime.org/team/' + str(organizer['id'])
-            organizers_names.append(name)
-            organizers_urls.append(url)
-        organizers_names_str = ', '.join(organizers_names)
-        organizers_urls_str = ', '.join(organizers_urls)
+            # 主办方部分
+            organizers_str = getattr(entry, 'organizers', '[]')
+            try:
+                organizers_data = json.loads(organizers_str)
+            except json.JSONDecodeError:
+                organizers_data = []
+            
+            organizers_names = []
+            organizers_urls = []
+            for organizer in organizers_data:
+                name = organizer.get('name', 'Unknown')
+                org_id = organizer.get('id', '')
+                url = f'https://ctftime.org/team/{org_id}' if org_id else ''
+                organizers_names.append(name)
+                organizers_urls.append(url)
+            organizers_names_str = ', '.join(organizers_names)
+            organizers_urls_str = ', '.join(organizers_urls)
 
-        eventUrl = entry.url
-        eventName = f'{eventName}'
-        eventType = entry.format_text
-        eventLogo = 'https://ctftime.org' + entry.logo_url
-        eventWeight = entry.weight
-        eventOrganizers =  f'{organizers_names_str} ({organizers_urls_str})'
-        
-        eventData= {
-                    '比赛名称': eventName,
-                    '比赛时间': eventTime,
-                    '添加日历': addCalendar,
-                    '比赛形式': eventType,
-                    '比赛链接': eventUrl,
-                    '比赛标志': eventLogo,
-                    '比赛权重': eventWeight,
-                    '赛事主办': eventOrganizers,
-                    '比赛ID' : entry.ctf_id,
-                    '比赛状态': ''
-                }
-        if rss_url == rssUpcoming:
-            eventData['比赛状态'] = 'oncoming'
-        elif rss_url == rssActive:
-            eventData['比赛状态'] = 'past'
-        elif rss_url == rssNowrunning:
-            eventData['比赛状态'] = 'nowrunning'
+            eventUrl = getattr(entry, 'url', '')
+            eventType = getattr(entry, 'format_text', '')
+            logo_url = getattr(entry, 'logo_url', '')
+            eventLogo = f'https://ctftime.org{logo_url}' if logo_url else ''
+            eventWeight = getattr(entry, 'weight', '0.00')
+            eventOrganizers = f'{organizers_names_str} ({organizers_urls_str})' if organizers_names_str else ''
+            
+            eventData = {
+                '比赛名称': eventName,
+                '比赛时间': eventTime,
+                '添加日历': addCalendar,
+                '比赛形式': eventType,
+                '比赛链接': eventUrl,
+                '比赛标志': eventLogo,
+                '比赛权重': eventWeight,
+                '赛事主办': eventOrganizers,
+                '比赛ID': getattr(entry, 'ctf_id', ''),
+                '比赛状态': ''
+            }
+            
+            if rss_url == rssUpcoming:
+                eventData['比赛状态'] = 'oncoming'
+            elif rss_url == rssActive:
+                eventData['比赛状态'] = 'past'
+            elif rss_url == rssNowrunning:
+                eventData['比赛状态'] = 'nowrunning'
 
-        events.append(eventData)
+            events.append(eventData)
+            
+        except Exception as e:
+            print(f'Warning: Failed to parse entry "{getattr(entry, "title", "Unknown")}": {e}')
+            continue
 
     return events
 
@@ -149,25 +170,27 @@ if all_events == None:
         
 # 生成国内比赛的日历订阅内容
 def create_CN_ical_event(event):
-    start_date = datetime.strptime(event['comp_time_start'], '%Y年%m月%d日 %H:%M') - timedelta(hours=8)
-    finish_date = datetime.strptime(event['comp_time_end'], '%Y年%m月%d日 %H:%M') - timedelta(hours=8)
-    start_date_utc8 = start_date
-    finish_date_utc8 = finish_date
+    try:
+        start_date = datetime.strptime(event['comp_time_start'], '%Y年%m月%d日 %H:%M') - timedelta(hours=8)
+        finish_date = datetime.strptime(event['comp_time_end'], '%Y年%m月%d日 %H:%M') - timedelta(hours=8)
+    except (ValueError, TypeError, KeyError) as e:
+        print(f"Warning: Failed to create ical event for '{event.get('name', 'Unknown')}': {e}")
+        return None
     detail = event.get('detail') or event.get('readmore', '')
     desc = re.sub(r"\s+", "", str(detail))
-    eventData= {
-                'BEGIN':'VEVENT',
-                'SUMMARY':event['name'],
-                'DTSTART':start_date_utc8.strftime("%Y%m%dT%H%M%SZ"),
-                'DTEND':finish_date_utc8.strftime("%Y%m%dT%H%M%SZ"),
-                'UID':hashlib.md5(event['name'].encode('utf-8')).hexdigest(),
-                'VTIMEZONE':'Asia/Shanghai',
-                'DTSTAMP':datetime.now().strftime("%Y%m%dT%H%M%SZ"),
-                'CREATED':datetime.now().strftime("%Y%m%dT%H%M%SZ"),
-                'URL':event['link'],
-                'DESCRIPTION':event['link']+' | '+desc,
-                'END':'VEVENT'
-            }
+    eventData = {
+        'BEGIN': 'VEVENT',
+        'SUMMARY': event['name'],
+        'DTSTART': start_date.strftime("%Y%m%dT%H%M%SZ"),
+        'DTEND': finish_date.strftime("%Y%m%dT%H%M%SZ"),
+        'UID': hashlib.md5(event['name'].encode('utf-8')).hexdigest(),
+        'VTIMEZONE': 'Asia/Shanghai',
+        'DTSTAMP': datetime.now().strftime("%Y%m%dT%H%M%SZ"),
+        'CREATED': datetime.now().strftime("%Y%m%dT%H%M%SZ"),
+        'URL': event['link'],
+        'DESCRIPTION': event['link'] + ' | ' + desc,
+        'END': 'VEVENT'
+    }
     return eventData
 
 # 生成国外比赛的日历订阅内容
@@ -195,7 +218,9 @@ def create_Global_ical_event(event):
 # 生成国内赛事日历
 CN_ical_events = []
 for event in CN['data']['result']:
-    CN_ical_events.append(create_CN_ical_event(event))
+    ical_event = create_CN_ical_event(event)
+    if ical_event:
+        CN_ical_events.append(ical_event)
 
 with open('./calendar/CN.ics', 'w', encoding='utf-8') as f:
     f.write('BEGIN:VCALENDAR\n')
