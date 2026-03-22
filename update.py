@@ -6,6 +6,8 @@ import json
 import hashlib
 import re
 
+from cn_helpers import utc8_now, parse_cn_time, cn_derived_status
+
 flag = True
 # 国外赛事更新:
 
@@ -102,56 +104,41 @@ else:
     print("国际赛事数据更新失败")
 
 
-# 国内赛事状态更新
+# 国内赛事：归档已结束超过 60 天的比赛，并按状态与时间排序（状态由比赛时间推导，不写入 JSON）
 
 with open('./CN.json', 'r', encoding='utf-8') as f:
     CN = json.load(f)
 
-date = datetime.now() + timedelta(hours=8)
-
-# 更新状态
+date = utc8_now()
 
 with open('Achieve/CN_archive.json', 'r', encoding='utf-8') as file:
     archive = json.load(file)
 
+to_archive = []
 for event in CN['data']['result']:
-    reg_time_start = datetime.strptime(event['reg_time_start'], '%Y年%m月%d日 %H:%M')
-    reg_time_end = datetime.strptime(event['reg_time_end'], '%Y年%m月%d日 %H:%M')
-    comp_time_start = datetime.strptime(event['comp_time_start'], '%Y年%m月%d日 %H:%M')
-    comp_time_end = datetime.strptime(event['comp_time_end'], '%Y年%m月%d日 %H:%M')
-    
-    if date < comp_time_start:
-        event['status'] = "即将开始"
-    elif date < comp_time_end:
-        event['status'] = "正在就行"
-    elif date > comp_time_end:
-        event['status'] = "已经结束"
-        
-        comp_time_end = datetime.strptime(event['comp_time_end'], '%Y年%m月%d日 %H:%M')
-        if date > comp_time_end + timedelta(days=60):
-            print(event['name'] + "已结束超过60天，移至存档")
-            archive['archive']['result'].append(event)
-            CN['data']['result'].remove(event)
+    comp_end = parse_cn_time(event['comp_time_end'])
+    if date > comp_end + timedelta(days=60):
+        print(event['name'] + "已结束超过60天，移至存档")
+        to_archive.append(event)
 
-    if date >= comp_time_start and date < comp_time_end: # 单独判断一下是否正在进行中，进行中的优先级 > 报名中
-        event['status'] = 3 # 进行中
+for event in to_archive:
+    archive['archive']['result'].append(event)
+    CN['data']['result'].remove(event)
 
-        
-# 更新存档
-            
-with open('Achieve/CN_archive.json', 'w', encoding='utf-8') as file:
-    json.dump(archive, file, ensure_ascii=False, indent=4)
-        
-# 定义状态映射表
 status_order = {
     '即将开始': 0,
     '正在进行': 1,
-    '已经结束': 2
+    '已经结束': 2,
 }
 
-# 使用get方法提供默认排序值，避免KeyError
-CN['data']['result'] = sorted(CN['data']['result'], key=lambda x: status_order.get(x['status'], float('inf')))
+CN['data']['result'] = sorted(
+    CN['data']['result'],
+    key=lambda x: (status_order.get(cn_derived_status(x), float('inf')), x['comp_time_start']),
+)
+CN['data']['total'] = len(CN['data']['result'])
 
+with open('Achieve/CN_archive.json', 'w', encoding='utf-8') as file:
+    json.dump(archive, file, ensure_ascii=False, indent=4)
 
 with open('./CN.json', 'w', encoding='utf-8') as f:
     json.dump(CN, f, ensure_ascii=False, indent=4)
@@ -166,6 +153,8 @@ def create_CN_ical_event(event):
     finish_date = datetime.strptime(event['comp_time_end'], '%Y年%m月%d日 %H:%M') - timedelta(hours=8)
     start_date_utc8 = start_date
     finish_date_utc8 = finish_date
+    detail = event.get('detail') or event.get('readmore', '')
+    desc = re.sub(r"\s+", "", str(detail))
     eventData= {
                 'BEGIN':'VEVENT',
                 'SUMMARY':event['name'],
@@ -176,7 +165,7 @@ def create_CN_ical_event(event):
                 'DTSTAMP':datetime.now().strftime("%Y%m%dT%H%M%SZ"),
                 'CREATED':datetime.now().strftime("%Y%m%dT%H%M%SZ"),
                 'URL':event['link'],
-                'DESCRIPTION':event['type']+' | '+event['link']+' | '+' | '+'报名---'+event['reg_time_start']+'-'+event['reg_time_end']+'-备注-'+re.sub(r"\s+", "", event['readmore']),
+                'DESCRIPTION':event['link']+' | '+desc,
                 'END':'VEVENT'
             }
     return eventData

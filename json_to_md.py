@@ -1,5 +1,7 @@
 import json
 
+from cn_helpers import cn_derived_status
+
 register_events = []
 
 def process_global_events(events):
@@ -19,13 +21,13 @@ def process_cn_events(data):
     upcoming_events = []
     now_running_events = []
     past_events = []
-    for event in data['data']['result']:
-        status = event['status']
-        if status == "即将开始":  # 即将开始
+    for event in data["data"]["result"]:
+        status = cn_derived_status(event)
+        if status == "即将开始":
             upcoming_events.append(event)
-        elif status == "正在进行":  # 正在进行
+        elif status == "正在进行":
             now_running_events.append(event)
-        elif status == "已经结束":  # 已经结束
+        elif status == "已经结束":
             past_events.append(event)
     return upcoming_events, now_running_events, past_events
 
@@ -34,6 +36,8 @@ def create_md_content(events, template, event_type="global"):
     md_content = []
     for event in events:
 
+        detail = event.get("detail") or event.get("readmore", "")
+        detail = str(detail).replace("\n", " ").replace("\r", " ")
         event_with_defaults = {
             '比赛名称': event.get('比赛名称', ''),
             '比赛链接': event.get('比赛链接', ''),
@@ -45,12 +49,9 @@ def create_md_content(events, template, event_type="global"):
             '添加日历': event.get('添加日历', ''),
             'name': event.get('name', ''),
             'url': event.get('link', ''),
-            'type': event.get('type', ''),
-            'reg_time_start': event.get('reg_time_start', ''),
-            'reg_time_end': event.get('reg_time_end', ''),
             'comp_time_start': event.get('comp_time_start', ''),
             'comp_time_end': event.get('comp_time_end', ''),
-            'readmore': event.get('readmore', '').replace('\n', ' ').replace('\r', ' '),
+            'detail': detail,
         }
         if event_type == "global":
             md_content.append(template.format(**event_with_defaults))
@@ -100,10 +101,8 @@ def main():
     cn_template = (
         '??? Quote "{name}"  \n'
         "    **比赛名称** : [{name}]({url})  \n"
-        "    **比赛类型** : {type}  \n"
-        "    **报名时间** : {reg_time_start} - {reg_time_end}  \n"
         "    **比赛时间** : {comp_time_start} - {comp_time_end}  \n"
-        "    **其他说明** : {readmore}  \n"
+        "    **比赛详细** : {detail}  \n"
         "    "
     )
 
@@ -142,19 +141,15 @@ def main():
     cn_template_index = (
         '        ??? Quote "[{name}]({url})"  \n'
         "            **比赛名称** : [{name}]({url})  \n"
-        "            **比赛类型** : {type}  \n"
-        "            **报名时间** : {reg_time_start} - {reg_time_end}  \n"
         "            **比赛时间** : {comp_time_start} - {comp_time_end}  \n"
-        "            **其他说明** : {readmore}  \n"
+        "            **比赛详细** : {detail}  \n"
         "            "
     )
     cn_template_index_register = (
         '    ??? Quote "[{name}]({url})"  \n'
         "        **比赛名称** : [{name}]({url})  \n"
-        "        **比赛类型** : {type}  \n"
-        "        **报名时间** : {reg_time_start} - {reg_time_end}  \n"
         "        **比赛时间** : {comp_time_start} - {comp_time_end}  \n"
-        "        **其他说明** : {readmore}  \n"
+        "        **比赛详细** : {detail}  \n"
         "        "
     )
 
