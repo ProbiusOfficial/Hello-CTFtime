@@ -5,11 +5,6 @@ comments: true
 
 ## 国内赛事
 
-??? Quote "NepCTF 2026"  
-    **比赛名称** : [NepCTF 2026](/isPrepare)  
-    **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
-    **比赛详细** : 筹备中  
-    
 ??? Quote "PolarisCTF 2026"  
     **比赛名称** : [PolarisCTF 2026](https://www.ctfplus.cn/competition/hall)  
     **比赛时间** : 2026年03月28日 09:00 - 2026年03月30日 09:00  
@@ -19,19 +14,15 @@ comments: true
     **比赛名称** : [【Solar】3月应急响应公益月赛](https://www.qsnctf.com/#/login)  
     **比赛时间** : 2026年03月28日 10:00 - 2026年03月28日 18:00  
     **比赛详细** : 比赛平台/报名地址：https://www.qsnctf.com/#/login。报名时间：2026年03月23日15:00-2026年03月28日09:59。每月比赛时间为月末最后一个周六上午10:00，报名时间为开始前两天。题目范围：综合靶场、Windows独立靶场、Linux独立靶场、日志审计、数据库、逆向分析、流量分析。  
+
+??? Quote "NepCTF 2026"  
+    **比赛名称** : [NepCTF 2026](/isPrepare)  
+    **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+    **比赛详细** : 筹备中  
     
 
 ## 国际赛事
 
-??? Quote "[AITU CTF 2026 Quals](https://ctf.fr13nds.team/)"  
-    [![](https://ctftime.org/media/events/icon-black.png){ width="200" align=left }](https://ctf.fr13nds.team/)  
-    **比赛名称** : [AITU CTF 2026 Quals](https://ctf.fr13nds.team/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-03-23 15:00:00 - 2026-03-24 03:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : FR13NDS TEAM (https://ctftime.org/team/155678)  
-    **添加日历** : https://ctftime.org/event/3204.ics  
-    
 ??? Quote "[Stranger's CTF - Techtrix '26](https://upsidectf.online/)"  
     [![](){ width="200" align=left }](https://upsidectf.online/)  
     **比赛名称** : [Stranger's CTF - Techtrix '26](https://upsidectf.online/)  
