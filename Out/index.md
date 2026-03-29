@@ -715,15 +715,6 @@
                 **赛事主办** : kalmarunionen (https://ctftime.org/team/114856)  
                 **添加日历** : https://ctftime.org/event/2983.ics  
                 
-            ??? Quote "[VolgaCTF 2026 Qualifier](https://q.2026.volgactf.ru/)"  
-                [![](https://ctftime.org/media/events/logo-social-yellow_18.png){ width="200" align=left }](https://q.2026.volgactf.ru/)  
-                **比赛名称** : [VolgaCTF 2026 Qualifier](https://q.2026.volgactf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-28 21:00:00 - 2026-03-29 21:00:00 UTC+8  
-                **比赛权重** : 38.67  
-                **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
-                **添加日历** : https://ctftime.org/event/3045.ics  
-                
             ??? Quote "[MythX: An Endgame Protocol CTF](https://unstop.com/o/eZQ9xw6?lb=RatXyLX4)"  
                 [![](https://ctftime.org/media/events/mythx_LOGO.png){ width="200" align=left }](https://unstop.com/o/eZQ9xw6?lb=RatXyLX4)  
                 **比赛名称** : [MythX: An Endgame Protocol CTF](https://unstop.com/o/eZQ9xw6?lb=RatXyLX4)  
@@ -759,6 +750,15 @@
                 **比赛详细** : QQ群：713192205；比赛平台/报名地址：https://www.qsnctf.com/#/login。报名时间：2026年03月23日15:00-2026年03月28日09:59。每月比赛时间为月末最后一个周六上午10:00，报名时间为开始前两天。题目范围：综合靶场、Windows独立靶场、Linux独立靶场、日志审计、数据库、逆向分析、流量分析。  
                 
         === "国外赛事"
+            ??? Quote "[VolgaCTF 2026 Qualifier](https://q.2026.volgactf.ru/)"  
+                [![](https://ctftime.org/media/events/logo-social-yellow_18.png){ width="200" align=left }](https://q.2026.volgactf.ru/)  
+                **比赛名称** : [VolgaCTF 2026 Qualifier](https://q.2026.volgactf.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-28 21:00:00 - 2026-03-29 21:00:00 UTC+8  
+                **比赛权重** : 38.67  
+                **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
+                **添加日历** : https://ctftime.org/event/3045.ics  
+                
             ??? Quote "[Flag Wars](https://laokoon-security.com/ctf2026)"  
                 [![](https://ctftime.org/media/events/image_5.png){ width="200" align=left }](https://laokoon-security.com/ctf2026)  
                 **比赛名称** : [Flag Wars](https://laokoon-security.com/ctf2026)  
@@ -1649,13 +1649,4 @@
                 **比赛权重** : 71.35  
                 **赛事主办** : InfoSecIITR (https://ctftime.org/team/16691)  
                 **添加日历** : https://ctftime.org/event/2915.ics  
-                
-            ??? Quote "[CyKor CTF 2025](https://ctf.cykor.kr/)"  
-                [![](){ width="200" align=left }](https://ctf.cykor.kr/)  
-                **比赛名称** : [CyKor CTF 2025](https://ctf.cykor.kr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-12-06 09:00:00 - 2025-12-07 09:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : CyKOR (https://ctftime.org/team/369)  
-                **添加日历** : https://ctftime.org/event/3028.ics  
                 
