@@ -715,15 +715,6 @@
                 **赛事主办** : kalmarunionen (https://ctftime.org/team/114856)  
                 **添加日历** : https://ctftime.org/event/2983.ics  
                 
-            ??? Quote "[MythX: An Endgame Protocol CTF](https://unstop.com/o/eZQ9xw6?lb=RatXyLX4)"  
-                [![](https://ctftime.org/media/events/mythx_LOGO.png){ width="200" align=left }](https://unstop.com/o/eZQ9xw6?lb=RatXyLX4)  
-                **比赛名称** : [MythX: An Endgame Protocol CTF](https://unstop.com/o/eZQ9xw6?lb=RatXyLX4)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-29 00:30:00 - 2026-03-30 00:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : MythX (https://ctftime.org/team/429696)  
-                **添加日历** : https://ctftime.org/event/3223.ics  
-                
             ??? Quote "[GLOBAL CYBER GAMES: Women's Attack and Defense Edition @Wicked6](https://www.wicked6.com/tournament)"  
                 [![](){ width="200" align=left }](https://www.wicked6.com/tournament)  
                 **比赛名称** : [GLOBAL CYBER GAMES: Women's Attack and Defense Edition @Wicked6](https://www.wicked6.com/tournament)  
@@ -749,6 +740,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : CUT (https://ctftime.org/team/358931)  
                 **添加日历** : https://ctftime.org/event/3155.ics  
+                
+            ??? Quote "[MythX: An Endgame Protocol CTF](https://unstop.com/o/eZQ9xw6?lb=RatXyLX4)"  
+                [![](https://ctftime.org/media/events/mythx_LOGO.png){ width="200" align=left }](https://unstop.com/o/eZQ9xw6?lb=RatXyLX4)  
+                **比赛名称** : [MythX: An Endgame Protocol CTF](https://unstop.com/o/eZQ9xw6?lb=RatXyLX4)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-29 00:30:00 - 2026-03-30 00:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : MythX (https://ctftime.org/team/429696)  
+                **添加日历** : https://ctftime.org/event/3223.ics  
                 
             ??? Quote "[VolgaCTF 2026 Qualifier](https://q.2026.volgactf.ru/)"  
                 [![](https://ctftime.org/media/events/logo-social-yellow_18.png){ width="200" align=left }](https://q.2026.volgactf.ru/)  
@@ -1631,13 +1631,4 @@
                 **比赛权重** : 39.87  
                 **赛事主办** : Cryptonite (https://ctftime.org/team/62713)  
                 **添加日历** : https://ctftime.org/event/2851.ics  
-                
-            ??? Quote "[NexHunt CTF](https://nexus-security.club/)"  
-                [![](https://ctftime.org/media/events/Group_64_2.png){ width="200" align=left }](https://nexus-security.club/)  
-                **比赛名称** : [NexHunt CTF](https://nexus-security.club/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-12-12 02:00:00 - 2025-12-13 18:00:00 UTC+8  
-                **比赛权重** : 23.73  
-                **赛事主办** : Nexus Team (https://ctftime.org/team/361096)  
-                **添加日历** : https://ctftime.org/event/3037.ics  
                 
