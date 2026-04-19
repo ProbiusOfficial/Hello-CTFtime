@@ -594,15 +594,6 @@
                 **赛事主办** : HACK@CIT (https://ctftime.org/team/287896)  
                 **添加日历** : https://ctftime.org/event/3156.ics  
                 
-            ??? Quote "[squ1rrel CTF 2026](https://ctf.squ1rrel.dev/)"  
-                [![](https://ctftime.org/media/events/squ1rrel_logo_1.png){ width="200" align=left }](https://ctf.squ1rrel.dev/)  
-                **比赛名称** : [squ1rrel CTF 2026](https://ctf.squ1rrel.dev/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-04-18 07:00:00 - 2026-04-19 14:00:00 UTC+8  
-                **比赛权重** : 32.47  
-                **赛事主办** : squ1rrel (https://ctftime.org/team/201730)  
-                **添加日历** : https://ctftime.org/event/3234.ics  
-                
             ??? Quote "[b01lers CTF 2026](https://b01lersc.tf/)"  
                 [![](https://ctftime.org/media/events/b01lers.png){ width="200" align=left }](https://b01lersc.tf/)  
                 **比赛名称** : [b01lers CTF 2026](https://b01lersc.tf/)  
@@ -665,6 +656,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : DSU CTF Club (https://ctftime.org/team/427677)  
                 **添加日历** : https://ctftime.org/event/3233.ics  
+                
+            ??? Quote "[squ1rrel CTF 2026](https://ctf.squ1rrel.dev/)"  
+                [![](https://ctftime.org/media/events/squ1rrel_logo_1.png){ width="200" align=left }](https://ctf.squ1rrel.dev/)  
+                **比赛名称** : [squ1rrel CTF 2026](https://ctf.squ1rrel.dev/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-04-18 07:00:00 - 2026-04-19 14:00:00 UTC+8  
+                **比赛权重** : 32.47  
+                **赛事主办** : squ1rrel (https://ctftime.org/team/201730)  
+                **添加日历** : https://ctftime.org/event/3234.ics  
                 
             ??? Quote "[BlueHens CTF 2026](https://bluehens.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/1649244ad20feb4c02d8740a7cb035d3.png){ width="200" align=left }](https://bluehens.ctfd.io/)  
@@ -1547,13 +1547,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : ASCF (https://ctftime.org/team/418960)  
                 **添加日历** : https://ctftime.org/event/3099.ics  
-                
-            ??? Quote "[Hack for a Change 2026 January: UN SDG 15](http://www.hackforachange.org/)"  
-                [![](https://ctftime.org/media/events/logo_117.png){ width="200" align=left }](http://www.hackforachange.org/)  
-                **比赛名称** : [Hack for a Change 2026 January: UN SDG 15](http://www.hackforachange.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-01-30 08:00:00 - 2026-02-03 07:59:59 UTC+8  
-                **比赛权重** : 14.38  
-                **赛事主办** : Hack for a Change (https://ctftime.org/team/419248)  
-                **添加日历** : https://ctftime.org/event/3083.ics  
                 
