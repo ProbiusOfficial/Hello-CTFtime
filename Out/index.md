@@ -14,15 +14,6 @@
                 **比赛详细** : 筹备中  
                 
         === "国外赛事"
-            ??? Quote "[Hack2Dawn 2026](https://events.mlh.io/events/14208-hack2dawn)"  
-                [![](https://ctftime.org/media/events/hack2dawn-logo.jpg){ width="200" align=left }](https://events.mlh.io/events/14208-hack2dawn)  
-                **比赛名称** : [Hack2Dawn 2026](https://events.mlh.io/events/14208-hack2dawn)  
-                **比赛形式** : Hack quest  
-                **比赛时间** : 2026-05-10 03:00:00 - 2026-05-10 10:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : PawnGuard (https://ctftime.org/team/427740)  
-                **添加日历** : https://ctftime.org/event/3256.ics  
-                
             ??? Quote "[Azure Assassin Alliance CTF 2026](https://actf2026.xctf.org.cn/)"  
                 [![](https://ctftime.org/media/events/ctftime_14.png){ width="200" align=left }](https://actf2026.xctf.org.cn/)  
                 **比赛名称** : [Azure Assassin Alliance CTF 2026](https://actf2026.xctf.org.cn/)  
@@ -585,6 +576,15 @@
                 **赛事主办** : fibonhack (https://ctftime.org/team/117538)  
                 **添加日历** : https://ctftime.org/event/3111.ics  
                 
+            ??? Quote "[Hack2Dawn 2026](https://events.mlh.io/events/14208-hack2dawn)"  
+                [![](https://ctftime.org/media/events/hack2dawn-logo.jpg){ width="200" align=left }](https://events.mlh.io/events/14208-hack2dawn)  
+                **比赛名称** : [Hack2Dawn 2026](https://events.mlh.io/events/14208-hack2dawn)  
+                **比赛形式** : Hack quest  
+                **比赛时间** : 2026-05-10 03:00:00 - 2026-05-10 10:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : PawnGuard (https://ctftime.org/team/427740)  
+                **添加日历** : https://ctftime.org/event/3256.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[PolarisCTF 2026](https://www.ctfplus.cn/competition/hall)"  
@@ -644,7 +644,7 @@
                 **比赛名称** : [KubSTU CTF](https://kubstu-ctf.online/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-05-01 15:00:00 - 2026-05-03 03:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 24.82  
                 **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
                 **添加日历** : https://ctftime.org/event/3177.ics  
                 
