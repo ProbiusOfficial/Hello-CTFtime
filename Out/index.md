@@ -477,15 +477,6 @@
                 **赛事主办** : NorthSec Organizers (https://ctftime.org/team/2492)  
                 **添加日历** : https://ctftime.org/event/3258.ics  
                 
-            ??? Quote "[NDIAS Automotive/IoT CTF](https://ctf.ndias.jp/)"  
-                [![](https://ctftime.org/media/events/image_banner_white_ctftime.png){ width="200" align=left }](https://ctf.ndias.jp/)  
-                **比赛名称** : [NDIAS Automotive/IoT CTF](https://ctf.ndias.jp/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-15 17:00:00 - 2026-05-17 17:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : cartagaitai (https://ctftime.org/team/434311)  
-                **添加日历** : https://ctftime.org/event/3276.ics  
-                
             ??? Quote "[TJCTF 2026](https://tjctf.org/)"  
                 [![](https://ctftime.org/media/events/logo_96_1_1.png){ width="200" align=left }](https://tjctf.org/)  
                 **比赛名称** : [TJCTF 2026](https://tjctf.org/)  
@@ -530,6 +521,15 @@
                 **比赛权重** : 32.59  
                 **赛事主办** : DaVinciCode (https://ctftime.org/team/112645)  
                 **添加日历** : https://ctftime.org/event/3132.ics  
+                
+            ??? Quote "[NDIAS Automotive/IoT CTF](https://ctf.ndias.jp/)"  
+                [![](https://ctftime.org/media/events/image_banner_white_ctftime.png){ width="200" align=left }](https://ctf.ndias.jp/)  
+                **比赛名称** : [NDIAS Automotive/IoT CTF](https://ctf.ndias.jp/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-05-15 17:00:00 - 2026-05-17 17:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : cartagaitai (https://ctftime.org/team/434311)  
+                **添加日历** : https://ctftime.org/event/3276.ics  
                 
             ??? Quote "[Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)"  
                 [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo.png){ width="200" align=left }](https://play.midnightsunctf.com/)  
@@ -581,7 +581,7 @@
                 **比赛名称** : [From Dusk Till Dawn Quals](https://till-dawn.fibonhack.it/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-05-09 17:00:00 - 2026-05-10 17:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 20.14  
                 **赛事主办** : fibonhack (https://ctftime.org/team/117538)  
                 **添加日历** : https://ctftime.org/event/3111.ics  
                 
@@ -1412,13 +1412,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : YUGAM KUMARAGURU (https://ctftime.org/team/425387)  
                 **添加日历** : https://ctftime.org/event/3167.ics  
-                
-            ??? Quote "[CSCG 2026](https://play.cscg.live/)"  
-                [![](){ width="200" align=left }](https://play.cscg.live/)  
-                **比赛名称** : [CSCG 2026](https://play.cscg.live/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-02 01:00:00 - 2026-05-02 00:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : NFITS (https://ctftime.org/team/360674)  
-                **添加日历** : https://ctftime.org/event/2907.ics  
                 
