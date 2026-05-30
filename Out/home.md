@@ -5,15 +5,6 @@
             **比赛详细** : 筹备中  
                 
     === "国外比赛"
-        ??? Quote "[bhackari CTF 2026](https://ctf.bhackari.it/)"  
-            [![](https://ctftime.org/media/events/bhackari_logo_squared_white.png){ width="200" align=left }](https://ctf.bhackari.it/)  
-            **比赛名称** : [bhackari CTF 2026](https://ctf.bhackari.it/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-05-30 18:00:00 - 2026-05-31 18:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : bhackari (https://ctftime.org/team/194130)  
-            **添加日历** : https://ctftime.org/event/3302.ics  
-            
         ??? Quote "[GPN CTF 2026](https://gpn24.ctf.kitctf.de/)"  
             [![](https://ctftime.org/media/events/gulash_1.png){ width="200" align=left }](https://gpn24.ctf.kitctf.de/)  
             **比赛名称** : [GPN CTF 2026](https://gpn24.ctf.kitctf.de/)  
@@ -40,4 +31,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : CyberXoX (https://ctftime.org/team/374041)  
             **添加日历** : https://ctftime.org/event/3308.ics  
+            
+        ??? Quote "[SAS CTF 2026 Quals](https://ctf.thesascon.com/)"  
+            [![](https://ctftime.org/media/events/SAS26_temp.png){ width="200" align=left }](https://ctf.thesascon.com/)  
+            **比赛名称** : [SAS CTF 2026 Quals](https://ctf.thesascon.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-06-06 20:00:00 - 2026-06-07 20:00:00 UTC+8  
+            **比赛权重** : 31.00  
+            **赛事主办** : Drovosec, SAS CREW (https://ctftime.org/team/210132, https://ctftime.org/team/283057)  
+            **添加日历** : https://ctftime.org/event/3109.ics  
             
