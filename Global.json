@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "L3akCTF 2026 [POSTPONED]",
-        "比赛时间": "2026-07-11 02:00:00 - 2026-07-13 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3061.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.l3ak.team/",
-        "比赛标志": "https://ctftime.org/media/events/6a9256e0b32707195ff9fe31b358a0e6.png",
-        "比赛权重": "34.47",
-        "赛事主办": "L3ak (https://ctftime.org/team/220336)",
-        "比赛ID": "1077",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Junior.Crypt.2026 CTF",
         "比赛时间": "2026-07-11 17:00:00 - 2026-07-12 17:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3335.ics",
@@ -213,6 +201,18 @@
         "比赛权重": "39.00",
         "赛事主办": "DeadSec (https://ctftime.org/team/19339)",
         "比赛ID": "268",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "L3akCTF 2026",
+        "比赛时间": "2026-08-01 02:00:00 - 2026-08-03 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3061.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.l3ak.team/",
+        "比赛标志": "https://ctftime.org/media/events/6a9256e0b32707195ff9fe31b358a0e6.png",
+        "比赛权重": "34.47",
+        "赛事主办": "L3ak (https://ctftime.org/team/220336)",
+        "比赛ID": "1077",
         "比赛状态": "oncoming"
     },
     {
