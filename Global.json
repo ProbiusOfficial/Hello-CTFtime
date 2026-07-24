@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "jailCTF 2026",
-        "比赛时间": "2026-07-25 04:00:00 - 2026-07-28 04:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3286.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.pyjail.club/",
-        "比赛标志": "https://ctftime.org/media/events/jailctf_1.png",
-        "比赛权重": "37.00",
-        "赛事主办": "jailctf (https://ctftime.org/team/311088)",
-        "比赛ID": "1152",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "DIVER OSINT CTF 2026",
         "比赛时间": "2026-07-25 11:10:00 - 2026-07-26 11:10:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3268.ics",
@@ -574,6 +562,18 @@
         "赛事主办": "ASIS (https://ctftime.org/team/4140)",
         "比赛ID": "59",
         "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "jailCTF 2026",
+        "比赛时间": "2026-07-25 04:00:00 - 2026-07-28 04:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3286.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.pyjail.club/",
+        "比赛标志": "https://ctftime.org/media/events/jailctf_1.png",
+        "比赛权重": "37.00",
+        "赛事主办": "jailctf (https://ctftime.org/team/311088)",
+        "比赛ID": "1152",
+        "比赛状态": "nowrunning"
     },
     {
         "比赛名称": "Codegate CTF 2026 Finals",
