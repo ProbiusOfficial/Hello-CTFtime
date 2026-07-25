@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
-            [![](){ width="200" align=left }](https://d3c.tf/)  
-            **比赛名称** : [D^3CTF 2026](https://d3c.tf/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-07-25 20:00:00 - 2026-07-26 20:00:00 UTC+8  
-            **比赛权重** : 69.22  
-            **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
-            **添加日历** : https://ctftime.org/event/3201.ics  
-            
         ??? Quote "[BushBash CTF](http://bushbash.cssa.club/)"  
             [![](https://ctftime.org/media/events/logo_133.png){ width="200" align=left }](http://bushbash.cssa.club/)  
             **比赛名称** : [BushBash CTF](http://bushbash.cssa.club/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 34.47  
             **赛事主办** : L3ak (https://ctftime.org/team/220336)  
             **添加日历** : https://ctftime.org/event/3061.ics  
+            
+        ??? Quote "[VuwCTF 2026](https://2026.vuwctf.com/)"  
+            [![](https://ctftime.org/media/events/moose6.png){ width="200" align=left }](https://2026.vuwctf.com/)  
+            **比赛名称** : [VuwCTF 2026](https://2026.vuwctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-08-01 06:00:00 - 2026-08-02 13:00:00 UTC+8  
+            **比赛权重** : 25.00  
+            **赛事主办** : VuwCTF (https://ctftime.org/team/378359)  
+            **添加日历** : https://ctftime.org/event/3311.ics  
             

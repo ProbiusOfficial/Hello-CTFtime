@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
-                [![](){ width="200" align=left }](https://d3c.tf/)  
-                **比赛名称** : [D^3CTF 2026](https://d3c.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-07-25 20:00:00 - 2026-07-26 20:00:00 UTC+8  
-                **比赛权重** : 69.22  
-                **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
-                **添加日历** : https://ctftime.org/event/3201.ics  
-                
             ??? Quote "[BushBash CTF](http://bushbash.cssa.club/)"  
                 [![](https://ctftime.org/media/events/logo_133.png){ width="200" align=left }](http://bushbash.cssa.club/)  
                 **比赛名称** : [BushBash CTF](http://bushbash.cssa.club/)  
