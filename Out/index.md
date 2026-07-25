@@ -446,6 +446,15 @@
                 **赛事主办** : diver_osint (https://ctftime.org/team/299569)  
                 **添加日历** : https://ctftime.org/event/3268.ics  
                 
+            ??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
+                [![](){ width="200" align=left }](https://d3c.tf/)  
+                **比赛名称** : [D^3CTF 2026](https://d3c.tf/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-07-25 20:00:00 - 2026-07-26 20:00:00 UTC+8  
+                **比赛权重** : 69.22  
+                **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
+                **添加日历** : https://ctftime.org/event/3201.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
