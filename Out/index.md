@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[DIVER OSINT CTF 2026](https://ctfd.diverctf.org/)"  
-                [![](https://ctftime.org/media/events/circle-white-simple-01.png){ width="200" align=left }](https://ctfd.diverctf.org/)  
-                **比赛名称** : [DIVER OSINT CTF 2026](https://ctfd.diverctf.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-07-25 11:10:00 - 2026-07-26 11:10:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : diver_osint (https://ctftime.org/team/299569)  
-                **添加日历** : https://ctftime.org/event/3268.ics  
-                
             ??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
                 [![](){ width="200" align=left }](https://d3c.tf/)  
                 **比赛名称** : [D^3CTF 2026](https://d3c.tf/)  
@@ -445,6 +436,15 @@
                 **比赛权重** : 37.00  
                 **赛事主办** : jailctf (https://ctftime.org/team/311088)  
                 **添加日历** : https://ctftime.org/event/3286.ics  
+                
+            ??? Quote "[DIVER OSINT CTF 2026](https://ctfd.diverctf.org/)"  
+                [![](https://ctftime.org/media/events/circle-white-simple-01.png){ width="200" align=left }](https://ctfd.diverctf.org/)  
+                **比赛名称** : [DIVER OSINT CTF 2026](https://ctfd.diverctf.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-07-25 11:10:00 - 2026-07-26 11:10:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : diver_osint (https://ctftime.org/team/299569)  
+                **添加日历** : https://ctftime.org/event/3268.ics  
                 
     === "*已经结束*"
         === "国内赛事"
