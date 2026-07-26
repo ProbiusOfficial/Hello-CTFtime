@@ -486,7 +486,7 @@
                 **比赛名称** : [HoneyBadger CTF AvitoTech](https://avitoctf.ru/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-07-18 17:00:00 - 2026-07-19 23:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 24.00  
                 **赛事主办** : SPbCTF (https://ctftime.org/team/30003)  
                 **添加日历** : https://ctftime.org/event/3362.ics  
                 
@@ -522,7 +522,7 @@
                 **比赛名称** : [OmniCTF 2026 Quals](https://omnictf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-07-17 23:00:00 - 2026-07-19 23:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 23.96  
                 **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
                 **添加日历** : https://ctftime.org/event/3104.ics  
                 
