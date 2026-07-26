@@ -428,6 +428,14 @@
                 **赛事主办** : jailctf (https://ctftime.org/team/311088)  
                 **添加日历** : https://ctftime.org/event/3286.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
+                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
+                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
+                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
+                
+        === "国外赛事"
             ??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
                 [![](){ width="200" align=left }](https://d3c.tf/)  
                 **比赛名称** : [D^3CTF 2026](https://d3c.tf/)  
@@ -437,14 +445,6 @@
                 **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
                 **添加日历** : https://ctftime.org/event/3201.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
-                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
-                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
-                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
-                
-        === "国外赛事"
             ??? Quote "[DIVER OSINT CTF 2026](https://ctfd.diverctf.org/)"  
                 [![](https://ctftime.org/media/events/circle-white-simple-01.png){ width="200" align=left }](https://ctfd.diverctf.org/)  
                 **比赛名称** : [DIVER OSINT CTF 2026](https://ctfd.diverctf.org/)  
@@ -1335,13 +1335,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : TH3_RANG3RS (https://ctftime.org/team/406018)  
                 **添加日历** : https://ctftime.org/event/3230.ics  
-                
-            ??? Quote "[Cybersplash 2026](https://lobby-ctf.secplayground.com/lobby/8c09ae30-a668-448b-b6dc-b777b1e62521)"  
-                [![](https://ctftime.org/media/events/1_4.png){ width="200" align=left }](https://lobby-ctf.secplayground.com/lobby/8c09ae30-a668-448b-b6dc-b777b1e62521)  
-                **比赛名称** : [Cybersplash 2026](https://lobby-ctf.secplayground.com/lobby/8c09ae30-a668-448b-b6dc-b777b1e62521)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-04-11 10:00:00 - 2026-04-12 10:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : SECPlayground (https://ctftime.org/team/375409)  
-                **添加日历** : https://ctftime.org/event/3190.ics  
                 
