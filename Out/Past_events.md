@@ -30,6 +30,15 @@ comments: true
     **赛事主办** : diver_osint (https://ctftime.org/team/299569)  
     **添加日历** : https://ctftime.org/event/3268.ics  
     
+??? Quote "[jailCTF 2026](https://ctf.pyjail.club/)"  
+    [![](https://ctftime.org/media/events/jailctf_1.png){ width="200" align=left }](https://ctf.pyjail.club/)  
+    **比赛名称** : [jailCTF 2026](https://ctf.pyjail.club/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-07-25 04:00:00 - 2026-07-28 04:00:00 UTC+8  
+    **比赛权重** : 37.00  
+    **赛事主办** : jailctf (https://ctftime.org/team/311088)  
+    **添加日历** : https://ctftime.org/event/3286.ics  
+    
 ??? Quote "[Codegate CTF 2026 Finals](https://codegate.org/)"  
     [![](){ width="200" align=left }](https://codegate.org/)  
     **比赛名称** : [Codegate CTF 2026 Finals](https://codegate.org/)  
@@ -902,13 +911,4 @@ comments: true
     **比赛权重** : 24.94  
     **赛事主办** : PUTrequest_ (https://ctftime.org/team/196643)  
     **添加日历** : https://ctftime.org/event/3202.ics  
-    
-??? Quote "[KAALCHAKRA CTF Finals](https://kaalchakractf.com/)"  
-    [![](){ width="200" align=left }](https://kaalchakractf.com/)  
-    **比赛名称** : [KAALCHAKRA CTF Finals](https://kaalchakractf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-11 12:30:00 - 2026-04-11 19:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : TH3_RANG3RS (https://ctftime.org/team/406018)  
-    **添加日历** : https://ctftime.org/event/3230.ics  
     
