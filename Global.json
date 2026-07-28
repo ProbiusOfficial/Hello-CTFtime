@@ -72,6 +72,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "SCAN 2026 Online Qualifier",
+        "比赛时间": "2026-08-02 08:00:00 - 2026-08-03 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3383.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://scan.sx/",
+        "比赛标志": "https://ctftime.org/media/events/32x32_icon.png",
+        "比赛权重": "0",
+        "赛事主办": "D Asset Inc. (https://ctftime.org/team/310109)",
+        "比赛ID": "1190",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "Kali Team - CTF 26",
         "比赛时间": "2026-08-05 15:00:00 - 2026-08-06 03:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3328.ics",
@@ -204,6 +216,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "Haruulzangi CTF 2026 Qualifier",
+        "比赛时间": "2026-08-22 09:00:00 - 2026-08-23 09:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3379.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://haruulzangi.mn/",
+        "比赛标志": "https://ctftime.org/media/events/haruul_zangi_logo_updated_2.png",
+        "比赛权重": "0.00",
+        "赛事主办": "haruulzangi-organizers (https://ctftime.org/team/266812)",
+        "比赛ID": "985",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "COMPFEST CTF 2026",
         "比赛时间": "2026-08-29 08:00:00 - 2026-08-30 08:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3290.ics",
@@ -213,6 +237,18 @@
         "比赛权重": "96.00",
         "赛事主办": "CSUI (https://ctftime.org/team/70551)",
         "比赛ID": "502",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "BlackHat MEA CTF Qualification 2026",
+        "比赛时间": "2026-08-29 15:00:00 - 2026-08-30 15:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3385.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://blackhatmea.com/capture-the-flag",
+        "比赛标志": "https://ctftime.org/media/events/9f419586e0dedbff0130e6f487ddc54c.png",
+        "比赛权重": "8.10",
+        "赛事主办": "SAFCSP (https://ctftime.org/team/54707)",
+        "比赛ID": "826",
         "比赛状态": "oncoming"
     },
     {
@@ -276,6 +312,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "CAT CTF 26",
+        "比赛时间": "2026-09-11 20:00:00 - 2026-09-12 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3360.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.catreloaded.org/",
+        "比赛标志": "https://ctftime.org/media/events/0e9402efa19b3a103472f4f94b47f442_1_1.png",
+        "比赛权重": "0.00",
+        "赛事主办": "0xL4ugh (https://ctftime.org/team/132776)",
+        "比赛ID": "1400",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "PatriotCTF 2026",
         "比赛时间": "2026-09-12 06:00:00 - 2026-09-14 06:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3348.ics",
@@ -336,6 +384,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "07CTF 2026",
+        "比赛时间": "2026-09-19 20:00:00 - 2026-09-20 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3365.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.0bscuri7y.in/",
+        "比赛标志": "https://ctftime.org/media/events/logo_112_1.png",
+        "比赛权重": "23.71",
+        "赛事主办": "0bscuri7y (https://ctftime.org/team/370140)",
+        "比赛ID": "1360",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "H7CTF 2026 Quals",
         "比赛时间": "2026-09-26 11:30:00 - 2026-09-27 23:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3093.ics",
@@ -381,6 +441,18 @@
         "比赛权重": "0.00",
         "赛事主办": "Securinets (https://ctftime.org/team/5084)",
         "比赛ID": "105",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "CubeCTF 2026",
+        "比赛时间": "2026-10-03 22:00:00 - 2026-10-04 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3352.ics",
+        "比赛形式": "Attack-Defense",
+        "比赛链接": "https://cubectf.com/",
+        "比赛标志": "https://ctftime.org/media/events/5097d73fb21778d02f541a3fdef957f3_1.jpg",
+        "比赛权重": "24.71",
+        "赛事主办": "CubeMastery (https://ctftime.org/team/168744)",
+        "比赛ID": "1277",
         "比赛状态": "oncoming"
     },
     {
@@ -525,6 +597,30 @@
         "比赛权重": "0.00",
         "赛事主办": "Kernel Sanders (https://ctftime.org/team/397)",
         "比赛ID": "241",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "BlackHat MEA CTF Final 2026",
+        "比赛时间": "2026-12-01 23:14:59 - 2026-12-03 23:14:59 UTC+8",
+        "添加日历": "https://ctftime.org/event/3386.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://blackhatmea.com/capture-the-flag",
+        "比赛标志": "https://ctftime.org/media/events/9f419586e0dedbff0130e6f487ddc54c_1.png",
+        "比赛权重": "0.00",
+        "赛事主办": "SAFCSP (https://ctftime.org/team/54707)",
+        "比赛ID": "826",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "niteCTF 2026",
+        "比赛时间": "2026-12-11 20:00:00 - 2026-12-13 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3367.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://nitectf.cryptonitemit.in/",
+        "比赛标志": "https://ctftime.org/media/events/nitectf_2.png",
+        "比赛权重": "59.00",
+        "赛事主办": "Cryptonite (https://ctftime.org/team/62713)",
+        "比赛ID": "663",
         "比赛状态": "oncoming"
     },
     {
