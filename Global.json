@@ -666,7 +666,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.pyjail.club/",
         "比赛标志": "https://ctftime.org/media/events/jailctf_1.png",
-        "比赛权重": "37.00",
+        "比赛权重": "0",
         "赛事主办": "jailctf (https://ctftime.org/team/311088)",
         "比赛ID": "1152",
         "比赛状态": "past"
