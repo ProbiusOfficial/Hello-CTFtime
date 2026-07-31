@@ -36,3 +36,12 @@ comments: true
     **赛事主办** : L3ak (https://ctftime.org/team/220336)  
     **添加日历** : https://ctftime.org/event/3061.ics  
     
+??? Quote "[VuwCTF 2026](https://2026.vuwctf.com/)"  
+    [![](https://ctftime.org/media/events/moose6.png){ width="200" align=left }](https://2026.vuwctf.com/)  
+    **比赛名称** : [VuwCTF 2026](https://2026.vuwctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-01 06:00:00 - 2026-08-02 13:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : VuwCTF (https://ctftime.org/team/378359)  
+    **添加日历** : https://ctftime.org/event/3311.ics  
+    
