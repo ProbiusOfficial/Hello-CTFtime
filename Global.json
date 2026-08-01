@@ -588,18 +588,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "DeadSec CTF 2026 - POSTPONED",
-        "比赛时间": "2026-07-31 20:00:00 - 2026-08-01 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3303.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://www.deadsec.xyz/",
-        "比赛标志": "https://ctftime.org/media/events/Picture1_4.png",
-        "比赛权重": "39.00",
-        "赛事主办": "DeadSec (https://ctftime.org/team/19339)",
-        "比赛ID": "268",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "L3akCTF 2026",
         "比赛时间": "2026-08-01 02:00:00 - 2026-08-03 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3061.ics",
@@ -634,6 +622,18 @@
         "赛事主办": "U-CTF (https://ctftime.org/team/430827)",
         "比赛ID": "1570",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "DeadSec CTF 2026 - POSTPONED",
+        "比赛时间": "2026-07-31 20:00:00 - 2026-08-01 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3303.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://www.deadsec.xyz/",
+        "比赛标志": "https://ctftime.org/media/events/Picture1_4.png",
+        "比赛权重": "39.00",
+        "赛事主办": "DeadSec (https://ctftime.org/team/19339)",
+        "比赛ID": "268",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "D^3CTF 2026",
@@ -1821,18 +1821,6 @@
         "比赛权重": "16.56",
         "赛事主办": "Byt3Scr4pp3rs (https://ctftime.org/team/57772)",
         "比赛ID": "413",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "PUTCyberDays CTF 2026",
-        "比赛时间": "2026-04-11 18:00:00 - 2026-04-12 18:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3202.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://putcyberdays.pl/en/",
-        "比赛标志": "https://ctftime.org/media/events/logo_wydarzenia.png",
-        "比赛权重": "24.94",
-        "赛事主办": "PUTrequest_ (https://ctftime.org/team/196643)",
-        "比赛ID": "1542",
         "比赛状态": "past"
     }
 ]
