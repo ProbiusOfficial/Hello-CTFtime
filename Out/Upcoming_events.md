@@ -280,7 +280,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/3020.ics  
     
 ??? Quote "[Securinets CTF Quals 2026](https://quals.securinets.tn/)"  
-    [![](){ width="200" align=left }](https://quals.securinets.tn/)  
+    [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://quals.securinets.tn/)  
     **比赛名称** : [Securinets CTF Quals 2026](https://quals.securinets.tn/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-10-03 17:00:00 - 2026-10-05 05:00:00 UTC+8  
