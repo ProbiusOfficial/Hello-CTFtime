@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Universal CTF](https://ctf.uctf.io/)"  
-            [![](https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png){ width="200" align=left }](https://ctf.uctf.io/)  
-            **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-01 15:00:00 - 2026-08-02 23:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : U-CTF (https://ctftime.org/team/430827)  
-            **添加日历** : https://ctftime.org/event/3237.ics  
-            
         ??? Quote "[Lexington Informatics Tournament CTF 2026](https://lit.lhsmathcs.org/)"  
             [![](https://ctftime.org/media/events/LIT-Logo.png){ width="200" align=left }](https://lit.lhsmathcs.org/)  
             **比赛名称** : [Lexington Informatics Tournament CTF 2026](https://lit.lhsmathcs.org/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : Kali Team (https://ctftime.org/team/387378)  
             **添加日历** : https://ctftime.org/event/3328.ics  
+            
+        ??? Quote "[AEROSPACE VILLAGE STARPWN CTF](https://starpwn.ctfd.io/)"  
+            [![](https://ctftime.org/media/events/ctftime_logo_1.png){ width="200" align=left }](https://starpwn.ctfd.io/)  
+            **比赛名称** : [AEROSPACE VILLAGE STARPWN CTF](https://starpwn.ctfd.io/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-08-07 01:00:00 - 2026-08-10 02:00:00 UTC+8  
+            **比赛权重** : 24.65  
+            **赛事主办** : Visionspace (https://ctftime.org/team/383284)  
+            **添加日历** : https://ctftime.org/event/3342.ics  
             
