@@ -12,6 +12,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[VuwCTF 2026](https://2026.vuwctf.com/)"  
+    [![](https://ctftime.org/media/events/moose6.png){ width="200" align=left }](https://2026.vuwctf.com/)  
+    **比赛名称** : [VuwCTF 2026](https://2026.vuwctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-01 06:00:00 - 2026-08-02 13:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : VuwCTF (https://ctftime.org/team/378359)  
+    **添加日历** : https://ctftime.org/event/3311.ics  
+    
 ??? Quote "[DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)"  
     [![](https://ctftime.org/media/events/Picture1_4.png){ width="200" align=left }](https://www.deadsec.xyz/)  
     **比赛名称** : [DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)  
@@ -902,13 +911,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : greyhatgt (https://ctftime.org/team/38564)  
     **添加日历** : https://ctftime.org/event/3240.ics  
-    
-??? Quote "[Incognito 7.0](https://incognito.axiosiiitl.dev/)"  
-    [![](https://ctftime.org/media/events/Pasted_image_6.png){ width="200" align=left }](https://incognito.axiosiiitl.dev/)  
-    **比赛名称** : [Incognito 7.0](https://incognito.axiosiiitl.dev/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-14 08:00:00 - 2026-04-15 08:00:00 UTC+8  
-    **比赛权重** : 16.56  
-    **赛事主办** : Byt3Scr4pp3rs (https://ctftime.org/team/57772)  
-    **添加日历** : https://ctftime.org/event/3225.ics  
     
