@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[SCAN 2026 Online Qualifier](https://scan.sx/)"  
-            [![](https://ctftime.org/media/events/32x32_icon.png){ width="200" align=left }](https://scan.sx/)  
-            **比赛名称** : [SCAN 2026 Online Qualifier](https://scan.sx/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-02 08:00:00 - 2026-08-03 08:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
-            **添加日历** : https://ctftime.org/event/3383.ics  
-            
         ??? Quote "[Kali Team - CTF 26](https://register.kali-team.online/)"  
             [![](https://ctftime.org/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png){ width="200" align=left }](https://register.kali-team.online/)  
             **比赛名称** : [Kali Team - CTF 26](https://register.kali-team.online/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0  
             **赛事主办** : robotichackingcommunity (https://ctftime.org/team/436123)  
             **添加日历** : https://ctftime.org/event/3305.ics  
+            
+        ??? Quote "[DEF CON CTF 2026](https://bbbirds.org/)"  
+            [![](){ width="200" align=left }](https://bbbirds.org/)  
+            **比赛名称** : [DEF CON CTF 2026](https://bbbirds.org/)  
+            **比赛形式** : Attack-Defense  
+            **比赛时间** : 2026-08-08 00:00:00 - 2026-08-10 03:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Benevolent Bureau of Birds (https://ctftime.org/team/425757)  
+            **添加日历** : https://ctftime.org/event/3322.ics  
             
