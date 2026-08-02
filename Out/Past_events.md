@@ -12,6 +12,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Universal CTF](https://ctf.uctf.io/)"  
+    [![](https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png){ width="200" align=left }](https://ctf.uctf.io/)  
+    **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-01 15:00:00 - 2026-08-02 23:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : U-CTF (https://ctftime.org/team/430827)  
+    **添加日历** : https://ctftime.org/event/3237.ics  
+    
 ??? Quote "[VuwCTF 2026](https://2026.vuwctf.com/)"  
     [![](https://ctftime.org/media/events/moose6.png){ width="200" align=left }](https://2026.vuwctf.com/)  
     **比赛名称** : [VuwCTF 2026](https://2026.vuwctf.com/)  
@@ -902,13 +911,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : SUGUS (https://ctftime.org/team/274509)  
     **添加日历** : https://ctftime.org/event/3253.ics  
-    
-??? Quote "[ZeroSecure CTF 2026](https://www.zerosecurectf.online/)"  
-    [![](https://ctftime.org/media/events/logo_cropped.png){ width="200" align=left }](https://www.zerosecurectf.online/)  
-    **比赛名称** : [ZeroSecure CTF 2026](https://www.zerosecurectf.online/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-17 13:30:00 - 2026-04-18 13:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : CLIENT - ZERO (https://ctftime.org/team/381031)  
-    **添加日历** : https://ctftime.org/event/3252.ics  
     

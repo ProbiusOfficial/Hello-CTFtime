@@ -564,18 +564,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "Universal CTF",
-        "比赛时间": "2026-08-01 15:00:00 - 2026-08-02 23:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3237.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.uctf.io/",
-        "比赛标志": "https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png",
-        "比赛权重": "0",
-        "赛事主办": "U-CTF (https://ctftime.org/team/430827)",
-        "比赛ID": "1570",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "Lexington Informatics Tournament CTF 2026",
         "比赛时间": "2026-08-01 23:00:00 - 2026-08-03 23:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3373.ics",
@@ -598,6 +586,18 @@
         "赛事主办": "D Asset Inc. (https://ctftime.org/team/310109)",
         "比赛ID": "1190",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Universal CTF",
+        "比赛时间": "2026-08-01 15:00:00 - 2026-08-02 23:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3237.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.uctf.io/",
+        "比赛标志": "https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png",
+        "比赛权重": "0",
+        "赛事主办": "U-CTF (https://ctftime.org/team/430827)",
+        "比赛ID": "1570",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "VuwCTF 2026",
@@ -1785,18 +1785,6 @@
         "比赛权重": "0",
         "赛事主办": "SUGUS (https://ctftime.org/team/274509)",
         "比赛ID": "1579",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "ZeroSecure CTF 2026",
-        "比赛时间": "2026-04-17 13:30:00 - 2026-04-18 13:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3252.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://www.zerosecurectf.online/",
-        "比赛标志": "https://ctftime.org/media/events/logo_cropped.png",
-        "比赛权重": "0.00",
-        "赛事主办": "CLIENT - ZERO (https://ctftime.org/team/381031)",
-        "比赛ID": "1580",
         "比赛状态": "past"
     }
 ]
