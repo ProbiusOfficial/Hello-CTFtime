@@ -12,6 +12,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[SCAN 2026 Online Qualifier](https://scan.sx/)"  
+    [![](https://ctftime.org/media/events/32x32_icon.png){ width="200" align=left }](https://scan.sx/)  
+    **比赛名称** : [SCAN 2026 Online Qualifier](https://scan.sx/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-02 08:00:00 - 2026-08-03 08:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
+    **添加日历** : https://ctftime.org/event/3383.ics  
+    
 ??? Quote "[Universal CTF](https://ctf.uctf.io/)"  
     [![](https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png){ width="200" align=left }](https://ctf.uctf.io/)  
     **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
@@ -902,13 +911,4 @@ comments: true
     **比赛权重** : 23.93  
     **赛事主办** : HACK@CIT (https://ctftime.org/team/287896)  
     **添加日历** : https://ctftime.org/event/3156.ics  
-    
-??? Quote "[CPCTF 2026](https://cpctf.space/)"  
-    [![](https://ctftime.org/media/events/cpctf_logo_1_1.png){ width="200" align=left }](https://cpctf.space/)  
-    **比赛名称** : [CPCTF 2026](https://cpctf.space/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-17 19:00:00 - 2026-04-19 19:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : traP (https://ctftime.org/team/62510)  
-    **添加日历** : https://ctftime.org/event/3077.ics  
     
