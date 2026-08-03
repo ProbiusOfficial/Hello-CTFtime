@@ -1,9 +1,9 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Kali Team - CTF 26](https://register.kali-team.online/)"  
-            [![](https://ctftime.org/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png){ width="200" align=left }](https://register.kali-team.online/)  
-            **比赛名称** : [Kali Team - CTF 26](https://register.kali-team.online/)  
+        ??? Quote "[Kali Team - CTF 26](https://kali-team.online/)"  
+            [![](https://ctftime.org/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png){ width="200" align=left }](https://kali-team.online/)  
+            **比赛名称** : [Kali Team - CTF 26](https://kali-team.online/)  
             **比赛形式** : Jeopardy  
             **比赛时间** : 2026-08-05 15:00:00 - 2026-08-06 03:00:00 UTC+8  
             **比赛权重** : 0.00  
