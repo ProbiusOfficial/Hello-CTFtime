@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Kali Team - CTF 26](https://kali-team.online/)"  
-            [![](https://ctftime.org/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png){ width="200" align=left }](https://kali-team.online/)  
-            **比赛名称** : [Kali Team - CTF 26](https://kali-team.online/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-05 15:00:00 - 2026-08-06 03:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : Kali Team (https://ctftime.org/team/387378)  
-            **添加日历** : https://ctftime.org/event/3328.ics  
-            
         ??? Quote "[AEROSPACE VILLAGE STARPWN CTF](https://starpwn.ctfd.io/)"  
             [![](https://ctftime.org/media/events/ctftime_logo_1.png){ width="200" align=left }](https://starpwn.ctfd.io/)  
             **比赛名称** : [AEROSPACE VILLAGE STARPWN CTF](https://starpwn.ctfd.io/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : Benevolent Bureau of Birds (https://ctftime.org/team/425757)  
             **添加日历** : https://ctftime.org/event/3322.ics  
+            
+        ??? Quote "[scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)"  
+            [![](https://ctftime.org/media/events/final_logo_1.png){ width="200" align=left }](https://ctf.scriptsorcerers.xyz/)  
+            **比赛名称** : [scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-08-08 08:00:00 - 2026-08-10 08:00:00 UTC+8  
+            **比赛权重** : 24.70  
+            **赛事主办** : ScriptSorcerers (https://ctftime.org/team/284260)  
+            **添加日历** : https://ctftime.org/event/3052.ics  
             
