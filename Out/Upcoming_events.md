@@ -144,15 +144,6 @@ comments: true
     **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
     **添加日历** : https://ctftime.org/event/3379.ics  
     
-??? Quote "[HITCON CTF 2026 Quals](http://ctf.hitcon.org/)"  
-    [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](http://ctf.hitcon.org/)  
-    **比赛名称** : [HITCON CTF 2026 Quals](http://ctf.hitcon.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-28 22:00:00 - 2026-08-30 22:00:00 UTC+8  
-    **比赛权重** : 91.16  
-    **赛事主办** : HITCON (https://ctftime.org/team/8299)  
-    **添加日历** : https://ctftime.org/event/3340.ics  
-    
 ??? Quote "[COMPFEST CTF 2026](https://compfest.id/)"  
     [![](){ width="200" align=left }](https://compfest.id/)  
     **比赛名称** : [COMPFEST CTF 2026](https://compfest.id/)  
