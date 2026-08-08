@@ -1,24 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)"  
-            [![](https://ctftime.org/media/events/final_logo_1.png){ width="200" align=left }](https://ctf.scriptsorcerers.xyz/)  
-            **比赛名称** : [scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-08 08:00:00 - 2026-08-10 08:00:00 UTC+8  
-            **比赛权重** : 24.70  
-            **赛事主办** : ScriptSorcerers (https://ctftime.org/team/284260)  
-            **添加日历** : https://ctftime.org/event/3052.ics  
-            
-        ??? Quote "[UIUCTF 2026](https://uiuc.tf/)"  
-            [![](){ width="200" align=left }](https://uiuc.tf/)  
-            **比赛名称** : [UIUCTF 2026](https://uiuc.tf/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-08 08:00:00 - 2026-08-10 08:00:00 UTC+8  
-            **比赛权重** : 69.35  
-            **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
-            **添加日历** : https://ctftime.org/event/3148.ics  
-            
         ??? Quote "[The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)"  
             [![](https://ctftime.org/media/events/photo_2026-07-23_13-34-47.jpg){ width="200" align=left }](https://caplag.ru/competitions/the-heart-of-sysola)  
             **比赛名称** : [The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)  
@@ -36,4 +18,22 @@
             **比赛权重** : 0.00  
             **赛事主办** : Thryve (https://ctftime.org/team/419961)  
             **添加日历** : https://ctftime.org/event/3330.ics  
+            
+        ??? Quote "[gaslightCTF 2026](https://gaslightctf.cooking/)"  
+            [![](https://ctftime.org/media/events/icon_9.png){ width="200" align=left }](https://gaslightctf.cooking/)  
+            **比赛名称** : [gaslightCTF 2026](https://gaslightctf.cooking/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-08-14 20:00:00 - 2026-08-17 20:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : gaslighting (https://ctftime.org/team/299906)  
+            **添加日历** : https://ctftime.org/event/3181.ics  
+            
+        ??? Quote "[HackHowl 2026](https://hackhowl.com/)"  
+            [![](https://ctftime.org/media/events/logo_129.png){ width="200" align=left }](https://hackhowl.com/)  
+            **比赛名称** : [HackHowl 2026](https://hackhowl.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-08-15 08:00:00 - 2026-08-17 13:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Hack Howl (https://ctftime.org/team/436949)  
+            **添加日历** : https://ctftime.org/event/3318.ics  
             
