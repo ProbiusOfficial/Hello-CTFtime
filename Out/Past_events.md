@@ -30,6 +30,15 @@ comments: true
     **赛事主办** : robotichackingcommunity (https://ctftime.org/team/436123)  
     **添加日历** : https://ctftime.org/event/3305.ics  
     
+??? Quote "[AEROSPACE VILLAGE STARPWN CTF](https://starpwn.ctfd.io/)"  
+    [![](https://ctftime.org/media/events/ctftime_logo_1.png){ width="200" align=left }](https://starpwn.ctfd.io/)  
+    **比赛名称** : [AEROSPACE VILLAGE STARPWN CTF](https://starpwn.ctfd.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-07 01:00:00 - 2026-08-10 02:00:00 UTC+8  
+    **比赛权重** : 24.65  
+    **赛事主办** : Visionspace (https://ctftime.org/team/383284)  
+    **添加日历** : https://ctftime.org/event/3342.ics  
+    
 ??? Quote "[Kali Team - CTF 26](https://kali-team.online/)"  
     [![](https://ctftime.org/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png){ width="200" align=left }](https://kali-team.online/)  
     **比赛名称** : [Kali Team - CTF 26](https://kali-team.online/)  
@@ -902,13 +911,4 @@ comments: true
     **比赛权重** : 18.70  
     **赛事主办** : K!nd4SUS (https://ctftime.org/team/150337)  
     **添加日历** : https://ctftime.org/event/3143.ics  
-    
-??? Quote "[pingCTF 2026](http://ctf.knping.pl/)"  
-    [![](https://ctftime.org/media/events/logo_121.png){ width="200" align=left }](http://ctf.knping.pl/)  
-    **比赛名称** : [pingCTF 2026](http://ctf.knping.pl/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-18 18:00:00 - 2026-04-19 18:00:00 UTC+8  
-    **比赛权重** : 46.20  
-    **赛事主办** : pingCTF (https://ctftime.org/team/147266)  
-    **添加日历** : https://ctftime.org/event/3147.ics  
     
