@@ -419,15 +419,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[DEF CON CTF 2026](https://bbbirds.org/)"  
-                [![](){ width="200" align=left }](https://bbbirds.org/)  
-                **比赛名称** : [DEF CON CTF 2026](https://bbbirds.org/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2026-08-08 00:00:00 - 2026-08-10 03:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Benevolent Bureau of Birds (https://ctftime.org/team/425757)  
-                **添加日历** : https://ctftime.org/event/3322.ics  
-                
             ??? Quote "[scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)"  
                 [![](https://ctftime.org/media/events/final_logo_1.png){ width="200" align=left }](https://ctf.scriptsorcerers.xyz/)  
                 **比赛名称** : [scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)  
@@ -462,6 +453,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : Caplag (https://ctftime.org/team/423152)  
                 **添加日历** : https://ctftime.org/event/3382.ics  
+                
+            ??? Quote "[DEF CON CTF 2026](https://bbbirds.org/)"  
+                [![](){ width="200" align=left }](https://bbbirds.org/)  
+                **比赛名称** : [DEF CON CTF 2026](https://bbbirds.org/)  
+                **比赛形式** : Attack-Defense  
+                **比赛时间** : 2026-08-08 00:00:00 - 2026-08-10 03:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Benevolent Bureau of Birds (https://ctftime.org/team/425757)  
+                **添加日历** : https://ctftime.org/event/3322.ics  
                 
             ??? Quote "[RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)](https://www.robotichackingcommunity.com/)"  
                 [![](https://ctftime.org/media/events/Robotic_Hacking_Community_on_black-h_1.png){ width="200" align=left }](https://www.robotichackingcommunity.com/)  
@@ -1344,13 +1344,4 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : DSU CTF Club (https://ctftime.org/team/427677)  
                 **添加日历** : https://ctftime.org/event/3233.ics  
-                
-            ??? Quote "[K!nd4SUS CTF 2026](https://ctf.k1nd4sus.it/)"  
-                [![](https://ctftime.org/media/events/81649886.png){ width="200" align=left }](https://ctf.k1nd4sus.it/)  
-                **比赛名称** : [K!nd4SUS CTF 2026](https://ctf.k1nd4sus.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-04-18 20:00:00 - 2026-04-19 20:00:00 UTC+8  
-                **比赛权重** : 18.70  
-                **赛事主办** : K!nd4SUS (https://ctftime.org/team/150337)  
-                **添加日历** : https://ctftime.org/event/3143.ics  
                 

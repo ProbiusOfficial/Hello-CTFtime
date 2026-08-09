@@ -540,18 +540,6 @@
         "比赛状态": "oncoming"
     },
     {
-        "比赛名称": "DEF CON CTF 2026",
-        "比赛时间": "2026-08-08 00:00:00 - 2026-08-10 03:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3322.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "https://bbbirds.org/",
-        "比赛标志": "",
-        "比赛权重": "0",
-        "赛事主办": "Benevolent Bureau of Birds (https://ctftime.org/team/425757)",
-        "比赛ID": "2",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "scriptCTF 2026",
         "比赛时间": "2026-08-08 08:00:00 - 2026-08-10 08:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3052.ics",
@@ -585,6 +573,18 @@
         "比赛权重": "0",
         "赛事主办": "Caplag (https://ctftime.org/team/423152)",
         "比赛ID": "1652",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "DEF CON CTF 2026",
+        "比赛时间": "2026-08-08 00:00:00 - 2026-08-10 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3322.ics",
+        "比赛形式": "Attack-Defense",
+        "比赛链接": "https://bbbirds.org/",
+        "比赛标志": "",
+        "比赛权重": "0",
+        "赛事主办": "Benevolent Bureau of Birds (https://ctftime.org/team/425757)",
+        "比赛ID": "2",
         "比赛状态": "past"
     },
     {
@@ -1761,18 +1761,6 @@
         "比赛权重": "25.00",
         "赛事主办": "DSU CTF Club (https://ctftime.org/team/427677)",
         "比赛ID": "1549",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "K!nd4SUS CTF 2026",
-        "比赛时间": "2026-04-18 20:00:00 - 2026-04-19 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3143.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.k1nd4sus.it/",
-        "比赛标志": "https://ctftime.org/media/events/81649886.png",
-        "比赛权重": "18.70",
-        "赛事主办": "K!nd4SUS (https://ctftime.org/team/150337)",
-        "比赛ID": "1264",
         "比赛状态": "past"
     }
 ]
