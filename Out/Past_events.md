@@ -62,7 +62,7 @@ comments: true
     **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-08-01 15:00:00 - 2026-08-02 23:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : U-CTF (https://ctftime.org/team/430827)  
     **添加日历** : https://ctftime.org/event/3237.ics  
     

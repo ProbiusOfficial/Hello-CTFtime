@@ -654,7 +654,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.uctf.io/",
         "比赛标志": "https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png",
-        "比赛权重": "0",
+        "比赛权重": "25.00",
         "赛事主办": "U-CTF (https://ctftime.org/team/430827)",
         "比赛ID": "1570",
         "比赛状态": "past"
