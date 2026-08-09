@@ -428,15 +428,6 @@
                 **赛事主办** : Visionspace (https://ctftime.org/team/383284)  
                 **添加日历** : https://ctftime.org/event/3342.ics  
                 
-            ??? Quote "[RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)](https://www.robotichackingcommunity.com/)"  
-                [![](https://ctftime.org/media/events/Robotic_Hacking_Community_on_black-h_1.png){ width="200" align=left }](https://www.robotichackingcommunity.com/)  
-                **比赛名称** : [RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)](https://www.robotichackingcommunity.com/)  
-                **比赛形式** : Hack quest  
-                **比赛时间** : 2026-08-07 08:00:00 - 2026-08-09 08:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : robotichackingcommunity (https://ctftime.org/team/436123)  
-                **添加日历** : https://ctftime.org/event/3305.ics  
-                
             ??? Quote "[DEF CON CTF 2026](https://bbbirds.org/)"  
                 [![](){ width="200" align=left }](https://bbbirds.org/)  
                 **比赛名称** : [DEF CON CTF 2026](https://bbbirds.org/)  
@@ -464,6 +455,14 @@
                 **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
                 **添加日历** : https://ctftime.org/event/3148.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
+                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
+                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
+                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
+                
+        === "国外赛事"
             ??? Quote "[The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)"  
                 [![](https://ctftime.org/media/events/photo_2026-07-23_13-34-47.jpg){ width="200" align=left }](https://caplag.ru/competitions/the-heart-of-sysola)  
                 **比赛名称** : [The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)  
@@ -473,14 +472,15 @@
                 **赛事主办** : Caplag (https://ctftime.org/team/423152)  
                 **添加日历** : https://ctftime.org/event/3382.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
-                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
-                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
-                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
+            ??? Quote "[RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)](https://www.robotichackingcommunity.com/)"  
+                [![](https://ctftime.org/media/events/Robotic_Hacking_Community_on_black-h_1.png){ width="200" align=left }](https://www.robotichackingcommunity.com/)  
+                **比赛名称** : [RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)](https://www.robotichackingcommunity.com/)  
+                **比赛形式** : Hack quest  
+                **比赛时间** : 2026-08-07 08:00:00 - 2026-08-09 08:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : robotichackingcommunity (https://ctftime.org/team/436123)  
+                **添加日历** : https://ctftime.org/event/3305.ics  
                 
-        === "国外赛事"
             ??? Quote "[Kali Team - CTF 26](https://kali-team.online/)"  
                 [![](https://ctftime.org/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png){ width="200" align=left }](https://kali-team.online/)  
                 **比赛名称** : [Kali Team - CTF 26](https://kali-team.online/)  
@@ -1362,22 +1362,4 @@
                 **比赛权重** : 46.20  
                 **赛事主办** : pingCTF (https://ctftime.org/team/147266)  
                 **添加日历** : https://ctftime.org/event/3147.ics  
-                
-            ??? Quote "[b01lers CTF 2026](https://b01lersc.tf/)"  
-                [![](https://ctftime.org/media/events/b01lers.png){ width="200" align=left }](https://b01lersc.tf/)  
-                **比赛名称** : [b01lers CTF 2026](https://b01lersc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-04-18 08:00:00 - 2026-04-20 08:00:00 UTC+8  
-                **比赛权重** : 66.00  
-                **赛事主办** : b01lers (https://ctftime.org/team/11464)  
-                **添加日历** : https://ctftime.org/event/3153.ics  
-                
-            ??? Quote "[squ1rrel CTF 2026](https://ctf.squ1rrel.dev/)"  
-                [![](https://ctftime.org/media/events/squ1rrel_logo_1.png){ width="200" align=left }](https://ctf.squ1rrel.dev/)  
-                **比赛名称** : [squ1rrel CTF 2026](https://ctf.squ1rrel.dev/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-04-18 07:00:00 - 2026-04-19 14:00:00 UTC+8  
-                **比赛权重** : 32.47  
-                **赛事主办** : squ1rrel (https://ctftime.org/team/201730)  
-                **添加日历** : https://ctftime.org/event/3234.ics  
                 
