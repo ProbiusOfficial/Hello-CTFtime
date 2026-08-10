@@ -21,6 +21,24 @@ comments: true
     **赛事主办** : Caplag (https://ctftime.org/team/423152)  
     **添加日历** : https://ctftime.org/event/3382.ics  
     
+??? Quote "[scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)"  
+    [![](https://ctftime.org/media/events/final_logo_1.png){ width="200" align=left }](https://ctf.scriptsorcerers.xyz/)  
+    **比赛名称** : [scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-08 08:00:00 - 2026-08-10 08:00:00 UTC+8  
+    **比赛权重** : 24.70  
+    **赛事主办** : ScriptSorcerers (https://ctftime.org/team/284260)  
+    **添加日历** : https://ctftime.org/event/3052.ics  
+    
+??? Quote "[UIUCTF 2026](https://uiuc.tf/)"  
+    [![](){ width="200" align=left }](https://uiuc.tf/)  
+    **比赛名称** : [UIUCTF 2026](https://uiuc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-08 08:00:00 - 2026-08-10 08:00:00 UTC+8  
+    **比赛权重** : 69.35  
+    **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
+    **添加日历** : https://ctftime.org/event/3148.ics  
+    
 ??? Quote "[DEF CON CTF 2026](https://bbbirds.org/)"  
     [![](){ width="200" align=left }](https://bbbirds.org/)  
     **比赛名称** : [DEF CON CTF 2026](https://bbbirds.org/)  
@@ -893,22 +911,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
     **添加日历** : https://ctftime.org/event/3213.ics  
-    
-??? Quote "[JerseyCTF VI](https://ctf.jerseyctf.com/)"  
-    [![](https://ctftime.org/media/events/jctfvi-discord.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
-    **比赛名称** : [JerseyCTF VI](https://ctf.jerseyctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-19 03:00:00 - 2026-04-20 03:00:00 UTC+8  
-    **比赛权重** : 37.00  
-    **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
-    **添加日历** : https://ctftime.org/event/3117.ics  
-    
-??? Quote "[HiveCTF](https://mctf.io/hivectf)"  
-    [![](https://ctftime.org/media/events/hivectf-color-square.png){ width="200" align=left }](https://mctf.io/hivectf)  
-    **比赛名称** : [HiveCTF](https://mctf.io/hivectf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-18 23:00:00 - 2026-04-19 07:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : DSU CTF Club (https://ctftime.org/team/427677)  
-    **添加日历** : https://ctftime.org/event/3233.ics  
     

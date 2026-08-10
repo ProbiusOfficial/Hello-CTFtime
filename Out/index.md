@@ -419,6 +419,24 @@
         === "国内赛事"
     
         === "国外赛事"
+    
+    === "*已经结束*"
+        === "国内赛事"
+            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
+                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
+                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
+                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
+                
+        === "国外赛事"
+            ??? Quote "[The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)"  
+                [![](https://ctftime.org/media/events/photo_2026-07-23_13-34-47.jpg){ width="200" align=left }](https://caplag.ru/competitions/the-heart-of-sysola)  
+                **比赛名称** : [The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-08-08 21:00:00 - 2026-08-09 09:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Caplag (https://ctftime.org/team/423152)  
+                **添加日历** : https://ctftime.org/event/3382.ics  
+                
             ??? Quote "[scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)"  
                 [![](https://ctftime.org/media/events/final_logo_1.png){ width="200" align=left }](https://ctf.scriptsorcerers.xyz/)  
                 **比赛名称** : [scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)  
@@ -436,23 +454,6 @@
                 **比赛权重** : 69.35  
                 **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
                 **添加日历** : https://ctftime.org/event/3148.ics  
-                
-    === "*已经结束*"
-        === "国内赛事"
-            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
-                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
-                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
-                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
-                
-        === "国外赛事"
-            ??? Quote "[The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)"  
-                [![](https://ctftime.org/media/events/photo_2026-07-23_13-34-47.jpg){ width="200" align=left }](https://caplag.ru/competitions/the-heart-of-sysola)  
-                **比赛名称** : [The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-08 21:00:00 - 2026-08-09 09:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Caplag (https://ctftime.org/team/423152)  
-                **添加日历** : https://ctftime.org/event/3382.ics  
                 
             ??? Quote "[DEF CON CTF 2026](https://bbbirds.org/)"  
                 [![](){ width="200" align=left }](https://bbbirds.org/)  
@@ -1326,22 +1327,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
                 **添加日历** : https://ctftime.org/event/3213.ics  
-                
-            ??? Quote "[JerseyCTF VI](https://ctf.jerseyctf.com/)"  
-                [![](https://ctftime.org/media/events/jctfvi-discord.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
-                **比赛名称** : [JerseyCTF VI](https://ctf.jerseyctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-04-19 03:00:00 - 2026-04-20 03:00:00 UTC+8  
-                **比赛权重** : 37.00  
-                **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
-                **添加日历** : https://ctftime.org/event/3117.ics  
-                
-            ??? Quote "[HiveCTF](https://mctf.io/hivectf)"  
-                [![](https://ctftime.org/media/events/hivectf-color-square.png){ width="200" align=left }](https://mctf.io/hivectf)  
-                **比赛名称** : [HiveCTF](https://mctf.io/hivectf)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-04-18 23:00:00 - 2026-04-19 07:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : DSU CTF Club (https://ctftime.org/team/427677)  
-                **添加日历** : https://ctftime.org/event/3233.ics  
                 
