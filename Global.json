@@ -120,6 +120,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "TallDwarf Hosting: Hosting Takeover",
+        "比赛时间": "2026-08-22 16:00:00 - 2026-08-24 04:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3394.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.talldwarfhosting.com/",
+        "比赛标志": "https://ctftime.org/media/events/logo_135.png",
+        "比赛权重": "0.00",
+        "赛事主办": "TallDwarf Hosting (https://ctftime.org/team/443103)",
+        "比赛ID": "1664",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "COMPFEST CTF 2026",
         "比赛时间": "2026-08-29 08:00:00 - 2026-08-30 08:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3290.ics",
@@ -336,6 +348,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "SunshineCTF 2026",
+        "比赛时间": "2026-09-26 22:00:00 - 2026-09-28 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3399.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://sunshinectf.org/",
+        "比赛标志": "https://ctftime.org/media/events/sunshinectf25_logo.png",
+        "比赛权重": "51.63",
+        "赛事主办": "Knightsec (https://ctftime.org/team/2500)",
+        "比赛ID": "137",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "Pointer Overflow CTF - 2026",
         "比赛时间": "2026-09-27 22:00:00 - 2026-12-06 22:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3020.ics",
@@ -405,6 +429,18 @@
         "比赛权重": "35.39",
         "赛事主办": "Cyber Hacktics (https://ctftime.org/team/127017)",
         "比赛ID": "487",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "HITCON CTF 2026",
+        "比赛时间": "2026-10-23 22:00:00 - 2026-10-25 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3340.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://ctf.hitcon.org/",
+        "比赛标志": "https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg",
+        "比赛权重": "91.16",
+        "赛事主办": "HITCON (https://ctftime.org/team/8299)",
+        "比赛ID": "79",
         "比赛状态": "oncoming"
     },
     {

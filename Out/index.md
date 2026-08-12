@@ -100,6 +100,15 @@
                 **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
                 **添加日历** : https://ctftime.org/event/3379.ics  
                 
+            ??? Quote "[TallDwarf Hosting: Hosting Takeover](https://ctf.talldwarfhosting.com/)"  
+                [![](https://ctftime.org/media/events/logo_135.png){ width="200" align=left }](https://ctf.talldwarfhosting.com/)  
+                **比赛名称** : [TallDwarf Hosting: Hosting Takeover](https://ctf.talldwarfhosting.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-08-22 16:00:00 - 2026-08-24 04:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : TallDwarf Hosting (https://ctftime.org/team/443103)  
+                **添加日历** : https://ctftime.org/event/3394.ics  
+                
             ??? Quote "[COMPFEST CTF 2026](https://compfest.id/)"  
                 [![](){ width="200" align=left }](https://compfest.id/)  
                 **比赛名称** : [COMPFEST CTF 2026](https://compfest.id/)  
@@ -262,6 +271,15 @@
                 **赛事主办** : FAUST (https://ctftime.org/team/550)  
                 **添加日历** : https://ctftime.org/event/3312.ics  
                 
+            ??? Quote "[SunshineCTF 2026](https://sunshinectf.org/)"  
+                [![](https://ctftime.org/media/events/sunshinectf25_logo.png){ width="200" align=left }](https://sunshinectf.org/)  
+                **比赛名称** : [SunshineCTF 2026](https://sunshinectf.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-09-26 22:00:00 - 2026-09-28 22:00:00 UTC+8  
+                **比赛权重** : 51.63  
+                **赛事主办** : Knightsec (https://ctftime.org/team/2500)  
+                **添加日历** : https://ctftime.org/event/3399.ics  
+                
             ??? Quote "[Pointer Overflow CTF - 2026](https://pointeroverflowctf.com/)"  
                 [![](https://ctftime.org/media/events/logo-mini.png){ width="200" align=left }](https://pointeroverflowctf.com/)  
                 **比赛名称** : [Pointer Overflow CTF - 2026](https://pointeroverflowctf.com/)  
@@ -315,6 +333,15 @@
                 **比赛权重** : 35.39  
                 **赛事主办** : Cyber Hacktics (https://ctftime.org/team/127017)  
                 **添加日历** : https://ctftime.org/event/3279.ics  
+                
+            ??? Quote "[HITCON CTF 2026](http://ctf.hitcon.org/)"  
+                [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](http://ctf.hitcon.org/)  
+                **比赛名称** : [HITCON CTF 2026](http://ctf.hitcon.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-23 22:00:00 - 2026-10-25 22:00:00 UTC+8  
+                **比赛权重** : 91.16  
+                **赛事主办** : HITCON (https://ctftime.org/team/8299)  
+                **添加日历** : https://ctftime.org/event/3340.ics  
                 
             ??? Quote "[Hack.lu CTF 2026](https://flu.xxx/)"  
                 [![](https://ctftime.org/media/events/hacklu25.jpg){ width="200" align=left }](https://flu.xxx/)  
