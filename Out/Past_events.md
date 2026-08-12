@@ -71,7 +71,7 @@ comments: true
     **比赛名称** : [Kali Team - CTF 26](https://kali-team.online/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-08-05 15:00:00 - 2026-08-06 03:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : Kali Team (https://ctftime.org/team/387378)  
     **添加日历** : https://ctftime.org/event/3328.ics  
     
