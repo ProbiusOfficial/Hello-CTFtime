@@ -9,6 +9,15 @@ comments: true
 
 ## 国际赛事
 
+??? Quote "[EYCC CTF 2026 Finals](https://eycc.stemeghackclub.org/)"  
+    [![](https://ctftime.org/media/events/33.png){ width="200" align=left }](https://eycc.stemeghackclub.org/)  
+    **比赛名称** : [EYCC CTF 2026 Finals](https://eycc.stemeghackclub.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-13 14:00:00 - 2026-08-14 00:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Mont5ab El2hwa (https://ctftime.org/team/402823)  
+    **添加日历** : https://ctftime.org/event/3405.ics  
+    
 ??? Quote "[Thryve CTF 2026](https://ctf.thryvectf.org/)"  
     [![](https://ctftime.org/media/events/thryvelogo_4.jpeg){ width="200" align=left }](https://ctf.thryvectf.org/)  
     **比赛名称** : [Thryve CTF 2026](https://ctf.thryvectf.org/)  
@@ -44,6 +53,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
     **添加日历** : https://ctftime.org/event/3343.ics  
+    
+??? Quote "[Trace Athena OSINT CTF](https://trace.athena-ctf.com/)"  
+    [![](https://ctftime.org/media/events/logo_19.jpg){ width="200" align=left }](https://trace.athena-ctf.com/)  
+    **比赛名称** : [Trace Athena OSINT CTF](https://trace.athena-ctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-15 11:30:00 - 2026-08-16 02:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Athena-CTF (https://ctftime.org/team/438608)  
+    **添加日历** : https://ctftime.org/event/3391.ics  
     
 ??? Quote "[0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)"  
     [![](){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
@@ -243,6 +261,15 @@ comments: true
     **赛事主办** : WatchList CTF (https://ctftime.org/team/436923)  
     **添加日历** : https://ctftime.org/event/3326.ics  
     
+??? Quote "[OmniCTF 2026 Finals](https://omnictf.com/)"  
+    [![](https://ctftime.org/media/events/Untitled_5.png){ width="200" align=left }](https://omnictf.com/)  
+    **比赛名称** : [OmniCTF 2026 Finals](https://omnictf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-19 14:00:00 - 2026-09-20 00:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
+    **添加日历** : https://ctftime.org/event/3401.ics  
+    
 ??? Quote "[07CTF 2026](https://ctf.0bscuri7y.in/)"  
     [![](https://ctftime.org/media/events/logo_112_1.png){ width="200" align=left }](https://ctf.0bscuri7y.in/)  
     **比赛名称** : [07CTF 2026](https://ctf.0bscuri7y.in/)  
@@ -287,6 +314,15 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
     **添加日历** : https://ctftime.org/event/3020.ics  
+    
+??? Quote "[Hacker's Gambit 2026 (Round 1 – Online Qualifier)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
+    [![](https://ctftime.org/media/events/tanmay.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
+    **比赛名称** : [Hacker's Gambit 2026 (Round 1 – Online Qualifier)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-02 14:30:00 - 2026-10-04 14:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
+    **添加日历** : https://ctftime.org/event/3380.ics  
     
 ??? Quote "[Securinets CTF Quals 2026](https://quals.securinets.tn/)"  
     [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://quals.securinets.tn/)  
@@ -359,6 +395,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
     **添加日历** : https://ctftime.org/event/3094.ics  
+    
+??? Quote "[Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
+    [![](https://ctftime.org/media/events/tanmay_2.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
+    **比赛名称** : [Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-30 14:30:00 - 2026-10-31 14:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
+    **添加日历** : https://ctftime.org/event/3381.ics  
     
 ??? Quote "[PINK+ CTF 2026](https://ctf.pink.bayern/)"  
     [![](){ width="200" align=left }](https://ctf.pink.bayern/)  
