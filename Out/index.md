@@ -406,6 +406,15 @@
                 **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
                 **添加日历** : https://ctftime.org/event/3094.ics  
                 
+            ??? Quote "[Sudocrypt v16.0](https://sudocrypt.com/)"  
+                [![](){ width="200" align=left }](https://sudocrypt.com/)  
+                **比赛名称** : [Sudocrypt v16.0](https://sudocrypt.com/)  
+                **比赛形式** : Hack quest  
+                **比赛时间** : 2026-10-27 11:30:00 - 2026-10-28 23:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : exunclan (https://ctftime.org/team/83987)  
+                **添加日历** : https://ctftime.org/event/3404.ics  
+                
             ??? Quote "[Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
                 [![](https://ctftime.org/media/events/tanmay_2.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
                 **比赛名称** : [Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  

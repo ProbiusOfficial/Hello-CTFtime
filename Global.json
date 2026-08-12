@@ -528,6 +528,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "Sudocrypt v16.0",
+        "比赛时间": "2026-10-27 11:30:00 - 2026-10-28 23:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3404.ics",
+        "比赛形式": "Hack quest",
+        "比赛链接": "https://sudocrypt.com/",
+        "比赛标志": "",
+        "比赛权重": "0",
+        "赛事主办": "exunclan (https://ctftime.org/team/83987)",
+        "比赛ID": "869",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "Hacker's Gambit 2026 (Round 2 – Grand Finale)",
         "比赛时间": "2026-10-30 14:30:00 - 2026-10-31 14:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3381.ics",
