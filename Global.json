@@ -144,6 +144,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "E0F CTF",
+        "比赛时间": "2026-08-22 15:00:00 - 2026-08-23 15:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3400.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.e0f.team/",
+        "比赛标志": "https://ctftime.org/media/events/eofctff.png",
+        "比赛权重": "0.00",
+        "赛事主办": "Group 0x1A (https://ctftime.org/team/418959)",
+        "比赛ID": "1478",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "TallDwarf Hosting: Hosting Takeover",
         "比赛时间": "2026-08-22 16:00:00 - 2026-08-24 04:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3394.ics",
