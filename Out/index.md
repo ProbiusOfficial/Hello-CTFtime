@@ -280,6 +280,15 @@
                 **赛事主办** : 0bscuri7y (https://ctftime.org/team/370140)  
                 **添加日历** : https://ctftime.org/event/3365.ics  
                 
+            ??? Quote "[BCS CTF 2026](https://ctf.bcsictfest.com/)"  
+                [![](https://ctftime.org/media/events/logo_134.png){ width="200" align=left }](https://ctf.bcsictfest.com/)  
+                **比赛名称** : [BCS CTF 2026](https://ctf.bcsictfest.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-09-25 22:00:00 - 2026-09-27 22:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : bdhxgrp (https://ctftime.org/team/193805)  
+                **添加日历** : https://ctftime.org/event/3374.ics  
+                
             ??? Quote "[H7CTF 2026 Quals](https://2026.h7tex.com/)"  
                 [![](https://ctftime.org/media/events/IMG-20251015-WA0045.jpg){ width="200" align=left }](https://2026.h7tex.com/)  
                 **比赛名称** : [H7CTF 2026 Quals](https://2026.h7tex.com/)  
