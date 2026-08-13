@@ -669,7 +669,7 @@
         "比赛权重": "0",
         "赛事主办": "Mont5ab El2hwa (https://ctftime.org/team/402823)",
         "比赛ID": "1637",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "The heart of Sysola",
@@ -1857,18 +1857,6 @@
         "比赛权重": "24.16",
         "赛事主办": "TheRomanXpl0it (https://ctftime.org/team/46516)",
         "比赛ID": "1238",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "CyberNSK-Finals",
-        "比赛时间": "2026-04-19 20:00:00 - 2026-04-26 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3213.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "https://cybernsk.ru/",
-        "比赛标志": "https://ctftime.org/media/events/photo_2024-09-18_12-55-46_1.jpg",
-        "比赛权重": "0",
-        "赛事主办": "siberiansecurityleague (https://ctftime.org/team/425775)",
-        "比赛ID": "1525",
         "比赛状态": "past"
     }
 ]

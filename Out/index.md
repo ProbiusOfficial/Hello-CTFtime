@@ -509,6 +509,15 @@
         === "国内赛事"
     
         === "国外赛事"
+    
+    === "*已经结束*"
+        === "国内赛事"
+            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
+                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
+                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
+                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
+                
+        === "国外赛事"
             ??? Quote "[EYCC CTF 2026 Finals](https://eycc.stemeghackclub.org/)"  
                 [![](https://ctftime.org/media/events/33.png){ width="200" align=left }](https://eycc.stemeghackclub.org/)  
                 **比赛名称** : [EYCC CTF 2026 Finals](https://eycc.stemeghackclub.org/)  
@@ -518,14 +527,6 @@
                 **赛事主办** : Mont5ab El2hwa (https://ctftime.org/team/402823)  
                 **添加日历** : https://ctftime.org/event/3405.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
-                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
-                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
-                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
-                
-        === "国外赛事"
             ??? Quote "[The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)"  
                 [![](https://ctftime.org/media/events/photo_2026-07-23_13-34-47.jpg){ width="200" align=left }](https://caplag.ru/competitions/the-heart-of-sysola)  
                 **比赛名称** : [The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)  
@@ -1416,13 +1417,4 @@
                 **比赛权重** : 24.16  
                 **赛事主办** : TheRomanXpl0it (https://ctftime.org/team/46516)  
                 **添加日历** : https://ctftime.org/event/3141.ics  
-                
-            ??? Quote "[CyberNSK-Finals](https://cybernsk.ru/)"  
-                [![](https://ctftime.org/media/events/photo_2024-09-18_12-55-46_1.jpg){ width="200" align=left }](https://cybernsk.ru/)  
-                **比赛名称** : [CyberNSK-Finals](https://cybernsk.ru/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2026-04-19 20:00:00 - 2026-04-26 20:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
-                **添加日历** : https://ctftime.org/event/3213.ics  
                 
