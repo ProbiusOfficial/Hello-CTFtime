@@ -482,15 +482,6 @@
                 **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
                 **添加日历** : https://ctftime.org/event/3343.ics  
                 
-            ??? Quote "[Trace Athena OSINT CTF](https://trace.athena-ctf.com/)"  
-                [![](https://ctftime.org/media/events/logo_19.jpg){ width="200" align=left }](https://trace.athena-ctf.com/)  
-                **比赛名称** : [Trace Athena OSINT CTF](https://trace.athena-ctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-15 11:30:00 - 2026-08-16 02:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Athena-CTF (https://ctftime.org/team/438608)  
-                **添加日历** : https://ctftime.org/event/3391.ics  
-                
             ??? Quote "[0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)"  
                 [![](){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
                 **比赛名称** : [0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)  
@@ -508,6 +499,15 @@
                 **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
                 
         === "国外赛事"
+            ??? Quote "[Trace Athena OSINT CTF](https://trace.athena-ctf.com/)"  
+                [![](https://ctftime.org/media/events/logo_19.jpg){ width="200" align=left }](https://trace.athena-ctf.com/)  
+                **比赛名称** : [Trace Athena OSINT CTF](https://trace.athena-ctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-08-15 11:30:00 - 2026-08-16 02:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Athena-CTF (https://ctftime.org/team/438608)  
+                **添加日历** : https://ctftime.org/event/3391.ics  
+                
             ??? Quote "[Thryve CTF 2026](https://ctf.thryvectf.org/)"  
                 [![](https://ctftime.org/media/events/thryvelogo_4.jpeg){ width="200" align=left }](https://ctf.thryvectf.org/)  
                 **比赛名称** : [Thryve CTF 2026](https://ctf.thryvectf.org/)  
@@ -1398,13 +1398,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
                 **添加日历** : https://ctftime.org/event/3199.ics  
-                
-            ??? Quote "[UMDCTF 2026](https://umdctf.io/)"  
-                [![](https://ctftime.org/media/events/logo-2026-cropped.png){ width="200" align=left }](https://umdctf.io/)  
-                **比赛名称** : [UMDCTF 2026](https://umdctf.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-04-25 06:00:00 - 2026-04-27 06:00:00 UTC+8  
-                **比赛权重** : 85.48  
-                **赛事主办** : UMDCSEC (https://ctftime.org/team/87711)  
-                **添加日历** : https://ctftime.org/event/3056.ics  
                 
