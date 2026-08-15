@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)"  
-    [![](){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
-    **比赛名称** : [0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-15 15:30:00 - 2026-08-16 15:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : OxV01D (https://ctftime.org/team/427687)  
-    **添加日历** : https://ctftime.org/event/3387.ics  
-    
 ??? Quote "[CTFZone 2026](https://board.ctfz.zone/)"  
     [![](https://ctftime.org/media/events/logo_ctf.png){ width="200" align=left }](https://board.ctfz.zone/)  
     **比赛名称** : [CTFZone 2026](https://board.ctfz.zone/)  
