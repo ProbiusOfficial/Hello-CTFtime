@@ -558,7 +558,7 @@
                 **比赛名称** : [DEF CON CTF 2026](https://bbbirds.org/)  
                 **比赛形式** : Attack-Defense  
                 **比赛时间** : 2026-08-08 00:00:00 - 2026-08-10 03:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 0.00  
                 **赛事主办** : Benevolent Bureau of Birds (https://ctftime.org/team/425757)  
                 **添加日历** : https://ctftime.org/event/3322.ics  
                 
