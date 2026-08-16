@@ -30,6 +30,15 @@ comments: true
     **赛事主办** : Athena-CTF (https://ctftime.org/team/438608)  
     **添加日历** : https://ctftime.org/event/3391.ics  
     
+??? Quote "[THJCC CTF 2026 summer](https://ctf2026-sum.thjcc.org/)"  
+    [![](){ width="200" align=left }](https://ctf2026-sum.thjcc.org/)  
+    **比赛名称** : [THJCC CTF 2026 summer](https://ctf2026-sum.thjcc.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-15 08:00:01 - 2026-08-16 20:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
+    **添加日历** : https://ctftime.org/event/3343.ics  
+    
 ??? Quote "[Thryve CTF 2026](https://ctf.thryvectf.org/)"  
     [![](https://ctftime.org/media/events/thryvelogo_4.jpeg){ width="200" align=left }](https://ctf.thryvectf.org/)  
     **比赛名称** : [Thryve CTF 2026](https://ctf.thryvectf.org/)  
@@ -902,13 +911,4 @@ comments: true
     **比赛权重** : 24.53  
     **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
     **添加日历** : https://ctftime.org/event/3192.ics  
-    
-??? Quote "[Alfa CTF 2026](https://alfactf.ru/)"  
-    [![](https://ctftime.org/media/events/IMG_0149.jpeg){ width="200" align=left }](https://alfactf.ru/)  
-    **比赛名称** : [Alfa CTF 2026](https://alfactf.ru/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-25 14:00:00 - 2026-04-26 02:00:00 UTC+8  
-    **比赛权重** : 21.67  
-    **赛事主办** : SPbCTF (https://ctftime.org/team/30003)  
-    **添加日历** : https://ctftime.org/event/3250.ics  
     
