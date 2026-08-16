@@ -12,6 +12,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)"  
+    [![](){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
+    **比赛名称** : [0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-15 15:30:00 - 2026-08-16 15:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : OxV01D (https://ctftime.org/team/427687)  
+    **添加日历** : https://ctftime.org/event/3387.ics  
+    
 ??? Quote "[Trace Athena OSINT CTF](https://trace.athena-ctf.com/)"  
     [![](https://ctftime.org/media/events/logo_19.jpg){ width="200" align=left }](https://trace.athena-ctf.com/)  
     **比赛名称** : [Trace Athena OSINT CTF](https://trace.athena-ctf.com/)  
@@ -902,13 +911,4 @@ comments: true
     **比赛权重** : 21.67  
     **赛事主办** : SPbCTF (https://ctftime.org/team/30003)  
     **添加日历** : https://ctftime.org/event/3250.ics  
-    
-??? Quote "[HACKTHEON SEJONG 2026 Qualifier](https://hacktheon.org/)"  
-    [![](https://ctftime.org/media/events/2026_HACKTHEON_SEJONG.png){ width="200" align=left }](https://hacktheon.org/)  
-    **比赛名称** : [HACKTHEON SEJONG 2026 Qualifier](https://hacktheon.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-25 09:00:00 - 2026-04-25 16:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
-    **添加日历** : https://ctftime.org/event/3199.ics  
     

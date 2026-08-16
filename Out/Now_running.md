@@ -36,12 +36,3 @@ comments: true
     **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
     **添加日历** : https://ctftime.org/event/3343.ics  
     
-??? Quote "[0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)"  
-    [![](){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
-    **比赛名称** : [0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-15 15:30:00 - 2026-08-16 15:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : OxV01D (https://ctftime.org/team/427687)  
-    **添加日历** : https://ctftime.org/event/3387.ics  
-    
