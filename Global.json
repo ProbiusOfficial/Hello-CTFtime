@@ -678,7 +678,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://caplag.ru/competitions/the-heart-of-sysola",
         "比赛标志": "https://ctftime.org/media/events/photo_2026-07-23_13-34-47.jpg",
-        "比赛权重": "0",
+        "比赛权重": "0.00",
         "赛事主办": "Caplag (https://ctftime.org/team/423152)",
         "比赛ID": "1652",
         "比赛状态": "past"
