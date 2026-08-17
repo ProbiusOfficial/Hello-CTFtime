@@ -18,12 +18,3 @@ comments: true
     **赛事主办** : gaslighting (https://ctftime.org/team/299906)  
     **添加日历** : https://ctftime.org/event/3181.ics  
     
-??? Quote "[HackHowl 2026](https://hackhowl.com/)"  
-    [![](https://ctftime.org/media/events/logo_129.png){ width="200" align=left }](https://hackhowl.com/)  
-    **比赛名称** : [HackHowl 2026](https://hackhowl.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-15 08:00:00 - 2026-08-17 13:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Hack Howl (https://ctftime.org/team/436949)  
-    **添加日历** : https://ctftime.org/event/3318.ics  
-    
