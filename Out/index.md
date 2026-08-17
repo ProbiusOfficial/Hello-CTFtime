@@ -455,15 +455,7 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[gaslightCTF 2026](https://gaslightctf.cooking/)"  
-                [![](https://ctftime.org/media/events/icon_9.png){ width="200" align=left }](https://gaslightctf.cooking/)  
-                **比赛名称** : [gaslightCTF 2026](https://gaslightctf.cooking/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-14 20:00:00 - 2026-08-17 20:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : gaslighting (https://ctftime.org/team/299906)  
-                **添加日历** : https://ctftime.org/event/3181.ics  
-                
+    
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
@@ -507,6 +499,15 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : Hack Howl (https://ctftime.org/team/436949)  
                 **添加日历** : https://ctftime.org/event/3318.ics  
+                
+            ??? Quote "[gaslightCTF 2026](https://gaslightctf.cooking/)"  
+                [![](https://ctftime.org/media/events/icon_9.png){ width="200" align=left }](https://gaslightctf.cooking/)  
+                **比赛名称** : [gaslightCTF 2026](https://gaslightctf.cooking/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-08-14 20:00:00 - 2026-08-17 20:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : gaslighting (https://ctftime.org/team/299906)  
+                **添加日历** : https://ctftime.org/event/3181.ics  
                 
             ??? Quote "[Thryve CTF 2026](https://ctf.thryvectf.org/)"  
                 [![](https://ctftime.org/media/events/thryvelogo_4.jpeg){ width="200" align=left }](https://ctf.thryvectf.org/)  
@@ -1362,13 +1363,4 @@
                 **比赛权重** : 24.83  
                 **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
                 **添加日历** : https://ctftime.org/event/3177.ics  
-                
-            ??? Quote "[MCTF 5.0](https://mctf.microclub.info/)"  
-                [![](https://ctftime.org/media/events/logo_3d_version_2.png){ width="200" align=left }](https://mctf.microclub.info/)  
-                **比赛名称** : [MCTF 5.0](https://mctf.microclub.info/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-01 03:00:00 - 2026-05-02 15:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Micro Club (https://ctftime.org/team/425393)  
-                **添加日历** : https://ctftime.org/event/3168.ics  
                 
