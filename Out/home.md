@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[CTFZone 2026](https://board.ctfz.zone/)"  
-            [![](https://ctftime.org/media/events/logo_ctf.png){ width="200" align=left }](https://board.ctfz.zone/)  
-            **比赛名称** : [CTFZone 2026](https://board.ctfz.zone/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-19 16:00:00 - 2026-08-20 00:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : BIZone (https://ctftime.org/team/32190)  
-            **添加日历** : https://ctftime.org/event/3402.ics  
-            
         ??? Quote "[BrunnerCTF 2026](https://ctf.brunnerne.dk/)"  
             [![](https://ctftime.org/media/events/Logo_-_2-7.png){ width="200" align=left }](https://ctf.brunnerne.dk/)  
             **比赛名称** : [BrunnerCTF 2026](https://ctf.brunnerne.dk/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
             **添加日历** : https://ctftime.org/event/3370.ics  
+            
+        ??? Quote "[Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)"  
+            [![](https://ctftime.org/media/events/haruul_zangi_logo_updated_2.png){ width="200" align=left }](https://2026.haruulzangi.mn/)  
+            **比赛名称** : [Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-08-22 09:00:00 - 2026-08-23 09:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
+            **添加日历** : https://ctftime.org/event/3379.ics  
             
