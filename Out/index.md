@@ -500,6 +500,15 @@
         === "国内赛事"
     
         === "国外赛事"
+    
+    === "*已经结束*"
+        === "国内赛事"
+            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
+                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
+                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
+                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
+                
+        === "国外赛事"
             ??? Quote "[CTFZone 2026](https://board.ctfz.zone/)"  
                 [![](https://ctftime.org/media/events/logo_ctf.png){ width="200" align=left }](https://board.ctfz.zone/)  
                 **比赛名称** : [CTFZone 2026](https://board.ctfz.zone/)  
@@ -509,14 +518,6 @@
                 **赛事主办** : BIZone (https://ctftime.org/team/32190)  
                 **添加日历** : https://ctftime.org/event/3402.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
-                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
-                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
-                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
-                
-        === "国外赛事"
             ??? Quote "[0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)"  
                 [![](){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
                 **比赛名称** : [0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)  
@@ -1407,13 +1408,4 @@
                 **比赛权重** : 54.00  
                 **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
                 **添加日历** : https://ctftime.org/event/3295.ics  
-                
-            ??? Quote "[KubSTU CTF](https://kubstu-ctf.ru/)"  
-                [![](https://ctftime.org/media/events/ctf_flag_tut.jpg){ width="200" align=left }](https://kubstu-ctf.ru/)  
-                **比赛名称** : [KubSTU CTF](https://kubstu-ctf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-01 15:00:00 - 2026-05-03 03:00:00 UTC+8  
-                **比赛权重** : 24.83  
-                **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
-                **添加日历** : https://ctftime.org/event/3177.ics  
                 
