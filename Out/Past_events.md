@@ -71,7 +71,7 @@ comments: true
     **比赛名称** : [Thryve CTF 2026](https://ctf.thryvectf.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-08-14 19:00:00 - 2026-08-15 04:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 24.48  
     **赛事主办** : Thryve (https://ctftime.org/team/419961)  
     **添加日历** : https://ctftime.org/event/3330.ics  
     
