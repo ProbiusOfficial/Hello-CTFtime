@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "z0d1ak CTF Qualifiers",
-        "比赛时间": "2026-08-22 00:00:00 - 2026-08-23 12:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3370.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.z0d1ak.org/",
-        "比赛标志": "https://ctftime.org/media/events/Zodiak_CTF_Logo.png",
-        "比赛权重": "0.00",
-        "赛事主办": "z0d1ak (https://ctftime.org/team/373452)",
-        "比赛ID": "1648",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Haruulzangi CTF 2026 Qualifier",
         "比赛时间": "2026-08-22 09:00:00 - 2026-08-23 09:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3379.ics",
@@ -645,6 +633,18 @@
         "比赛权重": "33.89",
         "赛事主办": "PwnSec (https://ctftime.org/team/28797)",
         "比赛ID": "1150",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "z0d1ak CTF Qualifiers",
+        "比赛时间": "2026-08-22 00:00:00 - 2026-08-23 12:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3370.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.z0d1ak.org/",
+        "比赛标志": "https://ctftime.org/media/events/Zodiak_CTF_Logo.png",
+        "比赛权重": "0",
+        "赛事主办": "z0d1ak (https://ctftime.org/team/373452)",
+        "比赛ID": "1648",
         "比赛状态": "nowrunning"
     },
     {
