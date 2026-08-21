@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[PwnSec CTF 2026 [postponed]](https://ctf.pwnsec.team/)"  
-            [![](https://ctftime.org/media/events/pwnsec_square_gradient_512.png){ width="200" align=left }](https://ctf.pwnsec.team/)  
-            **比赛名称** : [PwnSec CTF 2026 [postponed]](https://ctf.pwnsec.team/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-21 22:00:00 - 2026-08-22 22:00:00 UTC+8  
-            **比赛权重** : 33.89  
-            **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
-            **添加日历** : https://ctftime.org/event/3159.ics  
-            
         ??? Quote "[z0d1ak CTF Qualifiers](https://ctf.z0d1ak.org/)"  
             [![](https://ctftime.org/media/events/Zodiak_CTF_Logo.png){ width="200" align=left }](https://ctf.z0d1ak.org/)  
             **比赛名称** : [z0d1ak CTF Qualifiers](https://ctf.z0d1ak.org/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : Ex0rcists (https://ctftime.org/team/311156)  
             **添加日历** : https://ctftime.org/event/3397.ics  
+            
+        ??? Quote "[E0F CTF](https://ctf.e0f.team/)"  
+            [![](https://ctftime.org/media/events/eofctff.png){ width="200" align=left }](https://ctf.e0f.team/)  
+            **比赛名称** : [E0F CTF](https://ctf.e0f.team/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-08-22 15:00:00 - 2026-08-23 15:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Group 0x1A (https://ctftime.org/team/418959)  
+            **添加日历** : https://ctftime.org/event/3400.ics  
             
