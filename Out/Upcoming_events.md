@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[$N1PH€RS 3.0 CTF](https://ctf.ex0rcists.in/)"  
-    [![](https://ctftime.org/media/events/Ex0rcists_logo.jpg){ width="200" align=left }](https://ctf.ex0rcists.in/)  
-    **比赛名称** : [$N1PH€RS 3.0 CTF](https://ctf.ex0rcists.in/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-22 11:15:00 - 2026-08-22 19:15:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Ex0rcists (https://ctftime.org/team/311156)  
-    **添加日历** : https://ctftime.org/event/3397.ics  
-    
 ??? Quote "[E0F CTF](https://ctf.e0f.team/)"  
     [![](https://ctftime.org/media/events/eofctff.png){ width="200" align=left }](https://ctf.e0f.team/)  
     **比赛名称** : [E0F CTF](https://ctf.e0f.team/)  

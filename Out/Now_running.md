@@ -45,3 +45,12 @@ comments: true
     **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
     **添加日历** : https://ctftime.org/event/3379.ics  
     
+??? Quote "[$N1PH€RS 3.0 CTF](https://stjctf2026.tamilctf.com/)"  
+    [![](https://ctftime.org/media/events/Ex0rcists_logo.jpg){ width="200" align=left }](https://stjctf2026.tamilctf.com/)  
+    **比赛名称** : [$N1PH€RS 3.0 CTF](https://stjctf2026.tamilctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-22 11:15:00 - 2026-08-22 19:15:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Ex0rcists (https://ctftime.org/team/311156)  
+    **添加日历** : https://ctftime.org/event/3397.ics  
+    
