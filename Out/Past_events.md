@@ -12,6 +12,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[$N1PH€RS 3.0 CTF](https://stjctf2026.tamilctf.com/)"  
+    [![](https://ctftime.org/media/events/Ex0rcists_logo.jpg){ width="200" align=left }](https://stjctf2026.tamilctf.com/)  
+    **比赛名称** : [$N1PH€RS 3.0 CTF](https://stjctf2026.tamilctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-22 11:15:00 - 2026-08-22 19:15:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Ex0rcists (https://ctftime.org/team/311156)  
+    **添加日历** : https://ctftime.org/event/3397.ics  
+    
 ??? Quote "[CTFZone 2026](https://board.ctfz.zone/)"  
     [![](https://ctftime.org/media/events/logo_ctf.png){ width="200" align=left }](https://board.ctfz.zone/)  
     **比赛名称** : [CTFZone 2026](https://board.ctfz.zone/)  
@@ -902,13 +911,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
     **添加日历** : https://ctftime.org/event/3244.ics  
-    
-??? Quote "[LakeCTF Finals 25-26](https://ctfnew.polygl0ts.ch/)"  
-    [![](https://ctftime.org/media/events/lake-logo-ctftime.png){ width="200" align=left }](https://ctfnew.polygl0ts.ch/)  
-    **比赛名称** : [LakeCTF Finals 25-26](https://ctfnew.polygl0ts.ch/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-01 15:00:00 - 2026-05-01 23:00:00 UTC+8  
-    **比赛权重** : 54.00  
-    **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
-    **添加日历** : https://ctftime.org/event/3295.ics  
     
