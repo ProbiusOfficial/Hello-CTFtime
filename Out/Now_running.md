@@ -36,3 +36,12 @@ comments: true
     **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
     **添加日历** : https://ctftime.org/event/3370.ics  
     
+??? Quote "[Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)"  
+    [![](https://ctftime.org/media/events/haruul_zangi_logo_updated_2.png){ width="200" align=left }](https://2026.haruulzangi.mn/)  
+    **比赛名称** : [Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-22 09:00:00 - 2026-08-23 09:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
+    **添加日历** : https://ctftime.org/event/3379.ics  
+    
