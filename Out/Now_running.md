@@ -54,3 +54,12 @@ comments: true
     **赛事主办** : Ex0rcists (https://ctftime.org/team/311156)  
     **添加日历** : https://ctftime.org/event/3397.ics  
     
+??? Quote "[E0F CTF](https://ctf.e0f.team/)"  
+    [![](https://ctftime.org/media/events/eofctff.png){ width="200" align=left }](https://ctf.e0f.team/)  
+    **比赛名称** : [E0F CTF](https://ctf.e0f.team/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-22 15:00:00 - 2026-08-23 15:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Group 0x1A (https://ctftime.org/team/418959)  
+    **添加日历** : https://ctftime.org/event/3400.ics  
+    
