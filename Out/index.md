@@ -446,15 +446,7 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[TallDwarf Hosting: Hosting Takeover](https://ctf.talldwarfhosting.com/)"  
-                [![](https://ctftime.org/media/events/logo_135.png){ width="200" align=left }](https://ctf.talldwarfhosting.com/)  
-                **比赛名称** : [TallDwarf Hosting: Hosting Takeover](https://ctf.talldwarfhosting.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-22 16:00:00 - 2026-08-24 04:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : TallDwarf Hosting (https://ctftime.org/team/443103)  
-                **添加日历** : https://ctftime.org/event/3394.ics  
-                
+    
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
@@ -471,6 +463,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : PECAN+ (https://ctftime.org/team/250009)  
                 **添加日历** : https://ctftime.org/event/3411.ics  
+                
+            ??? Quote "[TallDwarf Hosting: Hosting Takeover](https://ctf.talldwarfhosting.com/)"  
+                [![](https://ctftime.org/media/events/logo_135.png){ width="200" align=left }](https://ctf.talldwarfhosting.com/)  
+                **比赛名称** : [TallDwarf Hosting: Hosting Takeover](https://ctf.talldwarfhosting.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-08-22 16:00:00 - 2026-08-24 04:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : TallDwarf Hosting (https://ctftime.org/team/443103)  
+                **添加日历** : https://ctftime.org/event/3394.ics  
                 
             ??? Quote "[E0F CTF](https://ctf.e0f.team/)"  
                 [![](https://ctftime.org/media/events/eofctff.png){ width="200" align=left }](https://ctf.e0f.team/)  
@@ -1353,13 +1354,4 @@
                 **比赛权重** : 20.14  
                 **赛事主办** : fibonhack (https://ctftime.org/team/117538)  
                 **添加日历** : https://ctftime.org/event/3111.ics  
-                
-            ??? Quote "[BKISC CTF 2026](https://ctf.bkisc.com/)"  
-                [![](https://ctftime.org/media/events/logo_1_1.jpg){ width="200" align=left }](https://ctf.bkisc.com/)  
-                **比赛名称** : [BKISC CTF 2026](https://ctf.bkisc.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-09 09:00:00 - 2026-05-10 09:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : BKISC (https://ctftime.org/team/199510)  
-                **添加日历** : https://ctftime.org/event/2927.ics  
                 
