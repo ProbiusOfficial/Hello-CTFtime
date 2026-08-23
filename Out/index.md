@@ -437,15 +437,6 @@
                 **赛事主办** : Brunnerne (https://ctftime.org/team/155032)  
                 **添加日历** : https://ctftime.org/event/3065.ics  
                 
-            ??? Quote "[z0d1ak CTF Qualifiers](https://ctf.z0d1ak.org/)"  
-                [![](https://ctftime.org/media/events/Zodiak_CTF_Logo.png){ width="200" align=left }](https://ctf.z0d1ak.org/)  
-                **比赛名称** : [z0d1ak CTF Qualifiers](https://ctf.z0d1ak.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-22 00:00:00 - 2026-08-23 12:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
-                **添加日历** : https://ctftime.org/event/3370.ics  
-                
             ??? Quote "[E0F CTF](https://ctf.e0f.team/)"  
                 [![](https://ctftime.org/media/events/eofctff.png){ width="200" align=left }](https://ctf.e0f.team/)  
                 **比赛名称** : [E0F CTF](https://ctf.e0f.team/)  
@@ -498,6 +489,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
                 **添加日历** : https://ctftime.org/event/3379.ics  
+                
+            ??? Quote "[z0d1ak CTF Qualifiers](https://ctf.z0d1ak.org/)"  
+                [![](https://ctftime.org/media/events/Zodiak_CTF_Logo.png){ width="200" align=left }](https://ctf.z0d1ak.org/)  
+                **比赛名称** : [z0d1ak CTF Qualifiers](https://ctf.z0d1ak.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-08-22 00:00:00 - 2026-08-23 12:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
+                **添加日历** : https://ctftime.org/event/3370.ics  
                 
             ??? Quote "[PwnSec CTF 2026 [postponed]](https://ctf.pwnsec.team/)"  
                 [![](https://ctftime.org/media/events/pwnsec_square_gradient_512.png){ width="200" align=left }](https://ctf.pwnsec.team/)  
@@ -1371,13 +1371,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : PH03N1X V1P3R N0V4 CTF (https://ctftime.org/team/395369)  
                 **添加日历** : https://ctftime.org/event/3018.ics  
-                
-            ??? Quote "[THCon 2K26 CTF](https://thcon.party/)"  
-                [![](https://ctftime.org/media/events/logo_123.png){ width="200" align=left }](https://thcon.party/)  
-                **比赛名称** : [THCon 2K26 CTF](https://thcon.party/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-07 19:00:00 - 2026-05-08 19:00:00 UTC+8  
-                **比赛权重** : 34.67  
-                **赛事主办** : pony7 (https://ctftime.org/team/20769)  
-                **添加日历** : https://ctftime.org/event/3186.ics  
                 
