@@ -54,6 +54,15 @@ comments: true
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/3413.ics  
     
+??? Quote "[DiceCTF 2026 Finals](https://ctf.dicega.ng/)"  
+    [![](https://ctftime.org/media/events/dice.jpg){ width="200" align=left }](https://ctf.dicega.ng/)  
+    **比赛名称** : [DiceCTF 2026 Finals](https://ctf.dicega.ng/)  
+    **比赛形式** : Hack quest  
+    **比赛时间** : 2026-08-30 00:00:00 - 2026-08-31 06:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
+    **添加日历** : https://ctftime.org/event/3416.ics  
+    
 ??? Quote "[NNS CTF 2026](https://nnsc.tf/)"  
     [![](https://ctftime.org/media/events/Logo_D_1.png){ width="200" align=left }](https://nnsc.tf/)  
     **比赛名称** : [NNS CTF 2026](https://nnsc.tf/)  
@@ -215,6 +224,15 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
     **添加日历** : https://ctftime.org/event/3020.ics  
+    
+??? Quote "[SCAN 2026 Final](https://scan.sx/)"  
+    [![](https://ctftime.org/media/events/32x32_icon_1.png){ width="200" align=left }](https://scan.sx/)  
+    **比赛名称** : [SCAN 2026 Final](https://scan.sx/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-28 09:00:00 - 2026-09-28 16:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
+    **添加日历** : https://ctftime.org/event/3417.ics  
     
 ??? Quote "[Hacker's Gambit 2026 (Round 1 – Online Qualifier)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
     [![](https://ctftime.org/media/events/tanmay.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
