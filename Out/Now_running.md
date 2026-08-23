@@ -27,15 +27,6 @@ comments: true
     **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
     **添加日历** : https://ctftime.org/event/3370.ics  
     
-??? Quote "[Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)"  
-    [![](https://ctftime.org/media/events/haruul_zangi_logo_updated_2.png){ width="200" align=left }](https://2026.haruulzangi.mn/)  
-    **比赛名称** : [Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-22 09:00:00 - 2026-08-23 09:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
-    **添加日历** : https://ctftime.org/event/3379.ics  
-    
 ??? Quote "[E0F CTF](https://ctf.e0f.team/)"  
     [![](https://ctftime.org/media/events/eofctff.png){ width="200" align=left }](https://ctf.e0f.team/)  
     **比赛名称** : [E0F CTF](https://ctf.e0f.team/)  
@@ -53,4 +44,13 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : TallDwarf Hosting (https://ctftime.org/team/443103)  
     **添加日历** : https://ctftime.org/event/3394.ics  
+    
+??? Quote "[PECAN+ CTF 2026](https://pecanplus.org/)"  
+    [![](https://ctftime.org/media/events/pecanlogo_1.png){ width="200" align=left }](https://pecanplus.org/)  
+    **比赛名称** : [PECAN+ CTF 2026](https://pecanplus.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-23 09:00:00 - 2026-08-23 13:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : PECAN+ (https://ctftime.org/team/250009)  
+    **添加日历** : https://ctftime.org/event/3411.ics  
     

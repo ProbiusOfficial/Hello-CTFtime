@@ -21,6 +21,15 @@ comments: true
     **赛事主办** : Ex0rcists (https://ctftime.org/team/311156)  
     **添加日历** : https://ctftime.org/event/3397.ics  
     
+??? Quote "[Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)"  
+    [![](https://ctftime.org/media/events/haruul_zangi_logo_updated_2.png){ width="200" align=left }](https://2026.haruulzangi.mn/)  
+    **比赛名称** : [Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-22 09:00:00 - 2026-08-23 09:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
+    **添加日历** : https://ctftime.org/event/3379.ics  
+    
 ??? Quote "[PwnSec CTF 2026 [postponed]](https://ctf.pwnsec.team/)"  
     [![](https://ctftime.org/media/events/pwnsec_square_gradient_512.png){ width="200" align=left }](https://ctf.pwnsec.team/)  
     **比赛名称** : [PwnSec CTF 2026 [postponed]](https://ctf.pwnsec.team/)  
@@ -902,13 +911,4 @@ comments: true
     **比赛权重** : 34.67  
     **赛事主办** : pony7 (https://ctftime.org/team/20769)  
     **添加日历** : https://ctftime.org/event/3186.ics  
-    
-??? Quote "[RAZER CTF 2026](http://ctf.droidecks.sbs/)"  
-    [![](https://ctftime.org/media/events/logo_125.png){ width="200" align=left }](http://ctf.droidecks.sbs/)  
-    **比赛名称** : [RAZER CTF 2026](http://ctf.droidecks.sbs/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-05 14:30:00 - 2026-05-06 14:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Droidex (https://ctftime.org/team/430693)  
-    **添加日历** : https://ctftime.org/event/3241.ics  
     

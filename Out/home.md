@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[PECAN+ CTF 2026](https://pecanplus.org/)"  
-            [![](https://ctftime.org/media/events/pecanlogo_1.png){ width="200" align=left }](https://pecanplus.org/)  
-            **比赛名称** : [PECAN+ CTF 2026](https://pecanplus.org/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-23 09:00:00 - 2026-08-23 13:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : PECAN+ (https://ctftime.org/team/250009)  
-            **添加日历** : https://ctftime.org/event/3411.ics  
-            
         ??? Quote "[COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)"  
             [![](){ width="200" align=left }](https://mirror-ctf.compfest.id/)  
             **比赛名称** : [COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0  
             **赛事主办** : UND CyberHawks (https://ctftime.org/team/439400)  
             **添加日历** : https://ctftime.org/event/3347.ics  
+            
+        ??? Quote "[ASIS CTF Quals 2026](https://asisctf.com/)"  
+            [![](https://ctftime.org/media/events/asis_logo_1.png){ width="200" align=left }](https://asisctf.com/)  
+            **比赛名称** : [ASIS CTF Quals 2026](https://asisctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-08-29 22:00:00 - 2026-08-30 22:00:00 UTC+8  
+            **比赛权重** : 90.53  
+            **赛事主办** : ASIS (https://ctftime.org/team/4140)  
+            **添加日历** : https://ctftime.org/event/3033.ics  
             

@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[PECAN+ CTF 2026](https://pecanplus.org/)"  
-    [![](https://ctftime.org/media/events/pecanlogo_1.png){ width="200" align=left }](https://pecanplus.org/)  
-    **比赛名称** : [PECAN+ CTF 2026](https://pecanplus.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-23 09:00:00 - 2026-08-23 13:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : PECAN+ (https://ctftime.org/team/250009)  
-    **添加日历** : https://ctftime.org/event/3411.ics  
-    
 ??? Quote "[COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)"  
     [![](){ width="200" align=left }](https://mirror-ctf.compfest.id/)  
     **比赛名称** : [COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)  
