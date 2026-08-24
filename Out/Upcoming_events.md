@@ -342,6 +342,15 @@ comments: true
     **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
     **添加日历** : https://ctftime.org/event/3381.ics  
     
+??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
+    [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  
+    **比赛名称** : [HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-06 18:00:00 - 2026-11-07 18:00:00 UTC+8  
+    **比赛权重** : 10.31  
+    **赛事主办** : HKCERT (https://ctftime.org/team/134746)  
+    **添加日历** : https://ctftime.org/event/3418.ics  
+    
 ??? Quote "[PINK+ CTF 2026](https://ctf.pink.bayern/)"  
     [![](){ width="200" align=left }](https://ctf.pink.bayern/)  
     **比赛名称** : [PINK+ CTF 2026](https://ctf.pink.bayern/)  
@@ -413,6 +422,15 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Seize da Flaq (https://ctftime.org/team/442848)  
     **添加日历** : https://ctftime.org/event/3408.ics  
+    
+??? Quote "[Crate-CTF 2026](https://foi.se/cratectf)"  
+    [![](https://ctftime.org/media/events/CTF_2026.png){ width="200" align=left }](https://foi.se/cratectf)  
+    **比赛名称** : [Crate-CTF 2026](https://foi.se/cratectf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-21 21:00:00 - 2026-11-22 05:00:00 UTC+8  
+    **比赛权重** : 37.00  
+    **赛事主办** : Crate-CTF (https://ctftime.org/team/352250)  
+    **添加日历** : https://ctftime.org/event/3336.ics  
     
 ??? Quote "[BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)"  
     [![](https://ctftime.org/media/events/9f419586e0dedbff0130e6f487ddc54c_1.png){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
