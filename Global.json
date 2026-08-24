@@ -738,7 +738,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://gaslightctf.cooking/",
         "比赛标志": "https://ctftime.org/media/events/icon_9.png",
-        "比赛权重": "0",
+        "比赛权重": "25.00",
         "赛事主办": "gaslighting (https://ctftime.org/team/299906)",
         "比赛ID": "1517",
         "比赛状态": "past"
