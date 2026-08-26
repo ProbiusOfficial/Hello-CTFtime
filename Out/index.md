@@ -244,9 +244,9 @@
                 **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
                 **添加日历** : https://ctftime.org/event/3380.ics  
                 
-            ??? Quote "[Securinets CTF Quals 2026](https://quals.securinets.tn/)"  
-                [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://quals.securinets.tn/)  
-                **比赛名称** : [Securinets CTF Quals 2026](https://quals.securinets.tn/)  
+            ??? Quote "[Securinets CTF Quals 2026](https://ctf.securinets.tn/)"  
+                [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://ctf.securinets.tn/)  
+                **比赛名称** : [Securinets CTF Quals 2026](https://ctf.securinets.tn/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-10-03 17:00:00 - 2026-10-05 05:00:00 UTC+8  
                 **比赛权重** : 85.12  
