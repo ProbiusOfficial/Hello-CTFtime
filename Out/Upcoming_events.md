@@ -91,7 +91,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/3389.ics  
     
 ??? Quote "[K17 CTF 2026](https://k17ctf.secso.cc/)"  
-    [![](https://ctftime.org/media/events/20848837627a0ae11a820f3c9ed4fabc.png){ width="200" align=left }](https://k17ctf.secso.cc/)  
+    [![](https://ctftime.org/media/events/k17_logo_draft_square.png){ width="200" align=left }](https://k17ctf.secso.cc/)  
     **比赛名称** : [K17 CTF 2026](https://k17ctf.secso.cc/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-09-11 18:00:00 - 2026-09-13 18:00:00 UTC+8  
@@ -107,15 +107,6 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
     **添加日历** : https://ctftime.org/event/3360.ics  
-    
-??? Quote "[PatriotCTF 2026](https://pctf.competitivecyber.club/)"  
-    [![](https://ctftime.org/media/events/5d71368cd0e4a92f2fa3d4df8662ae48.jpg){ width="200" align=left }](https://pctf.competitivecyber.club/)  
-    **比赛名称** : [PatriotCTF 2026](https://pctf.competitivecyber.club/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-09-12 06:00:00 - 2026-09-14 06:00:00 UTC+8  
-    **比赛权重** : 35.46  
-    **赛事主办** : Competitive Cyber at Mason (https://ctftime.org/team/176906)  
-    **添加日历** : https://ctftime.org/event/3348.ics  
     
 ??? Quote "[VolgaCTF 2026 Final](https://volgactf.ru/en/volgactf-2026/final/)"  
     [![](https://ctftime.org/media/events/logo-social-yellow_19.png){ width="200" align=left }](https://volgactf.ru/en/volgactf-2026/final/)  
@@ -199,7 +190,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/3093.ics  
     
 ??? Quote "[FAUST CTF 2026](https://2026.faustctf.net/)"  
-    [![](){ width="200" align=left }](https://2026.faustctf.net/)  
+    [![](https://ctftime.org/media/events/faustctf2026.png){ width="200" align=left }](https://2026.faustctf.net/)  
     **比赛名称** : [FAUST CTF 2026](https://2026.faustctf.net/)  
     **比赛形式** : Attack-Defense  
     **比赛时间** : 2026-09-26 20:00:00 - 2026-09-27 05:00:00 UTC+8  
