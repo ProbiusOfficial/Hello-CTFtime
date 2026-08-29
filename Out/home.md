@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[BlackHat MEA CTF Qualification 2026](https://blackhatmea.com/capture-the-flag)"  
-            [![](https://ctftime.org/media/events/9f419586e0dedbff0130e6f487ddc54c.png){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
-            **比赛名称** : [BlackHat MEA CTF Qualification 2026](https://blackhatmea.com/capture-the-flag)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-29 15:00:00 - 2026-08-30 15:00:00 UTC+8  
-            **比赛权重** : 8.10  
-            **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
-            **添加日历** : https://ctftime.org/event/3385.ics  
-            
         ??? Quote "[UND CyberHawks National CTF Competition 2026 Qualifiers](https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444)"  
             [![](https://ctftime.org/media/events/banner_1.jpg){ width="200" align=left }](https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444)  
             **比赛名称** : [UND CyberHawks National CTF Competition 2026 Qualifiers](https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444)  
@@ -36,4 +27,13 @@
             **比赛权重** : 25.00  
             **赛事主办** : ASIS (https://ctftime.org/team/4140)  
             **添加日历** : https://ctftime.org/event/3413.ics  
+            
+        ??? Quote "[DiceCTF 2026 Finals](https://ctf.dicega.ng/)"  
+            [![](https://ctftime.org/media/events/dice.jpg){ width="200" align=left }](https://ctf.dicega.ng/)  
+            **比赛名称** : [DiceCTF 2026 Finals](https://ctf.dicega.ng/)  
+            **比赛形式** : Hack quest  
+            **比赛时间** : 2026-08-30 00:00:00 - 2026-08-31 06:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
+            **添加日历** : https://ctftime.org/event/3416.ics  
             
