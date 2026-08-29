@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[DiceCTF 2026 Finals](https://ctf.dicega.ng/)"  
-            [![](https://ctftime.org/media/events/dice.jpg){ width="200" align=left }](https://ctf.dicega.ng/)  
-            **比赛名称** : [DiceCTF 2026 Finals](https://ctf.dicega.ng/)  
-            **比赛形式** : Hack quest  
-            **比赛时间** : 2026-08-30 00:00:00 - 2026-08-31 06:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
-            **添加日历** : https://ctftime.org/event/3416.ics  
-            
         ??? Quote "[NNS CTF 2026](https://nnsc.tf/)"  
             [![](https://ctftime.org/media/events/Logo_D_1.png){ width="200" align=left }](https://nnsc.tf/)  
             **比赛名称** : [NNS CTF 2026](https://nnsc.tf/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : Sunway Cybersecurity Club (https://ctftime.org/team/441392)  
             **添加日历** : https://ctftime.org/event/3389.ics  
+            
+        ??? Quote "[K17 CTF 2026](https://k17ctf.secso.cc/)"  
+            [![](https://ctftime.org/media/events/k17_logo_draft_square.png){ width="200" align=left }](https://k17ctf.secso.cc/)  
+            **比赛名称** : [K17 CTF 2026](https://k17ctf.secso.cc/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-09-11 18:00:00 - 2026-09-13 18:00:00 UTC+8  
+            **比赛权重** : 24.83  
+            **赛事主办** : K17 (https://ctftime.org/team/17058)  
+            **添加日历** : https://ctftime.org/event/3145.ics  
             

@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[DiceCTF 2026 Finals](https://ctf.dicega.ng/)"  
-                [![](https://ctftime.org/media/events/dice.jpg){ width="200" align=left }](https://ctf.dicega.ng/)  
-                **比赛名称** : [DiceCTF 2026 Finals](https://ctf.dicega.ng/)  
-                **比赛形式** : Hack quest  
-                **比赛时间** : 2026-08-30 00:00:00 - 2026-08-31 06:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
-                **添加日历** : https://ctftime.org/event/3416.ics  
-                
             ??? Quote "[NNS CTF 2026](https://nnsc.tf/)"  
                 [![](https://ctftime.org/media/events/Logo_D_1.png){ width="200" align=left }](https://nnsc.tf/)  
                 **比赛名称** : [NNS CTF 2026](https://nnsc.tf/)  
@@ -463,6 +454,15 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/3413.ics  
+                
+            ??? Quote "[DiceCTF 2026 Finals](https://ctf.dicega.ng/)"  
+                [![](https://ctftime.org/media/events/dice.jpg){ width="200" align=left }](https://ctf.dicega.ng/)  
+                **比赛名称** : [DiceCTF 2026 Finals](https://ctf.dicega.ng/)  
+                **比赛形式** : Hack quest  
+                **比赛时间** : 2026-08-30 00:00:00 - 2026-08-31 06:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
+                **添加日历** : https://ctftime.org/event/3416.ics  
                 
     === "*已经结束*"
         === "国内赛事"
