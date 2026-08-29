@@ -44,7 +44,7 @@ comments: true
     **比赛名称** : [$N1PH€RS 3.0 CTF](https://stjctf2026.tamilctf.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-08-22 11:15:00 - 2026-08-22 19:15:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : Ex0rcists (https://ctftime.org/team/311156)  
     **添加日历** : https://ctftime.org/event/3397.ics  
     
