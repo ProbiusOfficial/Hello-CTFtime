@@ -21,6 +21,24 @@ comments: true
     **赛事主办** : UND CyberHawks (https://ctftime.org/team/439400)  
     **添加日历** : https://ctftime.org/event/3347.ics  
     
+??? Quote "[Iran Tech Olympics CTF 2026](https://ctf.olympics.tech/)"  
+    [![](https://ctftime.org/media/events/irantech.jpg){ width="200" align=left }](https://ctf.olympics.tech/)  
+    **比赛名称** : [Iran Tech Olympics CTF 2026](https://ctf.olympics.tech/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-29 22:00:00 - 2026-08-30 22:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
+    **添加日历** : https://ctftime.org/event/3413.ics  
+    
+??? Quote "[ASIS CTF Quals 2026](https://asisctf.com/)"  
+    [![](https://ctftime.org/media/events/asis_logo_1.png){ width="200" align=left }](https://asisctf.com/)  
+    **比赛名称** : [ASIS CTF Quals 2026](https://asisctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-29 22:00:00 - 2026-08-30 22:00:00 UTC+8  
+    **比赛权重** : 90.53  
+    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
+    **添加日历** : https://ctftime.org/event/3033.ics  
+    
 ??? Quote "[BlackHat MEA CTF Qualification 2026](https://blackhatmea.com/capture-the-flag)"  
     [![](https://ctftime.org/media/events/9f419586e0dedbff0130e6f487ddc54c.png){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
     **比赛名称** : [BlackHat MEA CTF Qualification 2026](https://blackhatmea.com/capture-the-flag)  
@@ -893,22 +911,4 @@ comments: true
     **比赛权重** : 48.17  
     **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
     **添加日历** : https://ctftime.org/event/2773.ics  
-    
-??? Quote "[RAMunchers CTF](https://ctf.ramunchers.com/)"  
-    [![](https://ctftime.org/media/events/ramlogo.png){ width="200" align=left }](https://ctf.ramunchers.com/)  
-    **比赛名称** : [RAMunchers CTF](https://ctf.ramunchers.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-10 16:00:00 - 2026-05-13 23:00:00 UTC+8  
-    **比赛权重** : 23.30  
-    **赛事主办** : R0073R5 (https://ctftime.org/team/147263)  
-    **添加日历** : https://ctftime.org/event/3283.ics  
-    
-??? Quote "[Azure Assassin Alliance CTF 2026](https://actf2026.xctf.org.cn/)"  
-    [![](https://ctftime.org/media/events/ctftime_14.png){ width="200" align=left }](https://actf2026.xctf.org.cn/)  
-    **比赛名称** : [Azure Assassin Alliance CTF 2026](https://actf2026.xctf.org.cn/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-10 09:00:00 - 2026-05-11 09:00:00 UTC+8  
-    **比赛权重** : 45.60  
-    **赛事主办** : Azure Assassin Alliance (https://ctftime.org/team/194222)  
-    **添加日历** : https://ctftime.org/event/3266.ics  
     
