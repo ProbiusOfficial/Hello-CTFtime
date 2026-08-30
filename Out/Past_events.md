@@ -12,6 +12,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[UND CyberHawks National CTF Competition 2026 Qualifiers](https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444)"  
+    [![](https://ctftime.org/media/events/banner_1.jpg){ width="200" align=left }](https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444)  
+    **比赛名称** : [UND CyberHawks National CTF Competition 2026 Qualifiers](https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-29 22:00:00 - 2026-08-30 13:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : UND CyberHawks (https://ctftime.org/team/439400)  
+    **添加日历** : https://ctftime.org/event/3347.ics  
+    
+??? Quote "[BlackHat MEA CTF Qualification 2026](https://blackhatmea.com/capture-the-flag)"  
+    [![](https://ctftime.org/media/events/9f419586e0dedbff0130e6f487ddc54c.png){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
+    **比赛名称** : [BlackHat MEA CTF Qualification 2026](https://blackhatmea.com/capture-the-flag)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-29 15:00:00 - 2026-08-30 15:00:00 UTC+8  
+    **比赛权重** : 8.10  
+    **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
+    **添加日历** : https://ctftime.org/event/3385.ics  
+    
 ??? Quote "[COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)"  
     [![](){ width="200" align=left }](https://mirror-ctf.compfest.id/)  
     **比赛名称** : [COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)  
@@ -44,7 +62,7 @@ comments: true
     **比赛名称** : [E0F CTF](https://ctf.e0f.team/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-08-22 15:00:00 - 2026-08-23 15:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : Group 0x1A (https://ctftime.org/team/418959)  
     **添加日历** : https://ctftime.org/event/3400.ics  
     
@@ -71,7 +89,7 @@ comments: true
     **比赛名称** : [z0d1ak CTF Qualifiers](https://ctf.z0d1ak.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-08-22 00:00:00 - 2026-08-23 12:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
     **添加日历** : https://ctftime.org/event/3370.ics  
     
@@ -893,22 +911,4 @@ comments: true
     **比赛权重** : 45.60  
     **赛事主办** : Azure Assassin Alliance (https://ctftime.org/team/194222)  
     **添加日历** : https://ctftime.org/event/3266.ics  
-    
-??? Quote "[Hack2Dawn 2026](https://events.mlh.io/events/14208-hack2dawn)"  
-    [![](https://ctftime.org/media/events/hack2dawn-logo.jpg){ width="200" align=left }](https://events.mlh.io/events/14208-hack2dawn)  
-    **比赛名称** : [Hack2Dawn 2026](https://events.mlh.io/events/14208-hack2dawn)  
-    **比赛形式** : Hack quest  
-    **比赛时间** : 2026-05-10 03:00:00 - 2026-05-10 10:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : PawnGuard (https://ctftime.org/team/427740)  
-    **添加日历** : https://ctftime.org/event/3256.ics  
-    
-??? Quote "[Maltego Community OSINT CTF](https://maltego.ctfd.io/)"  
-    [![](https://ctftime.org/media/events/Maltego-Logo-Compact-Yellow.png){ width="200" align=left }](https://maltego.ctfd.io/)  
-    **比赛名称** : [Maltego Community OSINT CTF](https://maltego.ctfd.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-09 22:00:00 - 2026-05-09 23:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : Maltego OSINT (https://ctftime.org/team/433400)  
-    **添加日历** : https://ctftime.org/event/3267.ics  
     
