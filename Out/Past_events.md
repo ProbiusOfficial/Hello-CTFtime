@@ -71,7 +71,7 @@ comments: true
     **比赛名称** : [TallDwarf Hosting: Hosting Takeover](https://ctf.talldwarfhosting.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-08-22 16:00:00 - 2026-08-24 04:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : TallDwarf Hosting (https://ctftime.org/team/443103)  
     **添加日历** : https://ctftime.org/event/3394.ics  
     

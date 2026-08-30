@@ -618,7 +618,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.talldwarfhosting.com/",
         "比赛标志": "https://ctftime.org/media/events/logo_135.png",
-        "比赛权重": "0",
+        "比赛权重": "25.00",
         "赛事主办": "TallDwarf Hosting (https://ctftime.org/team/443103)",
         "比赛ID": "1664",
         "比赛状态": "past"
