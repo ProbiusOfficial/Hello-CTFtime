@@ -12,6 +12,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)"  
+    [![](){ width="200" align=left }](https://mirror-ctf.compfest.id/)  
+    **比赛名称** : [COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-29 08:00:00 - 2026-08-30 08:00:00 UTC+8  
+    **比赛权重** : 96.00  
+    **赛事主办** : CSUI (https://ctftime.org/team/70551)  
+    **添加日历** : https://ctftime.org/event/3290.ics  
+    
 ??? Quote "[PECAN+ CTF 2026](https://pecanplus.org/)"  
     [![](https://ctftime.org/media/events/pecanlogo_1.png){ width="200" align=left }](https://pecanplus.org/)  
     **比赛名称** : [PECAN+ CTF 2026](https://pecanplus.org/)  
@@ -53,7 +62,7 @@ comments: true
     **比赛名称** : [Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-08-22 09:00:00 - 2026-08-23 09:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 0.00  
     **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
     **添加日历** : https://ctftime.org/event/3379.ics  
     
@@ -902,13 +911,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : Maltego OSINT (https://ctftime.org/team/433400)  
     **添加日历** : https://ctftime.org/event/3267.ics  
-    
-??? Quote "[From Dusk Till Dawn Quals](https://till-dawn.fibonhack.it/)"  
-    [![](https://ctftime.org/media/events/From_Dusk_Till_Dawn_-_pixel_-_square.jpg){ width="200" align=left }](https://till-dawn.fibonhack.it/)  
-    **比赛名称** : [From Dusk Till Dawn Quals](https://till-dawn.fibonhack.it/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-09 17:00:00 - 2026-05-10 17:00:00 UTC+8  
-    **比赛权重** : 20.14  
-    **赛事主办** : fibonhack (https://ctftime.org/team/117538)  
-    **添加日历** : https://ctftime.org/event/3111.ics  
     
