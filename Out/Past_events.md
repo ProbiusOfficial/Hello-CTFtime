@@ -30,15 +30,6 @@ comments: true
     **赛事主办** : UND CyberHawks (https://ctftime.org/team/439400)  
     **添加日历** : https://ctftime.org/event/3347.ics  
     
-??? Quote "[Iran Tech Olympics CTF 2026](https://ctf.olympics.tech/)"  
-    [![](https://ctftime.org/media/events/irantech.jpg){ width="200" align=left }](https://ctf.olympics.tech/)  
-    **比赛名称** : [Iran Tech Olympics CTF 2026](https://ctf.olympics.tech/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-29 22:00:00 - 2026-08-30 22:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-    **添加日历** : https://ctftime.org/event/3413.ics  
-    
 ??? Quote "[ASIS CTF Quals 2026](https://asisctf.com/)"  
     [![](https://ctftime.org/media/events/asis_logo_1.png){ width="200" align=left }](https://asisctf.com/)  
     **比赛名称** : [ASIS CTF Quals 2026](https://asisctf.com/)  
@@ -911,4 +902,13 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : NorthSec Organizers (https://ctftime.org/team/2492)  
     **添加日历** : https://ctftime.org/event/3258.ics  
+    
+??? Quote "[Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)"  
+    [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo.png){ width="200" align=left }](https://play.midnightsunctf.com/)  
+    **比赛名称** : [Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-10 21:00:00 - 2026-05-11 21:00:00 UTC+8  
+    **比赛权重** : 48.17  
+    **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
+    **添加日历** : https://ctftime.org/event/2773.ics  
     
