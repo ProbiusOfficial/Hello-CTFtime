@@ -111,15 +111,6 @@ comments: true
     **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
     **添加日历** : https://ctftime.org/event/3370.ics  
     
-??? Quote "[PwnSec CTF 2026 [postponed]](https://ctf.pwnsec.team/)"  
-    [![](https://ctftime.org/media/events/pwnsec_square_gradient_512.png){ width="200" align=left }](https://ctf.pwnsec.team/)  
-    **比赛名称** : [PwnSec CTF 2026 [postponed]](https://ctf.pwnsec.team/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-21 22:00:00 - 2026-08-22 22:00:00 UTC+8  
-    **比赛权重** : 33.89  
-    **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
-    **添加日历** : https://ctftime.org/event/3159.ics  
-    
 ??? Quote "[BrunnerCTF 2026](https://ctf.brunnerne.dk/)"  
     [![](https://ctftime.org/media/events/Logo_-_2-7.png){ width="200" align=left }](https://ctf.brunnerne.dk/)  
     **比赛名称** : [BrunnerCTF 2026](https://ctf.brunnerne.dk/)  
@@ -911,4 +902,13 @@ comments: true
     **比赛权重** : 48.17  
     **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
     **添加日历** : https://ctftime.org/event/2773.ics  
+    
+??? Quote "[RAMunchers CTF](https://ctf.ramunchers.com/)"  
+    [![](https://ctftime.org/media/events/ramlogo.png){ width="200" align=left }](https://ctf.ramunchers.com/)  
+    **比赛名称** : [RAMunchers CTF](https://ctf.ramunchers.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-10 16:00:00 - 2026-05-13 23:00:00 UTC+8  
+    **比赛权重** : 23.30  
+    **赛事主办** : R0073R5 (https://ctftime.org/team/147263)  
+    **添加日历** : https://ctftime.org/event/3283.ics  
     
