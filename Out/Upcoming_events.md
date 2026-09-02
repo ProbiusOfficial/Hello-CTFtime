@@ -379,7 +379,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/3408.ics  
     
 ??? Quote "[Crate-CTF 2026](https://foi.se/cratectf)"  
-    [![](https://ctftime.org/media/events/CTF_2026.png){ width="200" align=left }](https://foi.se/cratectf)  
+    [![](https://ctftime.org/media/events/CTF_2026_2.png){ width="200" align=left }](https://foi.se/cratectf)  
     **比赛名称** : [Crate-CTF 2026](https://foi.se/cratectf)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-11-21 21:00:00 - 2026-11-22 05:00:00 UTC+8  
