@@ -208,9 +208,9 @@
                 **赛事主办** : CubeMastery (https://ctftime.org/team/168744)  
                 **添加日历** : https://ctftime.org/event/3352.ics  
                 
-            ??? Quote "[CDCTF 2026](https://uacrimsondefense.github.io/cdctf.html)"  
-                [![](https://ctftime.org/media/events/cdctf_logo_square_1.png){ width="200" align=left }](https://uacrimsondefense.github.io/cdctf.html)  
-                **比赛名称** : [CDCTF 2026](https://uacrimsondefense.github.io/cdctf.html)  
+            ??? Quote "[CDCTF 2026](https://crimsondefense.org/cdctf/)"  
+                [![](https://ctftime.org/media/events/cdctf_logo_square_1.png){ width="200" align=left }](https://crimsondefense.org/cdctf/)  
+                **比赛名称** : [CDCTF 2026](https://crimsondefense.org/cdctf/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-10-03 23:00:00 - 2026-10-04 11:00:00 UTC+8  
                 **比赛权重** : 25.00  
