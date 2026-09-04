@@ -108,6 +108,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "Haruulzangi CTF 2026 Semi-Final",
+        "比赛时间": "2026-09-19 10:00:00 - 2026-09-19 16:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3431.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://2026.haruulzangi.mn/",
+        "比赛标志": "https://ctftime.org/media/events/haruul_zangi_logo_updated_3.png",
+        "比赛权重": "0.00",
+        "赛事主办": "haruulzangi-organizers (https://ctftime.org/team/266812)",
+        "比赛ID": "985",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "WATCHLIST",
         "比赛时间": "2026-09-19 11:30:00 - 2026-09-20 11:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3326.ics",
@@ -117,6 +129,18 @@
         "比赛权重": "0.00",
         "赛事主办": "WatchList CTF (https://ctftime.org/team/436923)",
         "比赛ID": "1614",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "z0d1ak CTF Finals",
+        "比赛时间": "2026-09-19 11:30:00 - 2026-09-19 20:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3428.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.z0d1ak.org/",
+        "比赛标志": "https://ctftime.org/media/events/Zodiak_CTF_Logo_1.png",
+        "比赛权重": "0.00",
+        "赛事主办": "z0d1ak (https://ctftime.org/team/373452)",
+        "比赛ID": "1648",
         "比赛状态": "oncoming"
     },
     {
@@ -141,6 +165,30 @@
         "比赛权重": "23.71",
         "赛事主办": "0bscuri7y (https://ctftime.org/team/370140)",
         "比赛ID": "1360",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "LUN4R CTF Quals",
+        "比赛时间": "2026-09-20 12:30:00 - 2026-09-21 00:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3435.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://lunar.rootriet.in/",
+        "比赛标志": "",
+        "比赛权重": "0.00",
+        "赛事主办": "b33tro0t (https://ctftime.org/team/380826)",
+        "比赛ID": "1685",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "FlightPath2026",
+        "比赛时间": "2026-09-25 21:30:00 - 2026-09-28 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3422.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://setyourvector.org/",
+        "比赛标志": "https://ctftime.org/media/events/logo_136.png",
+        "比赛权重": "0",
+        "赛事主办": "ĀYŌDÈ (https://ctftime.org/team/418961)",
+        "比赛ID": "1632",
         "比赛状态": "oncoming"
     },
     {
