@@ -588,18 +588,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "TFC CTF 2026",
-        "比赛时间": "2026-09-05 18:00:00 - 2026-09-06 18:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3344.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.thefewchosen.com/",
-        "比赛标志": "https://ctftime.org/media/events/discord_logo_big.png",
-        "比赛权重": "77.08",
-        "赛事主办": "The Few Chosen (https://ctftime.org/team/140885)",
-        "比赛ID": "696",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "SUNCTF 2026",
         "比赛时间": "2026-09-06 08:00:00 - 2026-09-06 17:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3389.ics",
@@ -609,7 +597,19 @@
         "比赛权重": "0.00",
         "赛事主办": "Sunway Cybersecurity Club (https://ctftime.org/team/441392)",
         "比赛ID": "1645",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "TFC CTF 2026",
+        "比赛时间": "2026-09-05 18:00:00 - 2026-09-06 18:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3344.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.thefewchosen.com/",
+        "比赛标志": "https://ctftime.org/media/events/discord_logo_big.png",
+        "比赛权重": "77.08",
+        "赛事主办": "The Few Chosen (https://ctftime.org/team/140885)",
+        "比赛ID": "696",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "DiceCTF 2026 Finals",
@@ -1785,30 +1785,6 @@
         "比赛权重": "0.00",
         "赛事主办": "NorthSec Organizers (https://ctftime.org/team/2492)",
         "比赛ID": "38",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Midnight Sun CTF 2026 Quals",
-        "比赛时间": "2026-05-10 21:00:00 - 2026-05-11 21:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2773.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://play.midnightsunctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo.png",
-        "比赛权重": "48.17",
-        "赛事主办": "HackingForSoju (https://ctftime.org/team/3208)",
-        "比赛ID": "246",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "RAMunchers CTF",
-        "比赛时间": "2026-05-10 16:00:00 - 2026-05-13 23:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3283.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.ramunchers.com/",
-        "比赛标志": "https://ctftime.org/media/events/ramlogo.png",
-        "比赛权重": "23.30",
-        "赛事主办": "R0073R5 (https://ctftime.org/team/147263)",
-        "比赛ID": "1589",
         "比赛状态": "past"
     }
 ]

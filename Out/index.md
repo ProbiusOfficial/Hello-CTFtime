@@ -455,15 +455,14 @@
                 **赛事主办** : Norske Nøkkelsnikere (https://ctftime.org/team/222749)  
                 **添加日历** : https://ctftime.org/event/3097.ics  
                 
-            ??? Quote "[TFC CTF 2026](https://ctf.thefewchosen.com/)"  
-                [![](https://ctftime.org/media/events/discord_logo_big.png){ width="200" align=left }](https://ctf.thefewchosen.com/)  
-                **比赛名称** : [TFC CTF 2026](https://ctf.thefewchosen.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-09-05 18:00:00 - 2026-09-06 18:00:00 UTC+8  
-                **比赛权重** : 77.08  
-                **赛事主办** : The Few Chosen (https://ctftime.org/team/140885)  
-                **添加日历** : https://ctftime.org/event/3344.ics  
+    === "*已经结束*"
+        === "国内赛事"
+            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
+                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
+                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
+                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
                 
+        === "国外赛事"
             ??? Quote "[SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)"  
                 [![](https://ctftime.org/media/events/sunctfposter.jpg){ width="200" align=left }](https://www.sunwaycybersecurityclub.org/sunctf)  
                 **比赛名称** : [SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)  
@@ -473,14 +472,15 @@
                 **赛事主办** : Sunway Cybersecurity Club (https://ctftime.org/team/441392)  
                 **添加日历** : https://ctftime.org/event/3389.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
-                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
-                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
-                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
+            ??? Quote "[TFC CTF 2026](https://ctf.thefewchosen.com/)"  
+                [![](https://ctftime.org/media/events/discord_logo_big.png){ width="200" align=left }](https://ctf.thefewchosen.com/)  
+                **比赛名称** : [TFC CTF 2026](https://ctf.thefewchosen.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-09-05 18:00:00 - 2026-09-06 18:00:00 UTC+8  
+                **比赛权重** : 77.08  
+                **赛事主办** : The Few Chosen (https://ctftime.org/team/140885)  
+                **添加日历** : https://ctftime.org/event/3344.ics  
                 
-        === "国外赛事"
             ??? Quote "[DiceCTF 2026 Finals](https://ctf.dicega.ng/)"  
                 [![](https://ctftime.org/media/events/dice.jpg){ width="200" align=left }](https://ctf.dicega.ng/)  
                 **比赛名称** : [DiceCTF 2026 Finals](https://ctf.dicega.ng/)  
@@ -1362,22 +1362,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : NorthSec Organizers (https://ctftime.org/team/2492)  
                 **添加日历** : https://ctftime.org/event/3258.ics  
-                
-            ??? Quote "[Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)"  
-                [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo.png){ width="200" align=left }](https://play.midnightsunctf.com/)  
-                **比赛名称** : [Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-10 21:00:00 - 2026-05-11 21:00:00 UTC+8  
-                **比赛权重** : 48.17  
-                **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
-                **添加日历** : https://ctftime.org/event/2773.ics  
-                
-            ??? Quote "[RAMunchers CTF](https://ctf.ramunchers.com/)"  
-                [![](https://ctftime.org/media/events/ramlogo.png){ width="200" align=left }](https://ctf.ramunchers.com/)  
-                **比赛名称** : [RAMunchers CTF](https://ctf.ramunchers.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-10 16:00:00 - 2026-05-13 23:00:00 UTC+8  
-                **比赛权重** : 23.30  
-                **赛事主办** : R0073R5 (https://ctftime.org/team/147263)  
-                **添加日历** : https://ctftime.org/event/3283.ics  
                 
