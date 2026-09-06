@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)"  
-                [![](https://ctftime.org/media/events/sunctfposter.jpg){ width="200" align=left }](https://www.sunwaycybersecurityclub.org/sunctf)  
-                **比赛名称** : [SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-09-06 08:00:00 - 2026-09-06 17:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Sunway Cybersecurity Club (https://ctftime.org/team/441392)  
-                **添加日历** : https://ctftime.org/event/3389.ics  
-                
             ??? Quote "[K17 CTF 2026](https://k17ctf.secso.cc/)"  
                 [![](https://ctftime.org/media/events/k17_logo_draft_square.png){ width="200" align=left }](https://k17ctf.secso.cc/)  
                 **比赛名称** : [K17 CTF 2026](https://k17ctf.secso.cc/)  
@@ -472,6 +463,15 @@
                 **比赛权重** : 77.08  
                 **赛事主办** : The Few Chosen (https://ctftime.org/team/140885)  
                 **添加日历** : https://ctftime.org/event/3344.ics  
+                
+            ??? Quote "[SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)"  
+                [![](https://ctftime.org/media/events/sunctfposter.jpg){ width="200" align=left }](https://www.sunwaycybersecurityclub.org/sunctf)  
+                **比赛名称** : [SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-09-06 08:00:00 - 2026-09-06 17:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : Sunway Cybersecurity Club (https://ctftime.org/team/441392)  
+                **添加日历** : https://ctftime.org/event/3389.ics  
                 
     === "*已经结束*"
         === "国内赛事"
