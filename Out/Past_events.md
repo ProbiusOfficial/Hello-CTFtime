@@ -75,9 +75,9 @@ comments: true
     **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
     **添加日历** : https://ctftime.org/event/3385.ics  
     
-??? Quote "[COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)"  
+??? Quote "[COMPFEST CTF 2026](https://mirror-ctf.compfest.id/)"  
     [![](){ width="200" align=left }](https://mirror-ctf.compfest.id/)  
-    **比赛名称** : [COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)  
+    **比赛名称** : [COMPFEST CTF 2026](https://mirror-ctf.compfest.id/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-08-29 08:00:00 - 2026-08-30 08:00:00 UTC+8  
     **比赛权重** : 96.00  
