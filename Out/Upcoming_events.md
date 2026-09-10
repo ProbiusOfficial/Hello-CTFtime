@@ -243,6 +243,15 @@ comments: true
     **赛事主办** : SharLike (https://ctftime.org/team/16172)  
     **添加日历** : https://ctftime.org/event/3432.ics  
     
+??? Quote "[Narxoz CTF](https://narxploit.narxoz.kz/register.html)"  
+    [![](https://ctftime.org/media/events/photo_2026-08-29_21-55-09.jpg){ width="200" align=left }](https://narxploit.narxoz.kz/register.html)  
+    **比赛名称** : [Narxoz CTF](https://narxploit.narxoz.kz/register.html)  
+    **比赛形式** : Hack quest  
+    **比赛时间** : 2026-10-10 18:00:00 - 2026-10-11 02:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : NarXploit (https://ctftime.org/team/392547)  
+    **添加日历** : https://ctftime.org/event/3437.ics  
+    
 ??? Quote "[GaianSpace CTF 2026](https://gaian.space/ctf)"  
     [![](https://ctftime.org/media/events/gaianspace-logo-new_1.png){ width="200" align=left }](https://gaian.space/ctf)  
     **比赛名称** : [GaianSpace CTF 2026](https://gaian.space/ctf)  
@@ -413,6 +422,15 @@ comments: true
     **比赛权重** : 37.00  
     **赛事主办** : Crate-CTF (https://ctftime.org/team/352250)  
     **添加日历** : https://ctftime.org/event/3336.ics  
+    
+??? Quote "[CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)"  
+    [![](https://ctftime.org/media/events/9f5bd4404f2ff231cca6e261cdcd0419.jpg){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
+    **比赛名称** : [CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-21 23:00:00 - 2026-11-22 06:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
+    **添加日历** : https://ctftime.org/event/3436.ics  
     
 ??? Quote "[BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)"  
     [![](https://ctftime.org/media/events/9f419586e0dedbff0130e6f487ddc54c_1.png){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
