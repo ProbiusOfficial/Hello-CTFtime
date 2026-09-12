@@ -576,7 +576,7 @@
         "比赛状态": "oncoming"
     },
     {
-        "比赛名称": "K17 CTF 2026",
+        "比赛名称": "K17 CTF 2026 [Ended]",
         "比赛时间": "2026-09-11 18:00:00 - 2026-09-13 18:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3145.ics",
         "比赛形式": "Jeopardy",
@@ -597,7 +597,7 @@
         "比赛权重": "0",
         "赛事主办": "0xL4ugh (https://ctftime.org/team/132776)",
         "比赛ID": "1400",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "SUNCTF 2026",
@@ -1785,18 +1785,6 @@
         "比赛权重": "25.00",
         "赛事主办": "SamaraCTF.ru (https://ctftime.org/team/436135)",
         "比赛ID": "1606",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "NDIAS Automotive/IoT CTF",
-        "比赛时间": "2026-05-15 17:00:00 - 2026-05-17 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3276.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.ndias.jp/",
-        "比赛标志": "https://ctftime.org/media/events/image_banner_white_ctftime.png",
-        "比赛权重": "25.00",
-        "赛事主办": "cartagaitai (https://ctftime.org/team/434311)",
-        "比赛ID": "1588",
         "比赛状态": "past"
     }
 ]

@@ -12,6 +12,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[CAT CTF 26](https://ctf.catreloaded.org/)"  
+    [![](https://ctftime.org/media/events/0e9402efa19b3a103472f4f94b47f442_1_1.png){ width="200" align=left }](https://ctf.catreloaded.org/)  
+    **比赛名称** : [CAT CTF 26](https://ctf.catreloaded.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-11 20:00:00 - 2026-09-12 20:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
+    **添加日历** : https://ctftime.org/event/3360.ics  
+    
 ??? Quote "[SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)"  
     [![](https://ctftime.org/media/events/sunctfposter.jpg){ width="200" align=left }](https://www.sunwaycybersecurityclub.org/sunctf)  
     **比赛名称** : [SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)  
@@ -902,13 +911,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : SamaraCTF.ru (https://ctftime.org/team/436135)  
     **添加日历** : https://ctftime.org/event/3306.ics  
-    
-??? Quote "[NDIAS Automotive/IoT CTF](https://ctf.ndias.jp/)"  
-    [![](https://ctftime.org/media/events/image_banner_white_ctftime.png){ width="200" align=left }](https://ctf.ndias.jp/)  
-    **比赛名称** : [NDIAS Automotive/IoT CTF](https://ctf.ndias.jp/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-15 17:00:00 - 2026-05-17 17:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : cartagaitai (https://ctftime.org/team/434311)  
-    **添加日历** : https://ctftime.org/event/3276.ics  
     
