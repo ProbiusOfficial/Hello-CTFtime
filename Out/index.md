@@ -428,6 +428,15 @@
         === "国内赛事"
     
         === "国外赛事"
+    
+    === "*已经结束*"
+        === "国内赛事"
+            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
+                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
+                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
+                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
+                
+        === "国外赛事"
             ??? Quote "[PwnSec CTF 2026](https://pwnsec.ctf.ae/)"  
                 [![](https://ctftime.org/media/events/pwnsec_square_gradient_512.png){ width="200" align=left }](https://pwnsec.ctf.ae/)  
                 **比赛名称** : [PwnSec CTF 2026](https://pwnsec.ctf.ae/)  
@@ -437,14 +446,6 @@
                 **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
                 **添加日历** : https://ctftime.org/event/3159.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-            ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
-                **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
-                **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
-                **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
-                
-        === "国外赛事"
             ??? Quote "[CAT CTF 26](https://ctf.catreloaded.org/)"  
                 [![](https://ctftime.org/media/events/0e9402efa19b3a103472f4f94b47f442_1_1.png){ width="200" align=left }](https://ctf.catreloaded.org/)  
                 **比赛名称** : [CAT CTF 26](https://ctf.catreloaded.org/)  
@@ -1335,13 +1336,4 @@
                 **比赛权重** : 32.59  
                 **赛事主办** : DaVinciCode (https://ctftime.org/team/112645)  
                 **添加日历** : https://ctftime.org/event/3132.ics  
-                
-            ??? Quote "[TJCTF 2026](https://tjctf.org/)"  
-                [![](https://ctftime.org/media/events/logo_96_1_1.png){ width="200" align=left }](https://tjctf.org/)  
-                **比赛名称** : [TJCTF 2026](https://tjctf.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-16 00:00:00 - 2026-05-18 00:00:00 UTC+8  
-                **比赛权重** : 65.05  
-                **赛事主办** : tjcsc (https://ctftime.org/team/53812)  
-                **添加日历** : https://ctftime.org/event/3195.ics  
                 
