@@ -21,6 +21,15 @@ comments: true
     **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
     **添加日历** : https://ctftime.org/event/3360.ics  
     
+??? Quote "[K17 CTF 2026](https://scoreboard.k17ctf.secso.cc/)"  
+    [![](https://ctftime.org/media/events/k17_logo_draft_square.png){ width="200" align=left }](https://scoreboard.k17ctf.secso.cc/)  
+    **比赛名称** : [K17 CTF 2026](https://scoreboard.k17ctf.secso.cc/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-11 18:00:00 - 2026-09-13 18:00:00 UTC+8  
+    **比赛权重** : 24.83  
+    **赛事主办** : K17 (https://ctftime.org/team/17058)  
+    **添加日历** : https://ctftime.org/event/3145.ics  
+    
 ??? Quote "[SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)"  
     [![](https://ctftime.org/media/events/sunctfposter.jpg){ width="200" align=left }](https://www.sunwaycybersecurityclub.org/sunctf)  
     **比赛名称** : [SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)  
@@ -902,13 +911,4 @@ comments: true
     **比赛权重** : 65.05  
     **赛事主办** : tjcsc (https://ctftime.org/team/53812)  
     **添加日历** : https://ctftime.org/event/3195.ics  
-    
-??? Quote "[SamaraCTF 2026](https://samara.volgactf.ru/)"  
-    [![](https://ctftime.org/media/events/SamaraCTF_logo_square.png){ width="200" align=left }](https://samara.volgactf.ru/)  
-    **比赛名称** : [SamaraCTF 2026](https://samara.volgactf.ru/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-15 23:00:00 - 2026-05-17 23:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : SamaraCTF.ru (https://ctftime.org/team/436135)  
-    **添加日历** : https://ctftime.org/event/3306.ics  
     
