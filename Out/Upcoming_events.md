@@ -10,7 +10,7 @@ comments: true
 ## 国际赛事
 
 ??? Quote "[VolgaCTF 2026 Final](https://volgactf.ru/en/volgactf-2026/final/)"  
-    [![](https://ctftime.org/media/events/logo-social-yellow_19.png){ width="200" align=left }](https://volgactf.ru/en/volgactf-2026/final/)  
+    [![](https://ctftime.org/media/events/volgactf_2026_logo.png){ width="200" align=left }](https://volgactf.ru/en/volgactf-2026/final/)  
     **比赛名称** : [VolgaCTF 2026 Final](https://volgactf.ru/en/volgactf-2026/final/)  
     **比赛形式** : Attack-Defense  
     **比赛时间** : 2026-09-17 13:00:00 - 2026-09-17 23:00:00 UTC+8  
