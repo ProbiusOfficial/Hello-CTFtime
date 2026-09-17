@@ -5,11 +5,7 @@ comments: true
 
 ## 国内赛事
 
-??? Quote "NepCTF 2026"  
-    **比赛名称** : [NepCTF 2026](https://www.nepctf.com/)  
-    **比赛时间** : 2026年07月17日 19:00 - 2026年07月19日 19:00  
-    **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
-    
+
 
 ## 国际赛事
 ??? Quote "[PwnSec CTF 2026](https://pwnsec.ctf.ae/)"  
