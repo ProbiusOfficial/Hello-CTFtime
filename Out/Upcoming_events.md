@@ -279,6 +279,15 @@ comments: true
     **赛事主办** : HITCON (https://ctftime.org/team/8299)  
     **添加日历** : https://ctftime.org/event/3340.ics  
     
+??? Quote "[RSTCON 2026 CTF](https://ctf.rstcon.org/)"  
+    [![](https://ctftime.org/media/events/RSTCON-BLK_1.png){ width="200" align=left }](https://ctf.rstcon.org/)  
+    **比赛名称** : [RSTCON 2026 CTF](https://ctf.rstcon.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-24 01:00:00 - 2026-10-26 01:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : RSTCON (https://ctftime.org/team/281202)  
+    **添加日历** : https://ctftime.org/event/3377.ics  
+    
 ??? Quote "[Hack.lu CTF 2026](https://flu.xxx/)"  
     [![](https://ctftime.org/media/events/hacklu25.jpg){ width="200" align=left }](https://flu.xxx/)  
     **比赛名称** : [Hack.lu CTF 2026](https://flu.xxx/)  
@@ -305,6 +314,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : exunclan (https://ctftime.org/team/83987)  
     **添加日历** : https://ctftime.org/event/3443.ics  
+    
+??? Quote "[Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)"  
+    [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_2.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
+    **比赛名称** : [Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-29 17:00:00 - 2026-10-30 01:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
+    **添加日历** : https://ctftime.org/event/3444.ics  
     
 ??? Quote "[Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
     [![](https://ctftime.org/media/events/tanmay_2.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
@@ -342,6 +360,15 @@ comments: true
     **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
     **添加日历** : https://ctftime.org/event/3333.ics  
     
+??? Quote "[SpookyCTF 2026](https://spooky.ctfd.io/)"  
+    [![](){ width="200" align=left }](https://spooky.ctfd.io/)  
+    **比赛名称** : [SpookyCTF 2026](https://spooky.ctfd.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-07 01:00:00 - 2026-11-08 01:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Cyber Security Network (https://ctftime.org/team/214936)  
+    **添加日历** : https://ctftime.org/event/3339.ics  
+    
 ??? Quote "[BlackAlps CTF 2026](https://blackalps.ch/ba/)"  
     [![](https://ctftime.org/media/events/black-alps-v5-logo-black_HIGH-RES.png){ width="200" align=left }](https://blackalps.ch/ba/)  
     **比赛名称** : [BlackAlps CTF 2026](https://blackalps.ch/ba/)  
@@ -369,6 +396,15 @@ comments: true
     **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
     **添加日历** : https://ctftime.org/event/3049.ics  
     
+??? Quote "[International Battle of Hackers 2026](https://battleofhackers.com/)"  
+    [![](https://ctftime.org/media/events/BOH_LOGO_ONLY_1.png){ width="200" align=left }](https://battleofhackers.com/)  
+    **比赛名称** : [International Battle of Hackers 2026](https://battleofhackers.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-14 08:30:00 - 2026-11-14 18:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : FSEC-SS (https://ctftime.org/team/436859)  
+    **添加日历** : https://ctftime.org/event/3390.ics  
+    
 ??? Quote "[EyesOpenCTF 7th edition](https://eyesopensecurity.com/ctf-briefing.html)"  
     [![](https://ctftime.org/media/events/Template_Speaker_-_2026_4.png){ width="200" align=left }](https://eyesopensecurity.com/ctf-briefing.html)  
     **比赛名称** : [EyesOpenCTF 7th edition](https://eyesopensecurity.com/ctf-briefing.html)  
@@ -395,6 +431,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Kernel Sanders (https://ctftime.org/team/397)  
     **添加日历** : https://ctftime.org/event/3118.ics  
+    
+??? Quote "[Outback Overflow](http://hscyber.org/)"  
+    [![](https://ctftime.org/media/events/logo_137.png){ width="200" align=left }](http://hscyber.org/)  
+    **比赛名称** : [Outback Overflow](http://hscyber.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-21 07:00:00 - 2026-11-22 07:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : HSCC (https://ctftime.org/team/446734)  
+    **添加日历** : https://ctftime.org/event/3425.ics  
     
 ??? Quote "[Seize da Flaq](https://seizedaflaq.cyberonites.com/)"  
     [![](https://ctftime.org/media/events/SDF_1.jpeg){ width="200" align=left }](https://seizedaflaq.cyberonites.com/)  
