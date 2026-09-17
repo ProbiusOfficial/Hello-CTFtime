@@ -162,6 +162,15 @@ comments: true
     **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
     **添加日历** : https://ctftime.org/event/3417.ics  
     
+??? Quote "[CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)"  
+    [![](https://ctftime.org/media/events/dbdeeab4624f46479b54527337e9e860.png){ width="200" align=left }](https://ctf.cybersecurity.sydney/)  
+    **比赛名称** : [CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-30 14:00:00 - 2026-10-02 06:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : suɐǝpodᴉʇuɐ (https://ctftime.org/team/382153)  
+    **添加日历** : https://ctftime.org/event/3434.ics  
+    
 ??? Quote "[Hacker's Gambit 2026 (Round 1 – Online Qualifier)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
     [![](https://ctftime.org/media/events/tanmay.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
     **比赛名称** : [Hacker's Gambit 2026 (Round 1 – Online Qualifier)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
@@ -206,6 +215,24 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : SharLike (https://ctftime.org/team/16172)  
     **添加日历** : https://ctftime.org/event/3432.ics  
+    
+??? Quote "[FortID CTF 2026](https://ctf.fortid.com/)"  
+    [![](https://ctftime.org/media/events/fortid_ctf_logo.jpg){ width="200" align=left }](https://ctf.fortid.com/)  
+    **比赛名称** : [FortID CTF 2026](https://ctf.fortid.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-10 02:00:00 - 2026-10-12 02:00:00 UTC+8  
+    **比赛权重** : 45.00  
+    **赛事主办** : TBTL (https://ctftime.org/team/170112)  
+    **添加日历** : https://ctftime.org/event/3440.ics  
+    
+??? Quote "[KubSTU CTF](https://kubstu-ctf.ru/)"  
+    [![](https://ctftime.org/media/events/Logo_Kubstu.png){ width="200" align=left }](https://kubstu-ctf.ru/)  
+    **比赛名称** : [KubSTU CTF](https://kubstu-ctf.ru/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-10 15:00:00 - 2026-10-11 21:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
+    **添加日历** : https://ctftime.org/event/3446.ics  
     
 ??? Quote "[Narxoz CTF](https://narxploit.narxoz.kz/register.html)"  
     [![](https://ctftime.org/media/events/photo_2026-08-29_21-55-09.jpg){ width="200" align=left }](https://narxploit.narxoz.kz/register.html)  
@@ -269,6 +296,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
     **添加日历** : https://ctftime.org/event/3094.ics  
+    
+??? Quote "[Sudocrypt v16.0](https://sudocrypt.com/)"  
+    [![](https://ctftime.org/media/events/WhatsApp_Image_2026-09-14_at_12.17.30.jpeg){ width="200" align=left }](https://sudocrypt.com/)  
+    **比赛名称** : [Sudocrypt v16.0](https://sudocrypt.com/)  
+    **比赛形式** : Hack quest  
+    **比赛时间** : 2026-10-27 11:30:00 - 2026-10-28 23:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : exunclan (https://ctftime.org/team/83987)  
+    **添加日历** : https://ctftime.org/event/3443.ics  
     
 ??? Quote "[Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
     [![](https://ctftime.org/media/events/tanmay_2.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  

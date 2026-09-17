@@ -204,6 +204,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "CSS CTF 2026: Return of Nexus",
+        "比赛时间": "2026-09-30 14:00:00 - 2026-10-02 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3434.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.cybersecurity.sydney/",
+        "比赛标志": "https://ctftime.org/media/events/dbdeeab4624f46479b54527337e9e860.png",
+        "比赛权重": "0.00",
+        "赛事主办": "suɐǝpodᴉʇuɐ (https://ctftime.org/team/382153)",
+        "比赛ID": "1669",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "Hacker's Gambit 2026 (Round 1 – Online Qualifier)",
         "比赛时间": "2026-10-02 14:30:00 - 2026-10-04 14:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3380.ics",
@@ -261,6 +273,30 @@
         "比赛权重": "0",
         "赛事主办": "SharLike (https://ctftime.org/team/16172)",
         "比赛ID": "111",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "FortID CTF 2026",
+        "比赛时间": "2026-10-10 02:00:00 - 2026-10-12 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3440.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.fortid.com/",
+        "比赛标志": "https://ctftime.org/media/events/fortid_ctf_logo.jpg",
+        "比赛权重": "45.00",
+        "赛事主办": "TBTL (https://ctftime.org/team/170112)",
+        "比赛ID": "951",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "KubSTU CTF",
+        "比赛时间": "2026-10-10 15:00:00 - 2026-10-11 21:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3446.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://kubstu-ctf.ru/",
+        "比赛标志": "https://ctftime.org/media/events/Logo_Kubstu.png",
+        "比赛权重": "0.00",
+        "赛事主办": "Capybaras (https://ctftime.org/team/223931)",
+        "比赛ID": "1499",
         "比赛状态": "oncoming"
     },
     {
@@ -345,6 +381,18 @@
         "比赛权重": "0.00",
         "赛事主办": "H7Tex (https://ctftime.org/team/281844)",
         "比赛ID": "1169",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "Sudocrypt v16.0",
+        "比赛时间": "2026-10-27 11:30:00 - 2026-10-28 23:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3443.ics",
+        "比赛形式": "Hack quest",
+        "比赛链接": "https://sudocrypt.com/",
+        "比赛标志": "https://ctftime.org/media/events/WhatsApp_Image_2026-09-14_at_12.17.30.jpeg",
+        "比赛权重": "0.00",
+        "赛事主办": "exunclan (https://ctftime.org/team/83987)",
+        "比赛ID": "869",
         "比赛状态": "oncoming"
     },
     {
@@ -549,7 +597,7 @@
         "比赛权重": "25.00",
         "赛事主办": "VolgaCTF.org (https://ctftime.org/team/27094)",
         "比赛ID": "53",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "PwnSec CTF 2026",
@@ -1737,18 +1785,6 @@
         "比赛权重": "0",
         "赛事主办": "TyumGUard (https://ctftime.org/team/380152)",
         "比赛ID": "1417",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "DaVinciCTF 2026",
-        "比赛时间": "2026-05-16 16:00:00 - 2026-05-17 01:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3132.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://dvc.tf/",
-        "比赛标志": "https://ctftime.org/media/events/davincictf_2026_2.png",
-        "比赛权重": "32.59",
-        "赛事主办": "DaVinciCode (https://ctftime.org/team/112645)",
-        "比赛ID": "582",
         "比赛状态": "past"
     }
 ]
