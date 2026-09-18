@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[CSAW CTF Qualification Round 2026](https://ctf.csaw.io/)"  
-    [![](https://ctftime.org/media/events/csawlogo_1.png){ width="200" align=left }](https://ctf.csaw.io/)  
-    **比赛名称** : [CSAW CTF Qualification Round 2026](https://ctf.csaw.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-09-19 00:00:00 - 2026-09-21 00:00:00 UTC+8  
-    **比赛权重** : 10.93  
-    **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
-    **添加日历** : https://ctftime.org/event/3355.ics  
-    
 ??? Quote "[Cyber League 2026 - Major](https://cyberleague.co/)"  
     [![](){ width="200" align=left }](https://cyberleague.co/)  
     **比赛名称** : [Cyber League 2026 - Major](https://cyberleague.co/)  

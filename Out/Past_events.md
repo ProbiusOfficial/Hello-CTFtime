@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[NullOrigin CTF Qualifiers](https://nullorigin.cyberhx.com/)"  
+    [![](https://ctftime.org/media/events/722217335_18086037686297664_317017320748858629_n.jpg){ width="200" align=left }](https://nullorigin.cyberhx.com/)  
+    **比赛名称** : [NullOrigin CTF Qualifiers](https://nullorigin.cyberhx.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-18 12:30:00 - 2026-09-19 00:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : CyberXoX (https://ctftime.org/team/374041)  
+    **添加日历** : https://ctftime.org/event/3346.ics  
+    
 ??? Quote "[VolgaCTF 2026 Final](https://volgactf.ru/en/volgactf-2026/final/)"  
     [![](https://ctftime.org/media/events/volgactf_2026_logo.png){ width="200" align=left }](https://volgactf.ru/en/volgactf-2026/final/)  
     **比赛名称** : [VolgaCTF 2026 Final](https://volgactf.ru/en/volgactf-2026/final/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 19.48  
     **赛事主办** : OxV01D (https://ctftime.org/team/427687)  
     **添加日历** : https://ctftime.org/event/3269.ics  
-    
-??? Quote "[UralCUP 2026 // Quals](https://uralctf.org/)"  
-    [![](https://ctftime.org/media/events/2876b94b571c4f41b7a235d7d6050a8c_1.jpg){ width="200" align=left }](https://uralctf.org/)  
-    **比赛名称** : [UralCUP 2026 // Quals](https://uralctf.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-17 13:00:00 - 2026-05-17 21:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : TyumGUard (https://ctftime.org/team/380152)  
-    **添加日历** : https://ctftime.org/event/3214.ics  
     
