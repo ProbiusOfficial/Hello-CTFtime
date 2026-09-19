@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[07CTF 2026](https://ctf.0bscuri7y.in/)"  
-            [![](https://ctftime.org/media/events/logo_112_1.png){ width="200" align=left }](https://ctf.0bscuri7y.in/)  
-            **比赛名称** : [07CTF 2026](https://ctf.0bscuri7y.in/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-09-19 20:00:00 - 2026-09-20 20:00:00 UTC+8  
-            **比赛权重** : 23.71  
-            **赛事主办** : 0bscuri7y (https://ctftime.org/team/370140)  
-            **添加日历** : https://ctftime.org/event/3365.ics  
-            
         ??? Quote "[LUN4R CTF Quals](https://lunar.rootriet.in/)"  
             [![](){ width="200" align=left }](https://lunar.rootriet.in/)  
             **比赛名称** : [LUN4R CTF Quals](https://lunar.rootriet.in/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : bdhxgrp (https://ctftime.org/team/193805)  
             **添加日历** : https://ctftime.org/event/3374.ics  
+            
+        ??? Quote "[H7CTF 2026 Quals](https://2026.h7tex.com/)"  
+            [![](https://ctftime.org/media/events/IMG-20251015-WA0045.jpg){ width="200" align=left }](https://2026.h7tex.com/)  
+            **比赛名称** : [H7CTF 2026 Quals](https://2026.h7tex.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-09-26 11:30:00 - 2026-09-27 23:30:00 UTC+8  
+            **比赛权重** : 27.49  
+            **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
+            **添加日历** : https://ctftime.org/event/3093.ics  
             

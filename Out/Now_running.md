@@ -45,15 +45,6 @@ comments: true
     **赛事主办** : WatchList CTF (https://ctftime.org/team/436923)  
     **添加日历** : https://ctftime.org/event/3326.ics  
     
-??? Quote "[z0d1ak CTF Finals](https://ctf.z0d1ak.org/)"  
-    [![](https://ctftime.org/media/events/Zodiak_CTF_Logo_1.png){ width="200" align=left }](https://ctf.z0d1ak.org/)  
-    **比赛名称** : [z0d1ak CTF Finals](https://ctf.z0d1ak.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-09-19 11:30:00 - 2026-09-19 20:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
-    **添加日历** : https://ctftime.org/event/3428.ics  
-    
 ??? Quote "[OmniCTF 2026 Finals](https://omnictf.com/)"  
     [![](https://ctftime.org/media/events/Untitled_5.png){ width="200" align=left }](https://omnictf.com/)  
     **比赛名称** : [OmniCTF 2026 Finals](https://omnictf.com/)  
@@ -62,4 +53,13 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
     **添加日历** : https://ctftime.org/event/3401.ics  
+    
+??? Quote "[07CTF 2026](https://ctf.0bscuri7y.in/)"  
+    [![](https://ctftime.org/media/events/logo_112_1.png){ width="200" align=left }](https://ctf.0bscuri7y.in/)  
+    **比赛名称** : [07CTF 2026](https://ctf.0bscuri7y.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-19 20:00:00 - 2026-09-20 20:00:00 UTC+8  
+    **比赛权重** : 23.71  
+    **赛事主办** : 0bscuri7y (https://ctftime.org/team/370140)  
+    **添加日历** : https://ctftime.org/event/3365.ics  
     
