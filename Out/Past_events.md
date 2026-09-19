@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[OmniCTF 2026 Finals](https://omnictf.com/)"  
+    [![](https://ctftime.org/media/events/Untitled_5.png){ width="200" align=left }](https://omnictf.com/)  
+    **比赛名称** : [OmniCTF 2026 Finals](https://omnictf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-19 14:00:00 - 2026-09-20 00:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
+    **添加日历** : https://ctftime.org/event/3401.ics  
+    
 ??? Quote "[z0d1ak CTF Finals](https://ctf.z0d1ak.org/)"  
     [![](https://ctftime.org/media/events/Zodiak_CTF_Logo_1.png){ width="200" align=left }](https://ctf.z0d1ak.org/)  
     **比赛名称** : [z0d1ak CTF Finals](https://ctf.z0d1ak.org/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : ZeroDayTM (https://ctftime.org/team/427754)  
     **添加日历** : https://ctftime.org/event/3298.ics  
-    
-??? Quote "[DEF CON CTF Qualifier 2026](https://bbbirds.org/)"  
-    [![](){ width="200" align=left }](https://bbbirds.org/)  
-    **比赛名称** : [DEF CON CTF Qualifier 2026](https://bbbirds.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-23 05:00:00 - 2026-05-25 05:00:00 UTC+8  
-    **比赛权重** : 63.22  
-    **赛事主办** : Benevolent Bureau of Birds (https://ctftime.org/team/425757)  
-    **添加日历** : https://ctftime.org/event/3205.ics  
     
