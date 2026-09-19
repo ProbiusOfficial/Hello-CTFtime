@@ -1,39 +1,39 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Haruulzangi CTF 2026 Semi-Final](https://2026.haruulzangi.mn/)"  
-            [![](https://ctftime.org/media/events/haruul_zangi_logo_updated_3.png){ width="200" align=left }](https://2026.haruulzangi.mn/)  
-            **比赛名称** : [Haruulzangi CTF 2026 Semi-Final](https://2026.haruulzangi.mn/)  
+        ??? Quote "[07CTF 2026](https://ctf.0bscuri7y.in/)"  
+            [![](https://ctftime.org/media/events/logo_112_1.png){ width="200" align=left }](https://ctf.0bscuri7y.in/)  
+            **比赛名称** : [07CTF 2026](https://ctf.0bscuri7y.in/)  
             **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-09-19 10:00:00 - 2026-09-19 16:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
-            **添加日历** : https://ctftime.org/event/3431.ics  
+            **比赛时间** : 2026-09-19 20:00:00 - 2026-09-20 20:00:00 UTC+8  
+            **比赛权重** : 23.71  
+            **赛事主办** : 0bscuri7y (https://ctftime.org/team/370140)  
+            **添加日历** : https://ctftime.org/event/3365.ics  
             
-        ??? Quote "[Cyber League 2026 - Major](https://cyberleague.co/)"  
-            [![](){ width="200" align=left }](https://cyberleague.co/)  
-            **比赛名称** : [Cyber League 2026 - Major](https://cyberleague.co/)  
+        ??? Quote "[LUN4R CTF Quals](https://lunar.rootriet.in/)"  
+            [![](){ width="200" align=left }](https://lunar.rootriet.in/)  
+            **比赛名称** : [LUN4R CTF Quals](https://lunar.rootriet.in/)  
             **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-09-19 10:00:00 - 2026-09-20 10:00:00 UTC+8  
+            **比赛时间** : 2026-09-20 12:30:00 - 2026-09-21 00:30:00 UTC+8  
             **比赛权重** : 0.00  
-            **赛事主办** : DIV0-N0H4TS (https://ctftime.org/team/354275)  
-            **添加日历** : https://ctftime.org/event/3412.ics  
+            **赛事主办** : b33tro0t (https://ctftime.org/team/380826)  
+            **添加日历** : https://ctftime.org/event/3435.ics  
             
-        ??? Quote "[z0d1ak CTF Finals](https://ctf.z0d1ak.org/)"  
-            [![](https://ctftime.org/media/events/Zodiak_CTF_Logo_1.png){ width="200" align=left }](https://ctf.z0d1ak.org/)  
-            **比赛名称** : [z0d1ak CTF Finals](https://ctf.z0d1ak.org/)  
+        ??? Quote "[FlightPath2026](http://setyourvector.org/)"  
+            [![](https://ctftime.org/media/events/logo_136.png){ width="200" align=left }](http://setyourvector.org/)  
+            **比赛名称** : [FlightPath2026](http://setyourvector.org/)  
             **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-09-19 11:30:00 - 2026-09-19 20:30:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
-            **添加日历** : https://ctftime.org/event/3428.ics  
+            **比赛时间** : 2026-09-25 21:30:00 - 2026-09-28 05:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : ĀYŌDÈ (https://ctftime.org/team/418961)  
+            **添加日历** : https://ctftime.org/event/3422.ics  
             
-        ??? Quote "[WATCHLIST](https://ctf.xposedornot.com/)"  
-            [![](https://ctftime.org/media/events/WatchList_Twitter_Profile.png){ width="200" align=left }](https://ctf.xposedornot.com/)  
-            **比赛名称** : [WATCHLIST](https://ctf.xposedornot.com/)  
+        ??? Quote "[BCS CTF 2026](https://ctf.bcsictfest.com/)"  
+            [![](https://ctftime.org/media/events/logo_134.png){ width="200" align=left }](https://ctf.bcsictfest.com/)  
+            **比赛名称** : [BCS CTF 2026](https://ctf.bcsictfest.com/)  
             **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-09-19 11:30:00 - 2026-09-20 11:30:00 UTC+8  
+            **比赛时间** : 2026-09-25 22:00:00 - 2026-09-27 22:00:00 UTC+8  
             **比赛权重** : 0.00  
-            **赛事主办** : WatchList CTF (https://ctftime.org/team/436923)  
-            **添加日历** : https://ctftime.org/event/3326.ics  
+            **赛事主办** : bdhxgrp (https://ctftime.org/team/193805)  
+            **添加日历** : https://ctftime.org/event/3374.ics  
             
