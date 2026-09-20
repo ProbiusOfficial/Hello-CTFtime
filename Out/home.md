@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[LUN4R CTF Quals](https://lunar.rootriet.in/)"  
-            [![](){ width="200" align=left }](https://lunar.rootriet.in/)  
-            **比赛名称** : [LUN4R CTF Quals](https://lunar.rootriet.in/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-09-20 12:30:00 - 2026-09-21 00:30:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : b33tro0t (https://ctftime.org/team/380826)  
-            **添加日历** : https://ctftime.org/event/3435.ics  
-            
         ??? Quote "[FlightPath2026](http://setyourvector.org/)"  
             [![](https://ctftime.org/media/events/logo_136.png){ width="200" align=left }](http://setyourvector.org/)  
             **比赛名称** : [FlightPath2026](http://setyourvector.org/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 27.49  
             **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
             **添加日历** : https://ctftime.org/event/3093.ics  
+            
+        ??? Quote "[FAUST CTF 2026](https://2026.faustctf.net/)"  
+            [![](https://ctftime.org/media/events/faustctf2026.png){ width="200" align=left }](https://2026.faustctf.net/)  
+            **比赛名称** : [FAUST CTF 2026](https://2026.faustctf.net/)  
+            **比赛形式** : Attack-Defense  
+            **比赛时间** : 2026-09-26 20:00:00 - 2026-09-27 05:00:00 UTC+8  
+            **比赛权重** : 72.29  
+            **赛事主办** : FAUST (https://ctftime.org/team/550)  
+            **添加日历** : https://ctftime.org/event/3312.ics  
             

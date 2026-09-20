@@ -17,6 +17,15 @@ comments: true
     **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
     **添加日历** : https://ctftime.org/event/3401.ics  
     
+??? Quote "[WATCHLIST](https://ctf.xposedornot.com/)"  
+    [![](https://ctftime.org/media/events/WatchList_Twitter_Profile.png){ width="200" align=left }](https://ctf.xposedornot.com/)  
+    **比赛名称** : [WATCHLIST](https://ctf.xposedornot.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-19 11:30:00 - 2026-09-20 11:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : WatchList CTF (https://ctftime.org/team/436923)  
+    **添加日历** : https://ctftime.org/event/3326.ics  
+    
 ??? Quote "[z0d1ak CTF Finals](https://ctf.z0d1ak.org/)"  
     [![](https://ctftime.org/media/events/Zodiak_CTF_Logo_1.png){ width="200" align=left }](https://ctf.z0d1ak.org/)  
     **比赛名称** : [z0d1ak CTF Finals](https://ctf.z0d1ak.org/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : SecLeaf (https://ctftime.org/team/421974)  
     **添加日历** : https://ctftime.org/event/3264.ics  
-    
-??? Quote "[Hack4Krak CTF 2026 - High School Edition](https://hack4krak.pl/)"  
-    [![](https://ctftime.org/media/events/192620743.png){ width="200" align=left }](https://hack4krak.pl/)  
-    **比赛名称** : [Hack4Krak CTF 2026 - High School Edition](https://hack4krak.pl/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-23 16:00:00 - 2026-05-24 22:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Hack4Krak (https://ctftime.org/team/385787)  
-    **添加日历** : https://ctftime.org/event/3284.ics  
     
