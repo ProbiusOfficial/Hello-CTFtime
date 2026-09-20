@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[07CTF 2026](https://ctf.0bscuri7y.in/)"  
+    [![](https://ctftime.org/media/events/logo_112_1.png){ width="200" align=left }](https://ctf.0bscuri7y.in/)  
+    **比赛名称** : [07CTF 2026](https://ctf.0bscuri7y.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-19 20:00:00 - 2026-09-20 20:00:00 UTC+8  
+    **比赛权重** : 23.71  
+    **赛事主办** : 0bscuri7y (https://ctftime.org/team/370140)  
+    **添加日历** : https://ctftime.org/event/3365.ics  
+    
 ??? Quote "[OmniCTF 2026 Finals](https://omnictf.com/)"  
     [![](https://ctftime.org/media/events/Untitled_5.png){ width="200" align=left }](https://omnictf.com/)  
     **比赛名称** : [OmniCTF 2026 Finals](https://omnictf.com/)  
@@ -17,15 +26,6 @@ comments: true
     **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
     **添加日历** : https://ctftime.org/event/3401.ics  
     
-??? Quote "[WATCHLIST](https://ctf.xposedornot.com/)"  
-    [![](https://ctftime.org/media/events/WatchList_Twitter_Profile.png){ width="200" align=left }](https://ctf.xposedornot.com/)  
-    **比赛名称** : [WATCHLIST](https://ctf.xposedornot.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-09-19 11:30:00 - 2026-09-20 11:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : WatchList CTF (https://ctftime.org/team/436923)  
-    **添加日历** : https://ctftime.org/event/3326.ics  
-    
 ??? Quote "[z0d1ak CTF Finals](https://ctf.z0d1ak.org/)"  
     [![](https://ctftime.org/media/events/Zodiak_CTF_Logo_1.png){ width="200" align=left }](https://ctf.z0d1ak.org/)  
     **比赛名称** : [z0d1ak CTF Finals](https://ctf.z0d1ak.org/)  
@@ -34,6 +34,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
     **添加日历** : https://ctftime.org/event/3428.ics  
+    
+??? Quote "[WATCHLIST](https://ctf.xposedornot.com/)"  
+    [![](https://ctftime.org/media/events/WatchList_Twitter_Profile.png){ width="200" align=left }](https://ctf.xposedornot.com/)  
+    **比赛名称** : [WATCHLIST](https://ctf.xposedornot.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-19 11:30:00 - 2026-09-20 11:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : WatchList CTF (https://ctftime.org/team/436923)  
+    **添加日历** : https://ctftime.org/event/3326.ics  
     
 ??? Quote "[Cyber League 2026 - Major](https://cyberleague.co/)"  
     [![](){ width="200" align=left }](https://cyberleague.co/)  
@@ -52,6 +61,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
     **添加日历** : https://ctftime.org/event/3431.ics  
+    
+??? Quote "[DefCamp Capture the Flag (D-CTF) 2026 Quals](https://dctf26-quals.cyber-edu.co/)"  
+    [![](https://ctftime.org/media/events/2c31f15c30b130055d9133f2390adf6c.jpg){ width="200" align=left }](https://dctf26-quals.cyber-edu.co/)  
+    **比赛名称** : [DefCamp Capture the Flag (D-CTF) 2026 Quals](https://dctf26-quals.cyber-edu.co/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-18 18:00:00 - 2026-09-20 18:00:00 UTC+8  
+    **比赛权重** : 69.75  
+    **赛事主办** : CCSIR.org (https://ctftime.org/team/9831)  
+    **添加日历** : https://ctftime.org/event/3392.ics  
     
 ??? Quote "[NullOrigin CTF Qualifiers](https://nullorigin.cyberhx.com/)"  
     [![](https://ctftime.org/media/events/722217335_18086037686297664_317017320748858629_n.jpg){ width="200" align=left }](https://nullorigin.cyberhx.com/)  
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : CyberSpaceVR (https://ctftime.org/team/434393)  
     **添加日历** : https://ctftime.org/event/3271.ics  
-    
-??? Quote "[SecLeaf Q2 CTF 2026](http://secleaf.xyz/)"  
-    [![](https://ctftime.org/media/events/CTF_3.png){ width="200" align=left }](http://secleaf.xyz/)  
-    **比赛名称** : [SecLeaf Q2 CTF 2026](http://secleaf.xyz/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-23 22:00:00 - 2026-05-24 22:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : SecLeaf (https://ctftime.org/team/421974)  
-    **添加日历** : https://ctftime.org/event/3136.ics  
-    
-??? Quote "[Panther CTF 2026](http://pantherctf.secleaf.tech/)"  
-    [![](https://ctftime.org/media/events/download_1.jpg){ width="200" align=left }](http://pantherctf.secleaf.tech/)  
-    **比赛名称** : [Panther CTF 2026](http://pantherctf.secleaf.tech/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-23 16:30:00 - 2026-05-24 16:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : SecLeaf (https://ctftime.org/team/421974)  
-    **添加日历** : https://ctftime.org/event/3264.ics  
     
