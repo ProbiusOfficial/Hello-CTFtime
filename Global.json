@@ -564,18 +564,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "Cyber League 2026 - Major",
-        "比赛时间": "2026-09-19 10:00:00 - 2026-09-20 10:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3412.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://cyberleague.co/",
-        "比赛标志": "",
-        "比赛权重": "0",
-        "赛事主办": "DIV0-N0H4TS (https://ctftime.org/team/354275)",
-        "比赛ID": "1183",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "WATCHLIST",
         "比赛时间": "2026-09-19 11:30:00 - 2026-09-20 11:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3326.ics",
@@ -621,6 +609,18 @@
         "比赛权重": "0.00",
         "赛事主办": "z0d1ak (https://ctftime.org/team/373452)",
         "比赛ID": "1648",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "Cyber League 2026 - Major",
+        "比赛时间": "2026-09-19 10:00:00 - 2026-09-20 10:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3412.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://cyberleague.co/",
+        "比赛标志": "",
+        "比赛权重": "0",
+        "赛事主办": "DIV0-N0H4TS (https://ctftime.org/team/354275)",
+        "比赛ID": "1183",
         "比赛状态": "past"
     },
     {
@@ -1785,18 +1785,6 @@
         "比赛权重": "0",
         "赛事主办": "Hack4Krak (https://ctftime.org/team/385787)",
         "比赛ID": "1335",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "ZeroDayTM CTF",
-        "比赛时间": "2026-05-23 15:00:00 - 2026-05-23 23:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3298.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.info.uvt.ro/invite/ckhbsit2kfmk",
-        "比赛标志": "https://ctftime.org/media/events/zeroday-logo.jpg",
-        "比赛权重": "0",
-        "赛事主办": "ZeroDayTM (https://ctftime.org/team/427754)",
-        "比赛ID": "1603",
         "比赛状态": "past"
     }
 ]
