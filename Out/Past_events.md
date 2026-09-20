@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[LUN4R CTF Quals](https://lunar.rootriet.in/)"  
+    [![](){ width="200" align=left }](https://lunar.rootriet.in/)  
+    **比赛名称** : [LUN4R CTF Quals](https://lunar.rootriet.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-20 12:30:00 - 2026-09-21 00:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : b33tro0t (https://ctftime.org/team/380826)  
+    **添加日历** : https://ctftime.org/event/3435.ics  
+    
 ??? Quote "[07CTF 2026](https://ctf.0bscuri7y.in/)"  
     [![](https://ctftime.org/media/events/logo_112_1.png){ width="200" align=left }](https://ctf.0bscuri7y.in/)  
     **比赛名称** : [07CTF 2026](https://ctf.0bscuri7y.in/)  
@@ -61,6 +70,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
     **添加日历** : https://ctftime.org/event/3431.ics  
+    
+??? Quote "[CSAW CTF Qualification Round 2026](https://ctf.csaw.io/)"  
+    [![](https://ctftime.org/media/events/csawlogo_1.png){ width="200" align=left }](https://ctf.csaw.io/)  
+    **比赛名称** : [CSAW CTF Qualification Round 2026](https://ctf.csaw.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-19 00:00:00 - 2026-09-21 00:00:00 UTC+8  
+    **比赛权重** : 10.93  
+    **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
+    **添加日历** : https://ctftime.org/event/3355.ics  
     
 ??? Quote "[DefCamp Capture the Flag (D-CTF) 2026 Quals](https://dctf26-quals.cyber-edu.co/)"  
     [![](https://ctftime.org/media/events/2c31f15c30b130055d9133f2390adf6c.jpg){ width="200" align=left }](https://dctf26-quals.cyber-edu.co/)  
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : ExploitsFromHeaven1337 (https://ctftime.org/team/435592)  
     **添加日历** : https://ctftime.org/event/3301.ics  
-    
-??? Quote "[Hackअस्त्र](https://ctf.hackastra.tech/)"  
-    [![](https://ctftime.org/media/events/Logo_16.png){ width="200" align=left }](https://ctf.hackastra.tech/)  
-    **比赛名称** : [Hackअस्त्र](https://ctf.hackastra.tech/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-29 18:15:00 - 2026-05-31 01:15:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : Ethical HCK (https://ctftime.org/team/434372)  
-    **添加日历** : https://ctftime.org/event/3270.ics  
-    
-??? Quote "[ZEROBREACH CTF](http://ctf.cyberspacevr.in/)"  
-    [![](https://ctftime.org/media/events/WhatsApp_Image_2026-05-03_at_1.43.58_AM_1.jpeg){ width="200" align=left }](http://ctf.cyberspacevr.in/)  
-    **比赛名称** : [ZEROBREACH CTF](http://ctf.cyberspacevr.in/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-24 12:30:00 - 2026-05-25 00:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : CyberSpaceVR (https://ctftime.org/team/434393)  
-    **添加日历** : https://ctftime.org/event/3271.ics  
     
