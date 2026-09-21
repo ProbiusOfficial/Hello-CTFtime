@@ -1,6 +1,33 @@
     === "国内比赛"
     
     === "国外比赛"
+        ??? Quote "[BreachPoint 2026](https://breachpoint.axios.live/)"  
+            [![](https://ctftime.org/media/events/logo-brc.jpg){ width="200" align=left }](https://breachpoint.axios.live/)  
+            **比赛名称** : [BreachPoint 2026](https://breachpoint.axios.live/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-09-25 12:00:00 - 2026-09-26 16:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : pulse_0x1337 (https://ctftime.org/team/448857)  
+            **添加日历** : https://ctftime.org/event/3451.ics  
+            
+        ??? Quote "[Null Origin CTF 2026: Grand finale](https://nullorigin.cyberhx.com/)"  
+            [![](https://ctftime.org/media/events/file_0000000065a081fa80a2e85b40506ca9.png){ width="200" align=left }](https://nullorigin.cyberhx.com/)  
+            **比赛名称** : [Null Origin CTF 2026: Grand finale](https://nullorigin.cyberhx.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-09-25 12:30:00 - 2026-09-26 00:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : CyberXoX (https://ctftime.org/team/374041)  
+            **添加日历** : https://ctftime.org/event/3454.ics  
+            
+        ??? Quote "[NileCTF](https://nilectf.com/register)"  
+            [![](https://ctftime.org/media/events/logo_1000x1000.jpg){ width="200" align=left }](https://nilectf.com/register)  
+            **比赛名称** : [NileCTF](https://nilectf.com/register)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-09-25 20:00:00 - 2026-09-27 20:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : Cyb3r_Ph4nt0ms (https://ctftime.org/team/386121)  
+            **添加日历** : https://ctftime.org/event/3449.ics  
+            
         ??? Quote "[FlightPath2026](http://setyourvector.org/)"  
             [![](https://ctftime.org/media/events/logo_136.png){ width="200" align=left }](http://setyourvector.org/)  
             **比赛名称** : [FlightPath2026](http://setyourvector.org/)  
@@ -9,31 +36,4 @@
             **比赛权重** : 0  
             **赛事主办** : ĀYŌDÈ (https://ctftime.org/team/418961)  
             **添加日历** : https://ctftime.org/event/3422.ics  
-            
-        ??? Quote "[BCS CTF 2026](https://ctf.bcsictfest.com/)"  
-            [![](https://ctftime.org/media/events/logo_134.png){ width="200" align=left }](https://ctf.bcsictfest.com/)  
-            **比赛名称** : [BCS CTF 2026](https://ctf.bcsictfest.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-09-25 22:00:00 - 2026-09-27 22:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : bdhxgrp (https://ctftime.org/team/193805)  
-            **添加日历** : https://ctftime.org/event/3374.ics  
-            
-        ??? Quote "[H7CTF 2026 Quals](https://2026.h7tex.com/)"  
-            [![](https://ctftime.org/media/events/IMG-20251015-WA0045.jpg){ width="200" align=left }](https://2026.h7tex.com/)  
-            **比赛名称** : [H7CTF 2026 Quals](https://2026.h7tex.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-09-26 11:30:00 - 2026-09-27 23:30:00 UTC+8  
-            **比赛权重** : 27.49  
-            **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
-            **添加日历** : https://ctftime.org/event/3093.ics  
-            
-        ??? Quote "[FAUST CTF 2026](https://2026.faustctf.net/)"  
-            [![](https://ctftime.org/media/events/faustctf2026.png){ width="200" align=left }](https://2026.faustctf.net/)  
-            **比赛名称** : [FAUST CTF 2026](https://2026.faustctf.net/)  
-            **比赛形式** : Attack-Defense  
-            **比赛时间** : 2026-09-26 20:00:00 - 2026-09-27 05:00:00 UTC+8  
-            **比赛权重** : 72.29  
-            **赛事主办** : FAUST (https://ctftime.org/team/550)  
-            **添加日历** : https://ctftime.org/event/3312.ics  
             
