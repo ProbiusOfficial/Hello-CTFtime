@@ -9,7 +9,7 @@ comments: true
 
 ## 国际赛事
 ??? Quote "[LUN4R CTF Quals](https://lunar.rootriet.in/)"  
-    [![](){ width="200" align=left }](https://lunar.rootriet.in/)  
+    [![](https://ctftime.org/media/events/trans_square_logo_SMOL.jpg){ width="200" align=left }](https://lunar.rootriet.in/)  
     **比赛名称** : [LUN4R CTF Quals](https://lunar.rootriet.in/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-09-20 12:30:00 - 2026-09-21 00:30:00 UTC+8  
