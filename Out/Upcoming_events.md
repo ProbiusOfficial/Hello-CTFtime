@@ -360,15 +360,6 @@ comments: true
     **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
     **添加日历** : https://ctftime.org/event/3337.ics  
     
-??? Quote "[SwampCTF 2026](https://ctf.swampctf.com/)"  
-    [![](){ width="200" align=left }](https://ctf.swampctf.com/)  
-    **比赛名称** : [SwampCTF 2026](https://ctf.swampctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-11-21 05:00:00 - 2026-11-23 05:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Kernel Sanders (https://ctftime.org/team/397)  
-    **添加日历** : https://ctftime.org/event/3118.ics  
-    
 ??? Quote "[Outback Overflow](http://hscyber.org/)"  
     [![](https://ctftime.org/media/events/logo_137.png){ width="200" align=left }](http://hscyber.org/)  
     **比赛名称** : [Outback Overflow](http://hscyber.org/)  
