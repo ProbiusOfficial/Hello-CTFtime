@@ -1,41 +1,5 @@
 [
     {
-        "比赛名称": "NileCTF",
-        "比赛时间": "2026-09-25 20:00:00 - 2026-09-27 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3449.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://nilectf.com/register",
-        "比赛标志": "https://ctftime.org/media/events/logo_1000x1000.jpg",
-        "比赛权重": "0",
-        "赛事主办": "Cyb3r_Ph4nt0ms (https://ctftime.org/team/386121)",
-        "比赛ID": "1634",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "FlightPath2026",
-        "比赛时间": "2026-09-25 21:30:00 - 2026-09-28 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3422.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://setyourvector.org/",
-        "比赛标志": "https://ctftime.org/media/events/logo_136.png",
-        "比赛权重": "0",
-        "赛事主办": "ĀYŌDÈ (https://ctftime.org/team/418961)",
-        "比赛ID": "1632",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "BCS CTF 2026",
-        "比赛时间": "2026-09-25 22:00:00 - 2026-09-27 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3374.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.bcsictfest.com/",
-        "比赛标志": "https://ctftime.org/media/events/logo_134.png",
-        "比赛权重": "0.00",
-        "赛事主办": "bdhxgrp (https://ctftime.org/team/193805)",
-        "比赛ID": "1653",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "H7CTF 2026 Quals",
         "比赛时间": "2026-09-26 11:30:00 - 2026-09-27 23:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3093.ics",
@@ -561,6 +525,42 @@
         "比赛权重": "0.00",
         "赛事主办": "CyberXoX (https://ctftime.org/team/374041)",
         "比赛ID": "1633",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "NileCTF",
+        "比赛时间": "2026-09-25 20:00:00 - 2026-09-27 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3449.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://nilectf.com/register",
+        "比赛标志": "https://ctftime.org/media/events/logo_1000x1000.jpg",
+        "比赛权重": "0",
+        "赛事主办": "Cyb3r_Ph4nt0ms (https://ctftime.org/team/386121)",
+        "比赛ID": "1634",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "FlightPath2026",
+        "比赛时间": "2026-09-25 21:30:00 - 2026-09-28 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3422.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://setyourvector.org/",
+        "比赛标志": "https://ctftime.org/media/events/logo_136.png",
+        "比赛权重": "0",
+        "赛事主办": "ĀYŌDÈ (https://ctftime.org/team/418961)",
+        "比赛ID": "1632",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "BCS CTF 2026",
+        "比赛时间": "2026-09-25 22:00:00 - 2026-09-27 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3374.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.bcsictfest.com/",
+        "比赛标志": "https://ctftime.org/media/events/logo_134.png",
+        "比赛权重": "0",
+        "赛事主办": "bdhxgrp (https://ctftime.org/team/193805)",
+        "比赛ID": "1653",
         "比赛状态": "nowrunning"
     },
     {
