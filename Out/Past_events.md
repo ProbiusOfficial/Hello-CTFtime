@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[Null Origin CTF 2026: Grand finale](https://nullorigin.cyberhx.com/)"  
+    [![](https://ctftime.org/media/events/file_0000000065a081fa80a2e85b40506ca9.png){ width="200" align=left }](https://nullorigin.cyberhx.com/)  
+    **比赛名称** : [Null Origin CTF 2026: Grand finale](https://nullorigin.cyberhx.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-25 12:30:00 - 2026-09-26 00:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : CyberXoX (https://ctftime.org/team/374041)  
+    **添加日历** : https://ctftime.org/event/3454.ics  
+    
 ??? Quote "[LUN4R CTF Quals](https://lunar.rootriet.in/)"  
     [![](https://ctftime.org/media/events/trans_square_logo_SMOL.jpg){ width="200" align=left }](https://lunar.rootriet.in/)  
     **比赛名称** : [LUN4R CTF Quals](https://lunar.rootriet.in/)  
@@ -94,7 +103,7 @@ comments: true
     **比赛名称** : [NullOrigin CTF Qualifiers](https://nullorigin.cyberhx.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-09-18 12:30:00 - 2026-09-19 00:30:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : CyberXoX (https://ctftime.org/team/374041)  
     **添加日历** : https://ctftime.org/event/3346.ics  
     
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Hardware CTF (https://ctftime.org/team/274600)  
     **添加日历** : https://ctftime.org/event/3174.ics  
-    
-??? Quote "[HASBLCTF26](https://www.hasblctf.tech/)"  
-    [![](https://ctftime.org/media/events/logo_128.png){ width="200" align=left }](https://www.hasblctf.tech/)  
-    **比赛名称** : [HASBLCTF26](https://www.hasblctf.tech/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-30 01:00:00 - 2026-06-01 01:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : ExploitsFromHeaven1337 (https://ctftime.org/team/435592)  
-    **添加日历** : https://ctftime.org/event/3301.ics  
     
