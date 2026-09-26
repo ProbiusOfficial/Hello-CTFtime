@@ -401,15 +401,6 @@
                 **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
                 **添加日历** : https://ctftime.org/event/3093.ics  
                 
-            ??? Quote "[FAUST CTF 2026](https://2026.faustctf.net/)"  
-                [![](https://ctftime.org/media/events/faustctf2026.png){ width="200" align=left }](https://2026.faustctf.net/)  
-                **比赛名称** : [FAUST CTF 2026](https://2026.faustctf.net/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2026-09-26 20:00:00 - 2026-09-27 05:00:00 UTC+8  
-                **比赛权重** : 72.29  
-                **赛事主办** : FAUST (https://ctftime.org/team/550)  
-                **添加日历** : https://ctftime.org/event/3312.ics  
-                
             ??? Quote "[SunshineCTF 2026](https://sunshinectf.org/)"  
                 [![](https://ctftime.org/media/events/sunshinectf25_logo.png){ width="200" align=left }](https://sunshinectf.org/)  
                 **比赛名称** : [SunshineCTF 2026](https://sunshinectf.org/)  
@@ -423,6 +414,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[FAUST CTF 2026](https://2026.faustctf.net/)"  
+                [![](https://ctftime.org/media/events/faustctf2026.png){ width="200" align=left }](https://2026.faustctf.net/)  
+                **比赛名称** : [FAUST CTF 2026](https://2026.faustctf.net/)  
+                **比赛形式** : Attack-Defense  
+                **比赛时间** : 2026-09-26 20:00:00 - 2026-09-27 05:00:00 UTC+8  
+                **比赛权重** : 72.29  
+                **赛事主办** : FAUST (https://ctftime.org/team/550)  
+                **添加日历** : https://ctftime.org/event/3312.ics  
+                
             ??? Quote "[Null Origin CTF 2026: Grand finale](https://nullorigin.cyberhx.com/)"  
                 [![](https://ctftime.org/media/events/file_0000000065a081fa80a2e85b40506ca9.png){ width="200" align=left }](https://nullorigin.cyberhx.com/)  
                 **比赛名称** : [Null Origin CTF 2026: Grand finale](https://nullorigin.cyberhx.com/)  
@@ -1313,13 +1313,4 @@
                 **比赛权重** : 53.29  
                 **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
                 **添加日历** : https://ctftime.org/event/3247.ics  
-                
-            ??? Quote "[THEM?!CTF 2026](https://ctf.themctf.com/)"  
-                [![](https://ctftime.org/media/events/THEMCTF_2026_logo_black.png){ width="200" align=left }](https://ctf.themctf.com/)  
-                **比赛名称** : [THEM?!CTF 2026](https://ctf.themctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-30 02:00:00 - 2026-06-01 02:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : THEM?! (https://ctftime.org/team/387399)  
-                **添加日历** : https://ctftime.org/event/3209.ics  
                 
