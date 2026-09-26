@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[H7CTF 2026 Quals](https://2026.h7tex.com/)"  
-                [![](https://ctftime.org/media/events/IMG-20251015-WA0045.jpg){ width="200" align=left }](https://2026.h7tex.com/)  
-                **比赛名称** : [H7CTF 2026 Quals](https://2026.h7tex.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-09-26 11:30:00 - 2026-09-27 23:30:00 UTC+8  
-                **比赛权重** : 27.49  
-                **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
-                **添加日历** : https://ctftime.org/event/3093.ics  
-                
             ??? Quote "[FAUST CTF 2026](https://2026.faustctf.net/)"  
                 [![](https://ctftime.org/media/events/faustctf2026.png){ width="200" align=left }](https://2026.faustctf.net/)  
                 **比赛名称** : [FAUST CTF 2026](https://2026.faustctf.net/)  
@@ -392,15 +383,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[BreachPoint 2026](https://breachpoint.axios.live/)"  
-                [![](https://ctftime.org/media/events/logo-brc.jpg){ width="200" align=left }](https://breachpoint.axios.live/)  
-                **比赛名称** : [BreachPoint 2026](https://breachpoint.axios.live/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-09-25 12:00:00 - 2026-09-26 16:30:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : pulse_0x1337 (https://ctftime.org/team/448857)  
-                **添加日历** : https://ctftime.org/event/3451.ics  
-                
             ??? Quote "[NileCTF](https://nilectf.com/register)"  
                 [![](https://ctftime.org/media/events/logo_1000x1000.jpg){ width="200" align=left }](https://nilectf.com/register)  
                 **比赛名称** : [NileCTF](https://nilectf.com/register)  
@@ -428,6 +410,15 @@
                 **赛事主办** : bdhxgrp (https://ctftime.org/team/193805)  
                 **添加日历** : https://ctftime.org/event/3374.ics  
                 
+            ??? Quote "[H7CTF 2026 Quals](https://2026.h7tex.com/)"  
+                [![](https://ctftime.org/media/events/IMG-20251015-WA0045.jpg){ width="200" align=left }](https://2026.h7tex.com/)  
+                **比赛名称** : [H7CTF 2026 Quals](https://2026.h7tex.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-09-26 11:30:00 - 2026-09-27 23:30:00 UTC+8  
+                **比赛权重** : 27.49  
+                **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
+                **添加日历** : https://ctftime.org/event/3093.ics  
+                
     === "*已经结束*"
         === "国内赛事"
     
@@ -440,6 +431,15 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : CyberXoX (https://ctftime.org/team/374041)  
                 **添加日历** : https://ctftime.org/event/3454.ics  
+                
+            ??? Quote "[BreachPoint 2026](https://breachpoint.axios.live/)"  
+                [![](https://ctftime.org/media/events/logo-brc.jpg){ width="200" align=left }](https://breachpoint.axios.live/)  
+                **比赛名称** : [BreachPoint 2026](https://breachpoint.axios.live/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-09-25 12:00:00 - 2026-09-26 16:30:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : pulse_0x1337 (https://ctftime.org/team/448857)  
+                **添加日历** : https://ctftime.org/event/3451.ics  
                 
             ??? Quote "[LUN4R CTF Quals](https://lunar.rootriet.in/)"  
                 [![](https://ctftime.org/media/events/trans_square_logo_SMOL.jpg){ width="200" align=left }](https://lunar.rootriet.in/)  
@@ -1322,13 +1322,4 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : THEM?! (https://ctftime.org/team/387399)  
                 **添加日历** : https://ctftime.org/event/3209.ics  
-                
-            ??? Quote "[Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)"  
-                [![](https://ctftime.org/media/events/logohwcolor_17.png){ width="200" align=left }](https://hwc.tf/)  
-                **比赛名称** : [Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-30 01:00:00 - 2026-05-31 04:50:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Hardware CTF (https://ctftime.org/team/274600)  
-                **添加日历** : https://ctftime.org/event/3174.ics  
                 

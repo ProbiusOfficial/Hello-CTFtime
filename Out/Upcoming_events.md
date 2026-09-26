@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[H7CTF 2026 Quals](https://2026.h7tex.com/)"  
-    [![](https://ctftime.org/media/events/IMG-20251015-WA0045.jpg){ width="200" align=left }](https://2026.h7tex.com/)  
-    **比赛名称** : [H7CTF 2026 Quals](https://2026.h7tex.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-09-26 11:30:00 - 2026-09-27 23:30:00 UTC+8  
-    **比赛权重** : 27.49  
-    **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
-    **添加日历** : https://ctftime.org/event/3093.ics  
-    
 ??? Quote "[FAUST CTF 2026](https://2026.faustctf.net/)"  
     [![](https://ctftime.org/media/events/faustctf2026.png){ width="200" align=left }](https://2026.faustctf.net/)  
     **比赛名称** : [FAUST CTF 2026](https://2026.faustctf.net/)  

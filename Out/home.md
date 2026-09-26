@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[H7CTF 2026 Quals](https://2026.h7tex.com/)"  
-            [![](https://ctftime.org/media/events/IMG-20251015-WA0045.jpg){ width="200" align=left }](https://2026.h7tex.com/)  
-            **比赛名称** : [H7CTF 2026 Quals](https://2026.h7tex.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-09-26 11:30:00 - 2026-09-27 23:30:00 UTC+8  
-            **比赛权重** : 27.49  
-            **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
-            **添加日历** : https://ctftime.org/event/3093.ics  
-            
         ??? Quote "[FAUST CTF 2026](https://2026.faustctf.net/)"  
             [![](https://ctftime.org/media/events/faustctf2026.png){ width="200" align=left }](https://2026.faustctf.net/)  
             **比赛名称** : [FAUST CTF 2026](https://2026.faustctf.net/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0  
             **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
             **添加日历** : https://ctftime.org/event/3020.ics  
+            
+        ??? Quote "[SCAN 2026 Final](https://scan.sx/)"  
+            [![](https://ctftime.org/media/events/32x32_icon_1.png){ width="200" align=left }](https://scan.sx/)  
+            **比赛名称** : [SCAN 2026 Final](https://scan.sx/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-09-28 09:00:00 - 2026-09-28 16:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
+            **添加日历** : https://ctftime.org/event/3417.ics  
             

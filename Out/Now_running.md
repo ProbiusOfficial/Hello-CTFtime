@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[BreachPoint 2026](https://breachpoint.axios.live/)"  
-    [![](https://ctftime.org/media/events/logo-brc.jpg){ width="200" align=left }](https://breachpoint.axios.live/)  
-    **比赛名称** : [BreachPoint 2026](https://breachpoint.axios.live/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-09-25 12:00:00 - 2026-09-26 16:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : pulse_0x1337 (https://ctftime.org/team/448857)  
-    **添加日历** : https://ctftime.org/event/3451.ics  
-    
 ??? Quote "[NileCTF](https://nilectf.com/register)"  
     [![](https://ctftime.org/media/events/logo_1000x1000.jpg){ width="200" align=left }](https://nilectf.com/register)  
     **比赛名称** : [NileCTF](https://nilectf.com/register)  
@@ -44,4 +35,13 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : bdhxgrp (https://ctftime.org/team/193805)  
     **添加日历** : https://ctftime.org/event/3374.ics  
+    
+??? Quote "[H7CTF 2026 Quals](https://2026.h7tex.com/)"  
+    [![](https://ctftime.org/media/events/IMG-20251015-WA0045.jpg){ width="200" align=left }](https://2026.h7tex.com/)  
+    **比赛名称** : [H7CTF 2026 Quals](https://2026.h7tex.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-26 11:30:00 - 2026-09-27 23:30:00 UTC+8  
+    **比赛权重** : 27.49  
+    **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
+    **添加日历** : https://ctftime.org/event/3093.ics  
     
