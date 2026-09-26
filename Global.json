@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "FAUST CTF 2026",
-        "比赛时间": "2026-09-26 20:00:00 - 2026-09-27 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3312.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "https://2026.faustctf.net/",
-        "比赛标志": "https://ctftime.org/media/events/faustctf2026.png",
-        "比赛权重": "72.29",
-        "赛事主办": "FAUST (https://ctftime.org/team/550)",
-        "比赛ID": "117",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "SunshineCTF 2026",
-        "比赛时间": "2026-09-26 22:00:00 - 2026-09-28 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3399.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://sunshinectf.org/",
-        "比赛标志": "https://ctftime.org/media/events/sunshinectf25_logo.png",
-        "比赛权重": "51.63",
-        "赛事主办": "Knightsec (https://ctftime.org/team/2500)",
-        "比赛ID": "137",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Pointer Overflow CTF - 2026",
         "比赛时间": "2026-09-27 22:00:00 - 2026-12-06 22:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3020.ics",
@@ -537,6 +513,30 @@
         "比赛权重": "27.49",
         "赛事主办": "H7Tex (https://ctftime.org/team/281844)",
         "比赛ID": "1169",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "FAUST CTF 2026",
+        "比赛时间": "2026-09-26 20:00:00 - 2026-09-27 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3312.ics",
+        "比赛形式": "Attack-Defense",
+        "比赛链接": "https://2026.faustctf.net/",
+        "比赛标志": "https://ctftime.org/media/events/faustctf2026.png",
+        "比赛权重": "72.29",
+        "赛事主办": "FAUST (https://ctftime.org/team/550)",
+        "比赛ID": "117",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "SunshineCTF 2026",
+        "比赛时间": "2026-09-26 22:00:00 - 2026-09-28 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3399.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://sunshinectf.org/",
+        "比赛标志": "https://ctftime.org/media/events/sunshinectf25_logo.png",
+        "比赛权重": "51.63",
+        "赛事主办": "Knightsec (https://ctftime.org/team/2500)",
+        "比赛ID": "137",
         "比赛状态": "nowrunning"
     },
     {
