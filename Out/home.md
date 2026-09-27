@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Pointer Overflow CTF - 2026](https://pointeroverflowctf.com/)"  
-            [![](https://ctftime.org/media/events/logo-mini.png){ width="200" align=left }](https://pointeroverflowctf.com/)  
-            **比赛名称** : [Pointer Overflow CTF - 2026](https://pointeroverflowctf.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-09-27 22:00:00 - 2026-12-06 22:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
-            **添加日历** : https://ctftime.org/event/3020.ics  
-            
         ??? Quote "[SCAN 2026 Final](https://scan.sx/)"  
             [![](https://ctftime.org/media/events/32x32_icon_1.png){ width="200" align=left }](https://scan.sx/)  
             **比赛名称** : [SCAN 2026 Final](https://scan.sx/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
             **添加日历** : https://ctftime.org/event/3380.ics  
+            
+        ??? Quote "[Securinets CTF Quals 2026](https://ctf.securinets.tn/)"  
+            [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://ctf.securinets.tn/)  
+            **比赛名称** : [Securinets CTF Quals 2026](https://ctf.securinets.tn/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-10-03 17:00:00 - 2026-10-05 05:00:00 UTC+8  
+            **比赛权重** : 85.12  
+            **赛事主办** : Securinets (https://ctftime.org/team/5084)  
+            **添加日历** : https://ctftime.org/event/3364.ics  
             
