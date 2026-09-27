@@ -35,6 +35,15 @@ comments: true
     **赛事主办** : bdhxgrp (https://ctftime.org/team/193805)  
     **添加日历** : https://ctftime.org/event/3374.ics  
     
+??? Quote "[FlightPath2026](http://setyourvector.org/)"  
+    [![](https://ctftime.org/media/events/logo_136.png){ width="200" align=left }](http://setyourvector.org/)  
+    **比赛名称** : [FlightPath2026](http://setyourvector.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-25 21:30:00 - 2026-09-28 05:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : ĀYŌDÈ (https://ctftime.org/team/418961)  
+    **添加日历** : https://ctftime.org/event/3422.ics  
+    
 ??? Quote "[NileCTF](https://nilectf.com/register)"  
     [![](https://ctftime.org/media/events/logo_1000x1000.jpg){ width="200" align=left }](https://nilectf.com/register)  
     **比赛名称** : [NileCTF](https://nilectf.com/register)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : DMUHackers26 (https://ctftime.org/team/392860)  
     **添加日历** : https://ctftime.org/event/3220.ics  
-    
-??? Quote "[WhiteHats TrojanCTF 2026](https://eshatrojan.nl/trojanctf)"  
-    [![](){ width="200" align=left }](https://eshatrojan.nl/trojanctf)  
-    **比赛名称** : [WhiteHats TrojanCTF 2026](https://eshatrojan.nl/trojanctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-30 17:00:00 - 2026-05-31 03:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : E.S.H.A. Trojan (https://ctftime.org/team/248605)  
-    **添加日历** : https://ctftime.org/event/3243.ics  
     

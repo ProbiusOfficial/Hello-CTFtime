@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[FlightPath2026](http://setyourvector.org/)"  
-    [![](https://ctftime.org/media/events/logo_136.png){ width="200" align=left }](http://setyourvector.org/)  
-    **比赛名称** : [FlightPath2026](http://setyourvector.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-09-25 21:30:00 - 2026-09-28 05:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : ĀYŌDÈ (https://ctftime.org/team/418961)  
-    **添加日历** : https://ctftime.org/event/3422.ics  
-    
 ??? Quote "[SunshineCTF 2026](https://sunshinectf.org/)"  
     [![](https://ctftime.org/media/events/sunshinectf25_logo.png){ width="200" align=left }](https://sunshinectf.org/)  
     **比赛名称** : [SunshineCTF 2026](https://sunshinectf.org/)  
