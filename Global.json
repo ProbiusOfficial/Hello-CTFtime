@@ -618,7 +618,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.xposedornot.com/",
         "比赛标志": "https://ctftime.org/media/events/WatchList_Twitter_Profile.png",
-        "比赛权重": "0",
+        "比赛权重": "23.42",
         "赛事主办": "WatchList CTF (https://ctftime.org/team/436923)",
         "比赛ID": "1614",
         "比赛状态": "past"
@@ -630,7 +630,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://cyberleague.co/",
         "比赛标志": "",
-        "比赛权重": "0",
+        "比赛权重": "0.00",
         "赛事主办": "DIV0-N0H4TS (https://ctftime.org/team/354275)",
         "比赛ID": "1183",
         "比赛状态": "past"

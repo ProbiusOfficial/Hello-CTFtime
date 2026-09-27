@@ -482,7 +482,7 @@
                 **比赛名称** : [WATCHLIST](https://ctf.xposedornot.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-09-19 11:30:00 - 2026-09-20 11:30:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 23.42  
                 **赛事主办** : WatchList CTF (https://ctftime.org/team/436923)  
                 **添加日历** : https://ctftime.org/event/3326.ics  
                 
@@ -491,7 +491,7 @@
                 **比赛名称** : [Cyber League 2026 - Major](https://cyberleague.co/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-09-19 10:00:00 - 2026-09-20 10:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 0.00  
                 **赛事主办** : DIV0-N0H4TS (https://ctftime.org/team/354275)  
                 **添加日历** : https://ctftime.org/event/3412.ics  
                 
