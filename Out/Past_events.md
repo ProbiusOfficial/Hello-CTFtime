@@ -17,6 +17,15 @@ comments: true
     **赛事主办** : FAUST (https://ctftime.org/team/550)  
     **添加日历** : https://ctftime.org/event/3312.ics  
     
+??? Quote "[NileCTF](https://nilectf.com/register)"  
+    [![](https://ctftime.org/media/events/logo_1000x1000.jpg){ width="200" align=left }](https://nilectf.com/register)  
+    **比赛名称** : [NileCTF](https://nilectf.com/register)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-25 20:00:00 - 2026-09-27 20:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Cyb3r_Ph4nt0ms (https://ctftime.org/team/386121)  
+    **添加日历** : https://ctftime.org/event/3449.ics  
+    
 ??? Quote "[Null Origin CTF 2026: Grand finale](https://nullorigin.cyberhx.com/)"  
     [![](https://ctftime.org/media/events/file_0000000065a081fa80a2e85b40506ca9.png){ width="200" align=left }](https://nullorigin.cyberhx.com/)  
     **比赛名称** : [Null Origin CTF 2026: Grand finale](https://nullorigin.cyberhx.com/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 47.50  
     **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
     **添加日历** : https://ctftime.org/event/3178.ics  
-    
-??? Quote "[BYUCTF 2026](https://ctfd.cyberjousting.com/)"  
-    [![](https://ctftime.org/media/events/cougar.png){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
-    **比赛名称** : [BYUCTF 2026](https://ctfd.cyberjousting.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-30 08:00:00 - 2026-05-31 08:00:00 UTC+8  
-    **比赛权重** : 53.29  
-    **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
-    **添加日历** : https://ctftime.org/event/3247.ics  
     

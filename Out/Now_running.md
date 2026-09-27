@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[NileCTF](https://nilectf.com/register)"  
-    [![](https://ctftime.org/media/events/logo_1000x1000.jpg){ width="200" align=left }](https://nilectf.com/register)  
-    **比赛名称** : [NileCTF](https://nilectf.com/register)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-09-25 20:00:00 - 2026-09-27 20:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Cyb3r_Ph4nt0ms (https://ctftime.org/team/386121)  
-    **添加日历** : https://ctftime.org/event/3449.ics  
-    
 ??? Quote "[FlightPath2026](http://setyourvector.org/)"  
     [![](https://ctftime.org/media/events/logo_136.png){ width="200" align=left }](http://setyourvector.org/)  
     **比赛名称** : [FlightPath2026](http://setyourvector.org/)  
