@@ -27,12 +27,3 @@ comments: true
     **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
     **添加日历** : https://ctftime.org/event/3020.ics  
     
-??? Quote "[SCAN 2026 Final](https://scan.sx/)"  
-    [![](https://ctftime.org/media/events/32x32_icon_1.png){ width="200" align=left }](https://scan.sx/)  
-    **比赛名称** : [SCAN 2026 Final](https://scan.sx/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-09-28 09:00:00 - 2026-09-28 16:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
-    **添加日历** : https://ctftime.org/event/3417.ics  
-    

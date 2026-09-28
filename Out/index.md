@@ -365,6 +365,10 @@
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/3020.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[SCAN 2026 Final](https://scan.sx/)"  
                 [![](https://ctftime.org/media/events/32x32_icon_1.png){ width="200" align=left }](https://scan.sx/)  
                 **比赛名称** : [SCAN 2026 Final](https://scan.sx/)  
@@ -374,10 +378,6 @@
                 **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
                 **添加日历** : https://ctftime.org/event/3417.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[FAUST CTF 2026](https://2026.faustctf.net/)"  
                 [![](https://ctftime.org/media/events/faustctf2026.png){ width="200" align=left }](https://2026.faustctf.net/)  
                 **比赛名称** : [FAUST CTF 2026](https://2026.faustctf.net/)  
@@ -1268,13 +1268,4 @@
                 **比赛权重** : 24.75  
                 **赛事主办** : bhackari (https://ctftime.org/team/194130)  
                 **添加日历** : https://ctftime.org/event/3302.ics  
-                
-            ??? Quote "[Pwn2Play Open CTF](https://pwn2play.biterra.co/)"  
-                [![](https://ctftime.org/media/events/2025.png){ width="200" align=left }](https://pwn2play.biterra.co/)  
-                **比赛名称** : [Pwn2Play Open CTF](https://pwn2play.biterra.co/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-30 17:00:00 - 2026-05-31 02:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : DMUHackers26 (https://ctftime.org/team/392860)  
-                **添加日历** : https://ctftime.org/event/3220.ics  
                 
