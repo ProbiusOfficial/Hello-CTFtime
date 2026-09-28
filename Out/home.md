@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[SCAN 2026 Final](https://scan.sx/)"  
-            [![](https://ctftime.org/media/events/32x32_icon_1.png){ width="200" align=left }](https://scan.sx/)  
-            **比赛名称** : [SCAN 2026 Final](https://scan.sx/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-09-28 09:00:00 - 2026-09-28 16:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
-            **添加日历** : https://ctftime.org/event/3417.ics  
-            
         ??? Quote "[CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)"  
             [![](https://ctftime.org/media/events/dbdeeab4624f46479b54527337e9e860.png){ width="200" align=left }](https://ctf.cybersecurity.sydney/)  
             **比赛名称** : [CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 85.12  
             **赛事主办** : Securinets (https://ctftime.org/team/5084)  
             **添加日历** : https://ctftime.org/event/3364.ics  
+            
+        ??? Quote "[CubeCTF 2026](https://cubectf.com/)"  
+            [![](https://ctftime.org/media/events/5097d73fb21778d02f541a3fdef957f3_1.jpg){ width="200" align=left }](https://cubectf.com/)  
+            **比赛名称** : [CubeCTF 2026](https://cubectf.com/)  
+            **比赛形式** : Attack-Defense  
+            **比赛时间** : 2026-10-03 22:00:00 - 2026-10-04 06:00:00 UTC+8  
+            **比赛权重** : 24.71  
+            **赛事主办** : CubeMastery (https://ctftime.org/team/168744)  
+            **添加日历** : https://ctftime.org/event/3352.ics  
             
