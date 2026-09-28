@@ -27,15 +27,6 @@ comments: true
     **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
     **添加日历** : https://ctftime.org/event/3380.ics  
     
-??? Quote "[Securinets CTF Quals 2026](https://ctf.securinets.tn/)"  
-    [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://ctf.securinets.tn/)  
-    **比赛名称** : [Securinets CTF Quals 2026](https://ctf.securinets.tn/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-10-03 17:00:00 - 2026-10-05 05:00:00 UTC+8  
-    **比赛权重** : 85.12  
-    **赛事主办** : Securinets (https://ctftime.org/team/5084)  
-    **添加日历** : https://ctftime.org/event/3364.ics  
-    
 ??? Quote "[CubeCTF 2026](https://cubectf.com/)"  
     [![](https://ctftime.org/media/events/5097d73fb21778d02f541a3fdef957f3_1.jpg){ width="200" align=left }](https://cubectf.com/)  
     **比赛名称** : [CubeCTF 2026](https://cubectf.com/)  
@@ -98,6 +89,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : GaianSpace (https://ctftime.org/team/373034)  
     **添加日历** : https://ctftime.org/event/3354.ics  
+    
+??? Quote "[Securinets CTF Quals 2026](https://ctf.securinets.tn/)"  
+    [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://ctf.securinets.tn/)  
+    **比赛名称** : [Securinets CTF Quals 2026](https://ctf.securinets.tn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-17 17:00:00 - 2026-10-19 05:00:00 UTC+8  
+    **比赛权重** : 85.12  
+    **赛事主办** : Securinets (https://ctftime.org/team/5084)  
+    **添加日历** : https://ctftime.org/event/3364.ics  
     
 ??? Quote "[DEADFACE CTF 2026](https://ctf.deadface.io/)"  
     [![](https://ctftime.org/media/events/logo_deadface_ctf_2026.png){ width="200" align=left }](https://ctf.deadface.io/)  

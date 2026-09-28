@@ -24,18 +24,6 @@
         "比赛状态": "oncoming"
     },
     {
-        "比赛名称": "Securinets CTF Quals 2026",
-        "比赛时间": "2026-10-03 17:00:00 - 2026-10-05 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3364.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.securinets.tn/",
-        "比赛标志": "https://ctftime.org/media/events/logo_red_copy_1_2.jpg",
-        "比赛权重": "85.12",
-        "赛事主办": "Securinets (https://ctftime.org/team/5084)",
-        "比赛ID": "105",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "CubeCTF 2026",
         "比赛时间": "2026-10-03 22:00:00 - 2026-10-04 06:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3352.ics",
@@ -117,6 +105,18 @@
         "比赛权重": "0.00",
         "赛事主办": "GaianSpace (https://ctftime.org/team/373034)",
         "比赛ID": "1284",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "Securinets CTF Quals 2026",
+        "比赛时间": "2026-10-17 17:00:00 - 2026-10-19 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3364.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.securinets.tn/",
+        "比赛标志": "https://ctftime.org/media/events/logo_red_copy_1_2.jpg",
+        "比赛权重": "85.12",
+        "赛事主办": "Securinets (https://ctftime.org/team/5084)",
+        "比赛ID": "105",
         "比赛状态": "oncoming"
     },
     {
