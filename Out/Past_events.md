@@ -17,6 +17,15 @@ comments: true
     **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
     **添加日历** : https://ctftime.org/event/3417.ics  
     
+??? Quote "[SunshineCTF 2026](https://sunshinectf.org/)"  
+    [![](https://ctftime.org/media/events/sunshinectf25_logo.png){ width="200" align=left }](https://sunshinectf.org/)  
+    **比赛名称** : [SunshineCTF 2026](https://sunshinectf.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-26 22:00:00 - 2026-09-28 22:00:00 UTC+8  
+    **比赛权重** : 51.63  
+    **赛事主办** : Knightsec (https://ctftime.org/team/2500)  
+    **添加日历** : https://ctftime.org/event/3399.ics  
+    
 ??? Quote "[FAUST CTF 2026](https://2026.faustctf.net/)"  
     [![](https://ctftime.org/media/events/faustctf2026.png){ width="200" align=left }](https://2026.faustctf.net/)  
     **比赛名称** : [FAUST CTF 2026](https://2026.faustctf.net/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 69.00  
     **赛事主办** : KITCTF (https://ctftime.org/team/7221)  
     **添加日历** : https://ctftime.org/event/3041.ics  
-    
-??? Quote "[bhackari CTF 2026](https://ctf.bhackari.it/)"  
-    [![](https://ctftime.org/media/events/bhackari_logo_squared_white.png){ width="200" align=left }](https://ctf.bhackari.it/)  
-    **比赛名称** : [bhackari CTF 2026](https://ctf.bhackari.it/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-30 18:00:00 - 2026-05-31 18:00:00 UTC+8  
-    **比赛权重** : 24.75  
-    **赛事主办** : bhackari (https://ctftime.org/team/194130)  
-    **添加日历** : https://ctftime.org/event/3302.ics  
     
