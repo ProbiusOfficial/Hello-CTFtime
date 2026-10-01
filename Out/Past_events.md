@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)"  
+    [![](https://ctftime.org/media/events/dbdeeab4624f46479b54527337e9e860.png){ width="200" align=left }](https://ctf.cybersecurity.sydney/)  
+    **比赛名称** : [CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-30 14:00:00 - 2026-10-02 06:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : suɐǝpodᴉʇuɐ (https://ctftime.org/team/382153)  
+    **添加日历** : https://ctftime.org/event/3434.ics  
+    
 ??? Quote "[SCAN 2026 Final](https://scan.sx/)"  
     [![](https://ctftime.org/media/events/32x32_icon_1.png){ width="200" align=left }](https://scan.sx/)  
     **比赛名称** : [SCAN 2026 Final](https://scan.sx/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : RPCA Cyber Club (https://ctftime.org/team/132960)  
     **添加日历** : https://ctftime.org/event/3278.ics  
-    
-??? Quote "[GPN CTF 2026](https://gpn24.ctf.kitctf.de/)"  
-    [![](https://ctftime.org/media/events/gulash_1.png){ width="200" align=left }](https://gpn24.ctf.kitctf.de/)  
-    **比赛名称** : [GPN CTF 2026](https://gpn24.ctf.kitctf.de/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-05 18:00:00 - 2026-06-07 06:00:00 UTC+8  
-    **比赛权重** : 69.00  
-    **赛事主办** : KITCTF (https://ctftime.org/team/7221)  
-    **添加日历** : https://ctftime.org/event/3041.ics  
     
