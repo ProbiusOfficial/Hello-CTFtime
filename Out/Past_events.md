@@ -895,7 +895,7 @@ comments: true
     **比赛名称** : [ZeroDay Heist 2026](https://ctf.cyberhx.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-06-06 14:30:00 - 2026-06-06 20:30:00 UTC+8  
-    **比赛权重** : 24.33  
+    **比赛权重** : 24.00  
     **赛事主办** : CyberXoX (https://ctftime.org/team/374041)  
     **添加日历** : https://ctftime.org/event/3308.ics  
     
