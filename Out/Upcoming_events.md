@@ -9,6 +9,15 @@ comments: true
 
 ## 国际赛事
 
+??? Quote "[Lun4R CTF Final](https://ctf.rootriet.in/)"  
+    [![](){ width="200" align=left }](https://ctf.rootriet.in/)  
+    **比赛名称** : [Lun4R CTF Final](https://ctf.rootriet.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-03 13:30:00 - 2026-10-04 13:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : b33tro0t (https://ctftime.org/team/380826)  
+    **添加日历** : https://ctftime.org/event/3465.ics  
+    
 ??? Quote "[CubeCTF 2026](https://cubectf.com/)"  
     [![](https://ctftime.org/media/events/5097d73fb21778d02f541a3fdef957f3_1.jpg){ width="200" align=left }](https://cubectf.com/)  
     **比赛名称** : [CubeCTF 2026](https://cubectf.com/)  
@@ -53,6 +62,24 @@ comments: true
     **比赛权重** : 45.00  
     **赛事主办** : TBTL (https://ctftime.org/team/170112)  
     **添加日历** : https://ctftime.org/event/3440.ics  
+    
+??? Quote "[kBxAc CTF 2026](https://ctf.kbxac.xyz/)"  
+    [![](https://ctftime.org/media/events/kbxac_1.png){ width="200" align=left }](https://ctf.kbxac.xyz/)  
+    **比赛名称** : [kBxAc CTF 2026](https://ctf.kbxac.xyz/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-10 02:30:00 - 2026-10-11 02:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : kBxAc (https://ctftime.org/team/358282)  
+    **添加日历** : https://ctftime.org/event/3456.ics  
+    
+??? Quote "[isfcr{ctf} 2026 Quals](https://isfcr.xyz/)"  
+    [![](https://ctftime.org/media/events/v7_1.png){ width="200" align=left }](https://isfcr.xyz/)  
+    **比赛名称** : [isfcr{ctf} 2026 Quals](https://isfcr.xyz/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-10 12:30:00 - 2026-10-11 12:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
+    **添加日历** : https://ctftime.org/event/3441.ics  
     
 ??? Quote "[KubSTU CTF](https://kubstu-ctf.ru/)"  
     [![](https://ctftime.org/media/events/Logo_Kubstu.png){ width="200" align=left }](https://kubstu-ctf.ru/)  
@@ -117,6 +144,15 @@ comments: true
     **赛事主办** : HITCON (https://ctftime.org/team/8299)  
     **添加日历** : https://ctftime.org/event/3340.ics  
     
+??? Quote "[h4ckc0n 2026](http://h4ckc0n.in/)"  
+    [![](https://ctftime.org/media/events/images_1.jpeg){ width="200" align=left }](http://h4ckc0n.in/)  
+    **比赛名称** : [h4ckc0n 2026](http://h4ckc0n.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-23 23:30:00 - 2026-10-24 23:30:00 UTC+8  
+    **比赛权重** : 24.23  
+    **赛事主办** : d4rkc0de (https://ctftime.org/team/15154)  
+    **添加日历** : https://ctftime.org/event/3464.ics  
+    
 ??? Quote "[RSTCON 2026 CTF](https://ctf.rstcon.org/)"  
     [![](https://ctftime.org/media/events/RSTCON-BLK_1.png){ width="200" align=left }](https://ctf.rstcon.org/)  
     **比赛名称** : [RSTCON 2026 CTF](https://ctf.rstcon.org/)  
@@ -134,6 +170,15 @@ comments: true
     **比赛权重** : 94.74  
     **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
     **添加日历** : https://ctftime.org/event/3207.ics  
+    
+??? Quote "[isfcr{ctf} 2026 Finals](https://isfcr.xyz/)"  
+    [![](https://ctftime.org/media/events/v7_2.png){ width="200" align=left }](https://isfcr.xyz/)  
+    **比赛名称** : [isfcr{ctf} 2026 Finals](https://isfcr.xyz/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-24 11:30:00 - 2026-10-25 14:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
+    **添加日历** : https://ctftime.org/event/3442.ics  
     
 ??? Quote "[H7CTF 2026 Finals](https://2026.h7tex.com/)"  
     [![](https://ctftime.org/media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg){ width="200" align=left }](https://2026.h7tex.com/)  
@@ -170,6 +215,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
     **添加日历** : https://ctftime.org/event/3381.ics  
+    
+??? Quote "[HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)"  
+    [![](https://ctftime.org/media/events/HI_Cyber_Con_2026_CTFtime_Logo.png){ width="200" align=left }](https://ctf.hiddeninvestigations.net/)  
+    **比赛名称** : [HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-30 22:00:00 - 2026-11-01 22:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Hidden Investigations (https://ctftime.org/team/188318)  
+    **添加日历** : https://ctftime.org/event/3460.ics  
     
 ??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
     [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  

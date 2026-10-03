@@ -1,6 +1,15 @@
     === "国内比赛"
     
     === "国外比赛"
+        ??? Quote "[Lun4R CTF Final](https://ctf.rootriet.in/)"  
+            [![](){ width="200" align=left }](https://ctf.rootriet.in/)  
+            **比赛名称** : [Lun4R CTF Final](https://ctf.rootriet.in/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-10-03 13:30:00 - 2026-10-04 13:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : b33tro0t (https://ctftime.org/team/380826)  
+            **添加日历** : https://ctftime.org/event/3465.ics  
+            
         ??? Quote "[CubeCTF 2026](https://cubectf.com/)"  
             [![](https://ctftime.org/media/events/5097d73fb21778d02f541a3fdef957f3_1.jpg){ width="200" align=left }](https://cubectf.com/)  
             **比赛名称** : [CubeCTF 2026](https://cubectf.com/)  
@@ -27,13 +36,4 @@
             **比赛权重** : 0  
             **赛事主办** : SharLike (https://ctftime.org/team/16172)  
             **添加日历** : https://ctftime.org/event/3432.ics  
-            
-        ??? Quote "[ByteMe CTF 26](https://bytemectf.owasppccoe.in/)"  
-            [![](https://ctftime.org/media/events/owasp_logo_1.png){ width="200" align=left }](https://bytemectf.owasppccoe.in/)  
-            **比赛名称** : [ByteMe CTF 26](https://bytemectf.owasppccoe.in/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-09 12:30:00 - 2026-10-09 20:30:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : OWASP_PCCOE-CORE (https://ctftime.org/team/206360)  
-            **添加日历** : https://ctftime.org/event/3438.ics  
             
