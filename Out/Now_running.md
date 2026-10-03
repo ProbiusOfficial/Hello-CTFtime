@@ -27,3 +27,12 @@ comments: true
     **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
     **添加日历** : https://ctftime.org/event/3380.ics  
     
+??? Quote "[Lun4R CTF Final](https://ctf.rootriet.in/)"  
+    [![](){ width="200" align=left }](https://ctf.rootriet.in/)  
+    **比赛名称** : [Lun4R CTF Final](https://ctf.rootriet.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-03 13:30:00 - 2026-10-04 13:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : b33tro0t (https://ctftime.org/team/380826)  
+    **添加日历** : https://ctftime.org/event/3465.ics  
+    
