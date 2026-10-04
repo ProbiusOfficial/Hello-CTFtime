@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[AltayCTF 2026](https://university.altayctf.ru/2026)"  
-    [![](https://ctftime.org/media/events/0_2_1.png){ width="200" align=left }](https://university.altayctf.ru/2026)  
-    **比赛名称** : [AltayCTF 2026](https://university.altayctf.ru/2026)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2026-10-04 11:00:00 - 2026-10-04 20:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : SharLike (https://ctftime.org/team/16172)  
-    **添加日历** : https://ctftime.org/event/3432.ics  
-    
 ??? Quote "[Africa battleCTF 2026 Qualifier](https://ctf.bugpwn.com/)"  
     [![](https://ctftime.org/media/events/Blue_Cartoon_April_Fools_Day_Instagram_Post.png){ width="200" align=left }](https://ctf.bugpwn.com/)  
     **比赛名称** : [Africa battleCTF 2026 Qualifier](https://ctf.bugpwn.com/)  
@@ -179,15 +170,6 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
     **添加日历** : https://ctftime.org/event/3094.ics  
-    
-??? Quote "[VOID CTF Qualifiers](https://ctf.void-society.in/)"  
-    [![](https://ctftime.org/media/events/void-ctf-logo.png){ width="200" align=left }](https://ctf.void-society.in/)  
-    **比赛名称** : [VOID CTF Qualifiers](https://ctf.void-society.in/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-10-25 02:30:00 - 2026-10-26 02:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : void-society (https://ctftime.org/team/407696)  
-    **添加日历** : https://ctftime.org/event/3468.ics  
     
 ??? Quote "[Sudocrypt v16.0](https://sudocrypt.com/)"  
     [![](https://ctftime.org/media/events/WhatsApp_Image_2026-09-14_at_12.17.30.jpeg){ width="200" align=left }](https://sudocrypt.com/)  
