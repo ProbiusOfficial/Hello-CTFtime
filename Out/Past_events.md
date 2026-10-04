@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[CubeCTF 2026](https://cubectf.com/)"  
+    [![](https://ctftime.org/media/events/5097d73fb21778d02f541a3fdef957f3_1.jpg){ width="200" align=left }](https://cubectf.com/)  
+    **比赛名称** : [CubeCTF 2026](https://cubectf.com/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2026-10-03 22:00:00 - 2026-10-04 06:00:00 UTC+8  
+    **比赛权重** : 24.71  
+    **赛事主办** : CubeMastery (https://ctftime.org/team/168744)  
+    **添加日历** : https://ctftime.org/event/3352.ics  
+    
 ??? Quote "[CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)"  
     [![](https://ctftime.org/media/events/dbdeeab4624f46479b54527337e9e860.png){ width="200" align=left }](https://ctf.cybersecurity.sydney/)  
     **比赛名称** : [CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 24.00  
     **赛事主办** : CyberXoX (https://ctftime.org/team/374041)  
     **添加日历** : https://ctftime.org/event/3308.ics  
-    
-??? Quote "[RPCA CTF 2026](https://grandctf.rpca.ac.th/)"  
-    [![](){ width="200" align=left }](https://grandctf.rpca.ac.th/)  
-    **比赛名称** : [RPCA CTF 2026](https://grandctf.rpca.ac.th/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-06 01:00:00 - 2026-06-09 01:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : RPCA Cyber Club (https://ctftime.org/team/132960)  
-    **添加日历** : https://ctftime.org/event/3278.ics  
     
