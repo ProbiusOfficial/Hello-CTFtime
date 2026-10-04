@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[AltayCTF 2026](https://university.altayctf.ru/2026)"  
+    [![](https://ctftime.org/media/events/0_2_1.png){ width="200" align=left }](https://university.altayctf.ru/2026)  
+    **比赛名称** : [AltayCTF 2026](https://university.altayctf.ru/2026)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2026-10-04 11:00:00 - 2026-10-04 20:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : SharLike (https://ctftime.org/team/16172)  
+    **添加日历** : https://ctftime.org/event/3432.ics  
+    
 ??? Quote "[CDCTF 2026](https://crimsondefense.org/cdctf/)"  
     [![](https://ctftime.org/media/events/cdctf_logo_square_1.png){ width="200" align=left }](https://crimsondefense.org/cdctf/)  
     **比赛名称** : [CDCTF 2026](https://crimsondefense.org/cdctf/)  
@@ -94,7 +103,7 @@ comments: true
     **比赛名称** : [BCS CTF 2026](https://ctf.bcsictfest.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-09-25 22:00:00 - 2026-09-27 22:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 23.33  
     **赛事主办** : bdhxgrp (https://ctftime.org/team/193805)  
     **添加日历** : https://ctftime.org/event/3374.ics  
     
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : KyteBytes (https://ctftime.org/team/424457)  
     **添加日历** : https://ctftime.org/event/3309.ics  
-    
-??? Quote "[CyberSibir2026](https://masksafe.ru/cyberv/2026/ctf)"  
-    [![](https://ctftime.org/media/events/logoeye.jpg){ width="200" align=left }](https://masksafe.ru/cyberv/2026/ctf)  
-    **比赛名称** : [CyberSibir2026](https://masksafe.ru/cyberv/2026/ctf)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2026-06-09 11:30:00 - 2026-06-09 20:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : keva (https://ctftime.org/team/2980)  
-    **添加日历** : https://ctftime.org/event/3332.ics  
     

@@ -18,12 +18,3 @@ comments: true
     **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
     **添加日历** : https://ctftime.org/event/3020.ics  
     
-??? Quote "[AltayCTF 2026](https://university.altayctf.ru/2026)"  
-    [![](https://ctftime.org/media/events/0_2_1.png){ width="200" align=left }](https://university.altayctf.ru/2026)  
-    **比赛名称** : [AltayCTF 2026](https://university.altayctf.ru/2026)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2026-10-04 11:00:00 - 2026-10-04 20:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : SharLike (https://ctftime.org/team/16172)  
-    **添加日历** : https://ctftime.org/event/3432.ics  
-    
