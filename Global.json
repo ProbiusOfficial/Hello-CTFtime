@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "Africa battleCTF 2026 Qualifier",
-        "比赛时间": "2026-10-05 07:00:00 - 2026-11-05 07:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3462.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.bugpwn.com/",
-        "比赛标志": "https://ctftime.org/media/events/Blue_Cartoon_April_Fools_Day_Instagram_Post.png",
-        "比赛权重": "0",
-        "赛事主办": "BUG PWN (https://ctftime.org/team/182428)",
-        "比赛ID": "968",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "ByteMe CTF 26",
         "比赛时间": "2026-10-09 12:30:00 - 2026-10-09 20:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3438.ics",
@@ -549,6 +537,18 @@
         "比赛权重": "0",
         "赛事主办": "UWSP Pointers (https://ctftime.org/team/231536)",
         "比赛ID": "963",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Africa battleCTF 2026 Qualifier",
+        "比赛时间": "2026-10-05 07:00:00 - 2026-11-05 07:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3462.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.bugpwn.com/",
+        "比赛标志": "https://ctftime.org/media/events/Blue_Cartoon_April_Fools_Day_Instagram_Post.png",
+        "比赛权重": "0",
+        "赛事主办": "BUG PWN (https://ctftime.org/team/182428)",
+        "比赛ID": "968",
         "比赛状态": "nowrunning"
     },
     {

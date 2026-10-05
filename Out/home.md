@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Africa battleCTF 2026 Qualifier](https://ctf.bugpwn.com/)"  
-            [![](https://ctftime.org/media/events/Blue_Cartoon_April_Fools_Day_Instagram_Post.png){ width="200" align=left }](https://ctf.bugpwn.com/)  
-            **比赛名称** : [Africa battleCTF 2026 Qualifier](https://ctf.bugpwn.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-05 07:00:00 - 2026-11-05 07:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
-            **添加日历** : https://ctftime.org/event/3462.ics  
-            
         ??? Quote "[ByteMe CTF 26](https://bytemectf.owasppccoe.in/)"  
             [![](https://ctftime.org/media/events/owasp_logo_1.png){ width="200" align=left }](https://bytemectf.owasppccoe.in/)  
             **比赛名称** : [ByteMe CTF 26](https://bytemectf.owasppccoe.in/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : kBxAc (https://ctftime.org/team/358282)  
             **添加日历** : https://ctftime.org/event/3456.ics  
+            
+        ??? Quote "[Cryovault 2026 Quals](https://isfcr.xyz/)"  
+            [![](https://ctftime.org/media/events/v7_1.jpg){ width="200" align=left }](https://isfcr.xyz/)  
+            **比赛名称** : [Cryovault 2026 Quals](https://isfcr.xyz/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-10-10 12:30:00 - 2026-10-11 12:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
+            **添加日历** : https://ctftime.org/event/3441.ics  
             
