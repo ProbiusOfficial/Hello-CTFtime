@@ -37,9 +37,9 @@
                 **赛事主办** : kBxAc (https://ctftime.org/team/358282)  
                 **添加日历** : https://ctftime.org/event/3456.ics  
                 
-            ??? Quote "[Cryovault 2026 Quals](https://isfcr.xyz/)"  
-                [![](https://ctftime.org/media/events/v7_1.jpg){ width="200" align=left }](https://isfcr.xyz/)  
-                **比赛名称** : [Cryovault 2026 Quals](https://isfcr.xyz/)  
+            ??? Quote "[Cryovault 2026 Quals](https://isfcrpesu.ctfd.io/)"  
+                [![](https://ctftime.org/media/events/v7_1.jpg){ width="200" align=left }](https://isfcrpesu.ctfd.io/)  
+                **比赛名称** : [Cryovault 2026 Quals](https://isfcrpesu.ctfd.io/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-10-10 12:30:00 - 2026-10-11 12:30:00 UTC+8  
                 **比赛权重** : 0.00  
@@ -154,9 +154,9 @@
                 **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
                 **添加日历** : https://ctftime.org/event/3207.ics  
                 
-            ??? Quote "[Cryovault 2026 Finals](https://isfcr.xyz/)"  
-                [![](https://ctftime.org/media/events/v7_2.jpg){ width="200" align=left }](https://isfcr.xyz/)  
-                **比赛名称** : [Cryovault 2026 Finals](https://isfcr.xyz/)  
+            ??? Quote "[Cryovault 2026 Finals](https://isfcrpesu.ctfd.io/)"  
+                [![](https://ctftime.org/media/events/v7_2.jpg){ width="200" align=left }](https://isfcrpesu.ctfd.io/)  
+                **比赛名称** : [Cryovault 2026 Finals](https://isfcrpesu.ctfd.io/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-10-24 11:30:00 - 2026-10-25 14:30:00 UTC+8  
                 **比赛权重** : 0.00  
