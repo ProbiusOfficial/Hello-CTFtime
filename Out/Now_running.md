@@ -27,12 +27,3 @@ comments: true
     **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
     **添加日历** : https://ctftime.org/event/3462.ics  
     
-??? Quote "[ByteMe CTF 26](https://bytemectf.owasppccoe.in/)"  
-    [![](https://ctftime.org/media/events/owasp_logo_1.png){ width="200" align=left }](https://bytemectf.owasppccoe.in/)  
-    **比赛名称** : [ByteMe CTF 26](https://bytemectf.owasppccoe.in/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-10-09 12:30:00 - 2026-10-09 20:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : OWASP_PCCOE-CORE (https://ctftime.org/team/206360)  
-    **添加日历** : https://ctftime.org/event/3438.ics  
-    

@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[ByteMe CTF 26](https://bytemectf.owasppccoe.in/)"  
+    [![](https://ctftime.org/media/events/owasp_logo_1.png){ width="200" align=left }](https://bytemectf.owasppccoe.in/)  
+    **比赛名称** : [ByteMe CTF 26](https://bytemectf.owasppccoe.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-09 12:30:00 - 2026-10-09 20:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : OWASP_PCCOE-CORE (https://ctftime.org/team/206360)  
+    **添加日历** : https://ctftime.org/event/3438.ics  
+    
 ??? Quote "[AltayCTF 2026](https://university.altayctf.ru/2026)"  
     [![](https://ctftime.org/media/events/0_2_1.png){ width="200" align=left }](https://university.altayctf.ru/2026)  
     **比赛名称** : [AltayCTF 2026](https://university.altayctf.ru/2026)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 24.69  
     **赛事主办** : hackme (https://ctftime.org/team/77185)  
     **添加日历** : https://ctftime.org/event/3272.ics  
-    
-??? Quote "[boroCTF 2026](https://boroctf.com/)"  
-    [![](https://ctftime.org/media/events/c781f3b1226255163f3e6cc52fc2201e.jpg){ width="200" align=left }](https://boroctf.com/)  
-    **比赛名称** : [boroCTF 2026](https://boroctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-13 04:00:00 - 2026-06-16 11:59:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : KyteBytes (https://ctftime.org/team/424457)  
-    **添加日历** : https://ctftime.org/event/3309.ics  
     
