@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[ByteMe CTF 26](https://bytemectf.owasppccoe.in/)"  
-            [![](https://ctftime.org/media/events/owasp_logo_1.png){ width="200" align=left }](https://bytemectf.owasppccoe.in/)  
-            **比赛名称** : [ByteMe CTF 26](https://bytemectf.owasppccoe.in/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-09 12:30:00 - 2026-10-09 20:30:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : OWASP_PCCOE-CORE (https://ctftime.org/team/206360)  
-            **添加日历** : https://ctftime.org/event/3438.ics  
-            
         ??? Quote "[FortID CTF 2026](https://ctf.fortid.com/)"  
             [![](https://ctftime.org/media/events/fortid_ctf_logo.jpg){ width="200" align=left }](https://ctf.fortid.com/)  
             **比赛名称** : [FortID CTF 2026](https://ctf.fortid.com/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
             **添加日历** : https://ctftime.org/event/3441.ics  
+            
+        ??? Quote "[KubSTU CTF](https://kubstu-ctf.ru/)"  
+            [![](https://ctftime.org/media/events/Logo_Kubstu.png){ width="200" align=left }](https://kubstu-ctf.ru/)  
+            **比赛名称** : [KubSTU CTF](https://kubstu-ctf.ru/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-10-10 15:00:00 - 2026-10-11 21:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
+            **添加日历** : https://ctftime.org/event/3446.ics  
             
