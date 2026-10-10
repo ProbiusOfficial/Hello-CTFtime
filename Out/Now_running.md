@@ -36,15 +36,6 @@ comments: true
     **赛事主办** : TBTL (https://ctftime.org/team/170112)  
     **添加日历** : https://ctftime.org/event/3440.ics  
     
-??? Quote "[kBxAc CTF 2026](https://ctf.kbxac.xyz/)"  
-    [![](https://ctftime.org/media/events/kbxac_1.png){ width="200" align=left }](https://ctf.kbxac.xyz/)  
-    **比赛名称** : [kBxAc CTF 2026](https://ctf.kbxac.xyz/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-10-10 02:30:00 - 2026-10-11 02:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : kBxAc (https://ctftime.org/team/358282)  
-    **添加日历** : https://ctftime.org/event/3456.ics  
-    
 ??? Quote "[Cryovault 2026 Quals](https://isfcrpesu.ctfd.io/)"  
     [![](https://ctftime.org/media/events/v7_1.jpg){ width="200" align=left }](https://isfcrpesu.ctfd.io/)  
     **比赛名称** : [Cryovault 2026 Quals](https://isfcrpesu.ctfd.io/)  
@@ -71,13 +62,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
     **添加日历** : https://ctftime.org/event/3446.ics  
-    
-??? Quote "[Narxoz CTF](https://narxploit.narxoz.kz/register.html)"  
-    [![](https://ctftime.org/media/events/photo_2026-08-29_21-55-09.jpg){ width="200" align=left }](https://narxploit.narxoz.kz/register.html)  
-    **比赛名称** : [Narxoz CTF](https://narxploit.narxoz.kz/register.html)  
-    **比赛形式** : Hack quest  
-    **比赛时间** : 2026-10-10 18:00:00 - 2026-10-11 02:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : NarXploit (https://ctftime.org/team/392547)  
-    **添加日历** : https://ctftime.org/event/3437.ics  
     

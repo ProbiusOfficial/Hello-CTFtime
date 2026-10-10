@@ -419,15 +419,6 @@
                 **赛事主办** : TBTL (https://ctftime.org/team/170112)  
                 **添加日历** : https://ctftime.org/event/3440.ics  
                 
-            ??? Quote "[kBxAc CTF 2026](https://ctf.kbxac.xyz/)"  
-                [![](https://ctftime.org/media/events/kbxac_1.png){ width="200" align=left }](https://ctf.kbxac.xyz/)  
-                **比赛名称** : [kBxAc CTF 2026](https://ctf.kbxac.xyz/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-10-10 02:30:00 - 2026-10-11 02:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : kBxAc (https://ctftime.org/team/358282)  
-                **添加日历** : https://ctftime.org/event/3456.ics  
-                
             ??? Quote "[Cryovault 2026 Quals](https://isfcrpesu.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/v7_1.jpg){ width="200" align=left }](https://isfcrpesu.ctfd.io/)  
                 **比赛名称** : [Cryovault 2026 Quals](https://isfcrpesu.ctfd.io/)  
@@ -455,6 +446,10 @@
                 **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
                 **添加日历** : https://ctftime.org/event/3446.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[Narxoz CTF](https://narxploit.narxoz.kz/register.html)"  
                 [![](https://ctftime.org/media/events/photo_2026-08-29_21-55-09.jpg){ width="200" align=left }](https://narxploit.narxoz.kz/register.html)  
                 **比赛名称** : [Narxoz CTF](https://narxploit.narxoz.kz/register.html)  
@@ -464,10 +459,15 @@
                 **赛事主办** : NarXploit (https://ctftime.org/team/392547)  
                 **添加日历** : https://ctftime.org/event/3437.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
+            ??? Quote "[kBxAc CTF 2026](https://ctf.kbxac.xyz/)"  
+                [![](https://ctftime.org/media/events/kbxac_1.png){ width="200" align=left }](https://ctf.kbxac.xyz/)  
+                **比赛名称** : [kBxAc CTF 2026](https://ctf.kbxac.xyz/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-10 02:30:00 - 2026-10-11 02:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : kBxAc (https://ctftime.org/team/358282)  
+                **添加日历** : https://ctftime.org/event/3456.ics  
+                
             ??? Quote "[ByteMe CTF 26](https://bytemectf.owasppccoe.in/)"  
                 [![](https://ctftime.org/media/events/owasp_logo_1.png){ width="200" align=left }](https://bytemectf.owasppccoe.in/)  
                 **比赛名称** : [ByteMe CTF 26](https://bytemectf.owasppccoe.in/)  
@@ -1349,22 +1349,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : HACK KAP (https://ctftime.org/team/436808)  
                 **添加日历** : https://ctftime.org/event/3327.ics  
-                
-            ??? Quote "[CyberSci Nationals 2025-2026](https://cybersecuritychallenge.ca/)"  
-                [![](https://ctftime.org/media/events/a6670ab6b53ad3924988790f984c0fc4.jpg){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
-                **比赛名称** : [CyberSci Nationals 2025-2026](https://cybersecuritychallenge.ca/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-06-13 21:00:00 - 2026-06-15 07:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
-                **添加日历** : https://ctftime.org/event/3125.ics  
-                
-            ??? Quote "[Anti-Slop CTF 2026](https://ctf.antislopp.i.ng/)"  
-                [![](https://ctftime.org/media/events/f1dfed8e245dcad94300bb4c94879d01.png){ width="200" align=left }](https://ctf.antislopp.i.ng/)  
-                **比赛名称** : [Anti-Slop CTF 2026](https://ctf.antislopp.i.ng/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-06-13 09:00:00 - 2026-06-15 09:00:00 UTC+8  
-                **比赛权重** : 24.69  
-                **赛事主办** : hackme (https://ctftime.org/team/77185)  
-                **添加日历** : https://ctftime.org/event/3272.ics  
                 
