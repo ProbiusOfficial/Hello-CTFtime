@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[GaianSpace CTF 2026](https://gaian.space/ctf)"  
-            [![](https://ctftime.org/media/events/gaianspace-logo-new_1.png){ width="200" align=left }](https://gaian.space/ctf)  
-            **比赛名称** : [GaianSpace CTF 2026](https://gaian.space/ctf)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-11 05:00:00 - 2026-10-15 05:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : GaianSpace (https://ctftime.org/team/373034)  
-            **添加日历** : https://ctftime.org/event/3354.ics  
-            
         ??? Quote "[SOLAR CTF 2026](https://solarctf.ru/)"  
             [![](https://ctftime.org/media/events/ctf_time_4.png){ width="200" align=left }](https://solarctf.ru/)  
             **比赛名称** : [SOLAR CTF 2026](https://solarctf.ru/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 35.39  
             **赛事主办** : Cyber Hacktics (https://ctftime.org/team/127017)  
             **添加日历** : https://ctftime.org/event/3279.ics  
+            
+        ??? Quote "[SAS CTF 2026 Finals](https://ctf.thesascon.com/)"  
+            [![](https://ctftime.org/media/events/SAS26_temp_1.png){ width="200" align=left }](https://ctf.thesascon.com/)  
+            **比赛名称** : [SAS CTF 2026 Finals](https://ctf.thesascon.com/)  
+            **比赛形式** : Attack-Defense  
+            **比赛时间** : 2026-10-20 11:00:00 - 2026-10-20 22:00:00 UTC+8  
+            **比赛权重** : 49.50  
+            **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
+            **添加日历** : https://ctftime.org/event/3409.ics  
             
