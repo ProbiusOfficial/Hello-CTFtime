@@ -528,30 +528,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "Cryovault 2026 Quals",
-        "比赛时间": "2026-10-10 12:30:00 - 2026-10-11 12:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3441.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://isfcrpesu.ctfd.io/",
-        "比赛标志": "https://ctftime.org/media/events/v7_1.jpg",
-        "比赛权重": "0",
-        "赛事主办": "ISFCR PESU (https://ctftime.org/team/166645)",
-        "比赛ID": "942",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "FooBar CTF 2026",
-        "比赛时间": "2026-10-10 14:30:00 - 2026-10-11 14:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3445.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://foobarctf.arhn.in/",
-        "比赛标志": "https://ctftime.org/media/events/Foobar_logo_1_1.png",
-        "比赛权重": "25.00",
-        "赛事主办": "Alchemists of Kernel (https://ctftime.org/team/130794)",
-        "比赛ID": "611",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "KubSTU CTF",
         "比赛时间": "2026-10-10 15:00:00 - 2026-10-11 21:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3446.ics",
@@ -585,6 +561,30 @@
         "比赛权重": "0.00",
         "赛事主办": "NarXploit (https://ctftime.org/team/392547)",
         "比赛ID": "1686",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "FooBar CTF 2026",
+        "比赛时间": "2026-10-10 14:30:00 - 2026-10-11 14:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3445.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://foobarctf.arhn.in/",
+        "比赛标志": "https://ctftime.org/media/events/Foobar_logo_1_1.png",
+        "比赛权重": "25.00",
+        "赛事主办": "Alchemists of Kernel (https://ctftime.org/team/130794)",
+        "比赛ID": "611",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "Cryovault 2026 Quals",
+        "比赛时间": "2026-10-10 12:30:00 - 2026-10-11 12:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3441.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://isfcrpesu.ctfd.io/",
+        "比赛标志": "https://ctftime.org/media/events/v7_1.jpg",
+        "比赛权重": "0",
+        "赛事主办": "ISFCR PESU (https://ctftime.org/team/166645)",
+        "比赛ID": "942",
         "比赛状态": "past"
     },
     {
@@ -666,7 +666,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293",
         "比赛标志": "https://ctftime.org/media/events/tanmay.png",
-        "比赛权重": "0",
+        "比赛权重": "0.00",
         "赛事主办": "JCOE Cyber Sentinels (https://ctftime.org/team/405374)",
         "比赛ID": "1415",
         "比赛状态": "past"
@@ -1749,30 +1749,6 @@
         "比赛权重": "24.97",
         "赛事主办": "sieberr.live (https://ctftime.org/team/387795)",
         "比赛ID": "1599",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "SCTF 2026",
-        "比赛时间": "2026-06-14 09:00:00 - 2026-06-15 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3314.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://sctf2026.xctf.org.cn/",
-        "比赛标志": "https://ctftime.org/media/events/logo_18.jpg",
-        "比赛权重": "29.12",
-        "赛事主办": "Syclover (https://ctftime.org/team/455)",
-        "比赛ID": "468",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Operation Heist CTF 2026",
-        "比赛时间": "2026-06-13 22:00:00 - 2026-06-14 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3327.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://registration.hackkap.com/",
-        "比赛标志": "https://ctftime.org/media/events/preloader.png",
-        "比赛权重": "0",
-        "赛事主办": "HACK KAP (https://ctftime.org/team/436808)",
-        "比赛ID": "1609",
         "比赛状态": "past"
     }
 ]

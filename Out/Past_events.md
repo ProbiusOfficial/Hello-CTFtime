@@ -17,6 +17,24 @@ comments: true
     **赛事主办** : NarXploit (https://ctftime.org/team/392547)  
     **添加日历** : https://ctftime.org/event/3437.ics  
     
+??? Quote "[FooBar CTF 2026](https://foobarctf.arhn.in/)"  
+    [![](https://ctftime.org/media/events/Foobar_logo_1_1.png){ width="200" align=left }](https://foobarctf.arhn.in/)  
+    **比赛名称** : [FooBar CTF 2026](https://foobarctf.arhn.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-10 14:30:00 - 2026-10-11 14:30:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : Alchemists of Kernel (https://ctftime.org/team/130794)  
+    **添加日历** : https://ctftime.org/event/3445.ics  
+    
+??? Quote "[Cryovault 2026 Quals](https://isfcrpesu.ctfd.io/)"  
+    [![](https://ctftime.org/media/events/v7_1.jpg){ width="200" align=left }](https://isfcrpesu.ctfd.io/)  
+    **比赛名称** : [Cryovault 2026 Quals](https://isfcrpesu.ctfd.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-10 12:30:00 - 2026-10-11 12:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
+    **添加日历** : https://ctftime.org/event/3441.ics  
+    
 ??? Quote "[kBxAc CTF 2026](https://ctf.kbxac.xyz/)"  
     [![](https://ctftime.org/media/events/kbxac_1.png){ width="200" align=left }](https://ctf.kbxac.xyz/)  
     **比赛名称** : [kBxAc CTF 2026](https://ctf.kbxac.xyz/)  
@@ -76,7 +94,7 @@ comments: true
     **比赛名称** : [Hacker's Gambit 2026 (Round 1 – Online Qualifier)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-10-02 14:30:00 - 2026-10-04 14:30:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 0.00  
     **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
     **添加日历** : https://ctftime.org/event/3380.ics  
     
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 24.97  
     **赛事主办** : sieberr.live (https://ctftime.org/team/387795)  
     **添加日历** : https://ctftime.org/event/3299.ics  
-    
-??? Quote "[SCTF 2026](https://sctf2026.xctf.org.cn/)"  
-    [![](https://ctftime.org/media/events/logo_18.jpg){ width="200" align=left }](https://sctf2026.xctf.org.cn/)  
-    **比赛名称** : [SCTF 2026](https://sctf2026.xctf.org.cn/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-14 09:00:00 - 2026-06-15 09:00:00 UTC+8  
-    **比赛权重** : 29.12  
-    **赛事主办** : Syclover (https://ctftime.org/team/455)  
-    **添加日历** : https://ctftime.org/event/3314.ics  
-    
-??? Quote "[Operation Heist CTF 2026](https://registration.hackkap.com/)"  
-    [![](https://ctftime.org/media/events/preloader.png){ width="200" align=left }](https://registration.hackkap.com/)  
-    **比赛名称** : [Operation Heist CTF 2026](https://registration.hackkap.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-13 22:00:00 - 2026-06-14 22:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : HACK KAP (https://ctftime.org/team/436808)  
-    **添加日历** : https://ctftime.org/event/3327.ics  
     
