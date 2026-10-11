@@ -27,15 +27,6 @@ comments: true
     **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
     **添加日历** : https://ctftime.org/event/3462.ics  
     
-??? Quote "[FortID CTF 2026](https://ctf.fortid.com/)"  
-    [![](https://ctftime.org/media/events/fortid_ctf_logo.jpg){ width="200" align=left }](https://ctf.fortid.com/)  
-    **比赛名称** : [FortID CTF 2026](https://ctf.fortid.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-10-10 02:00:00 - 2026-10-12 02:00:00 UTC+8  
-    **比赛权重** : 45.00  
-    **赛事主办** : TBTL (https://ctftime.org/team/170112)  
-    **添加日历** : https://ctftime.org/event/3440.ics  
-    
 ??? Quote "[GaianSpace CTF 2026](https://gaian.space/ctf)"  
     [![](https://ctftime.org/media/events/gaianspace-logo-new_1.png){ width="200" align=left }](https://gaian.space/ctf)  
     **比赛名称** : [GaianSpace CTF 2026](https://gaian.space/ctf)  
