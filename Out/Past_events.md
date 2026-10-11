@@ -17,6 +17,15 @@ comments: true
     **赛事主办** : NarXploit (https://ctftime.org/team/392547)  
     **添加日历** : https://ctftime.org/event/3437.ics  
     
+??? Quote "[KubSTU CTF](https://kubstu-ctf.ru/)"  
+    [![](https://ctftime.org/media/events/Logo_Kubstu.png){ width="200" align=left }](https://kubstu-ctf.ru/)  
+    **比赛名称** : [KubSTU CTF](https://kubstu-ctf.ru/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-10 15:00:00 - 2026-10-11 21:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
+    **添加日历** : https://ctftime.org/event/3446.ics  
+    
 ??? Quote "[FooBar CTF 2026](https://foobarctf.arhn.in/)"  
     [![](https://ctftime.org/media/events/Foobar_logo_1_1.png){ width="200" align=left }](https://foobarctf.arhn.in/)  
     **比赛名称** : [FooBar CTF 2026](https://foobarctf.arhn.in/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 65.05  
     **赛事主办** : Bing Chilling Academies (https://ctftime.org/team/283028)  
     **添加日历** : https://ctftime.org/event/3246.ics  
-    
-??? Quote "[Sieberrsec CTF 7.0](https://sieberr.live/)"  
-    [![](https://ctftime.org/media/events/icon_10.png){ width="200" align=left }](https://sieberr.live/)  
-    **比赛名称** : [Sieberrsec CTF 7.0](https://sieberr.live/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-17 09:00:00 - 2026-06-17 21:00:00 UTC+8  
-    **比赛权重** : 24.97  
-    **赛事主办** : sieberr.live (https://ctftime.org/team/387795)  
-    **添加日历** : https://ctftime.org/event/3299.ics  
     

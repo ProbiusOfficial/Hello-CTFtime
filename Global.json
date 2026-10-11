@@ -528,18 +528,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "KubSTU CTF",
-        "比赛时间": "2026-10-10 15:00:00 - 2026-10-11 21:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3446.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://kubstu-ctf.ru/",
-        "比赛标志": "https://ctftime.org/media/events/Logo_Kubstu.png",
-        "比赛权重": "0.00",
-        "赛事主办": "Capybaras (https://ctftime.org/team/223931)",
-        "比赛ID": "1499",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "GaianSpace CTF 2026",
         "比赛时间": "2026-10-11 05:00:00 - 2026-10-15 05:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3354.ics",
@@ -561,6 +549,18 @@
         "比赛权重": "0.00",
         "赛事主办": "NarXploit (https://ctftime.org/team/392547)",
         "比赛ID": "1686",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "KubSTU CTF",
+        "比赛时间": "2026-10-10 15:00:00 - 2026-10-11 21:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3446.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://kubstu-ctf.ru/",
+        "比赛标志": "https://ctftime.org/media/events/Logo_Kubstu.png",
+        "比赛权重": "0.00",
+        "赛事主办": "Capybaras (https://ctftime.org/team/223931)",
+        "比赛ID": "1499",
         "比赛状态": "past"
     },
     {
@@ -1737,18 +1737,6 @@
         "比赛权重": "65.05",
         "赛事主办": "Bing Chilling Academies (https://ctftime.org/team/283028)",
         "比赛ID": "325",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Sieberrsec CTF 7.0",
-        "比赛时间": "2026-06-17 09:00:00 - 2026-06-17 21:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3299.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://sieberr.live/",
-        "比赛标志": "https://ctftime.org/media/events/icon_10.png",
-        "比赛权重": "24.97",
-        "赛事主办": "sieberr.live (https://ctftime.org/team/387795)",
-        "比赛ID": "1599",
         "比赛状态": "past"
     }
 ]

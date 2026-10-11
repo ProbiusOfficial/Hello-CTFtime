@@ -36,15 +36,6 @@ comments: true
     **赛事主办** : TBTL (https://ctftime.org/team/170112)  
     **添加日历** : https://ctftime.org/event/3440.ics  
     
-??? Quote "[KubSTU CTF](https://kubstu-ctf.ru/)"  
-    [![](https://ctftime.org/media/events/Logo_Kubstu.png){ width="200" align=left }](https://kubstu-ctf.ru/)  
-    **比赛名称** : [KubSTU CTF](https://kubstu-ctf.ru/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-10-10 15:00:00 - 2026-10-11 21:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
-    **添加日历** : https://ctftime.org/event/3446.ics  
-    
 ??? Quote "[GaianSpace CTF 2026](https://gaian.space/ctf)"  
     [![](https://ctftime.org/media/events/gaianspace-logo-new_1.png){ width="200" align=left }](https://gaian.space/ctf)  
     **比赛名称** : [GaianSpace CTF 2026](https://gaian.space/ctf)  
