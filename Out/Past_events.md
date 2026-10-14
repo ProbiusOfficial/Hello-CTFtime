@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[GaianSpace CTF 2026](https://gaian.space/ctf)"  
+    [![](https://ctftime.org/media/events/gaianspace-logo-new_1.png){ width="200" align=left }](https://gaian.space/ctf)  
+    **比赛名称** : [GaianSpace CTF 2026](https://gaian.space/ctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-11 05:00:00 - 2026-10-15 05:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : GaianSpace (https://ctftime.org/team/373034)  
+    **添加日历** : https://ctftime.org/event/3354.ics  
+    
 ??? Quote "[Narxoz CTF](https://narxploit.narxoz.kz/register.html)"  
     [![](https://ctftime.org/media/events/photo_2026-08-29_21-55-09.jpg){ width="200" align=left }](https://narxploit.narxoz.kz/register.html)  
     **比赛名称** : [Narxoz CTF](https://narxploit.narxoz.kz/register.html)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 88.82  
     **赛事主办** : Google CTF (https://ctftime.org/team/23929)  
     **添加日历** : https://ctftime.org/event/3222.ics  
-    
-??? Quote "[RIFFHACK: Black Market Break-In](http://riffhack.biterra.co/)"  
-    [![](https://ctftime.org/media/events/image_1_1.png){ width="200" align=left }](http://riffhack.biterra.co/)  
-    **比赛名称** : [RIFFHACK: Black Market Break-In](http://riffhack.biterra.co/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-19 20:00:00 - 2026-06-22 08:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Biterra (https://ctftime.org/team/414340)  
-    **添加日历** : https://ctftime.org/event/3297.ics  
     
