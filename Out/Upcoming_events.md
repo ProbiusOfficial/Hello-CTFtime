@@ -117,6 +117,15 @@ comments: true
     **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
     **添加日历** : https://ctftime.org/event/3381.ics  
     
+??? Quote "[CTF@AC26 - Finals](https://ctf.ac.upt.ro/)"  
+    [![](https://ctftime.org/media/events/CTFAC26_1.png){ width="200" align=left }](https://ctf.ac.upt.ro/)  
+    **比赛名称** : [CTF@AC26 - Finals](https://ctf.ac.upt.ro/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-30 18:00:00 - 2026-11-01 18:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
+    **添加日历** : https://ctftime.org/event/3463.ics  
+    
 ??? Quote "[HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)"  
     [![](https://ctftime.org/media/events/HI_Cyber_Con_2026_CTFtime_Logo.png){ width="200" align=left }](https://ctf.hiddeninvestigations.net/)  
     **比赛名称** : [HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)  
@@ -143,6 +152,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
     **添加日历** : https://ctftime.org/event/3469.ics  
+    
+??? Quote "[StealthCup 2026](https://stealth.ait.ac.at/)"  
+    [![](){ width="200" align=left }](https://stealth.ait.ac.at/)  
+    **比赛名称** : [StealthCup 2026](https://stealth.ait.ac.at/)  
+    **比赛形式** : Hack quest  
+    **比赛时间** : 2026-10-31 21:00:00 - 2026-11-01 05:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : 0x01DA (https://ctftime.org/team/104949)  
+    **添加日历** : https://ctftime.org/event/3482.ics  
     
 ??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
     [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  
@@ -315,6 +333,15 @@ comments: true
     **赛事主办** : x3CTF (https://ctftime.org/team/309820)  
     **添加日历** : https://ctftime.org/event/3450.ics  
     
+??? Quote "[bi0sCTF 2026](https://ctf.bi0s.in/)"  
+    [![](https://ctftime.org/media/events/dark-logo_1.png){ width="200" align=left }](https://ctf.bi0s.in/)  
+    **比赛名称** : [bi0sCTF 2026](https://ctf.bi0s.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-12-05 13:00:00 - 2026-12-07 01:00:00 UTC+8  
+    **比赛权重** : 79.51  
+    **赛事主办** : bi0s (https://ctftime.org/team/662)  
+    **添加日历** : https://ctftime.org/event/3480.ics  
+    
 ??? Quote "[niteCTF 2026](https://nitectf.cryptonitemit.in/)"  
     [![](https://ctftime.org/media/events/nitectf_2.png){ width="200" align=left }](https://nitectf.cryptonitemit.in/)  
     **比赛名称** : [niteCTF 2026](https://nitectf.cryptonitemit.in/)  
@@ -359,4 +386,13 @@ comments: true
     **比赛权重** : 47.14  
     **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
     **添加日历** : https://ctftime.org/event/3458.ics  
+    
+??? Quote "[Undutmaning 2027](https://undutmaning.se/)"  
+    [![](https://ctftime.org/media/events/Undutmaning_ctfd_1.jpg){ width="200" align=left }](https://undutmaning.se/)  
+    **比赛名称** : [Undutmaning 2027](https://undutmaning.se/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2027-03-20 19:00:00 - 2027-03-21 03:00:00 UTC+8  
+    **比赛权重** : 44.75  
+    **赛事主办** : Undutmaning (https://ctftime.org/team/212504)  
+    **添加日历** : https://ctftime.org/event/3481.ics  
     
