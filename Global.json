@@ -552,18 +552,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "SOLAR CTF 2026",
-        "比赛时间": "2026-10-17 17:00:00 - 2026-10-18 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3471.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://solarctf.ru/",
-        "比赛标志": "https://ctftime.org/media/events/ctf_time_4.png",
-        "比赛权重": "0",
-        "赛事主办": "SOLARCTF (https://ctftime.org/team/451200)",
-        "比赛ID": "1723",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "DEADFACE CTF 2026",
         "比赛时间": "2026-10-17 22:00:00 - 2026-10-19 08:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3279.ics",
@@ -574,6 +562,18 @@
         "赛事主办": "Cyber Hacktics (https://ctftime.org/team/127017)",
         "比赛ID": "487",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "SOLAR CTF 2026",
+        "比赛时间": "2026-10-17 17:00:00 - 2026-10-18 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3471.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://solarctf.ru/",
+        "比赛标志": "https://ctftime.org/media/events/ctf_time_4.png",
+        "比赛权重": "0",
+        "赛事主办": "SOLARCTF (https://ctftime.org/team/451200)",
+        "比赛ID": "1723",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "GaianSpace CTF 2026",
@@ -1761,18 +1761,6 @@
         "比赛权重": "25.00",
         "赛事主办": "TraceBash (https://ctftime.org/team/392990)",
         "比赛ID": "1620",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Google Capture The Flag 2026",
-        "比赛时间": "2026-06-20 02:00:00 - 2026-06-22 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3222.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://g.co/ctf",
-        "比赛标志": "",
-        "比赛权重": "88.82",
-        "赛事主办": "Google CTF (https://ctftime.org/team/23929)",
-        "比赛ID": "141",
         "比赛状态": "past"
     }
 ]

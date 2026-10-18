@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[SOLAR CTF 2026](https://solarctf.ru/)"  
+    [![](https://ctftime.org/media/events/ctf_time_4.png){ width="200" align=left }](https://solarctf.ru/)  
+    **比赛名称** : [SOLAR CTF 2026](https://solarctf.ru/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-17 17:00:00 - 2026-10-18 17:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : SOLARCTF (https://ctftime.org/team/451200)  
+    **添加日历** : https://ctftime.org/event/3471.ics  
+    
 ??? Quote "[GaianSpace CTF 2026](https://gaian.space/ctf)"  
     [![](https://ctftime.org/media/events/gaianspace-logo-new_1.png){ width="200" align=left }](https://gaian.space/ctf)  
     **比赛名称** : [GaianSpace CTF 2026](https://gaian.space/ctf)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : TraceBash (https://ctftime.org/team/392990)  
     **添加日历** : https://ctftime.org/event/3323.ics  
-    
-??? Quote "[Google Capture The Flag 2026](https://g.co/ctf)"  
-    [![](){ width="200" align=left }](https://g.co/ctf)  
-    **比赛名称** : [Google Capture The Flag 2026](https://g.co/ctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-20 02:00:00 - 2026-06-22 02:00:00 UTC+8  
-    **比赛权重** : 88.82  
-    **赛事主办** : Google CTF (https://ctftime.org/team/23929)  
-    **添加日历** : https://ctftime.org/event/3222.ics  
     
