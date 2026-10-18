@@ -35,9 +35,9 @@ comments: true
     **赛事主办** : NarXploit (https://ctftime.org/team/392547)  
     **添加日历** : https://ctftime.org/event/3437.ics  
     
-??? Quote "[KubSTU CTF 2026: Autumn](https://kubstu-ctf.ru/)"  
+??? Quote "[KubSTU CTF](https://kubstu-ctf.ru/)"  
     [![](https://ctftime.org/media/events/Logo_Kubstu.png){ width="200" align=left }](https://kubstu-ctf.ru/)  
-    **比赛名称** : [KubSTU CTF 2026: Autumn](https://kubstu-ctf.ru/)  
+    **比赛名称** : [KubSTU CTF](https://kubstu-ctf.ru/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-10-10 15:00:00 - 2026-10-11 21:00:00 UTC+8  
     **比赛权重** : 0.00  
