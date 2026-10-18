@@ -27,15 +27,6 @@ comments: true
     **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
     **添加日历** : https://ctftime.org/event/3462.ics  
     
-??? Quote "[Securinets CTF Quals 2026](https://ctf.securinets.tn/)"  
-    [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://ctf.securinets.tn/)  
-    **比赛名称** : [Securinets CTF Quals 2026](https://ctf.securinets.tn/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-10-17 17:00:00 - 2026-10-19 05:00:00 UTC+8  
-    **比赛权重** : 85.12  
-    **赛事主办** : Securinets (https://ctftime.org/team/5084)  
-    **添加日历** : https://ctftime.org/event/3364.ics  
-    
 ??? Quote "[DEADFACE CTF 2026](https://ctf.deadface.io/)"  
     [![](https://ctftime.org/media/events/logo_deadface_ctf_2026.png){ width="200" align=left }](https://ctf.deadface.io/)  
     **比赛名称** : [DEADFACE CTF 2026](https://ctf.deadface.io/)  

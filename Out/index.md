@@ -419,15 +419,6 @@
                 **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
                 **添加日历** : https://ctftime.org/event/3462.ics  
                 
-            ??? Quote "[Securinets CTF Quals 2026](https://ctf.securinets.tn/)"  
-                [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://ctf.securinets.tn/)  
-                **比赛名称** : [Securinets CTF Quals 2026](https://ctf.securinets.tn/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-10-17 17:00:00 - 2026-10-19 05:00:00 UTC+8  
-                **比赛权重** : 85.12  
-                **赛事主办** : Securinets (https://ctftime.org/team/5084)  
-                **添加日历** : https://ctftime.org/event/3364.ics  
-                
             ??? Quote "[DEADFACE CTF 2026](https://ctf.deadface.io/)"  
                 [![](https://ctftime.org/media/events/logo_deadface_ctf_2026.png){ width="200" align=left }](https://ctf.deadface.io/)  
                 **比赛名称** : [DEADFACE CTF 2026](https://ctf.deadface.io/)  
@@ -441,6 +432,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[Securinets CTF Quals 2026](https://ctf.securinets.tn/)"  
+                [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://ctf.securinets.tn/)  
+                **比赛名称** : [Securinets CTF Quals 2026](https://ctf.securinets.tn/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-17 17:00:00 - 2026-10-19 05:00:00 UTC+8  
+                **比赛权重** : 85.12  
+                **赛事主办** : Securinets (https://ctftime.org/team/5084)  
+                **添加日历** : https://ctftime.org/event/3364.ics  
+                
             ??? Quote "[SOLAR CTF 2026](https://solarctf.ru/)"  
                 [![](https://ctftime.org/media/events/ctf_time_4.png){ width="200" align=left }](https://solarctf.ru/)  
                 **比赛名称** : [SOLAR CTF 2026](https://solarctf.ru/)  
@@ -1331,13 +1331,4 @@
                 **比赛权重** : 22.14  
                 **赛事主办** : V1t (https://ctftime.org/team/280950)  
                 **添加日历** : https://ctftime.org/event/3249.ics  
-                
-            ??? Quote "[TraceBash CTF 2026](https://ctf.tracebash.xyz/)"  
-                [![](https://ctftime.org/media/events/main_logo_1.png){ width="200" align=left }](https://ctf.tracebash.xyz/)  
-                **比赛名称** : [TraceBash CTF 2026](https://ctf.tracebash.xyz/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-06-26 17:30:00 - 2026-06-27 17:30:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : TraceBash (https://ctftime.org/team/392990)  
-                **添加日历** : https://ctftime.org/event/3323.ics  
                 
