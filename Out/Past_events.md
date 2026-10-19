@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[DEADFACE CTF 2026](https://ctf.deadface.io/)"  
+    [![](https://ctftime.org/media/events/logo_deadface_ctf_2026.png){ width="200" align=left }](https://ctf.deadface.io/)  
+    **比赛名称** : [DEADFACE CTF 2026](https://ctf.deadface.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-17 22:00:00 - 2026-10-19 08:00:00 UTC+8  
+    **比赛权重** : 35.39  
+    **赛事主办** : Cyber Hacktics (https://ctftime.org/team/127017)  
+    **添加日历** : https://ctftime.org/event/3279.ics  
+    
 ??? Quote "[Securinets CTF Quals 2026](https://ctf.securinets.tn/)"  
     [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://ctf.securinets.tn/)  
     **比赛名称** : [Securinets CTF Quals 2026](https://ctf.securinets.tn/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
     **添加日历** : https://ctftime.org/event/3173.ics  
-    
-??? Quote "[V1T CTF 2026](https://ctf.v1t.site/)"  
-    [![](https://ctftime.org/media/events/Ban_sao_cua_V1T_1.png){ width="200" align=left }](https://ctf.v1t.site/)  
-    **比赛名称** : [V1T CTF 2026](https://ctf.v1t.site/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-06-27 10:00:00 - 2026-06-28 22:00:00 UTC+8  
-    **比赛权重** : 22.14  
-    **赛事主办** : V1t (https://ctftime.org/team/280950)  
-    **添加日历** : https://ctftime.org/event/3249.ics  
     
