@@ -270,9 +270,9 @@ comments: true
     **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
     **添加日历** : https://ctftime.org/event/3337.ics  
     
-??? Quote "[Outback Overflow](http://hscyber.org/)"  
-    [![](https://ctftime.org/media/events/logo_137.png){ width="200" align=left }](http://hscyber.org/)  
-    **比赛名称** : [Outback Overflow](http://hscyber.org/)  
+??? Quote "[Outback Overflow](https://outbackoverflow26.hscyber.org/)"  
+    [![](https://ctftime.org/media/events/logo_137.png){ width="200" align=left }](https://outbackoverflow26.hscyber.org/)  
+    **比赛名称** : [Outback Overflow](https://outbackoverflow26.hscyber.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-11-21 07:00:00 - 2026-11-22 07:00:00 UTC+8  
     **比赛权重** : 0.00  
