@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "SAS CTF 2026 Finals",
-        "比赛时间": "2026-10-20 11:00:00 - 2026-10-20 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3409.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "https://ctf.thesascon.com/",
-        "比赛标志": "https://ctftime.org/media/events/SAS26_temp_1.png",
-        "比赛权重": "49.50",
-        "赛事主办": "SAS CREW (https://ctftime.org/team/283057)",
-        "比赛ID": "1081",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "cruXipher 2026 - ATMoS '26, BITS Hyderabad",
         "比赛时间": "2026-10-23 08:30:00 - 2026-10-25 08:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3369.ics",
@@ -537,6 +525,18 @@
         "比赛权重": "0",
         "赛事主办": "BUG PWN (https://ctftime.org/team/182428)",
         "比赛ID": "968",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "SAS CTF 2026 Finals",
+        "比赛时间": "2026-10-20 11:00:00 - 2026-10-20 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3409.ics",
+        "比赛形式": "Attack-Defense",
+        "比赛链接": "https://ctf.thesascon.com/",
+        "比赛标志": "https://ctftime.org/media/events/SAS26_temp_1.png",
+        "比赛权重": "49.50",
+        "赛事主办": "SAS CREW (https://ctftime.org/team/283057)",
+        "比赛ID": "1081",
         "比赛状态": "nowrunning"
     },
     {

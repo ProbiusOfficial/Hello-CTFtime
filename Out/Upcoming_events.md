@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[SAS CTF 2026 Finals](https://ctf.thesascon.com/)"  
-    [![](https://ctftime.org/media/events/SAS26_temp_1.png){ width="200" align=left }](https://ctf.thesascon.com/)  
-    **比赛名称** : [SAS CTF 2026 Finals](https://ctf.thesascon.com/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2026-10-20 11:00:00 - 2026-10-20 22:00:00 UTC+8  
-    **比赛权重** : 49.50  
-    **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
-    **添加日历** : https://ctftime.org/event/3409.ics  
-    
 ??? Quote "[cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)"  
     [![](https://ctftime.org/media/events/cruX_logo_1.png){ width="200" align=left }](https://cruxipher.crux-bphc.com/)  
     **比赛名称** : [cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
