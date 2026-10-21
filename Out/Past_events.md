@@ -49,7 +49,7 @@ comments: true
     **比赛名称** : [GaianSpace CTF 2026](https://gaian.space/ctf)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-10-11 05:00:00 - 2026-10-15 05:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : GaianSpace (https://ctftime.org/team/373034)  
     **添加日历** : https://ctftime.org/event/3354.ics  
     

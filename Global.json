@@ -594,7 +594,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://gaian.space/ctf",
         "比赛标志": "https://ctftime.org/media/events/gaianspace-logo-new_1.png",
-        "比赛权重": "0",
+        "比赛权重": "25.00",
         "赛事主办": "GaianSpace (https://ctftime.org/team/373034)",
         "比赛ID": "1284",
         "比赛状态": "past"
