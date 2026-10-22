@@ -307,7 +307,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/3474.ics  
     
 ??? Quote "[L3m0n CTF 2026 (Quals)](https://l3m0nctf.xyz/)"  
-    [![](https://ctftime.org/media/events/icon-512.png){ width="200" align=left }](https://l3m0nctf.xyz/)  
+    [![](https://ctftime.org/media/events/logo_4.jpeg){ width="200" align=left }](https://l3m0nctf.xyz/)  
     **比赛名称** : [L3m0n CTF 2026 (Quals)](https://l3m0nctf.xyz/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-11-28 12:30:00 - 2026-11-29 00:30:00 UTC+8  
