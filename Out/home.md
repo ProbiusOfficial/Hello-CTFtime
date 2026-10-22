@@ -2,7 +2,7 @@
     
     === "国外比赛"
         ??? Quote "[cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)"  
-            [![](https://ctftime.org/media/events/cruX_logo_1.png){ width="200" align=left }](https://cruxipher.crux-bphc.com/)  
+            [![](https://ctftime.org/media/events/Frame_6_2.png){ width="200" align=left }](https://cruxipher.crux-bphc.com/)  
             **比赛名称** : [cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
             **比赛形式** : Jeopardy  
             **比赛时间** : 2026-10-23 08:30:00 - 2026-10-25 08:30:00 UTC+8  
