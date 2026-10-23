@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[CREST CTF 2.0](https://crest.ctf7.com/)"  
-            [![](https://ctftime.org/media/events/WhatsApp_Image_2026-10-11_at_14.32.54.jpeg){ width="200" align=left }](https://crest.ctf7.com/)  
-            **比赛名称** : [CREST CTF 2.0](https://crest.ctf7.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-23 13:30:00 - 2026-10-23 19:30:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : CREST (https://ctftime.org/team/418000)  
-            **添加日历** : https://ctftime.org/event/3477.ics  
-            
         ??? Quote "[HITCON CTF 2026](https://ctf2026.hitcon.org/)"  
             [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](https://ctf2026.hitcon.org/)  
             **比赛名称** : [HITCON CTF 2026](https://ctf2026.hitcon.org/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 94.74  
             **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
             **添加日历** : https://ctftime.org/event/3207.ics  
+            
+        ??? Quote "[Cryovault 2026 Finals](https://isfcrpesu.ctfd.io/)"  
+            [![](https://ctftime.org/media/events/v7_2.jpg){ width="200" align=left }](https://isfcrpesu.ctfd.io/)  
+            **比赛名称** : [Cryovault 2026 Finals](https://isfcrpesu.ctfd.io/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-10-24 11:30:00 - 2026-10-25 14:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
+            **添加日历** : https://ctftime.org/event/3442.ics  
             

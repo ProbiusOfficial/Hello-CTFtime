@@ -36,3 +36,12 @@ comments: true
     **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
     **添加日历** : https://ctftime.org/event/3369.ics  
     
+??? Quote "[CREST CTF 2.0](https://crest.ctf7.com/)"  
+    [![](https://ctftime.org/media/events/WhatsApp_Image_2026-10-11_at_14.32.54.jpeg){ width="200" align=left }](https://crest.ctf7.com/)  
+    **比赛名称** : [CREST CTF 2.0](https://crest.ctf7.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-23 13:30:00 - 2026-10-23 19:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : CREST (https://ctftime.org/team/418000)  
+    **添加日历** : https://ctftime.org/event/3477.ics  
+    

@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[CREST CTF 2.0](https://crest.ctf7.com/)"  
-    [![](https://ctftime.org/media/events/WhatsApp_Image_2026-10-11_at_14.32.54.jpeg){ width="200" align=left }](https://crest.ctf7.com/)  
-    **比赛名称** : [CREST CTF 2.0](https://crest.ctf7.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-10-23 13:30:00 - 2026-10-23 19:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : CREST (https://ctftime.org/team/418000)  
-    **添加日历** : https://ctftime.org/event/3477.ics  
-    
 ??? Quote "[HITCON CTF 2026](https://ctf2026.hitcon.org/)"  
     [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](https://ctf2026.hitcon.org/)  
     **比赛名称** : [HITCON CTF 2026](https://ctf2026.hitcon.org/)  
