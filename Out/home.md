@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)"  
-            [![](https://ctftime.org/media/events/Frame_6_2.png){ width="200" align=left }](https://cruxipher.crux-bphc.com/)  
-            **比赛名称** : [cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-23 08:30:00 - 2026-10-25 08:30:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
-            **添加日历** : https://ctftime.org/event/3369.ics  
-            
         ??? Quote "[CREST CTF 2.0](https://crest.ctf7.com/)"  
             [![](https://ctftime.org/media/events/WhatsApp_Image_2026-10-11_at_14.32.54.jpeg){ width="200" align=left }](https://crest.ctf7.com/)  
             **比赛名称** : [CREST CTF 2.0](https://crest.ctf7.com/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 25.00  
             **赛事主办** : RSTCON (https://ctftime.org/team/281202)  
             **添加日历** : https://ctftime.org/event/3377.ics  
+            
+        ??? Quote "[Hack.lu CTF 2026](https://flu.xxx/)"  
+            [![](https://ctftime.org/media/events/hacklu25.jpg){ width="200" align=left }](https://flu.xxx/)  
+            **比赛名称** : [Hack.lu CTF 2026](https://flu.xxx/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-10-24 02:00:00 - 2026-10-26 02:00:00 UTC+8  
+            **比赛权重** : 94.74  
+            **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
+            **添加日历** : https://ctftime.org/event/3207.ics  
             
