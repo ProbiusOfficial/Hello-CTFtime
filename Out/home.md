@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[HITCON CTF 2026](https://ctf2026.hitcon.org/)"  
-            [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](https://ctf2026.hitcon.org/)  
-            **比赛名称** : [HITCON CTF 2026](https://ctf2026.hitcon.org/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-23 22:00:00 - 2026-10-25 22:00:00 UTC+8  
-            **比赛权重** : 91.16  
-            **赛事主办** : HITCON (https://ctftime.org/team/8299)  
-            **添加日历** : https://ctftime.org/event/3340.ics  
-            
         ??? Quote "[RSTCON 2026 CTF](https://ctf.rstcon.org/)"  
             [![](https://ctftime.org/media/events/RSTCON-BLK_1.png){ width="200" align=left }](https://ctf.rstcon.org/)  
             **比赛名称** : [RSTCON 2026 CTF](https://ctf.rstcon.org/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
             **添加日历** : https://ctftime.org/event/3442.ics  
+            
+        ??? Quote "[H7CTF 2026 Finals](https://2026.h7tex.com/)"  
+            [![](https://ctftime.org/media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg){ width="200" align=left }](https://2026.h7tex.com/)  
+            **比赛名称** : [H7CTF 2026 Finals](https://2026.h7tex.com/)  
+            **比赛形式** : Attack-Defense  
+            **比赛时间** : 2026-10-24 14:30:00 - 2026-10-25 14:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
+            **添加日历** : https://ctftime.org/event/3094.ics  
             
