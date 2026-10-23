@@ -1,24 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[RSTCON 2026 CTF](https://ctf.rstcon.org/)"  
-            [![](https://ctftime.org/media/events/RSTCON-BLK_1.png){ width="200" align=left }](https://ctf.rstcon.org/)  
-            **比赛名称** : [RSTCON 2026 CTF](https://ctf.rstcon.org/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-24 01:00:00 - 2026-10-26 01:00:00 UTC+8  
-            **比赛权重** : 25.00  
-            **赛事主办** : RSTCON (https://ctftime.org/team/281202)  
-            **添加日历** : https://ctftime.org/event/3377.ics  
-            
-        ??? Quote "[Hack.lu CTF 2026](https://flu.xxx/)"  
-            [![](https://ctftime.org/media/events/hacklu25.jpg){ width="200" align=left }](https://flu.xxx/)  
-            **比赛名称** : [Hack.lu CTF 2026](https://flu.xxx/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-24 02:00:00 - 2026-10-26 02:00:00 UTC+8  
-            **比赛权重** : 94.74  
-            **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
-            **添加日历** : https://ctftime.org/event/3207.ics  
-            
         ??? Quote "[Cryovault 2026 Finals](https://isfcrpesu.ctfd.io/)"  
             [![](https://ctftime.org/media/events/v7_2.jpg){ width="200" align=left }](https://isfcrpesu.ctfd.io/)  
             **比赛名称** : [Cryovault 2026 Finals](https://isfcrpesu.ctfd.io/)  
@@ -36,4 +18,22 @@
             **比赛权重** : 0.00  
             **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
             **添加日历** : https://ctftime.org/event/3094.ics  
+            
+        ??? Quote "[BSides Peoria CTF 2026](https://bsidespeoriac.tf/)"  
+            [![](https://ctftime.org/media/events/cropped-BSIDES_PEORIA-2026_10pct.png){ width="200" align=left }](https://bsidespeoriac.tf/)  
+            **比赛名称** : [BSides Peoria CTF 2026](https://bsidespeoriac.tf/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-10-24 22:45:00 - 2026-10-25 04:45:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : BSides Peoria CTF Village (https://ctftime.org/team/444079)  
+            **添加日历** : https://ctftime.org/event/3473.ics  
+            
+        ??? Quote "[Sudocrypt v16.0](https://sudocrypt.com/)"  
+            [![](https://ctftime.org/media/events/WhatsApp_Image_2026-09-14_at_12.17.30.jpeg){ width="200" align=left }](https://sudocrypt.com/)  
+            **比赛名称** : [Sudocrypt v16.0](https://sudocrypt.com/)  
+            **比赛形式** : Hack quest  
+            **比赛时间** : 2026-10-27 11:30:00 - 2026-10-28 23:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : exunclan (https://ctftime.org/team/83987)  
+            **添加日历** : https://ctftime.org/event/3443.ics  
             

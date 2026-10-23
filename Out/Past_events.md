@@ -23,7 +23,7 @@ comments: true
     **比赛形式** : Attack-Defense  
     **比赛时间** : 2026-10-20 11:00:00 - 2026-10-20 22:00:00 UTC+8  
     **比赛权重** : 49.50  
-    **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
+    **赛事主办** : Drovosec, SAS CREW (https://ctftime.org/team/210132, https://ctftime.org/team/283057)  
     **添加日历** : https://ctftime.org/event/3409.ics  
     
 ??? Quote "[DEADFACE CTF 2026](https://ctf.deadface.io/)"  
