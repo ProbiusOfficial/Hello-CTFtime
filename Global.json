@@ -72,6 +72,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "HAM-DEFCON",
+        "比赛时间": "2026-10-31 11:30:00 - 2026-10-31 15:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3491.ics",
+        "比赛形式": "Attack-Defense",
+        "比赛链接": "http://defcon.hamarc.tech/",
+        "比赛标志": "https://ctftime.org/media/events/hamarc.png",
+        "比赛权重": "0",
+        "赛事主办": "HAMARC (https://ctftime.org/team/452464)",
+        "比赛ID": "1742",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "Russian CTF Cup X Qualifier",
         "比赛时间": "2026-10-31 17:00:00 - 2026-11-01 17:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3469.ics",
@@ -537,7 +549,7 @@
         "比赛权重": "0",
         "赛事主办": "BSides Peoria CTF Village (https://ctftime.org/team/444079)",
         "比赛ID": "1718",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "CREST CTF 2.0",
@@ -1725,18 +1737,6 @@
         "比赛权重": "0.00",
         "赛事主办": "ESGI (https://ctftime.org/team/3151)",
         "比赛ID": "1142",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "MntcrlCTF 2026",
-        "比赛时间": "2026-06-28 00:00:00 - 2026-06-29 00:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3282.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.mntcrl.it/",
-        "比赛标志": "https://ctftime.org/media/events/m0nt3c4rl0_logo.jpg",
-        "比赛权重": "25.00",
-        "赛事主办": "Mntcrl (https://ctftime.org/team/195096)",
-        "比赛ID": "1583",
         "比赛状态": "past"
     }
 ]

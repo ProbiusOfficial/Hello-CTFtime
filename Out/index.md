@@ -64,6 +64,15 @@
                 **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
                 **添加日历** : https://ctftime.org/event/3459.ics  
                 
+            ??? Quote "[HAM-DEFCON](http://defcon.hamarc.tech/)"  
+                [![](https://ctftime.org/media/events/hamarc.png){ width="200" align=left }](http://defcon.hamarc.tech/)  
+                **比赛名称** : [HAM-DEFCON](http://defcon.hamarc.tech/)  
+                **比赛形式** : Attack-Defense  
+                **比赛时间** : 2026-10-31 11:30:00 - 2026-10-31 15:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : HAMARC (https://ctftime.org/team/452464)  
+                **添加日历** : https://ctftime.org/event/3491.ics  
+                
             ??? Quote "[Russian CTF Cup X Qualifier](https://ctfcup.ru/)"  
                 [![](){ width="200" align=left }](https://ctfcup.ru/)  
                 **比赛名称** : [Russian CTF Cup X Qualifier](https://ctfcup.ru/)  
@@ -410,6 +419,10 @@
                 **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
                 **添加日历** : https://ctftime.org/event/3094.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[BSides Peoria CTF 2026](https://bsidespeoriac.tf/)"  
                 [![](https://ctftime.org/media/events/cropped-BSIDES_PEORIA-2026_10pct.png){ width="200" align=left }](https://bsidespeoriac.tf/)  
                 **比赛名称** : [BSides Peoria CTF 2026](https://bsidespeoriac.tf/)  
@@ -419,10 +432,6 @@
                 **赛事主办** : BSides Peoria CTF Village (https://ctftime.org/team/444079)  
                 **添加日历** : https://ctftime.org/event/3473.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[CREST CTF 2.0](https://crest.ctf7.com/)"  
                 [![](https://ctftime.org/media/events/WhatsApp_Image_2026-10-11_at_14.32.54.jpeg){ width="200" align=left }](https://crest.ctf7.com/)  
                 **比赛名称** : [CREST CTF 2.0](https://crest.ctf7.com/)  
@@ -1313,13 +1322,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : ESGI (https://ctftime.org/team/3151)  
                 **添加日历** : https://ctftime.org/event/3315.ics  
-                
-            ??? Quote "[MntcrlCTF 2026](https://ctf.mntcrl.it/)"  
-                [![](https://ctftime.org/media/events/m0nt3c4rl0_logo.jpg){ width="200" align=left }](https://ctf.mntcrl.it/)  
-                **比赛名称** : [MntcrlCTF 2026](https://ctf.mntcrl.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-06-28 00:00:00 - 2026-06-29 00:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : Mntcrl (https://ctftime.org/team/195096)  
-                **添加日历** : https://ctftime.org/event/3282.ics  
                 

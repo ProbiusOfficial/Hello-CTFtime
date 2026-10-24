@@ -63,6 +63,15 @@ comments: true
     **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
     **添加日历** : https://ctftime.org/event/3459.ics  
     
+??? Quote "[HAM-DEFCON](http://defcon.hamarc.tech/)"  
+    [![](https://ctftime.org/media/events/hamarc.png){ width="200" align=left }](http://defcon.hamarc.tech/)  
+    **比赛名称** : [HAM-DEFCON](http://defcon.hamarc.tech/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2026-10-31 11:30:00 - 2026-10-31 15:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : HAMARC (https://ctftime.org/team/452464)  
+    **添加日历** : https://ctftime.org/event/3491.ics  
+    
 ??? Quote "[Russian CTF Cup X Qualifier](https://ctfcup.ru/)"  
     [![](){ width="200" align=left }](https://ctfcup.ru/)  
     **比赛名称** : [Russian CTF Cup X Qualifier](https://ctfcup.ru/)  
