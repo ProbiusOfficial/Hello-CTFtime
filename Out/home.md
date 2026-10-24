@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[BSides Peoria CTF 2026](https://bsidespeoriac.tf/)"  
-            [![](https://ctftime.org/media/events/cropped-BSIDES_PEORIA-2026_10pct.png){ width="200" align=left }](https://bsidespeoriac.tf/)  
-            **比赛名称** : [BSides Peoria CTF 2026](https://bsidespeoriac.tf/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-24 22:45:00 - 2026-10-25 04:45:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : BSides Peoria CTF Village (https://ctftime.org/team/444079)  
-            **添加日历** : https://ctftime.org/event/3473.ics  
-            
         ??? Quote "[Sudocrypt v16.0](https://sudocrypt.com/)"  
             [![](https://ctftime.org/media/events/WhatsApp_Image_2026-09-14_at_12.17.30.jpeg){ width="200" align=left }](https://sudocrypt.com/)  
             **比赛名称** : [Sudocrypt v16.0](https://sudocrypt.com/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
             **添加日历** : https://ctftime.org/event/3381.ics  
+            
+        ??? Quote "[CTF@AC26 - Finals](https://ctf.ac.upt.ro/)"  
+            [![](https://ctftime.org/media/events/CTFAC26_1.png){ width="200" align=left }](https://ctf.ac.upt.ro/)  
+            **比赛名称** : [CTF@AC26 - Finals](https://ctf.ac.upt.ro/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-10-30 18:00:00 - 2026-11-01 18:00:00 UTC+8  
+            **比赛权重** : 25.00  
+            **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
+            **添加日历** : https://ctftime.org/event/3463.ics  
             

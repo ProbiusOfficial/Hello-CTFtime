@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "BSides Peoria CTF 2026",
-        "比赛时间": "2026-10-24 22:45:00 - 2026-10-25 04:45:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3473.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://bsidespeoriac.tf/",
-        "比赛标志": "https://ctftime.org/media/events/cropped-BSIDES_PEORIA-2026_10pct.png",
-        "比赛权重": "0",
-        "赛事主办": "BSides Peoria CTF Village (https://ctftime.org/team/444079)",
-        "比赛ID": "1718",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Sudocrypt v16.0",
         "比赛时间": "2026-10-27 11:30:00 - 2026-10-28 23:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3443.ics",
@@ -537,6 +525,18 @@
         "比赛权重": "0",
         "赛事主办": "H7Tex (https://ctftime.org/team/281844)",
         "比赛ID": "1169",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "BSides Peoria CTF 2026",
+        "比赛时间": "2026-10-24 22:45:00 - 2026-10-25 04:45:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3473.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://bsidespeoriac.tf/",
+        "比赛标志": "https://ctftime.org/media/events/cropped-BSIDES_PEORIA-2026_10pct.png",
+        "比赛权重": "0",
+        "赛事主办": "BSides Peoria CTF Village (https://ctftime.org/team/444079)",
+        "比赛ID": "1718",
         "比赛状态": "nowrunning"
     },
     {
