@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[H7CTF 2026 Finals](https://2026.h7tex.com/)"  
-            [![](https://ctftime.org/media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg){ width="200" align=left }](https://2026.h7tex.com/)  
-            **比赛名称** : [H7CTF 2026 Finals](https://2026.h7tex.com/)  
-            **比赛形式** : Attack-Defense  
-            **比赛时间** : 2026-10-24 14:30:00 - 2026-10-25 14:30:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
-            **添加日历** : https://ctftime.org/event/3094.ics  
-            
         ??? Quote "[BSides Peoria CTF 2026](https://bsidespeoriac.tf/)"  
             [![](https://ctftime.org/media/events/cropped-BSIDES_PEORIA-2026_10pct.png){ width="200" align=left }](https://bsidespeoriac.tf/)  
             **比赛名称** : [BSides Peoria CTF 2026](https://bsidespeoriac.tf/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 25.00  
             **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
             **添加日历** : https://ctftime.org/event/3444.ics  
+            
+        ??? Quote "[Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
+            [![](https://ctftime.org/media/events/tanmay_2.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
+            **比赛名称** : [Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-10-30 14:30:00 - 2026-10-31 14:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
+            **添加日历** : https://ctftime.org/event/3381.ics  
             
