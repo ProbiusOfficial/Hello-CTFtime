@@ -504,30 +504,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "RSTCON 2026 CTF",
-        "比赛时间": "2026-10-24 01:00:00 - 2026-10-26 01:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3377.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.rstcon.org/",
-        "比赛标志": "https://ctftime.org/media/events/RSTCON-BLK_1.png",
-        "比赛权重": "25.00",
-        "赛事主办": "RSTCON (https://ctftime.org/team/281202)",
-        "比赛ID": "1125",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "Hack.lu CTF 2026",
-        "比赛时间": "2026-10-24 02:00:00 - 2026-10-26 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3207.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://flu.xxx/",
-        "比赛标志": "https://ctftime.org/media/events/hack-round-dark.png",
-        "比赛权重": "94.74",
-        "赛事主办": "FluxFingers (https://ctftime.org/team/551)",
-        "比赛ID": "8",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "BSides Peoria CTF 2026",
         "比赛时间": "2026-10-24 22:45:00 - 2026-10-25 04:45:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3473.ics",
@@ -561,6 +537,30 @@
         "比赛权重": "0.00",
         "赛事主办": "ISFCR PESU (https://ctftime.org/team/166645)",
         "比赛ID": "942",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "Hack.lu CTF 2026",
+        "比赛时间": "2026-10-24 02:00:00 - 2026-10-26 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3207.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://flu.xxx/",
+        "比赛标志": "https://ctftime.org/media/events/hack-round-dark.png",
+        "比赛权重": "94.74",
+        "赛事主办": "FluxFingers (https://ctftime.org/team/551)",
+        "比赛ID": "8",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "RSTCON 2026 CTF",
+        "比赛时间": "2026-10-24 01:00:00 - 2026-10-26 01:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3377.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.rstcon.org/",
+        "比赛标志": "https://ctftime.org/media/events/RSTCON-BLK_1.png",
+        "比赛权重": "25.00",
+        "赛事主办": "RSTCON (https://ctftime.org/team/281202)",
+        "比赛ID": "1125",
         "比赛状态": "past"
     },
     {
@@ -1701,30 +1701,6 @@
         "比赛权重": "17.41",
         "赛事主办": "BroncoSec (https://ctftime.org/team/112673)",
         "比赛ID": "1017",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Junior.Crypt.2026 CTF",
-        "比赛时间": "2026-07-11 17:00:00 - 2026-07-12 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3335.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://ctf-spcs.mf.grsu.by/",
-        "比赛标志": "https://ctftime.org/media/events/grsuctfwithouthat.jpg",
-        "比赛权重": "23.42",
-        "赛事主办": "Beavers0 (https://ctftime.org/team/269281)",
-        "比赛ID": "1041",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "LYKNCTF",
-        "比赛时间": "2026-07-06 08:00:00 - 2026-07-08 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3280.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.itzdenkii.me/",
-        "比赛标志": "https://ctftime.org/media/events/649736697_1646500476542970_4948379456057576589_n.jpg",
-        "比赛权重": "24.42",
-        "赛事主办": "LYKNCTF (https://ctftime.org/team/365692)",
-        "比赛ID": "1223",
         "比赛状态": "past"
     }
 ]

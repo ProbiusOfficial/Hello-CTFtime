@@ -35,6 +35,24 @@ comments: true
     **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
     **添加日历** : https://ctftime.org/event/3442.ics  
     
+??? Quote "[Hack.lu CTF 2026](https://flu.xxx/)"  
+    [![](https://ctftime.org/media/events/hack-round-dark.png){ width="200" align=left }](https://flu.xxx/)  
+    **比赛名称** : [Hack.lu CTF 2026](https://flu.xxx/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-24 02:00:00 - 2026-10-26 02:00:00 UTC+8  
+    **比赛权重** : 94.74  
+    **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
+    **添加日历** : https://ctftime.org/event/3207.ics  
+    
+??? Quote "[RSTCON 2026 CTF](https://ctf.rstcon.org/)"  
+    [![](https://ctftime.org/media/events/RSTCON-BLK_1.png){ width="200" align=left }](https://ctf.rstcon.org/)  
+    **比赛名称** : [RSTCON 2026 CTF](https://ctf.rstcon.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-24 01:00:00 - 2026-10-26 01:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : RSTCON (https://ctftime.org/team/281202)  
+    **添加日历** : https://ctftime.org/event/3377.ics  
+    
 ??? Quote "[HITCON CTF 2026](https://ctf2026.hitcon.org/)"  
     [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](https://ctf2026.hitcon.org/)  
     **比赛名称** : [HITCON CTF 2026](https://ctf2026.hitcon.org/)  
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 17.41  
     **赛事主办** : BroncoSec (https://ctftime.org/team/112673)  
     **添加日历** : https://ctftime.org/event/3144.ics  
-    
-??? Quote "[Junior.Crypt.2026 CTF](http://ctf-spcs.mf.grsu.by/)"  
-    [![](https://ctftime.org/media/events/grsuctfwithouthat.jpg){ width="200" align=left }](http://ctf-spcs.mf.grsu.by/)  
-    **比赛名称** : [Junior.Crypt.2026 CTF](http://ctf-spcs.mf.grsu.by/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-11 17:00:00 - 2026-07-12 17:00:00 UTC+8  
-    **比赛权重** : 23.42  
-    **赛事主办** : Beavers0 (https://ctftime.org/team/269281)  
-    **添加日历** : https://ctftime.org/event/3335.ics  
-    
-??? Quote "[LYKNCTF](https://ctf.itzdenkii.me/)"  
-    [![](https://ctftime.org/media/events/649736697_1646500476542970_4948379456057576589_n.jpg){ width="200" align=left }](https://ctf.itzdenkii.me/)  
-    **比赛名称** : [LYKNCTF](https://ctf.itzdenkii.me/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-06 08:00:00 - 2026-07-08 08:00:00 UTC+8  
-    **比赛权重** : 24.42  
-    **赛事主办** : LYKNCTF (https://ctftime.org/team/365692)  
-    **添加日历** : https://ctftime.org/event/3280.ics  
     
