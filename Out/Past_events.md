@@ -17,6 +17,24 @@ comments: true
     **赛事主办** : BSides Peoria CTF Village (https://ctftime.org/team/444079)  
     **添加日历** : https://ctftime.org/event/3473.ics  
     
+??? Quote "[H7CTF 2026 Finals](https://2026.h7tex.com/)"  
+    [![](https://ctftime.org/media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg){ width="200" align=left }](https://2026.h7tex.com/)  
+    **比赛名称** : [H7CTF 2026 Finals](https://2026.h7tex.com/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2026-10-24 14:30:00 - 2026-10-25 14:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
+    **添加日历** : https://ctftime.org/event/3094.ics  
+    
+??? Quote "[Cryovault 2026 Finals](https://isfcrpesu.ctfd.io/)"  
+    [![](https://ctftime.org/media/events/v7_2.jpg){ width="200" align=left }](https://isfcrpesu.ctfd.io/)  
+    **比赛名称** : [Cryovault 2026 Finals](https://isfcrpesu.ctfd.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-24 11:30:00 - 2026-10-25 14:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
+    **添加日历** : https://ctftime.org/event/3442.ics  
+    
 ??? Quote "[CREST CTF 2.0](https://crest.ctf7.com/)"  
     [![](https://ctftime.org/media/events/WhatsApp_Image_2026-10-11_at_14.32.54.jpeg){ width="200" align=left }](https://crest.ctf7.com/)  
     **比赛名称** : [CREST CTF 2.0](https://crest.ctf7.com/)  
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Fluid Attacks (https://ctftime.org/team/126627)  
     **添加日历** : https://ctftime.org/event/3325.ics  
-    
-??? Quote "[R3CTF 2026](https://ctf2026.r3kapig.com/)"  
-    [![](https://ctftime.org/media/events/r3kapig.png){ width="200" align=left }](https://ctf2026.r3kapig.com/)  
-    **比赛名称** : [R3CTF 2026](https://ctf2026.r3kapig.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-04 10:00:00 - 2026-07-06 10:00:00 UTC+8  
-    **比赛权重** : 35.95  
-    **赛事主办** : r3kapig (https://ctftime.org/team/58979)  
-    **添加日历** : https://ctftime.org/event/3149.ics  
-    
-??? Quote "[No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)"  
-    [![](){ width="200" align=left }](https://nhnc.ic3dt3a.org/)  
-    **比赛名称** : [No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-04 08:00:00 - 2026-07-06 08:00:00 UTC+8  
-    **比赛权重** : 23.47  
-    **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
-    **添加日历** : https://ctftime.org/event/3180.ics  
     
