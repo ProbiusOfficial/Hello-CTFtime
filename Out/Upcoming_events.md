@@ -153,6 +153,15 @@ comments: true
     **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
     **添加日历** : https://ctftime.org/event/3410.ics  
     
+??? Quote "[TVX CTF 2026](https://ctf-techvisions.com/)"  
+    [![](https://ctftime.org/media/events/photo_2026-10-17_18-01-04.jpg){ width="200" align=left }](https://ctf-techvisions.com/)  
+    **比赛名称** : [TVX CTF 2026](https://ctf-techvisions.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-13 18:00:00 - 2026-11-14 04:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Tech Visions (https://ctftime.org/team/452398)  
+    **添加日历** : https://ctftime.org/event/3486.ics  
+    
 ??? Quote "[Platypwn 2026](https://platypwnies.de/events/platypwn/)"  
     [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwnies.de/events/platypwn/)  
     **比赛名称** : [Platypwn 2026](https://platypwnies.de/events/platypwn/)  
@@ -261,6 +270,15 @@ comments: true
     **赛事主办** : L3m0n CTF (https://ctftime.org/team/417627)  
     **添加日历** : https://ctftime.org/event/3485.ics  
     
+??? Quote "[CyberNSK2027-Qualifier](https://quals.sslctf.ru/)"  
+    [![](https://ctftime.org/media/events/photo_2024-09-18_12-55-46_4.jpg){ width="200" align=left }](https://quals.sslctf.ru/)  
+    **比赛名称** : [CyberNSK2027-Qualifier](https://quals.sslctf.ru/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-28 17:00:00 - 2026-11-29 05:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
+    **添加日历** : https://ctftime.org/event/3489.ics  
+    
 ??? Quote "[BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)"  
     [![](https://ctftime.org/media/events/9f419586e0dedbff0130e6f487ddc54c_1.png){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
     **比赛名称** : [BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)  
@@ -323,6 +341,15 @@ comments: true
     **比赛权重** : 99.38  
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/3062.ics  
+    
+??? Quote "[GaianSpace Perihelion CTF 2027](https://gaian.space/ctf)"  
+    [![](https://ctftime.org/media/events/gaianspace-logo-new_1_1.png){ width="200" align=left }](https://gaian.space/ctf)  
+    **比赛名称** : [GaianSpace Perihelion CTF 2027](https://gaian.space/ctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2027-01-03 02:00:00 - 2027-01-04 02:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : GaianSpace (https://ctftime.org/team/373034)  
+    **添加日历** : https://ctftime.org/event/3492.ics  
     
 ??? Quote "[JerseyCTF VII](https://ctf.jerseyctf.com/)"  
     [![](https://ctftime.org/media/events/mono-side-jerseyctf.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  

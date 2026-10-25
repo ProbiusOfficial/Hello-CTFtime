@@ -26,6 +26,15 @@ comments: true
     **赛事主办** : CREST (https://ctftime.org/team/418000)  
     **添加日历** : https://ctftime.org/event/3477.ics  
     
+??? Quote "[cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)"  
+    [![](https://ctftime.org/media/events/Frame_6_2.png){ width="200" align=left }](https://cruxipher.crux-bphc.com/)  
+    **比赛名称** : [cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-23 08:30:00 - 2026-10-25 08:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
+    **添加日历** : https://ctftime.org/event/3369.ics  
+    
 ??? Quote "[SAS CTF 2026 Finals](https://ctf.thesascon.com/)"  
     [![](https://ctftime.org/media/events/SAS26_temp_1.png){ width="200" align=left }](https://ctf.thesascon.com/)  
     **比赛名称** : [SAS CTF 2026 Finals](https://ctf.thesascon.com/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 23.47  
     **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
     **添加日历** : https://ctftime.org/event/3180.ics  
-    
-??? Quote "[MindBreak 2026 by ESGI](https://linktr.ee/m1ndbr34k)"  
-    [![](https://ctftime.org/media/events/mindbreak_2.png){ width="200" align=left }](https://linktr.ee/m1ndbr34k)  
-    **比赛名称** : [MindBreak 2026 by ESGI](https://linktr.ee/m1ndbr34k)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-04 05:00:00 - 2026-07-04 14:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : ESGI (https://ctftime.org/team/3151)  
-    **添加日历** : https://ctftime.org/event/3315.ics  
     

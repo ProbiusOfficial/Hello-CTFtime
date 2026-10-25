@@ -192,6 +192,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "TVX CTF 2026",
+        "比赛时间": "2026-11-13 18:00:00 - 2026-11-14 04:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3486.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf-techvisions.com/",
+        "比赛标志": "https://ctftime.org/media/events/photo_2026-10-17_18-01-04.jpg",
+        "比赛权重": "0",
+        "赛事主办": "Tech Visions (https://ctftime.org/team/452398)",
+        "比赛ID": "1738",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "Platypwn 2026",
         "比赛时间": "2026-11-14 01:00:00 - 2026-11-14 19:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3082.ics",
@@ -336,6 +348,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "CyberNSK2027-Qualifier",
+        "比赛时间": "2026-11-28 17:00:00 - 2026-11-29 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3489.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://quals.sslctf.ru/",
+        "比赛标志": "https://ctftime.org/media/events/photo_2024-09-18_12-55-46_4.jpg",
+        "比赛权重": "0",
+        "赛事主办": "siberiansecurityleague (https://ctftime.org/team/425775)",
+        "比赛ID": "1525",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "BlackHat MEA CTF Final 2026",
         "比赛时间": "2026-12-01 23:14:59 - 2026-12-03 23:14:59 UTC+8",
         "添加日历": "https://ctftime.org/event/3386.ics",
@@ -420,6 +444,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "GaianSpace Perihelion CTF 2027",
+        "比赛时间": "2027-01-03 02:00:00 - 2027-01-04 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3492.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://gaian.space/ctf",
+        "比赛标志": "https://ctftime.org/media/events/gaianspace-logo-new_1_1.png",
+        "比赛权重": "25.00",
+        "赛事主办": "GaianSpace (https://ctftime.org/team/373034)",
+        "比赛ID": "1284",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "JerseyCTF VII",
         "比赛时间": "2027-03-14 01:00:00 - 2027-03-15 00:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3458.ics",
@@ -465,18 +501,6 @@
         "比赛权重": "0",
         "赛事主办": "BUG PWN (https://ctftime.org/team/182428)",
         "比赛ID": "968",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "cruXipher 2026 - ATMoS '26, BITS Hyderabad",
-        "比赛时间": "2026-10-23 08:30:00 - 2026-10-25 08:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3369.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://cruxipher.crux-bphc.com/",
-        "比赛标志": "https://ctftime.org/media/events/Frame_6_2.png",
-        "比赛权重": "0",
-        "赛事主办": "CRUx BPHC (https://ctftime.org/team/270645)",
-        "比赛ID": "1004",
         "比赛状态": "nowrunning"
     },
     {
@@ -561,6 +585,18 @@
         "比赛权重": "0",
         "赛事主办": "CREST (https://ctftime.org/team/418000)",
         "比赛ID": "1469",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "cruXipher 2026 - ATMoS '26, BITS Hyderabad",
+        "比赛时间": "2026-10-23 08:30:00 - 2026-10-25 08:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3369.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://cruxipher.crux-bphc.com/",
+        "比赛标志": "https://ctftime.org/media/events/Frame_6_2.png",
+        "比赛权重": "0",
+        "赛事主办": "CRUx BPHC (https://ctftime.org/team/270645)",
+        "比赛ID": "1004",
         "比赛状态": "past"
     },
     {
@@ -1725,18 +1761,6 @@
         "比赛权重": "23.47",
         "赛事主办": "ICEDTEA (https://ctftime.org/team/303514)",
         "比赛ID": "1199",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "MindBreak 2026 by ESGI",
-        "比赛时间": "2026-07-04 05:00:00 - 2026-07-04 14:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3315.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://linktr.ee/m1ndbr34k",
-        "比赛标志": "https://ctftime.org/media/events/mindbreak_2.png",
-        "比赛权重": "0.00",
-        "赛事主办": "ESGI (https://ctftime.org/team/3151)",
-        "比赛ID": "1142",
         "比赛状态": "past"
     }
 ]

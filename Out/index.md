@@ -154,6 +154,15 @@
                 **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
                 **添加日历** : https://ctftime.org/event/3410.ics  
                 
+            ??? Quote "[TVX CTF 2026](https://ctf-techvisions.com/)"  
+                [![](https://ctftime.org/media/events/photo_2026-10-17_18-01-04.jpg){ width="200" align=left }](https://ctf-techvisions.com/)  
+                **比赛名称** : [TVX CTF 2026](https://ctf-techvisions.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-13 18:00:00 - 2026-11-14 04:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Tech Visions (https://ctftime.org/team/452398)  
+                **添加日历** : https://ctftime.org/event/3486.ics  
+                
             ??? Quote "[Platypwn 2026](https://platypwnies.de/events/platypwn/)"  
                 [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwnies.de/events/platypwn/)  
                 **比赛名称** : [Platypwn 2026](https://platypwnies.de/events/platypwn/)  
@@ -262,6 +271,15 @@
                 **赛事主办** : L3m0n CTF (https://ctftime.org/team/417627)  
                 **添加日历** : https://ctftime.org/event/3485.ics  
                 
+            ??? Quote "[CyberNSK2027-Qualifier](https://quals.sslctf.ru/)"  
+                [![](https://ctftime.org/media/events/photo_2024-09-18_12-55-46_4.jpg){ width="200" align=left }](https://quals.sslctf.ru/)  
+                **比赛名称** : [CyberNSK2027-Qualifier](https://quals.sslctf.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-28 17:00:00 - 2026-11-29 05:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
+                **添加日历** : https://ctftime.org/event/3489.ics  
+                
             ??? Quote "[BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)"  
                 [![](https://ctftime.org/media/events/9f419586e0dedbff0130e6f487ddc54c_1.png){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
                 **比赛名称** : [BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)  
@@ -325,6 +343,15 @@
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/3062.ics  
                 
+            ??? Quote "[GaianSpace Perihelion CTF 2027](https://gaian.space/ctf)"  
+                [![](https://ctftime.org/media/events/gaianspace-logo-new_1_1.png){ width="200" align=left }](https://gaian.space/ctf)  
+                **比赛名称** : [GaianSpace Perihelion CTF 2027](https://gaian.space/ctf)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2027-01-03 02:00:00 - 2027-01-04 02:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : GaianSpace (https://ctftime.org/team/373034)  
+                **添加日历** : https://ctftime.org/event/3492.ics  
+                
             ??? Quote "[JerseyCTF VII](https://ctf.jerseyctf.com/)"  
                 [![](https://ctftime.org/media/events/mono-side-jerseyctf.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
                 **比赛名称** : [JerseyCTF VII](https://ctf.jerseyctf.com/)  
@@ -364,15 +391,6 @@
                 **比赛权重** : 0  
                 **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
                 **添加日历** : https://ctftime.org/event/3462.ics  
-                
-            ??? Quote "[cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)"  
-                [![](https://ctftime.org/media/events/Frame_6_2.png){ width="200" align=left }](https://cruxipher.crux-bphc.com/)  
-                **比赛名称** : [cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-10-23 08:30:00 - 2026-10-25 08:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
-                **添加日历** : https://ctftime.org/event/3369.ics  
                 
             ??? Quote "[HITCON CTF 2026](https://ctf2026.hitcon.org/)"  
                 [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](https://ctf2026.hitcon.org/)  
@@ -440,6 +458,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : CREST (https://ctftime.org/team/418000)  
                 **添加日历** : https://ctftime.org/event/3477.ics  
+                
+            ??? Quote "[cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)"  
+                [![](https://ctftime.org/media/events/Frame_6_2.png){ width="200" align=left }](https://cruxipher.crux-bphc.com/)  
+                **比赛名称** : [cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-23 08:30:00 - 2026-10-25 08:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
+                **添加日历** : https://ctftime.org/event/3369.ics  
                 
             ??? Quote "[SAS CTF 2026 Finals](https://ctf.thesascon.com/)"  
                 [![](https://ctftime.org/media/events/SAS26_temp_1.png){ width="200" align=left }](https://ctf.thesascon.com/)  
@@ -1313,13 +1340,4 @@
                 **比赛权重** : 23.47  
                 **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
                 **添加日历** : https://ctftime.org/event/3180.ics  
-                
-            ??? Quote "[MindBreak 2026 by ESGI](https://linktr.ee/m1ndbr34k)"  
-                [![](https://ctftime.org/media/events/mindbreak_2.png){ width="200" align=left }](https://linktr.ee/m1ndbr34k)  
-                **比赛名称** : [MindBreak 2026 by ESGI](https://linktr.ee/m1ndbr34k)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-07-04 05:00:00 - 2026-07-04 14:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : ESGI (https://ctftime.org/team/3151)  
-                **添加日历** : https://ctftime.org/event/3315.ics  
                 
