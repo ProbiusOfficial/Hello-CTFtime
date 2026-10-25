@@ -35,6 +35,15 @@ comments: true
     **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
     **添加日历** : https://ctftime.org/event/3442.ics  
     
+??? Quote "[HITCON CTF 2026](https://ctf2026.hitcon.org/)"  
+    [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](https://ctf2026.hitcon.org/)  
+    **比赛名称** : [HITCON CTF 2026](https://ctf2026.hitcon.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-23 22:00:00 - 2026-10-25 22:00:00 UTC+8  
+    **比赛权重** : 91.16  
+    **赛事主办** : HITCON (https://ctftime.org/team/8299)  
+    **添加日历** : https://ctftime.org/event/3340.ics  
+    
 ??? Quote "[CREST CTF 2.0](https://crest.ctf7.com/)"  
     [![](https://ctftime.org/media/events/WhatsApp_Image_2026-10-11_at_14.32.54.jpeg){ width="200" align=left }](https://crest.ctf7.com/)  
     **比赛名称** : [CREST CTF 2.0](https://crest.ctf7.com/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 24.42  
     **赛事主办** : LYKNCTF (https://ctftime.org/team/365692)  
     **添加日历** : https://ctftime.org/event/3280.ics  
-    
-??? Quote "[Fluid Attacks' CTF 2026-2](https://fluidattacks.com/ctf)"  
-    [![](){ width="200" align=left }](https://fluidattacks.com/ctf)  
-    **比赛名称** : [Fluid Attacks' CTF 2026-2](https://fluidattacks.com/ctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-04 21:00:00 - 2026-07-05 09:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Fluid Attacks (https://ctftime.org/team/126627)  
-    **添加日历** : https://ctftime.org/event/3325.ics  
     
