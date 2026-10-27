@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Sudocrypt v16.0](https://sudocrypt.com/)"  
-    [![](https://ctftime.org/media/events/WhatsApp_Image_2026-09-14_at_12.17.30.jpeg){ width="200" align=left }](https://sudocrypt.com/)  
-    **比赛名称** : [Sudocrypt v16.0](https://sudocrypt.com/)  
-    **比赛形式** : Hack quest  
-    **比赛时间** : 2026-10-27 11:30:00 - 2026-10-28 23:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : exunclan (https://ctftime.org/team/83987)  
-    **添加日历** : https://ctftime.org/event/3443.ics  
-    
 ??? Quote "[Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)"  
     [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_2.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
     **比赛名称** : [Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)  
