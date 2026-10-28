@@ -383,6 +383,10 @@
                 **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
                 **添加日历** : https://ctftime.org/event/3462.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[Sudocrypt v16.0](https://sudocrypt.com/)"  
                 [![](https://ctftime.org/media/events/WhatsApp_Image_2026-09-14_at_12.17.30.jpeg){ width="200" align=left }](https://sudocrypt.com/)  
                 **比赛名称** : [Sudocrypt v16.0](https://sudocrypt.com/)  
@@ -392,10 +396,6 @@
                 **赛事主办** : exunclan (https://ctftime.org/team/83987)  
                 **添加日历** : https://ctftime.org/event/3443.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[BSides Peoria CTF 2026](https://bsidespeoriac.tf/)"  
                 [![](https://ctftime.org/media/events/cropped-BSIDES_PEORIA-2026_10pct.png){ width="200" align=left }](https://bsidespeoriac.tf/)  
                 **比赛名称** : [BSides Peoria CTF 2026](https://bsidespeoriac.tf/)  
@@ -1286,13 +1286,4 @@
                 **比赛权重** : 24.90  
                 **赛事主办** : 1940 (https://ctftime.org/team/307762)  
                 **添加日历** : https://ctftime.org/event/3368.ics  
-                
-            ??? Quote "[BroncoCTF 2026](https://broncoctf.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/horse.png){ width="200" align=left }](https://broncoctf.ctfd.io/)  
-                **比赛名称** : [BroncoCTF 2026](https://broncoctf.ctfd.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-07-12 00:00:00 - 2026-07-13 00:00:00 UTC+8  
-                **比赛权重** : 17.41  
-                **赛事主办** : BroncoSec (https://ctftime.org/team/112673)  
-                **添加日历** : https://ctftime.org/event/3144.ics  
                 
