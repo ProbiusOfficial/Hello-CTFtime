@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)"  
-    [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_2.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
-    **比赛名称** : [Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-10-29 17:00:00 - 2026-10-30 01:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
-    **添加日历** : https://ctftime.org/event/3444.ics  
-    
 ??? Quote "[Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
     [![](https://ctftime.org/media/events/tanmay_2.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
     **比赛名称** : [Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  

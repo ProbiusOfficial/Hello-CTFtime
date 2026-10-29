@@ -27,3 +27,12 @@ comments: true
     **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
     **添加日历** : https://ctftime.org/event/3462.ics  
     
+??? Quote "[Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)"  
+    [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_2.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
+    **比赛名称** : [Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-29 17:00:00 - 2026-10-30 01:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
+    **添加日历** : https://ctftime.org/event/3444.ics  
+    
