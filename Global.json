@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "Hacker's Gambit 2026 (Round 2 – Grand Finale)",
-        "比赛时间": "2026-10-30 14:30:00 - 2026-10-31 14:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3381.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293",
-        "比赛标志": "https://ctftime.org/media/events/tanmay_2.png",
-        "比赛权重": "0.00",
-        "赛事主办": "JCOE Cyber Sentinels (https://ctftime.org/team/405374)",
-        "比赛ID": "1415",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "CTF@AC26 - Finals",
         "比赛时间": "2026-10-30 18:00:00 - 2026-11-01 18:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3463.ics",
@@ -477,6 +465,18 @@
         "比赛权重": "0",
         "赛事主办": "BUG PWN (https://ctftime.org/team/182428)",
         "比赛ID": "968",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Hacker's Gambit 2026 (Round 2 – Grand Finale)",
+        "比赛时间": "2026-10-30 14:30:00 - 2026-10-31 14:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3381.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293",
+        "比赛标志": "https://ctftime.org/media/events/tanmay_2.png",
+        "比赛权重": "0.00",
+        "赛事主办": "JCOE Cyber Sentinels (https://ctftime.org/team/405374)",
+        "比赛ID": "1415",
         "比赛状态": "nowrunning"
     },
     {
