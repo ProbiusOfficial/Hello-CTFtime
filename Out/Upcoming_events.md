@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)"  
-    [![](https://ctftime.org/media/events/HI_Cyber_Con_2026__CTFtime_Logo__Transparent.png){ width="200" align=left }](https://ctf.hiddeninvestigations.net/)  
-    **比赛名称** : [HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-10-30 22:00:00 - 2026-11-01 22:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Hidden Investigations (https://ctftime.org/team/188318)  
-    **添加日历** : https://ctftime.org/event/3460.ics  
-    
 ??? Quote "[2026 Qiangwang Challenge on Cyber Mimic Defense Qualification](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)"  
     [![](https://ctftime.org/media/events/logo_139.png){ width="200" align=left }](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)  
     **比赛名称** : [2026 Qiangwang Challenge on Cyber Mimic Defense Qualification](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)  
