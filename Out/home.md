@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[CTF@AC26 - Finals](https://ctf.ac.upt.ro/)"  
-            [![](https://ctftime.org/media/events/CTFAC26_1.png){ width="200" align=left }](https://ctf.ac.upt.ro/)  
-            **比赛名称** : [CTF@AC26 - Finals](https://ctf.ac.upt.ro/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-30 18:00:00 - 2026-11-01 18:00:00 UTC+8  
-            **比赛权重** : 25.00  
-            **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
-            **添加日历** : https://ctftime.org/event/3463.ics  
-            
         ??? Quote "[HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)"  
             [![](https://ctftime.org/media/events/HI_Cyber_Con_2026__CTFtime_Logo__Transparent.png){ width="200" align=left }](https://ctf.hiddeninvestigations.net/)  
             **比赛名称** : [HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0  
             **赛事主办** : HAMARC (https://ctftime.org/team/452464)  
             **添加日历** : https://ctftime.org/event/3491.ics  
+            
+        ??? Quote "[Russian CTF Cup X Qualifier](https://ctfcup.ru/)"  
+            [![](){ width="200" align=left }](https://ctfcup.ru/)  
+            **比赛名称** : [Russian CTF Cup X Qualifier](https://ctfcup.ru/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-10-31 17:00:00 - 2026-11-01 17:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
+            **添加日历** : https://ctftime.org/event/3469.ics  
             

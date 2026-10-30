@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[CTF@AC26 - Finals](https://ctf.ac.upt.ro/)"  
-                [![](https://ctftime.org/media/events/CTFAC26_1.png){ width="200" align=left }](https://ctf.ac.upt.ro/)  
-                **比赛名称** : [CTF@AC26 - Finals](https://ctf.ac.upt.ro/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-10-30 18:00:00 - 2026-11-01 18:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
-                **添加日历** : https://ctftime.org/event/3463.ics  
-                
             ??? Quote "[HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)"  
                 [![](https://ctftime.org/media/events/HI_Cyber_Con_2026__CTFtime_Logo__Transparent.png){ width="200" align=left }](https://ctf.hiddeninvestigations.net/)  
                 **比赛名称** : [HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)  
@@ -199,15 +190,6 @@
                 **赛事主办** : Seize da Flaq (https://ctftime.org/team/442848)  
                 **添加日历** : https://ctftime.org/event/3408.ics  
                 
-            ??? Quote "[Cyber Ninja CTF 2026 - BLACKOUT](https://www.cyber-ninja-ctf.fr/)"  
-                [![](https://ctftime.org/media/events/66a76ec5022678cdd16d2d5a_Design_sans_titre_14.png){ width="200" align=left }](https://www.cyber-ninja-ctf.fr/)  
-                **比赛名称** : [Cyber Ninja CTF 2026 - BLACKOUT](https://www.cyber-ninja-ctf.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-21 17:00:00 - 2026-11-22 17:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : OteriHack (https://ctftime.org/team/190074)  
-                **添加日历** : https://ctftime.org/event/3490.ics  
-                
             ??? Quote "[Crate-CTF 2026](https://foi.se/cratectf)"  
                 [![](https://ctftime.org/media/events/CTF_2026_2.png){ width="200" align=left }](https://foi.se/cratectf)  
                 **比赛名称** : [Crate-CTF 2026](https://foi.se/cratectf)  
@@ -373,6 +355,15 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
                 **添加日历** : https://ctftime.org/event/3381.ics  
+                
+            ??? Quote "[CTF@AC26 - Finals](https://ctf.ac.upt.ro/)"  
+                [![](https://ctftime.org/media/events/CTFAC26_1.png){ width="200" align=left }](https://ctf.ac.upt.ro/)  
+                **比赛名称** : [CTF@AC26 - Finals](https://ctf.ac.upt.ro/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-30 18:00:00 - 2026-11-01 18:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
+                **添加日历** : https://ctftime.org/event/3463.ics  
                 
     === "*已经结束*"
         === "国内赛事"
