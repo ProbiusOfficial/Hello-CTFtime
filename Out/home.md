@@ -1,24 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Russian CTF Cup X Qualifier](https://ctfcup.ru/)"  
-            [![](){ width="200" align=left }](https://ctfcup.ru/)  
-            **比赛名称** : [Russian CTF Cup X Qualifier](https://ctfcup.ru/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-31 17:00:00 - 2026-11-01 17:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
-            **添加日历** : https://ctftime.org/event/3469.ics  
-            
-        ??? Quote "[StealthCup 2026](https://stealth.ait.ac.at/)"  
-            [![](){ width="200" align=left }](https://stealth.ait.ac.at/)  
-            **比赛名称** : [StealthCup 2026](https://stealth.ait.ac.at/)  
-            **比赛形式** : Hack quest  
-            **比赛时间** : 2026-10-31 21:00:00 - 2026-11-01 05:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : 0x01DA (https://ctftime.org/team/104949)  
-            **添加日历** : https://ctftime.org/event/3482.ics  
-            
         ??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
             [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  
             **比赛名称** : [HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)  
@@ -36,4 +18,22 @@
             **比赛权重** : 0.00  
             **赛事主办** : PINK+ (https://ctftime.org/team/438626)  
             **添加日历** : https://ctftime.org/event/3331.ics  
+            
+        ??? Quote "[CSCTF 2026](https://2026.chronos-security.ro/)"  
+            [![](){ width="200" align=left }](https://2026.chronos-security.ro/)  
+            **比赛名称** : [CSCTF 2026](https://2026.chronos-security.ro/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-11-06 21:00:00 - 2026-11-08 21:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
+            **添加日历** : https://ctftime.org/event/3333.ics  
+            
+        ??? Quote "[SpookyCTF 2026](https://spooky.ctfd.io/)"  
+            [![](https://ctftime.org/media/events/spookyctf_2026_1.PNG){ width="200" align=left }](https://spooky.ctfd.io/)  
+            **比赛名称** : [SpookyCTF 2026](https://spooky.ctfd.io/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-11-07 01:00:00 - 2026-11-08 01:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Cyber Security Network (https://ctftime.org/team/214936)  
+            **添加日历** : https://ctftime.org/event/3339.ics  
             
