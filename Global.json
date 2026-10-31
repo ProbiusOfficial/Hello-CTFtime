@@ -441,7 +441,7 @@
         "比赛权重": "0.00",
         "赛事主办": "0x01DA (https://ctftime.org/team/104949)",
         "比赛ID": "1248",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "HAM-DEFCON",
@@ -1629,18 +1629,6 @@
         "比赛权重": "24.38",
         "赛事主办": "Athena-CTF (https://ctftime.org/team/438608)",
         "比赛ID": "1626",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "DownUnderCTF 2026 - CANCELLED",
-        "比赛时间": "2026-07-18 03:30:00 - 2026-07-20 03:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3112.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://duc.tf/",
-        "比赛标志": "",
-        "比赛权重": "94.99",
-        "赛事主办": "DownUnderCTF (https://ctftime.org/team/126400)",
-        "比赛ID": "481",
         "比赛状态": "past"
     }
 ]

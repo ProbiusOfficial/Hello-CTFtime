@@ -338,6 +338,10 @@
                 **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
                 **添加日历** : https://ctftime.org/event/3469.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[StealthCup 2026](https://stealth.ait.ac.at/)"  
                 [![](){ width="200" align=left }](https://stealth.ait.ac.at/)  
                 **比赛名称** : [StealthCup 2026](https://stealth.ait.ac.at/)  
@@ -347,10 +351,6 @@
                 **赛事主办** : 0x01DA (https://ctftime.org/team/104949)  
                 **添加日历** : https://ctftime.org/event/3482.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[HAM-DEFCON](http://defcon.hamarc.tech/)"  
                 [![](https://ctftime.org/media/events/hamarc.png){ width="200" align=left }](http://defcon.hamarc.tech/)  
                 **比赛名称** : [HAM-DEFCON](http://defcon.hamarc.tech/)  
@@ -1241,13 +1241,4 @@
                 **比赛权重** : 24.38  
                 **赛事主办** : Athena-CTF (https://ctftime.org/team/438608)  
                 **添加日历** : https://ctftime.org/event/3366.ics  
-                
-            ??? Quote "[DownUnderCTF 2026 - CANCELLED](https://duc.tf/)"  
-                [![](){ width="200" align=left }](https://duc.tf/)  
-                **比赛名称** : [DownUnderCTF 2026 - CANCELLED](https://duc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-07-18 03:30:00 - 2026-07-20 03:30:00 UTC+8  
-                **比赛权重** : 94.99  
-                **赛事主办** : DownUnderCTF (https://ctftime.org/team/126400)  
-                **添加日历** : https://ctftime.org/event/3112.ics  
                 
