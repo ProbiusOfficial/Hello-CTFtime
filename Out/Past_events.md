@@ -8,6 +8,24 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[HAM-DEFCON](http://defcon.hamarc.tech/)"  
+    [![](https://ctftime.org/media/events/hamarc.png){ width="200" align=left }](http://defcon.hamarc.tech/)  
+    **比赛名称** : [HAM-DEFCON](http://defcon.hamarc.tech/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2026-10-31 11:30:00 - 2026-10-31 15:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : HAMARC (https://ctftime.org/team/452464)  
+    **添加日历** : https://ctftime.org/event/3491.ics  
+    
+??? Quote "[Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
+    [![](https://ctftime.org/media/events/tanmay_2.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
+    **比赛名称** : [Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-30 14:30:00 - 2026-10-31 14:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
+    **添加日历** : https://ctftime.org/event/3381.ics  
+    
 ??? Quote "[Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)"  
     [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_2.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
     **比赛名称** : [Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)  
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 94.99  
     **赛事主办** : DownUnderCTF (https://ctftime.org/team/126400)  
     **添加日历** : https://ctftime.org/event/3112.ics  
-    
-??? Quote "[OmniCTF 2026 Quals](https://omnictf.com/)"  
-    [![](https://ctftime.org/media/events/logo1024x1024_1.png){ width="200" align=left }](https://omnictf.com/)  
-    **比赛名称** : [OmniCTF 2026 Quals](https://omnictf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-17 23:00:00 - 2026-07-19 23:00:00 UTC+8  
-    **比赛权重** : 23.96  
-    **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
-    **添加日历** : https://ctftime.org/event/3104.ics  
-    
-??? Quote "[EYCC CTF 2026 Qualifiers](https://eycc.stemeghackclub.org/)"  
-    [![](https://ctftime.org/media/events/eycc.png){ width="200" align=left }](https://eycc.stemeghackclub.org/)  
-    **比赛名称** : [EYCC CTF 2026 Qualifiers](https://eycc.stemeghackclub.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-17 19:00:00 - 2026-07-19 19:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Mont5ab El2hwa (https://ctftime.org/team/402823)  
-    **添加日历** : https://ctftime.org/event/3353.ics  
     

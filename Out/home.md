@@ -1,24 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[2026 Qiangwang Challenge on Cyber Mimic Defense Qualification](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)"  
-            [![](https://ctftime.org/media/events/logo_139.png){ width="200" align=left }](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)  
-            **比赛名称** : [2026 Qiangwang Challenge on Cyber Mimic Defense Qualification](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-10-31 10:00:00 - 2026-11-01 10:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
-            **添加日历** : https://ctftime.org/event/3459.ics  
-            
-        ??? Quote "[HAM-DEFCON](http://defcon.hamarc.tech/)"  
-            [![](https://ctftime.org/media/events/hamarc.png){ width="200" align=left }](http://defcon.hamarc.tech/)  
-            **比赛名称** : [HAM-DEFCON](http://defcon.hamarc.tech/)  
-            **比赛形式** : Attack-Defense  
-            **比赛时间** : 2026-10-31 11:30:00 - 2026-10-31 15:30:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : HAMARC (https://ctftime.org/team/452464)  
-            **添加日历** : https://ctftime.org/event/3491.ics  
-            
         ??? Quote "[Russian CTF Cup X Qualifier](https://ctfcup.ru/)"  
             [![](){ width="200" align=left }](https://ctfcup.ru/)  
             **比赛名称** : [Russian CTF Cup X Qualifier](https://ctfcup.ru/)  
@@ -36,4 +18,22 @@
             **比赛权重** : 0.00  
             **赛事主办** : 0x01DA (https://ctftime.org/team/104949)  
             **添加日历** : https://ctftime.org/event/3482.ics  
+            
+        ??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
+            [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  
+            **比赛名称** : [HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-11-06 18:00:00 - 2026-11-07 18:00:00 UTC+8  
+            **比赛权重** : 10.31  
+            **赛事主办** : Black Bauhinia, HKCERT (https://ctftime.org/team/83678, https://ctftime.org/team/134746)  
+            **添加日历** : https://ctftime.org/event/3418.ics  
+            
+        ??? Quote "[PINK+ CTF 2026](https://ctf.pink.bayern/)"  
+            [![](){ width="200" align=left }](https://ctf.pink.bayern/)  
+            **比赛名称** : [PINK+ CTF 2026](https://ctf.pink.bayern/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-11-06 20:00:00 - 2026-11-09 20:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : PINK+ (https://ctftime.org/team/438626)  
+            **添加日历** : https://ctftime.org/event/3331.ics  
             
