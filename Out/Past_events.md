@@ -44,6 +44,15 @@ comments: true
     **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
     **添加日历** : https://ctftime.org/event/3459.ics  
     
+??? Quote "[HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)"  
+    [![](https://ctftime.org/media/events/HI_Cyber_Con_2026__CTFtime_Logo__Transparent.png){ width="200" align=left }](https://ctf.hiddeninvestigations.net/)  
+    **比赛名称** : [HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-30 22:00:00 - 2026-11-01 22:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Hidden Investigations (https://ctftime.org/team/188318)  
+    **添加日历** : https://ctftime.org/event/3460.ics  
+    
 ??? Quote "[CTF@AC26 - Finals](https://ctf.ac.upt.ro/)"  
     [![](https://ctftime.org/media/events/CTFAC26_1.png){ width="200" align=left }](https://ctf.ac.upt.ro/)  
     **比赛名称** : [CTF@AC26 - Finals](https://ctf.ac.upt.ro/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 15.62  
     **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
     **添加日历** : https://ctftime.org/event/3349.ics  
-    
-??? Quote "[ENOWARS 10](https://10.enowars.com/)"  
-    [![](){ width="200" align=left }](https://10.enowars.com/)  
-    **比赛名称** : [ENOWARS 10](https://10.enowars.com/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2026-07-18 20:00:00 - 2026-07-19 05:00:00 UTC+8  
-    **比赛权重** : 83.50  
-    **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
-    **添加日历** : https://ctftime.org/event/3324.ics  
     
