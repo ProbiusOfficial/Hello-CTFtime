@@ -26,6 +26,15 @@ comments: true
     **赛事主办** : HAMARC (https://ctftime.org/team/452464)  
     **添加日历** : https://ctftime.org/event/3491.ics  
     
+??? Quote "[2026 Qiangwang Challenge on Cyber Mimic Defense Qualification](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)"  
+    [![](https://ctftime.org/media/events/logo_139.png){ width="200" align=left }](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)  
+    **比赛名称** : [2026 Qiangwang Challenge on Cyber Mimic Defense Qualification](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-31 10:00:00 - 2026-11-01 10:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
+    **添加日历** : https://ctftime.org/event/3459.ics  
+    
 ??? Quote "[Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
     [![](https://ctftime.org/media/events/tanmay_2.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
     **比赛名称** : [Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
@@ -121,7 +130,7 @@ comments: true
     **比赛名称** : [cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-10-23 08:30:00 - 2026-10-25 08:30:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 24.83  
     **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
     **添加日历** : https://ctftime.org/event/3369.ics  
     
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : 4x10m (https://ctftime.org/team/418607)  
     **添加日历** : https://ctftime.org/event/3357.ics  
-    
-??? Quote "[ATHENA CTF](https://ctf.athena-ctf.com/)"  
-    [![](){ width="200" align=left }](https://ctf.athena-ctf.com/)  
-    **比赛名称** : [ATHENA CTF](https://ctf.athena-ctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-18 13:30:00 - 2026-07-19 13:30:00 UTC+8  
-    **比赛权重** : 24.38  
-    **赛事主办** : Athena-CTF (https://ctftime.org/team/438608)  
-    **添加日历** : https://ctftime.org/event/3366.ics  
     

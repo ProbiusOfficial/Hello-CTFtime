@@ -408,18 +408,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "2026 Qiangwang Challenge on Cyber Mimic Defense Qualification",
-        "比赛时间": "2026-10-31 10:00:00 - 2026-11-01 10:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3459.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration",
-        "比赛标志": "https://ctftime.org/media/events/logo_139.png",
-        "比赛权重": "0",
-        "赛事主办": "LoveFromMimic (https://ctftime.org/team/364644)",
-        "比赛ID": "1212",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "Russian CTF Cup X Qualifier",
         "比赛时间": "2026-10-31 17:00:00 - 2026-11-01 17:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3469.ics",
@@ -453,6 +441,18 @@
         "比赛权重": "0",
         "赛事主办": "HAMARC (https://ctftime.org/team/452464)",
         "比赛ID": "1742",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "2026 Qiangwang Challenge on Cyber Mimic Defense Qualification",
+        "比赛时间": "2026-10-31 10:00:00 - 2026-11-01 10:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3459.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration",
+        "比赛标志": "https://ctftime.org/media/events/logo_139.png",
+        "比赛权重": "0",
+        "赛事主办": "LoveFromMimic (https://ctftime.org/team/364644)",
+        "比赛ID": "1212",
         "比赛状态": "past"
     },
     {
@@ -582,7 +582,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://cruxipher.crux-bphc.com/",
         "比赛标志": "https://ctftime.org/media/events/Frame_6_2.png",
-        "比赛权重": "0",
+        "比赛权重": "24.83",
         "赛事主办": "CRUx BPHC (https://ctftime.org/team/270645)",
         "比赛ID": "1004",
         "比赛状态": "past"
@@ -1617,18 +1617,6 @@
         "比赛权重": "0.00",
         "赛事主办": "4x10m (https://ctftime.org/team/418607)",
         "比赛ID": "1510",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "ATHENA CTF",
-        "比赛时间": "2026-07-18 13:30:00 - 2026-07-19 13:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3366.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.athena-ctf.com/",
-        "比赛标志": "",
-        "比赛权重": "24.38",
-        "赛事主办": "Athena-CTF (https://ctftime.org/team/438608)",
-        "比赛ID": "1626",
         "比赛状态": "past"
     }
 ]
