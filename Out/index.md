@@ -302,15 +302,6 @@
                 **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
                 **添加日历** : https://ctftime.org/event/3462.ics  
                 
-            ??? Quote "[CTF@AC26 - Finals](https://ctf.ac.upt.ro/)"  
-                [![](https://ctftime.org/media/events/CTFAC26_1.png){ width="200" align=left }](https://ctf.ac.upt.ro/)  
-                **比赛名称** : [CTF@AC26 - Finals](https://ctf.ac.upt.ro/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-10-30 18:00:00 - 2026-11-01 18:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
-                **添加日历** : https://ctftime.org/event/3463.ics  
-                
             ??? Quote "[HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)"  
                 [![](https://ctftime.org/media/events/HI_Cyber_Con_2026__CTFtime_Logo__Transparent.png){ width="200" align=left }](https://ctf.hiddeninvestigations.net/)  
                 **比赛名称** : [HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)  
@@ -319,15 +310,6 @@
                 **比赛权重** : 0  
                 **赛事主办** : Hidden Investigations (https://ctftime.org/team/188318)  
                 **添加日历** : https://ctftime.org/event/3460.ics  
-                
-            ??? Quote "[Russian CTF Cup X Qualifier](https://ctfcup.ru/)"  
-                [![](){ width="200" align=left }](https://ctfcup.ru/)  
-                **比赛名称** : [Russian CTF Cup X Qualifier](https://ctfcup.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-10-31 17:00:00 - 2026-11-01 17:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
-                **添加日历** : https://ctftime.org/event/3469.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -341,6 +323,15 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : 0x01DA (https://ctftime.org/team/104949)  
                 **添加日历** : https://ctftime.org/event/3482.ics  
+                
+            ??? Quote "[Russian CTF Cup X Qualifier](https://ctfcup.ru/)"  
+                [![](){ width="200" align=left }](https://ctfcup.ru/)  
+                **比赛名称** : [Russian CTF Cup X Qualifier](https://ctfcup.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-31 17:00:00 - 2026-11-01 17:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
+                **添加日历** : https://ctftime.org/event/3469.ics  
                 
             ??? Quote "[HAM-DEFCON](http://defcon.hamarc.tech/)"  
                 [![](https://ctftime.org/media/events/hamarc.png){ width="200" align=left }](http://defcon.hamarc.tech/)  
@@ -359,6 +350,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
                 **添加日历** : https://ctftime.org/event/3459.ics  
+                
+            ??? Quote "[CTF@AC26 - Finals](https://ctf.ac.upt.ro/)"  
+                [![](https://ctftime.org/media/events/CTFAC26_1.png){ width="200" align=left }](https://ctf.ac.upt.ro/)  
+                **比赛名称** : [CTF@AC26 - Finals](https://ctf.ac.upt.ro/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-30 18:00:00 - 2026-11-01 18:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
+                **添加日历** : https://ctftime.org/event/3463.ics  
                 
             ??? Quote "[Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
                 [![](https://ctftime.org/media/events/tanmay_2.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
@@ -401,7 +401,7 @@
                 **比赛名称** : [H7CTF 2026 Finals](https://2026.h7tex.com/)  
                 **比赛形式** : Attack-Defense  
                 **比赛时间** : 2026-10-24 14:30:00 - 2026-10-25 14:30:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 23.43  
                 **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
                 **添加日历** : https://ctftime.org/event/3094.ics  
                 
@@ -1214,22 +1214,4 @@
                 **比赛权重** : 83.50  
                 **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
                 **添加日历** : https://ctftime.org/event/3324.ics  
-                
-            ??? Quote "[HoneyBadger CTF AvitoTech](https://avitoctf.ru/)"  
-                [![](https://ctftime.org/media/events/honeybadger.jpg){ width="200" align=left }](https://avitoctf.ru/)  
-                **比赛名称** : [HoneyBadger CTF AvitoTech](https://avitoctf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-07-18 17:00:00 - 2026-07-19 23:00:00 UTC+8  
-                **比赛权重** : 24.00  
-                **赛事主办** : SPbCTF (https://ctftime.org/team/30003)  
-                **添加日历** : https://ctftime.org/event/3362.ics  
-                
-            ??? Quote "[AxiomCTF 2026 Finals](https://axiomctf.ru/)"  
-                [![](https://ctftime.org/media/events/1231_1.png){ width="200" align=left }](https://axiomctf.ru/)  
-                **比赛名称** : [AxiomCTF 2026 Finals](https://axiomctf.ru/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2026-07-18 15:00:00 - 2026-07-18 23:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : 4x10m (https://ctftime.org/team/418607)  
-                **添加日历** : https://ctftime.org/event/3357.ics  
                 
