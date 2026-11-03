@@ -126,9 +126,9 @@ comments: true
     **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
     **添加日历** : https://ctftime.org/event/3337.ics  
     
-??? Quote "[Outback Overflow](https://outbackoverflow26.hscyber.org/)"  
-    [![](https://ctftime.org/media/events/logo_137.png){ width="200" align=left }](https://outbackoverflow26.hscyber.org/)  
-    **比赛名称** : [Outback Overflow](https://outbackoverflow26.hscyber.org/)  
+??? Quote "[Outback Overflow](http://ctf.hscyber.org/)"  
+    [![](https://ctftime.org/media/events/logo_137.png){ width="200" align=left }](http://ctf.hscyber.org/)  
+    **比赛名称** : [Outback Overflow](http://ctf.hscyber.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-11-21 07:00:00 - 2026-11-22 07:00:00 UTC+8  
     **比赛权重** : 0.00  
@@ -215,6 +215,15 @@ comments: true
     **比赛权重** : 79.51  
     **赛事主办** : bi0s (https://ctftime.org/team/662)  
     **添加日历** : https://ctftime.org/event/3480.ics  
+    
+??? Quote "[OTERIA Cyber Cup #4](https://www.oteria-cyber-cup.fr/)"  
+    [![](){ width="200" align=left }](https://www.oteria-cyber-cup.fr/)  
+    **比赛名称** : [OTERIA Cyber Cup #4](https://www.oteria-cyber-cup.fr/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-12-05 17:00:00 - 2026-12-06 01:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : OteriHack (https://ctftime.org/team/190074)  
+    **添加日历** : https://ctftime.org/event/3493.ics  
     
 ??? Quote "[niteCTF 2026](https://nitectf.cryptonitemit.in/)"  
     [![](https://ctftime.org/media/events/nitectf_2.png){ width="200" align=left }](https://nitectf.cryptonitemit.in/)  
