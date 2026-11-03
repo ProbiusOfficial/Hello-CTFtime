@@ -99,6 +99,15 @@ comments: true
     **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
     **添加日历** : https://ctftime.org/event/3049.ics  
     
+??? Quote "[h4ckc0n 2026](https://h4ckc0n.in/)"  
+    [![](https://ctftime.org/media/events/images_1.jpeg){ width="200" align=left }](https://h4ckc0n.in/)  
+    **比赛名称** : [h4ckc0n 2026](https://h4ckc0n.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-14 23:30:00 - 2026-11-15 23:30:00 UTC+8  
+    **比赛权重** : 24.23  
+    **赛事主办** : d4rkc0de (https://ctftime.org/team/15154)  
+    **添加日历** : https://ctftime.org/event/3464.ics  
+    
 ??? Quote "[InIt CTF](https://hackersinindia.com/init-ctf)"  
     [![](https://ctftime.org/media/events/InIt_CTF.png){ width="200" align=left }](https://hackersinindia.com/init-ctf)  
     **比赛名称** : [InIt CTF](https://hackersinindia.com/init-ctf)  
