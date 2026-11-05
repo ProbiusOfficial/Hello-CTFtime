@@ -55,7 +55,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/3242.ics  
     
 ??? Quote "[Mimic](https://ctf.rarebytehub.com/events/mimic)"  
-    [![](https://ctftime.org/media/events/rare-byte-hub.png){ width="200" align=left }](https://ctf.rarebytehub.com/events/mimic)  
+    [![](https://ctftime.org/media/events/rare-byte-hub_1.png){ width="200" align=left }](https://ctf.rarebytehub.com/events/mimic)  
     **比赛名称** : [Mimic](https://ctf.rarebytehub.com/events/mimic)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-11-07 20:00:00 - 2026-11-08 20:00:00 UTC+8  
