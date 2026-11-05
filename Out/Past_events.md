@@ -269,6 +269,15 @@ comments: true
     **赛事主办** : OWASP_PCCOE-CORE (https://ctftime.org/team/206360)  
     **添加日历** : https://ctftime.org/event/3438.ics  
     
+??? Quote "[Africa battleCTF 2026 Qualifier](https://ctf.bugpwn.com/)"  
+    [![](https://ctftime.org/media/events/Blue_Cartoon_April_Fools_Day_Instagram_Post.png){ width="200" align=left }](https://ctf.bugpwn.com/)  
+    **比赛名称** : [Africa battleCTF 2026 Qualifier](https://ctf.bugpwn.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-10-05 07:00:00 - 2026-11-05 07:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
+    **添加日历** : https://ctftime.org/event/3462.ics  
+    
 ??? Quote "[AltayCTF 2026](https://university.altayctf.ru/2026)"  
     [![](https://ctftime.org/media/events/0_2_1.png){ width="200" align=left }](https://university.altayctf.ru/2026)  
     **比赛名称** : [AltayCTF 2026](https://university.altayctf.ru/2026)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
     **添加日历** : https://ctftime.org/event/3292.ics  
-    
-??? Quote "[BDSec CTF 2026](https://2026.bdsec-ctf.com/)"  
-    [![](https://ctftime.org/media/events/bdsec-ctf-logo_2.png){ width="200" align=left }](https://2026.bdsec-ctf.com/)  
-    **比赛名称** : [BDSec CTF 2026](https://2026.bdsec-ctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-20 23:00:00 - 2026-07-21 23:00:00 UTC+8  
-    **比赛权重** : 15.62  
-    **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
-    **添加日历** : https://ctftime.org/event/3349.ics  
     
