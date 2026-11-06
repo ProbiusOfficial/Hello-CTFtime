@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[BlackAlps CTF 2026](https://blackalps.ch/ba-26/contest)"  
+    [![](https://ctftime.org/media/events/black-alps-v5-logo-black_HIGH-RES.png){ width="200" align=left }](https://blackalps.ch/ba-26/contest)  
+    **比赛名称** : [BlackAlps CTF 2026](https://blackalps.ch/ba-26/contest)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-07 02:15:00 - 2026-11-07 06:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : BlackAlps (https://ctftime.org/team/89021)  
+    **添加日历** : https://ctftime.org/event/3242.ics  
+    
 ??? Quote "[StealthCup 2026](https://stealth.ait.ac.at/)"  
     [![](){ width="200" align=left }](https://stealth.ait.ac.at/)  
     **比赛名称** : [StealthCup 2026](https://stealth.ait.ac.at/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : jailctf (https://ctftime.org/team/311088)  
     **添加日历** : https://ctftime.org/event/3286.ics  
-    
-??? Quote "[Codegate CTF 2026 Finals](https://codegate.org/)"  
-    [![](){ width="200" align=left }](https://codegate.org/)  
-    **比赛名称** : [Codegate CTF 2026 Finals](https://codegate.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-23 09:00:00 - 2026-07-24 09:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
-    **添加日历** : https://ctftime.org/event/3292.ics  
     
