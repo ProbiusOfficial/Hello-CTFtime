@@ -36,12 +36,12 @@ comments: true
     **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
     **添加日历** : https://ctftime.org/event/3333.ics  
     
-??? Quote "[SpookyCTF 2026](https://spooky.ctfd.io/)"  
-    [![](https://ctftime.org/media/events/spookyctf_2026_1.PNG){ width="200" align=left }](https://spooky.ctfd.io/)  
-    **比赛名称** : [SpookyCTF 2026](https://spooky.ctfd.io/)  
+??? Quote "[Mimic](https://ctf.rarebytehub.com/events/mimic)"  
+    [![](https://ctftime.org/media/events/rare-byte-hub_1.png){ width="200" align=left }](https://ctf.rarebytehub.com/events/mimic)  
+    **比赛名称** : [Mimic](https://ctf.rarebytehub.com/events/mimic)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-11-07 01:00:00 - 2026-11-08 01:00:00 UTC+8  
+    **比赛时间** : 2026-11-07 20:00:00 - 2026-11-08 20:00:00 UTC+8  
     **比赛权重** : 0  
-    **赛事主办** : Cyber Security Network (https://ctftime.org/team/214936)  
-    **添加日历** : https://ctftime.org/event/3339.ics  
+    **赛事主办** : Rare Byte Hub (https://ctftime.org/team/445438)  
+    **添加日历** : https://ctftime.org/event/3455.ics  
     

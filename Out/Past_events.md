@@ -17,6 +17,15 @@ comments: true
     **赛事主办** : BlackAlps (https://ctftime.org/team/89021)  
     **添加日历** : https://ctftime.org/event/3242.ics  
     
+??? Quote "[SpookyCTF 2026](https://spooky.ctfd.io/)"  
+    [![](https://ctftime.org/media/events/spookyctf_2026_1.PNG){ width="200" align=left }](https://spooky.ctfd.io/)  
+    **比赛名称** : [SpookyCTF 2026](https://spooky.ctfd.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-07 01:00:00 - 2026-11-08 01:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Cyber Security Network (https://ctftime.org/team/214936)  
+    **添加日历** : https://ctftime.org/event/3339.ics  
+    
 ??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
     [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  
     **比赛名称** : [HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 69.22  
     **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
     **添加日历** : https://ctftime.org/event/3201.ics  
-    
-??? Quote "[DIVER OSINT CTF 2026](https://ctfd.diverctf.org/)"  
-    [![](https://ctftime.org/media/events/circle-white-simple-01.png){ width="200" align=left }](https://ctfd.diverctf.org/)  
-    **比赛名称** : [DIVER OSINT CTF 2026](https://ctfd.diverctf.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-25 11:10:00 - 2026-07-26 11:10:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : diver_osint (https://ctftime.org/team/299569)  
-    **添加日历** : https://ctftime.org/event/3268.ics  
     
