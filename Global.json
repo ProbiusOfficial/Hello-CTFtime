@@ -12,6 +12,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "CyberZerk CTF 2026",
+        "比赛时间": "2026-11-09 21:00:00 - 2026-11-23 01:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3499.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.cyberzerk.fr/",
+        "比赛标志": "https://ctftime.org/media/events/cyberzerk-logo-complet-blanc.png",
+        "比赛权重": "0",
+        "赛事主办": "CyberZerk (https://ctftime.org/team/453537)",
+        "比赛ID": "1754",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "CSAW CTF Final Round 2026",
         "比赛时间": "2026-11-13 01:00:00 - 2026-11-14 13:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3410.ics",
@@ -249,6 +261,18 @@
         "比赛权重": "59.00",
         "赛事主办": "Cryptonite (https://ctftime.org/team/62713)",
         "比赛ID": "663",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "Leo's 20th Birthday Bash",
+        "比赛时间": "2026-12-12 09:00:00 - 2026-12-13 09:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3498.ics",
+        "比赛形式": "Hack quest",
+        "比赛链接": "https://dmoj.ca/contest/leo20",
+        "比赛标志": "https://ctftime.org/media/events/this-is-not-a-clue.png",
+        "比赛权重": "0",
+        "赛事主办": "SanguineChameleon (https://ctftime.org/team/453781)",
+        "比赛ID": "1757",
         "比赛状态": "oncoming"
     },
     {
