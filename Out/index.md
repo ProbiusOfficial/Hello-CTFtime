@@ -284,15 +284,10 @@
                 **赛事主办** : PINK+ (https://ctftime.org/team/438626)  
                 **添加日历** : https://ctftime.org/event/3331.ics  
                 
-            ??? Quote "[CSCTF 2026](https://2026.chronos-security.ro/)"  
-                [![](){ width="200" align=left }](https://2026.chronos-security.ro/)  
-                **比赛名称** : [CSCTF 2026](https://2026.chronos-security.ro/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-06 21:00:00 - 2026-11-08 21:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
-                **添加日历** : https://ctftime.org/event/3333.ics  
-                
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[Mimic](https://ctf.rarebytehub.com/events/mimic)"  
                 [![](https://ctftime.org/media/events/rare-byte-hub_1.png){ width="200" align=left }](https://ctf.rarebytehub.com/events/mimic)  
                 **比赛名称** : [Mimic](https://ctf.rarebytehub.com/events/mimic)  
@@ -302,10 +297,6 @@
                 **赛事主办** : Rare Byte Hub (https://ctftime.org/team/445438)  
                 **添加日历** : https://ctftime.org/event/3455.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[BlackAlps CTF 2026](https://blackalps.ch/ba-26/contest)"  
                 [![](https://ctftime.org/media/events/black-alps-v5-logo-black_HIGH-RES.png){ width="200" align=left }](https://blackalps.ch/ba-26/contest)  
                 **比赛名称** : [BlackAlps CTF 2026](https://blackalps.ch/ba-26/contest)  
@@ -323,6 +314,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : Cyber Security Network (https://ctftime.org/team/214936)  
                 **添加日历** : https://ctftime.org/event/3339.ics  
+                
+            ??? Quote "[CSCTF 2026](https://2026.chronos-security.ro/)"  
+                [![](){ width="200" align=left }](https://2026.chronos-security.ro/)  
+                **比赛名称** : [CSCTF 2026](https://2026.chronos-security.ro/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-06 21:00:00 - 2026-11-08 21:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
+                **添加日历** : https://ctftime.org/event/3333.ics  
                 
             ??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
                 [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  
@@ -374,7 +374,7 @@
                 **比赛名称** : [HI Cyber Con 2026 CTF](https://ctf.hiddeninvestigations.net/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-10-30 22:00:00 - 2026-11-01 22:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 24.81  
                 **赛事主办** : Hidden Investigations (https://ctftime.org/team/188318)  
                 **添加日历** : https://ctftime.org/event/3460.ics  
                 
@@ -1187,22 +1187,4 @@
                 **比赛权重** : 39.00  
                 **赛事主办** : DeadSec (https://ctftime.org/team/19339)  
                 **添加日历** : https://ctftime.org/event/3303.ics  
-                
-            ??? Quote "[BushBash CTF](http://bushbash.cssa.club/)"  
-                [![](https://ctftime.org/media/events/logo_133.png){ width="200" align=left }](http://bushbash.cssa.club/)  
-                **比赛名称** : [BushBash CTF](http://bushbash.cssa.club/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-07-31 15:00:00 - 2026-08-02 15:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CSSA (https://ctftime.org/team/133080)  
-                **添加日历** : https://ctftime.org/event/3372.ics  
-                
-            ??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
-                [![](){ width="200" align=left }](https://d3c.tf/)  
-                **比赛名称** : [D^3CTF 2026](https://d3c.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-07-25 20:00:00 - 2026-07-26 20:00:00 UTC+8  
-                **比赛权重** : 69.22  
-                **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
-                **添加日历** : https://ctftime.org/event/3201.ics  
                 

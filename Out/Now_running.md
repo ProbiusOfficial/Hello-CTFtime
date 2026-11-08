@@ -27,21 +27,3 @@ comments: true
     **赛事主办** : PINK+ (https://ctftime.org/team/438626)  
     **添加日历** : https://ctftime.org/event/3331.ics  
     
-??? Quote "[CSCTF 2026](https://2026.chronos-security.ro/)"  
-    [![](){ width="200" align=left }](https://2026.chronos-security.ro/)  
-    **比赛名称** : [CSCTF 2026](https://2026.chronos-security.ro/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-11-06 21:00:00 - 2026-11-08 21:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
-    **添加日历** : https://ctftime.org/event/3333.ics  
-    
-??? Quote "[Mimic](https://ctf.rarebytehub.com/events/mimic)"  
-    [![](https://ctftime.org/media/events/rare-byte-hub_1.png){ width="200" align=left }](https://ctf.rarebytehub.com/events/mimic)  
-    **比赛名称** : [Mimic](https://ctf.rarebytehub.com/events/mimic)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-11-07 20:00:00 - 2026-11-08 20:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Rare Byte Hub (https://ctftime.org/team/445438)  
-    **添加日历** : https://ctftime.org/event/3455.ics  
-    
