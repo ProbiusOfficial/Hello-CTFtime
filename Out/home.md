@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[CyberZerk CTF 2026](https://ctf.cyberzerk.fr/)"  
-            [![](https://ctftime.org/media/events/cyberzerk-logo-complet-blanc.png){ width="200" align=left }](https://ctf.cyberzerk.fr/)  
-            **比赛名称** : [CyberZerk CTF 2026](https://ctf.cyberzerk.fr/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-11-09 21:00:00 - 2026-11-23 01:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : CyberZerk (https://ctftime.org/team/453537)  
-            **添加日历** : https://ctftime.org/event/3499.ics  
-            
         ??? Quote "[CSAW CTF Final Round 2026](https://ctf.csaw.io/)"  
             [![](https://ctftime.org/media/events/csawlogo_2.png){ width="200" align=left }](https://ctf.csaw.io/)  
             **比赛名称** : [CSAW CTF Final Round 2026](https://ctf.csaw.io/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 37.00  
             **赛事主办** : Platypwnies (https://ctftime.org/team/112550)  
             **添加日历** : https://ctftime.org/event/3082.ics  
+            
+        ??? Quote "[WolvCTF 2026](https://wolvctf.io/)"  
+            [![](https://ctftime.org/media/events/wolverine-logo-square1_1.jpg){ width="200" align=left }](https://wolvctf.io/)  
+            **比赛名称** : [WolvCTF 2026](https://wolvctf.io/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-11-14 07:00:00 - 2026-11-16 07:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
+            **添加日历** : https://ctftime.org/event/3049.ics  
             

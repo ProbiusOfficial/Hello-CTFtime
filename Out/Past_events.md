@@ -44,6 +44,15 @@ comments: true
     **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
     **添加日历** : https://ctftime.org/event/3333.ics  
     
+??? Quote "[PINK+ CTF 2026](https://ctf.pink.bayern/)"  
+    [![](){ width="200" align=left }](https://ctf.pink.bayern/)  
+    **比赛名称** : [PINK+ CTF 2026](https://ctf.pink.bayern/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-06 20:00:00 - 2026-11-09 20:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : PINK+ (https://ctftime.org/team/438626)  
+    **添加日历** : https://ctftime.org/event/3331.ics  
+    
 ??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
     [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  
     **比赛名称** : [HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 34.47  
     **赛事主办** : L3ak (https://ctftime.org/team/220336)  
     **添加日历** : https://ctftime.org/event/3061.ics  
-    
-??? Quote "[DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)"  
-    [![](https://ctftime.org/media/events/Picture1_4.png){ width="200" align=left }](https://www.deadsec.xyz/)  
-    **比赛名称** : [DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-31 20:00:00 - 2026-08-01 20:00:00 UTC+8  
-    **比赛权重** : 39.00  
-    **赛事主办** : DeadSec (https://ctftime.org/team/19339)  
-    **添加日历** : https://ctftime.org/event/3303.ics  
     

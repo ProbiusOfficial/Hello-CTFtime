@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[CyberZerk CTF 2026](https://ctf.cyberzerk.fr/)"  
-                [![](https://ctftime.org/media/events/cyberzerk-logo-complet-blanc.png){ width="200" align=left }](https://ctf.cyberzerk.fr/)  
-                **比赛名称** : [CyberZerk CTF 2026](https://ctf.cyberzerk.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-09 21:00:00 - 2026-11-23 01:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : CyberZerk (https://ctftime.org/team/453537)  
-                **添加日历** : https://ctftime.org/event/3499.ics  
-                
             ??? Quote "[CSAW CTF Final Round 2026](https://ctf.csaw.io/)"  
                 [![](https://ctftime.org/media/events/csawlogo_2.png){ width="200" align=left }](https://ctf.csaw.io/)  
                 **比赛名称** : [CSAW CTF Final Round 2026](https://ctf.csaw.io/)  
@@ -55,9 +46,9 @@
                 **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
                 **添加日历** : https://ctftime.org/event/3049.ics  
                 
-            ??? Quote "[h4ckc0n 2026](https://h4ckc0n.in/)"  
-                [![](https://ctftime.org/media/events/images_1.jpeg){ width="200" align=left }](https://h4ckc0n.in/)  
-                **比赛名称** : [h4ckc0n 2026](https://h4ckc0n.in/)  
+            ??? Quote "[h4ckc0n 2026](https://h4ckc0n.ctfd.io/)"  
+                [![](https://ctftime.org/media/events/images_1.jpeg){ width="200" align=left }](https://h4ckc0n.ctfd.io/)  
+                **比赛名称** : [h4ckc0n 2026](https://h4ckc0n.ctfd.io/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-11-14 23:30:00 - 2026-11-15 23:30:00 UTC+8  
                 **比赛权重** : 24.23  
@@ -181,15 +172,6 @@
                 **赛事主办** : bi0s (https://ctftime.org/team/662)  
                 **添加日历** : https://ctftime.org/event/3480.ics  
                 
-            ??? Quote "[OTERIA Cyber Cup #4](https://www.oteria-cyber-cup.fr/)"  
-                [![](){ width="200" align=left }](https://www.oteria-cyber-cup.fr/)  
-                **比赛名称** : [OTERIA Cyber Cup #4](https://www.oteria-cyber-cup.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-12-05 17:00:00 - 2026-12-06 01:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : OteriHack (https://ctftime.org/team/190074)  
-                **添加日历** : https://ctftime.org/event/3493.ics  
-                
             ??? Quote "[niteCTF 2026](https://nitectf.cryptonitemit.in/)"  
                 [![](https://ctftime.org/media/events/nitectf_2.png){ width="200" align=left }](https://nitectf.cryptonitemit.in/)  
                 **比赛名称** : [niteCTF 2026](https://nitectf.cryptonitemit.in/)  
@@ -275,14 +257,14 @@
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/3020.ics  
                 
-            ??? Quote "[PINK+ CTF 2026](https://ctf.pink.bayern/)"  
-                [![](){ width="200" align=left }](https://ctf.pink.bayern/)  
-                **比赛名称** : [PINK+ CTF 2026](https://ctf.pink.bayern/)  
+            ??? Quote "[CyberZerk CTF 2026](https://ctf.cyberzerk.fr/)"  
+                [![](https://ctftime.org/media/events/cyberzerk-logo-complet-blanc.png){ width="200" align=left }](https://ctf.cyberzerk.fr/)  
+                **比赛名称** : [CyberZerk CTF 2026](https://ctf.cyberzerk.fr/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-06 20:00:00 - 2026-11-09 20:00:00 UTC+8  
+                **比赛时间** : 2026-11-09 21:00:00 - 2026-11-23 01:00:00 UTC+8  
                 **比赛权重** : 0  
-                **赛事主办** : PINK+ (https://ctftime.org/team/438626)  
-                **添加日历** : https://ctftime.org/event/3331.ics  
+                **赛事主办** : CyberZerk (https://ctftime.org/team/453537)  
+                **添加日历** : https://ctftime.org/event/3499.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -323,6 +305,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
                 **添加日历** : https://ctftime.org/event/3333.ics  
+                
+            ??? Quote "[PINK+ CTF 2026](https://ctf.pink.bayern/)"  
+                [![](){ width="200" align=left }](https://ctf.pink.bayern/)  
+                **比赛名称** : [PINK+ CTF 2026](https://ctf.pink.bayern/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-06 20:00:00 - 2026-11-09 20:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : PINK+ (https://ctftime.org/team/438626)  
+                **添加日历** : https://ctftime.org/event/3331.ics  
                 
             ??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
                 [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  
@@ -1178,13 +1169,4 @@
                 **比赛权重** : 34.47  
                 **赛事主办** : L3ak (https://ctftime.org/team/220336)  
                 **添加日历** : https://ctftime.org/event/3061.ics  
-                
-            ??? Quote "[DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)"  
-                [![](https://ctftime.org/media/events/Picture1_4.png){ width="200" align=left }](https://www.deadsec.xyz/)  
-                **比赛名称** : [DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-07-31 20:00:00 - 2026-08-01 20:00:00 UTC+8  
-                **比赛权重** : 39.00  
-                **赛事主办** : DeadSec (https://ctftime.org/team/19339)  
-                **添加日历** : https://ctftime.org/event/3303.ics  
                 
