@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[CSAW CTF Final Round 2026](https://ctf.csaw.io/)"  
-            [![](https://ctftime.org/media/events/csawlogo_2.png){ width="200" align=left }](https://ctf.csaw.io/)  
-            **比赛名称** : [CSAW CTF Final Round 2026](https://ctf.csaw.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-11-13 01:00:00 - 2026-11-14 13:00:00 UTC+8  
-            **比赛权重** : 1.00  
-            **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
-            **添加日历** : https://ctftime.org/event/3410.ics  
-            
         ??? Quote "[TVX CTF 2026](https://ctf-techvisions.com/)"  
             [![](https://ctftime.org/media/events/photo_2026-10-17_18-01-04.jpg){ width="200" align=left }](https://ctf-techvisions.com/)  
             **比赛名称** : [TVX CTF 2026](https://ctf-techvisions.com/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
             **添加日历** : https://ctftime.org/event/3049.ics  
+            
+        ??? Quote "[InIt CTF](https://hackersinindia.com/init-ctf)"  
+            [![](https://ctftime.org/media/events/InIt_CTF.png){ width="200" align=left }](https://hackersinindia.com/init-ctf)  
+            **比赛名称** : [InIt CTF](https://hackersinindia.com/init-ctf)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-11-14 23:30:00 - 2026-11-15 07:30:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : Hackers_In_India (https://ctftime.org/team/448862)  
+            **添加日历** : https://ctftime.org/event/3467.ics  
             
