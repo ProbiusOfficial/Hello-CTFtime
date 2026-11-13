@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Platypwn 2026](https://platypwn.ctf.platypwnies.de/)"  
-                [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwn.ctf.platypwnies.de/)  
-                **比赛名称** : [Platypwn 2026](https://platypwn.ctf.platypwnies.de/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-14 01:00:00 - 2026-11-14 19:00:00 UTC+8  
-                **比赛权重** : 37.00  
-                **赛事主办** : Platypwnies (https://ctftime.org/team/112550)  
-                **添加日历** : https://ctftime.org/event/3082.ics  
-                
             ??? Quote "[WolvCTF 2026](https://wolvctf.io/)"  
                 [![](https://ctftime.org/media/events/wolverine-logo-square1_1.jpg){ width="200" align=left }](https://wolvctf.io/)  
                 **比赛名称** : [WolvCTF 2026](https://wolvctf.io/)  
@@ -257,6 +248,19 @@
                 **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
                 **添加日历** : https://ctftime.org/event/3410.ics  
                 
+            ??? Quote "[Platypwn 2026](https://platypwn.ctf.platypwnies.de/)"  
+                [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwn.ctf.platypwnies.de/)  
+                **比赛名称** : [Platypwn 2026](https://platypwn.ctf.platypwnies.de/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-14 01:00:00 - 2026-11-14 19:00:00 UTC+8  
+                **比赛权重** : 37.00  
+                **赛事主办** : Platypwnies (https://ctftime.org/team/112550)  
+                **添加日历** : https://ctftime.org/event/3082.ics  
+                
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[TVX CTF 2026](https://ctf-techvisions.com/)"  
                 [![](https://ctftime.org/media/events/photo_2026-10-17_18-01-04.jpg){ width="200" align=left }](https://ctf-techvisions.com/)  
                 **比赛名称** : [TVX CTF 2026](https://ctf-techvisions.com/)  
@@ -266,10 +270,6 @@
                 **赛事主办** : Tech Visions (https://ctftime.org/team/452398)  
                 **添加日历** : https://ctftime.org/event/3486.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Mimic](https://ctf.rarebytehub.com/events/mimic)"  
                 [![](https://ctftime.org/media/events/rare-byte-hub_1.png){ width="200" align=left }](https://ctf.rarebytehub.com/events/mimic)  
                 **比赛名称** : [Mimic](https://ctf.rarebytehub.com/events/mimic)  
@@ -1160,13 +1160,4 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : VuwCTF (https://ctftime.org/team/378359)  
                 **添加日历** : https://ctftime.org/event/3311.ics  
-                
-            ??? Quote "[L3akCTF 2026](https://ctf.l3ak.team/)"  
-                [![](https://ctftime.org/media/events/6a9256e0b32707195ff9fe31b358a0e6.png){ width="200" align=left }](https://ctf.l3ak.team/)  
-                **比赛名称** : [L3akCTF 2026](https://ctf.l3ak.team/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-01 02:00:00 - 2026-08-03 02:00:00 UTC+8  
-                **比赛权重** : 34.47  
-                **赛事主办** : L3ak (https://ctftime.org/team/220336)  
-                **添加日历** : https://ctftime.org/event/3061.ics  
                 
