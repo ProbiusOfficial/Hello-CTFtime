@@ -1,18 +1,9 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[TVX CTF 2026](https://ctf-techvisions.com/)"  
-            [![](https://ctftime.org/media/events/photo_2026-10-17_18-01-04.jpg){ width="200" align=left }](https://ctf-techvisions.com/)  
-            **比赛名称** : [TVX CTF 2026](https://ctf-techvisions.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-11-13 18:00:00 - 2026-11-14 04:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : Tech Visions (https://ctftime.org/team/452398)  
-            **添加日历** : https://ctftime.org/event/3486.ics  
-            
-        ??? Quote "[Platypwn 2026](https://platypwnies.de/events/platypwn/)"  
-            [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwnies.de/events/platypwn/)  
-            **比赛名称** : [Platypwn 2026](https://platypwnies.de/events/platypwn/)  
+        ??? Quote "[Platypwn 2026](https://platypwn.ctf.platypwnies.de/)"  
+            [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwn.ctf.platypwnies.de/)  
+            **比赛名称** : [Platypwn 2026](https://platypwn.ctf.platypwnies.de/)  
             **比赛形式** : Jeopardy  
             **比赛时间** : 2026-11-14 01:00:00 - 2026-11-14 19:00:00 UTC+8  
             **比赛权重** : 37.00  
@@ -36,4 +27,13 @@
             **比赛权重** : 0  
             **赛事主办** : Hackers_In_India (https://ctftime.org/team/448862)  
             **添加日历** : https://ctftime.org/event/3467.ics  
+            
+        ??? Quote "[h4ckc0n 2026](https://h4ckc0n.ctfd.io/)"  
+            [![](https://ctftime.org/media/events/images_1.jpeg){ width="200" align=left }](https://h4ckc0n.ctfd.io/)  
+            **比赛名称** : [h4ckc0n 2026](https://h4ckc0n.ctfd.io/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-11-14 23:30:00 - 2026-11-15 23:30:00 UTC+8  
+            **比赛权重** : 24.23  
+            **赛事主办** : d4rkc0de (https://ctftime.org/team/15154)  
+            **添加日历** : https://ctftime.org/event/3464.ics  
             
