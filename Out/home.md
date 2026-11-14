@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[WolvCTF 2026](https://wolvctf.io/)"  
-            [![](https://ctftime.org/media/events/wolverine-logo-square1_1.jpg){ width="200" align=left }](https://wolvctf.io/)  
-            **比赛名称** : [WolvCTF 2026](https://wolvctf.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-11-14 07:00:00 - 2026-11-16 07:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
-            **添加日历** : https://ctftime.org/event/3049.ics  
-            
         ??? Quote "[InIt CTF](https://hackersinindia.com/init-ctf)"  
             [![](https://ctftime.org/media/events/InIt_CTF.png){ width="200" align=left }](https://hackersinindia.com/init-ctf)  
             **比赛名称** : [InIt CTF](https://hackersinindia.com/init-ctf)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : EyesOpen_Security (https://ctftime.org/team/200580)  
             **添加日历** : https://ctftime.org/event/3419.ics  
+            
+        ??? Quote "[GlacierCTF 2026](https://glacierctf.com/)"  
+            [![](https://ctftime.org/media/events/glacierlogo_1.png){ width="200" align=left }](https://glacierctf.com/)  
+            **比赛名称** : [GlacierCTF 2026](https://glacierctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-11-21 02:00:00 - 2026-11-22 02:00:00 UTC+8  
+            **比赛权重** : 73.17  
+            **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
+            **添加日历** : https://ctftime.org/event/3337.ics  
             
