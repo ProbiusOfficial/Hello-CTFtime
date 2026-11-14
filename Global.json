@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "h4ckc0n 2026",
-        "比赛时间": "2026-11-14 23:30:00 - 2026-11-15 23:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3464.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://h4ckc0n.ctfd.io/",
-        "比赛标志": "https://ctftime.org/media/events/images_1.jpeg",
-        "比赛权重": "24.23",
-        "赛事主办": "d4rkc0de (https://ctftime.org/team/15154)",
-        "比赛ID": "115",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "InIt CTF",
-        "比赛时间": "2026-11-14 23:30:00 - 2026-11-15 07:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3467.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://hackersinindia.com/init-ctf",
-        "比赛标志": "https://ctftime.org/media/events/InIt_CTF.png",
-        "比赛权重": "0",
-        "赛事主办": "Hackers_In_India (https://ctftime.org/team/448862)",
-        "比赛ID": "1716",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "EyesOpenCTF 7th edition",
         "比赛时间": "2026-11-20 18:00:00 - 2026-11-22 18:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3419.ics",
@@ -390,7 +366,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://spooky.ctfd.io/",
         "比赛标志": "https://ctftime.org/media/events/spookyctf_2026_1.PNG",
-        "比赛权重": "0",
+        "比赛权重": "36.00",
         "赛事主办": "Cyber Security Network (https://ctftime.org/team/214936)",
         "比赛ID": "987",
         "比赛状态": "past"
