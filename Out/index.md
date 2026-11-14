@@ -230,15 +230,6 @@
                 **赛事主办** : CyberZerk (https://ctftime.org/team/453537)  
                 **添加日历** : https://ctftime.org/event/3499.ics  
                 
-            ??? Quote "[CSAW CTF Final Round 2026](https://ctf.csaw.io/)"  
-                [![](https://ctftime.org/media/events/csawlogo_2.png){ width="200" align=left }](https://ctf.csaw.io/)  
-                **比赛名称** : [CSAW CTF Final Round 2026](https://ctf.csaw.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-13 01:00:00 - 2026-11-14 13:00:00 UTC+8  
-                **比赛权重** : 1.00  
-                **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
-                **添加日历** : https://ctftime.org/event/3410.ics  
-                
             ??? Quote "[Platypwn 2026](https://platypwn.ctf.platypwnies.de/)"  
                 [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwn.ctf.platypwnies.de/)  
                 **比赛名称** : [Platypwn 2026](https://platypwn.ctf.platypwnies.de/)  
@@ -269,6 +260,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : Tech Visions (https://ctftime.org/team/452398)  
                 **添加日历** : https://ctftime.org/event/3486.ics  
+                
+            ??? Quote "[CSAW CTF Final Round 2026](https://ctf.csaw.io/)"  
+                [![](https://ctftime.org/media/events/csawlogo_2.png){ width="200" align=left }](https://ctf.csaw.io/)  
+                **比赛名称** : [CSAW CTF Final Round 2026](https://ctf.csaw.io/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-13 01:00:00 - 2026-11-14 13:00:00 UTC+8  
+                **比赛权重** : 1.00  
+                **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
+                **添加日历** : https://ctftime.org/event/3410.ics  
                 
             ??? Quote "[Mimic](https://ctf.rarebytehub.com/events/mimic)"  
                 [![](https://ctftime.org/media/events/rare-byte-hub_1.png){ width="200" align=left }](https://ctf.rarebytehub.com/events/mimic)  
@@ -1151,13 +1151,4 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : U-CTF (https://ctftime.org/team/430827)  
                 **添加日历** : https://ctftime.org/event/3237.ics  
-                
-            ??? Quote "[VuwCTF 2026](https://2026.vuwctf.com/)"  
-                [![](https://ctftime.org/media/events/moose6.png){ width="200" align=left }](https://2026.vuwctf.com/)  
-                **比赛名称** : [VuwCTF 2026](https://2026.vuwctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-01 06:00:00 - 2026-08-02 13:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : VuwCTF (https://ctftime.org/team/378359)  
-                **添加日历** : https://ctftime.org/event/3311.ics  
                 
