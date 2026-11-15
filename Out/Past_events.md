@@ -26,6 +26,15 @@ comments: true
     **赛事主办** : Platypwnies (https://ctftime.org/team/112550)  
     **添加日历** : https://ctftime.org/event/3082.ics  
     
+??? Quote "[Algolympiad CTF 2026](https://cyber.algolymp.com/events/a814a7cc-4e23-45f6-a51e-f071aadc8942?lang=en)"  
+    [![](https://ctftime.org/media/events/logo_20.jpg){ width="200" align=left }](https://cyber.algolymp.com/events/a814a7cc-4e23-45f6-a51e-f071aadc8942?lang=en)  
+    **比赛名称** : [Algolympiad CTF 2026](https://cyber.algolymp.com/events/a814a7cc-4e23-45f6-a51e-f071aadc8942?lang=en)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-13 22:00:00 - 2026-11-15 22:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Algolymp CTF Team (https://ctftime.org/team/441610)  
+    **添加日历** : https://ctftime.org/event/3501.ics  
+    
 ??? Quote "[TVX CTF 2026](https://ctf-techvisions.com/)"  
     [![](https://ctftime.org/media/events/photo_2026-10-17_18-01-04.jpg){ width="200" align=left }](https://ctf-techvisions.com/)  
     **比赛名称** : [TVX CTF 2026](https://ctf-techvisions.com/)  
@@ -85,7 +94,7 @@ comments: true
     **比赛名称** : [CSCTF 2026](https://2026.chronos-security.ro/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-11-06 21:00:00 - 2026-11-08 21:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
     **添加日历** : https://ctftime.org/event/3333.ics  
     
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 24.65  
     **赛事主办** : Visionspace (https://ctftime.org/team/383284)  
     **添加日历** : https://ctftime.org/event/3342.ics  
-    
-??? Quote "[Kali Team - CTF 26](https://kali-team.online/)"  
-    [![](https://ctftime.org/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png){ width="200" align=left }](https://kali-team.online/)  
-    **比赛名称** : [Kali Team - CTF 26](https://kali-team.online/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-05 15:00:00 - 2026-08-06 03:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : Kali Team (https://ctftime.org/team/387378)  
-    **添加日历** : https://ctftime.org/event/3328.ics  
     
