@@ -27,6 +27,15 @@ comments: true
     **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
     **添加日历** : https://ctftime.org/event/3337.ics  
     
+??? Quote "[WolvCTF 2026](https://wolvctf.io/)"  
+    [![](https://ctftime.org/media/events/wolverine-logo-square1_1.jpg){ width="200" align=left }](https://wolvctf.io/)  
+    **比赛名称** : [WolvCTF 2026](https://wolvctf.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-21 07:00:00 - 2026-11-23 07:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
+    **添加日历** : https://ctftime.org/event/3049.ics  
+    
 ??? Quote "[Outback Overflow](http://ctf.hscyber.org/)"  
     [![](https://ctftime.org/media/events/logo_137.png){ width="200" align=left }](http://ctf.hscyber.org/)  
     **比赛名称** : [Outback Overflow](http://ctf.hscyber.org/)  
@@ -135,6 +144,15 @@ comments: true
     **赛事主办** : SanguineChameleon (https://ctftime.org/team/453781)  
     **添加日历** : https://ctftime.org/event/3498.ics  
     
+??? Quote "[OTERIA Cyber Cup #4](https://www.oteria-cyber-cup.fr/)"  
+    [![](){ width="200" align=left }](https://www.oteria-cyber-cup.fr/)  
+    **比赛名称** : [OTERIA Cyber Cup #4](https://www.oteria-cyber-cup.fr/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-12-12 17:00:00 - 2026-12-13 01:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : OteriHack (https://ctftime.org/team/190074)  
+    **添加日历** : https://ctftime.org/event/3505.ics  
+    
 ??? Quote "[BSides Algiers 2026](https://shellmates.club/)"  
     [![](https://ctftime.org/media/events/image_1.jpg){ width="200" align=left }](https://shellmates.club/)  
     **比赛名称** : [BSides Algiers 2026](https://shellmates.club/)  
@@ -170,6 +188,15 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : GaianSpace (https://ctftime.org/team/373034)  
     **添加日历** : https://ctftime.org/event/3492.ics  
+    
+??? Quote "[UofTCTF 2027](https://ctf.uoftctf.org/)"  
+    [![](https://ctftime.org/media/events/7b576d2f44aeac3b063383d70b37d407.jpg){ width="200" align=left }](https://ctf.uoftctf.org/)  
+    **比赛名称** : [UofTCTF 2027](https://ctf.uoftctf.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2027-01-09 08:00:00 - 2027-01-11 08:00:00 UTC+8  
+    **比赛权重** : 50.00  
+    **赛事主办** : UofTCTF (https://ctftime.org/team/139261)  
+    **添加日历** : https://ctftime.org/event/3508.ics  
     
 ??? Quote "[JerseyCTF VII](https://ctf.jerseyctf.com/)"  
     [![](https://ctftime.org/media/events/mono-side-jerseyctf.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  

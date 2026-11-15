@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[InIt CTF](https://hackersinindia.com/init-ctf)"  
+    [![](https://ctftime.org/media/events/InIt_CTF.png){ width="200" align=left }](https://hackersinindia.com/init-ctf)  
+    **比赛名称** : [InIt CTF](https://hackersinindia.com/init-ctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-14 23:30:00 - 2026-11-15 07:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Hackers_In_India (https://ctftime.org/team/448862)  
+    **添加日历** : https://ctftime.org/event/3467.ics  
+    
 ??? Quote "[Platypwn 2026](https://platypwn.ctf.platypwnies.de/)"  
     [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwn.ctf.platypwnies.de/)  
     **比赛名称** : [Platypwn 2026](https://platypwn.ctf.platypwnies.de/)  
@@ -34,6 +43,15 @@ comments: true
     **比赛权重** : 1.00  
     **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
     **添加日历** : https://ctftime.org/event/3410.ics  
+    
+??? Quote "[WRAVEN CTF 2026](https://ctf.wraven.org/)"  
+    [![](https://ctftime.org/media/events/event-logo-2048.png){ width="200" align=left }](https://ctf.wraven.org/)  
+    **比赛名称** : [WRAVEN CTF 2026](https://ctf.wraven.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-12 21:00:00 - 2026-11-14 01:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : ECX Inc. (https://ctftime.org/team/3602)  
+    **添加日历** : https://ctftime.org/event/3504.ics  
     
 ??? Quote "[Mimic](https://ctf.rarebytehub.com/events/mimic)"  
     [![](https://ctftime.org/media/events/rare-byte-hub_1.png){ width="200" align=left }](https://ctf.rarebytehub.com/events/mimic)  
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : Kali Team (https://ctftime.org/team/387378)  
     **添加日历** : https://ctftime.org/event/3328.ics  
-    
-??? Quote "[SCAN 2026 Online Qualifier](https://scan.sx/)"  
-    [![](https://ctftime.org/media/events/32x32_icon.png){ width="200" align=left }](https://scan.sx/)  
-    **比赛名称** : [SCAN 2026 Online Qualifier](https://scan.sx/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-02 08:00:00 - 2026-08-03 08:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
-    **添加日历** : https://ctftime.org/event/3383.ics  
-    
-??? Quote "[Lexington Informatics Tournament CTF 2026](https://lit.lhsmathcs.org/)"  
-    [![](https://ctftime.org/media/events/LIT-Logo.png){ width="200" align=left }](https://lit.lhsmathcs.org/)  
-    **比赛名称** : [Lexington Informatics Tournament CTF 2026](https://lit.lhsmathcs.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-01 23:00:00 - 2026-08-03 23:00:00 UTC+8  
-    **比赛权重** : 84.79  
-    **赛事主办** : LIT CTF (https://ctftime.org/team/157660)  
-    **添加日历** : https://ctftime.org/event/3373.ics  
     
