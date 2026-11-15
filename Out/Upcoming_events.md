@@ -72,6 +72,15 @@ comments: true
     **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
     **添加日历** : https://ctftime.org/event/3436.ics  
     
+??? Quote "[RedReaper CTF](https://qualification.redx.site/)"  
+    [![](https://ctftime.org/media/events/Gemini_Generated_Image_ayukqbayukqbayuk.jpg){ width="200" align=left }](https://qualification.redx.site/)  
+    **比赛名称** : [RedReaper CTF](https://qualification.redx.site/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-27 19:00:00 - 2026-11-28 03:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : RedReaper (https://ctftime.org/team/453520)  
+    **添加日历** : https://ctftime.org/event/3502.ics  
+    
 ??? Quote "[LakeCTF Quals 26-27](https://lakectf.epfl.ch/)"  
     [![](){ width="200" align=left }](https://lakectf.epfl.ch/)  
     **比赛名称** : [LakeCTF Quals 26-27](https://lakectf.epfl.ch/)  
@@ -99,6 +108,15 @@ comments: true
     **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
     **添加日历** : https://ctftime.org/event/3489.ics  
     
+??? Quote "[Black Hat India 2026 Official CTF](https://ctf.blackhat-india.com/)"  
+    [![](){ width="200" align=left }](https://ctf.blackhat-india.com/)  
+    **比赛名称** : [Black Hat India 2026 Official CTF](https://ctf.blackhat-india.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-28 22:00:00 - 2026-11-29 22:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : CTF7 (https://ctftime.org/team/445464)  
+    **添加日历** : https://ctftime.org/event/3510.ics  
+    
 ??? Quote "[BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)"  
     [![](https://ctftime.org/media/events/9f419586e0dedbff0130e6f487ddc54c_1.png){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
     **比赛名称** : [BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)  
@@ -107,6 +125,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
     **添加日历** : https://ctftime.org/event/3386.ics  
+    
+??? Quote "[2026 Qiangwang Challenge on Cyber Mimic Defense Finals](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)"  
+    [![](){ width="200" align=left }](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)  
+    **比赛名称** : [2026 Qiangwang Challenge on Cyber Mimic Defense Finals](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)  
+    **比赛形式** : Hack quest  
+    **比赛时间** : 2026-12-03 12:00:00 - 2026-12-06 12:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
+    **添加日历** : https://ctftime.org/event/3509.ics  
     
 ??? Quote "[x3CTF 2026](https://x3c.tf/)"  
     [![](https://ctftime.org/media/events/786e257b702d338e92f52ec66515ba53.png){ width="200" align=left }](https://x3c.tf/)  
@@ -179,6 +206,15 @@ comments: true
     **比赛权重** : 99.38  
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/3062.ics  
+    
+??? Quote "[THE FINAL EXPLOIT CTF 2026—QUALIFIERS](https://0xv01d-ctf.xyz/)"  
+    [![](https://ctftime.org/media/events/Neon_CTF_Qualifiers__The_Final_Exploit.png){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
+    **比赛名称** : [THE FINAL EXPLOIT CTF 2026—QUALIFIERS](https://0xv01d-ctf.xyz/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-12-29 20:00:00 - 2026-12-31 20:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : OxV01D (https://ctftime.org/team/427687)  
+    **添加日历** : https://ctftime.org/event/3511.ics  
     
 ??? Quote "[GaianSpace Perihelion CTF 2027](https://gaian.space/ctf)"  
     [![](https://ctftime.org/media/events/gaianspace-logo-new_1_1.png){ width="200" align=left }](https://gaian.space/ctf)  

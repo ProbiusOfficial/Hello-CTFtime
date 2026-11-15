@@ -36,9 +36,9 @@ comments: true
     **赛事主办** : Algolymp CTF Team (https://ctftime.org/team/441610)  
     **添加日历** : https://ctftime.org/event/3501.ics  
     
-??? Quote "[h4ckc0n 2026](https://h4ckc0n.ctfd.io/)"  
-    [![](https://ctftime.org/media/events/images_1.jpeg){ width="200" align=left }](https://h4ckc0n.ctfd.io/)  
-    **比赛名称** : [h4ckc0n 2026](https://h4ckc0n.ctfd.io/)  
+??? Quote "[h4ckc0n 2026](http://h4ckc0n.centralindia.cloudapp.azure.com/)"  
+    [![](https://ctftime.org/media/events/images_1.jpeg){ width="200" align=left }](http://h4ckc0n.centralindia.cloudapp.azure.com/)  
+    **比赛名称** : [h4ckc0n 2026](http://h4ckc0n.centralindia.cloudapp.azure.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-11-14 23:30:00 - 2026-11-15 23:30:00 UTC+8  
     **比赛权重** : 24.23  

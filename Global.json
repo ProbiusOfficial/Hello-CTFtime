@@ -84,6 +84,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "RedReaper CTF",
+        "比赛时间": "2026-11-27 19:00:00 - 2026-11-28 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3502.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://qualification.redx.site/",
+        "比赛标志": "https://ctftime.org/media/events/Gemini_Generated_Image_ayukqbayukqbayuk.jpg",
+        "比赛权重": "0.00",
+        "赛事主办": "RedReaper (https://ctftime.org/team/453520)",
+        "比赛ID": "1753",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "LakeCTF Quals 26-27",
         "比赛时间": "2026-11-28 02:00:00 - 2026-11-29 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3474.ics",
@@ -120,6 +132,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "Black Hat India 2026 Official CTF",
+        "比赛时间": "2026-11-28 22:00:00 - 2026-11-29 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3510.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.blackhat-india.com/",
+        "比赛标志": "",
+        "比赛权重": "0.00",
+        "赛事主办": "CTF7 (https://ctftime.org/team/445464)",
+        "比赛ID": "1713",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "BlackHat MEA CTF Final 2026",
         "比赛时间": "2026-12-01 23:14:59 - 2026-12-03 23:14:59 UTC+8",
         "添加日历": "https://ctftime.org/event/3386.ics",
@@ -129,6 +153,18 @@
         "比赛权重": "0.00",
         "赛事主办": "SAFCSP (https://ctftime.org/team/54707)",
         "比赛ID": "826",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "2026 Qiangwang Challenge on Cyber Mimic Defense Finals",
+        "比赛时间": "2026-12-03 12:00:00 - 2026-12-06 12:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3509.ics",
+        "比赛形式": "Hack quest",
+        "比赛链接": "https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration",
+        "比赛标志": "",
+        "比赛权重": "0.00",
+        "赛事主办": "LoveFromMimic (https://ctftime.org/team/364644)",
+        "比赛ID": "1212",
         "比赛状态": "oncoming"
     },
     {
@@ -228,6 +264,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "THE FINAL EXPLOIT CTF 2026—QUALIFIERS",
+        "比赛时间": "2026-12-29 20:00:00 - 2026-12-31 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3511.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://0xv01d-ctf.xyz/",
+        "比赛标志": "https://ctftime.org/media/events/Neon_CTF_Qualifiers__The_Final_Exploit.png",
+        "比赛权重": "0.00",
+        "赛事主办": "OxV01D (https://ctftime.org/team/427687)",
+        "比赛ID": "1766",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "GaianSpace Perihelion CTF 2027",
         "比赛时间": "2027-01-03 02:00:00 - 2027-01-04 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3492.ics",
@@ -316,7 +364,7 @@
         "比赛时间": "2026-11-14 23:30:00 - 2026-11-15 23:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3464.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://h4ckc0n.ctfd.io/",
+        "比赛链接": "http://h4ckc0n.centralindia.cloudapp.azure.com/",
         "比赛标志": "https://ctftime.org/media/events/images_1.jpeg",
         "比赛权重": "24.23",
         "赛事主办": "d4rkc0de (https://ctftime.org/team/15154)",
