@@ -275,6 +275,10 @@
                 **赛事主办** : CyberZerk (https://ctftime.org/team/453537)  
                 **添加日历** : https://ctftime.org/event/3499.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[h4ckc0n 2026](http://h4ckc0n.centralindia.cloudapp.azure.com/)"  
                 [![](https://ctftime.org/media/events/images_1.jpeg){ width="200" align=left }](http://h4ckc0n.centralindia.cloudapp.azure.com/)  
                 **比赛名称** : [h4ckc0n 2026](http://h4ckc0n.centralindia.cloudapp.azure.com/)  
@@ -284,10 +288,6 @@
                 **赛事主办** : d4rkc0de (https://ctftime.org/team/15154)  
                 **添加日历** : https://ctftime.org/event/3464.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[InIt CTF](https://hackersinindia.com/init-ctf)"  
                 [![](https://ctftime.org/media/events/InIt_CTF.png){ width="200" align=left }](https://hackersinindia.com/init-ctf)  
                 **比赛名称** : [InIt CTF](https://hackersinindia.com/init-ctf)  
@@ -1178,13 +1178,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : robotichackingcommunity (https://ctftime.org/team/436123)  
                 **添加日历** : https://ctftime.org/event/3305.ics  
-                
-            ??? Quote "[AEROSPACE VILLAGE STARPWN CTF](https://starpwn.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/ctftime_logo_1.png){ width="200" align=left }](https://starpwn.ctfd.io/)  
-                **比赛名称** : [AEROSPACE VILLAGE STARPWN CTF](https://starpwn.ctfd.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-07 01:00:00 - 2026-08-10 02:00:00 UTC+8  
-                **比赛权重** : 24.65  
-                **赛事主办** : Visionspace (https://ctftime.org/team/383284)  
-                **添加日历** : https://ctftime.org/event/3342.ics  
                 

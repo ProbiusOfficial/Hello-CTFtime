@@ -357,7 +357,7 @@
         "比赛权重": "24.23",
         "赛事主办": "d4rkc0de (https://ctftime.org/team/15154)",
         "比赛ID": "115",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "InIt CTF",
@@ -1545,18 +1545,6 @@
         "比赛权重": "0",
         "赛事主办": "robotichackingcommunity (https://ctftime.org/team/436123)",
         "比赛ID": "1605",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "AEROSPACE VILLAGE STARPWN CTF",
-        "比赛时间": "2026-08-07 01:00:00 - 2026-08-10 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3342.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://starpwn.ctfd.io/",
-        "比赛标志": "https://ctftime.org/media/events/ctftime_logo_1.png",
-        "比赛权重": "24.65",
-        "赛事主办": "Visionspace (https://ctftime.org/team/383284)",
-        "比赛ID": "1322",
         "比赛状态": "past"
     }
 ]

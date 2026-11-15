@@ -27,12 +27,3 @@ comments: true
     **赛事主办** : CyberZerk (https://ctftime.org/team/453537)  
     **添加日历** : https://ctftime.org/event/3499.ics  
     
-??? Quote "[h4ckc0n 2026](http://h4ckc0n.centralindia.cloudapp.azure.com/)"  
-    [![](https://ctftime.org/media/events/images_1.jpeg){ width="200" align=left }](http://h4ckc0n.centralindia.cloudapp.azure.com/)  
-    **比赛名称** : [h4ckc0n 2026](http://h4ckc0n.centralindia.cloudapp.azure.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-11-14 23:30:00 - 2026-11-15 23:30:00 UTC+8  
-    **比赛权重** : 24.23  
-    **赛事主办** : d4rkc0de (https://ctftime.org/team/15154)  
-    **添加日历** : https://ctftime.org/event/3464.ics  
-    
