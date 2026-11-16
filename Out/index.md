@@ -279,15 +279,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[h4ckc0n 2026](http://h4ckc0n.centralindia.cloudapp.azure.com/)"  
-                [![](https://ctftime.org/media/events/images_1.jpeg){ width="200" align=left }](http://h4ckc0n.centralindia.cloudapp.azure.com/)  
-                **比赛名称** : [h4ckc0n 2026](http://h4ckc0n.centralindia.cloudapp.azure.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-14 23:30:00 - 2026-11-15 23:30:00 UTC+8  
-                **比赛权重** : 24.23  
-                **赛事主办** : d4rkc0de (https://ctftime.org/team/15154)  
-                **添加日历** : https://ctftime.org/event/3464.ics  
-                
             ??? Quote "[InIt CTF](https://hackersinindia.com/init-ctf)"  
                 [![](https://ctftime.org/media/events/InIt_CTF.png){ width="200" align=left }](https://hackersinindia.com/init-ctf)  
                 **比赛名称** : [InIt CTF](https://hackersinindia.com/init-ctf)  
@@ -296,6 +287,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : Hackers_In_India (https://ctftime.org/team/448862)  
                 **添加日历** : https://ctftime.org/event/3467.ics  
+                
+            ??? Quote "[h4ckc0n 2026](http://h4ckc0n.centralindia.cloudapp.azure.com/)"  
+                [![](https://ctftime.org/media/events/images_1.jpeg){ width="200" align=left }](http://h4ckc0n.centralindia.cloudapp.azure.com/)  
+                **比赛名称** : [h4ckc0n 2026](http://h4ckc0n.centralindia.cloudapp.azure.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-14 23:30:00 - 2026-11-15 23:30:00 UTC+8  
+                **比赛权重** : 24.23  
+                **赛事主办** : d4rkc0de (https://ctftime.org/team/15154)  
+                **添加日历** : https://ctftime.org/event/3464.ics  
                 
             ??? Quote "[Platypwn 2026](https://platypwn.ctf.platypwnies.de/)"  
                 [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwn.ctf.platypwnies.de/)  
@@ -383,7 +383,7 @@
                 **比赛名称** : [PINK+ CTF 2026](https://ctf.pink.bayern/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-11-06 20:00:00 - 2026-11-09 20:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 24.67  
                 **赛事主办** : PINK+ (https://ctftime.org/team/438626)  
                 **添加日历** : https://ctftime.org/event/3331.ics  
                 
