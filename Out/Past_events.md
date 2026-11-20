@@ -67,7 +67,7 @@ comments: true
     **比赛名称** : [WRAVEN CTF 2026](https://ctf.wraven.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-11-12 21:00:00 - 2026-11-14 01:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 0.00  
     **赛事主办** : ECX Inc. (https://ctftime.org/team/3602)  
     **添加日历** : https://ctftime.org/event/3504.ics  
     
