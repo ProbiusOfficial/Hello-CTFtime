@@ -144,6 +144,15 @@ comments: true
     **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
     **添加日历** : https://ctftime.org/event/3509.ics  
     
+??? Quote "[TUCTF 2026](https://tuctf.com/)"  
+    [![](https://ctftime.org/media/events/tuctf.png){ width="200" align=left }](https://tuctf.com/)  
+    **比赛名称** : [TUCTF 2026](https://tuctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-12-04 18:00:00 - 2026-12-07 02:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : ascii overflow (https://ctftime.org/team/15360)  
+    **添加日历** : https://ctftime.org/event/3518.ics  
+    
 ??? Quote "[x3CTF 2026](https://x3c.tf/)"  
     [![](https://ctftime.org/media/events/786e257b702d338e92f52ec66515ba53.png){ width="200" align=left }](https://x3c.tf/)  
     **比赛名称** : [x3CTF 2026](https://x3c.tf/)  
