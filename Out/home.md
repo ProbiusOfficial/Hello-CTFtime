@@ -1,24 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Outback Overflow](http://ctf.hscyber.org/)"  
-            [![](https://ctftime.org/media/events/logo_137.png){ width="200" align=left }](http://ctf.hscyber.org/)  
-            **比赛名称** : [Outback Overflow](http://ctf.hscyber.org/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-11-21 07:00:00 - 2026-11-22 07:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : HSCC (https://ctftime.org/team/446734)  
-            **添加日历** : https://ctftime.org/event/3425.ics  
-            
-        ??? Quote "[WolvCTF 2026](https://wolvctf.io/)"  
-            [![](https://ctftime.org/media/events/wolverine-logo-square1_1.jpg){ width="200" align=left }](https://wolvctf.io/)  
-            **比赛名称** : [WolvCTF 2026](https://wolvctf.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-11-21 07:00:00 - 2026-11-23 07:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
-            **添加日历** : https://ctftime.org/event/3049.ics  
-            
         ??? Quote "[Seize da Flaq](https://seizedaflaq.cyberonites.com/)"  
             [![](https://ctftime.org/media/events/SDF_1.jpeg){ width="200" align=left }](https://seizedaflaq.cyberonites.com/)  
             **比赛名称** : [Seize da Flaq](https://seizedaflaq.cyberonites.com/)  
@@ -36,4 +18,22 @@
             **比赛权重** : 37.00  
             **赛事主办** : Crate-CTF (https://ctftime.org/team/352250)  
             **添加日历** : https://ctftime.org/event/3336.ics  
+            
+        ??? Quote "[CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)"  
+            [![](https://ctftime.org/media/events/9f5bd4404f2ff231cca6e261cdcd0419.jpg){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
+            **比赛名称** : [CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-11-21 23:00:00 - 2026-11-22 06:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
+            **添加日历** : https://ctftime.org/event/3436.ics  
+            
+        ??? Quote "[RedReaper CTF](https://qualification.redx.site/)"  
+            [![](https://ctftime.org/media/events/Gemini_Generated_Image_ayukqbayukqbayuk.jpg){ width="200" align=left }](https://qualification.redx.site/)  
+            **比赛名称** : [RedReaper CTF](https://qualification.redx.site/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-11-27 19:00:00 - 2026-11-28 03:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : RedReaper (https://ctftime.org/team/453520)  
+            **添加日历** : https://ctftime.org/event/3502.ics  
             
