@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Seize da Flaq](https://seizedaflaq.cyberonites.com/)"  
-                [![](https://ctftime.org/media/events/SDF_1.jpeg){ width="200" align=left }](https://seizedaflaq.cyberonites.com/)  
-                **比赛名称** : [Seize da Flaq](https://seizedaflaq.cyberonites.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-21 14:30:00 - 2026-11-22 10:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Seize da Flaq (https://ctftime.org/team/442848)  
-                **添加日历** : https://ctftime.org/event/3408.ics  
-                
             ??? Quote "[Crate-CTF 2026](https://foi.se/cratectf)"  
                 [![](https://ctftime.org/media/events/CTF_2026_2.png){ width="200" align=left }](https://foi.se/cratectf)  
                 **比赛名称** : [Crate-CTF 2026](https://foi.se/cratectf)  
@@ -301,6 +292,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : HSCC (https://ctftime.org/team/446734)  
                 **添加日历** : https://ctftime.org/event/3425.ics  
+                
+            ??? Quote "[Seize da Flaq](https://seizedaflaq.cyberonites.com/)"  
+                [![](https://ctftime.org/media/events/SDF_1.jpeg){ width="200" align=left }](https://seizedaflaq.cyberonites.com/)  
+                **比赛名称** : [Seize da Flaq](https://seizedaflaq.cyberonites.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-21 14:30:00 - 2026-11-22 10:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Seize da Flaq (https://ctftime.org/team/442848)  
+                **添加日历** : https://ctftime.org/event/3408.ics  
                 
     === "*已经结束*"
         === "国内赛事"
