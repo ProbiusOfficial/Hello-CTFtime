@@ -36,15 +36,6 @@ comments: true
     **赛事主办** : EyesOpen_Security (https://ctftime.org/team/200580)  
     **添加日历** : https://ctftime.org/event/3419.ics  
     
-??? Quote "[GlacierCTF 2026](https://glacierctf.com/)"  
-    [![](https://ctftime.org/media/events/glacierlogo_1.png){ width="200" align=left }](https://glacierctf.com/)  
-    **比赛名称** : [GlacierCTF 2026](https://glacierctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-11-21 02:00:00 - 2026-11-22 02:00:00 UTC+8  
-    **比赛权重** : 73.17  
-    **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
-    **添加日历** : https://ctftime.org/event/3337.ics  
-    
 ??? Quote "[WolvCTF 2026](https://wolvctf.io/)"  
     [![](https://ctftime.org/media/events/wolverine-logo-square1_1.jpg){ width="200" align=left }](https://wolvctf.io/)  
     **比赛名称** : [WolvCTF 2026](https://wolvctf.io/)  
@@ -71,15 +62,6 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Seize da Flaq (https://ctftime.org/team/442848)  
     **添加日历** : https://ctftime.org/event/3408.ics  
-    
-??? Quote "[Crate-CTF 2026](https://foi.se/cratectf)"  
-    [![](https://ctftime.org/media/events/CTF_2026_2.png){ width="200" align=left }](https://foi.se/cratectf)  
-    **比赛名称** : [Crate-CTF 2026](https://foi.se/cratectf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-11-21 21:00:00 - 2026-11-22 05:00:00 UTC+8  
-    **比赛权重** : 37.00  
-    **赛事主办** : Crate-CTF (https://ctftime.org/team/352250)  
-    **添加日历** : https://ctftime.org/event/3336.ics  
     
 ??? Quote "[CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)"  
     [![](https://ctftime.org/media/events/9f5bd4404f2ff231cca6e261cdcd0419.jpg){ width="200" align=left }](https://cybersecuritychallenge.ca/)  

@@ -8,6 +8,24 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[Crate-CTF 2026](https://foi.se/cratectf)"  
+    [![](https://ctftime.org/media/events/CTF_2026_2.png){ width="200" align=left }](https://foi.se/cratectf)  
+    **比赛名称** : [Crate-CTF 2026](https://foi.se/cratectf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-21 21:00:00 - 2026-11-22 05:00:00 UTC+8  
+    **比赛权重** : 37.00  
+    **赛事主办** : Crate-CTF (https://ctftime.org/team/352250)  
+    **添加日历** : https://ctftime.org/event/3336.ics  
+    
+??? Quote "[GlacierCTF 2026](https://glacierctf.com/)"  
+    [![](https://ctftime.org/media/events/glacierlogo_1.png){ width="200" align=left }](https://glacierctf.com/)  
+    **比赛名称** : [GlacierCTF 2026](https://glacierctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-21 02:00:00 - 2026-11-22 02:00:00 UTC+8  
+    **比赛权重** : 73.17  
+    **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
+    **添加日历** : https://ctftime.org/event/3337.ics  
+    
 ??? Quote "[InIt CTF](https://hackersinindia.com/init-ctf)"  
     [![](https://ctftime.org/media/events/InIt_CTF.png){ width="200" align=left }](https://hackersinindia.com/init-ctf)  
     **比赛名称** : [InIt CTF](https://hackersinindia.com/init-ctf)  
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 69.35  
     **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
     **添加日历** : https://ctftime.org/event/3148.ics  
-    
-??? Quote "[DEF CON CTF 2026](https://bbbirds.org/)"  
-    [![](){ width="200" align=left }](https://bbbirds.org/)  
-    **比赛名称** : [DEF CON CTF 2026](https://bbbirds.org/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2026-08-08 00:00:00 - 2026-08-10 03:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Benevolent Bureau of Birds (https://ctftime.org/team/425757)  
-    **添加日历** : https://ctftime.org/event/3322.ics  
-    
-??? Quote "[RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)](https://www.robotichackingcommunity.com/)"  
-    [![](https://ctftime.org/media/events/Robotic_Hacking_Community_on_black-h_1.png){ width="200" align=left }](https://www.robotichackingcommunity.com/)  
-    **比赛名称** : [RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)](https://www.robotichackingcommunity.com/)  
-    **比赛形式** : Hack quest  
-    **比赛时间** : 2026-08-07 08:00:00 - 2026-08-09 08:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : robotichackingcommunity (https://ctftime.org/team/436123)  
-    **添加日历** : https://ctftime.org/event/3305.ics  
     
