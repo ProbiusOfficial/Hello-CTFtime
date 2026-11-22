@@ -324,18 +324,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "Outback Overflow",
-        "比赛时间": "2026-11-21 07:00:00 - 2026-11-22 07:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3425.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://ctf.hscyber.org/",
-        "比赛标志": "https://ctftime.org/media/events/logo_137.png",
-        "比赛权重": "0",
-        "赛事主办": "HSCC (https://ctftime.org/team/446734)",
-        "比赛ID": "1683",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "Seize da Flaq",
         "比赛时间": "2026-11-21 14:30:00 - 2026-11-22 10:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3408.ics",
@@ -357,7 +345,7 @@
         "比赛权重": "0",
         "赛事主办": "CyberSciOrganizers (https://ctftime.org/team/157536)",
         "比赛ID": "643",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "Crate-CTF 2026",
@@ -369,6 +357,18 @@
         "比赛权重": "37.00",
         "赛事主办": "Crate-CTF (https://ctftime.org/team/352250)",
         "比赛ID": "1172",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "Outback Overflow",
+        "比赛时间": "2026-11-21 07:00:00 - 2026-11-22 07:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3425.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://ctf.hscyber.org/",
+        "比赛标志": "https://ctftime.org/media/events/logo_137.png",
+        "比赛权重": "0",
+        "赛事主办": "HSCC (https://ctftime.org/team/446734)",
+        "比赛ID": "1683",
         "比赛状态": "past"
     },
     {
@@ -1533,30 +1533,6 @@
         "比赛权重": "0.00",
         "赛事主办": "Caplag (https://ctftime.org/team/423152)",
         "比赛ID": "1652",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "scriptCTF 2026",
-        "比赛时间": "2026-08-08 08:00:00 - 2026-08-10 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3052.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.scriptsorcerers.xyz/",
-        "比赛标志": "https://ctftime.org/media/events/final_logo_1.png",
-        "比赛权重": "24.70",
-        "赛事主办": "ScriptSorcerers (https://ctftime.org/team/284260)",
-        "比赛ID": "1318",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "UIUCTF 2026",
-        "比赛时间": "2026-08-08 08:00:00 - 2026-08-10 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3148.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://uiuc.tf/",
-        "比赛标志": "",
-        "比赛权重": "69.35",
-        "赛事主办": "SIGPwny (https://ctftime.org/team/27763)",
-        "比赛ID": "95",
         "比赛状态": "past"
     }
 ]

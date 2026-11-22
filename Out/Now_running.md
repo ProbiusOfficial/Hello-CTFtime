@@ -45,15 +45,6 @@ comments: true
     **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
     **添加日历** : https://ctftime.org/event/3049.ics  
     
-??? Quote "[Outback Overflow](http://ctf.hscyber.org/)"  
-    [![](https://ctftime.org/media/events/logo_137.png){ width="200" align=left }](http://ctf.hscyber.org/)  
-    **比赛名称** : [Outback Overflow](http://ctf.hscyber.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-11-21 07:00:00 - 2026-11-22 07:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : HSCC (https://ctftime.org/team/446734)  
-    **添加日历** : https://ctftime.org/event/3425.ics  
-    
 ??? Quote "[Seize da Flaq](https://seizedaflaq.cyberonites.com/)"  
     [![](https://ctftime.org/media/events/SDF_1.jpeg){ width="200" align=left }](https://seizedaflaq.cyberonites.com/)  
     **比赛名称** : [Seize da Flaq](https://seizedaflaq.cyberonites.com/)  
@@ -62,13 +53,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Seize da Flaq (https://ctftime.org/team/442848)  
     **添加日历** : https://ctftime.org/event/3408.ics  
-    
-??? Quote "[CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)"  
-    [![](https://ctftime.org/media/events/9f5bd4404f2ff231cca6e261cdcd0419.jpg){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
-    **比赛名称** : [CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-11-21 23:00:00 - 2026-11-22 06:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
-    **添加日历** : https://ctftime.org/event/3436.ics  
     

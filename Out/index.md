@@ -257,15 +257,6 @@
                 **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
                 **添加日历** : https://ctftime.org/event/3049.ics  
                 
-            ??? Quote "[Outback Overflow](http://ctf.hscyber.org/)"  
-                [![](https://ctftime.org/media/events/logo_137.png){ width="200" align=left }](http://ctf.hscyber.org/)  
-                **比赛名称** : [Outback Overflow](http://ctf.hscyber.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-21 07:00:00 - 2026-11-22 07:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : HSCC (https://ctftime.org/team/446734)  
-                **添加日历** : https://ctftime.org/event/3425.ics  
-                
             ??? Quote "[Seize da Flaq](https://seizedaflaq.cyberonites.com/)"  
                 [![](https://ctftime.org/media/events/SDF_1.jpeg){ width="200" align=left }](https://seizedaflaq.cyberonites.com/)  
                 **比赛名称** : [Seize da Flaq](https://seizedaflaq.cyberonites.com/)  
@@ -275,6 +266,10 @@
                 **赛事主办** : Seize da Flaq (https://ctftime.org/team/442848)  
                 **添加日历** : https://ctftime.org/event/3408.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)"  
                 [![](https://ctftime.org/media/events/9f5bd4404f2ff231cca6e261cdcd0419.jpg){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
                 **比赛名称** : [CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)  
@@ -284,10 +279,6 @@
                 **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
                 **添加日历** : https://ctftime.org/event/3436.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Crate-CTF 2026](https://foi.se/cratectf)"  
                 [![](https://ctftime.org/media/events/CTF_2026_2.png){ width="200" align=left }](https://foi.se/cratectf)  
                 **比赛名称** : [Crate-CTF 2026](https://foi.se/cratectf)  
@@ -296,6 +287,15 @@
                 **比赛权重** : 37.00  
                 **赛事主办** : Crate-CTF (https://ctftime.org/team/352250)  
                 **添加日历** : https://ctftime.org/event/3336.ics  
+                
+            ??? Quote "[Outback Overflow](http://ctf.hscyber.org/)"  
+                [![](https://ctftime.org/media/events/logo_137.png){ width="200" align=left }](http://ctf.hscyber.org/)  
+                **比赛名称** : [Outback Overflow](http://ctf.hscyber.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-21 07:00:00 - 2026-11-22 07:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : HSCC (https://ctftime.org/team/446734)  
+                **添加日历** : https://ctftime.org/event/3425.ics  
                 
             ??? Quote "[GlacierCTF 2026](https://glacierctf.com/)"  
                 [![](https://ctftime.org/media/events/glacierlogo_1.png){ width="200" align=left }](https://glacierctf.com/)  
@@ -1169,22 +1169,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : Caplag (https://ctftime.org/team/423152)  
                 **添加日历** : https://ctftime.org/event/3382.ics  
-                
-            ??? Quote "[scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)"  
-                [![](https://ctftime.org/media/events/final_logo_1.png){ width="200" align=left }](https://ctf.scriptsorcerers.xyz/)  
-                **比赛名称** : [scriptCTF 2026](https://ctf.scriptsorcerers.xyz/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-08 08:00:00 - 2026-08-10 08:00:00 UTC+8  
-                **比赛权重** : 24.70  
-                **赛事主办** : ScriptSorcerers (https://ctftime.org/team/284260)  
-                **添加日历** : https://ctftime.org/event/3052.ics  
-                
-            ??? Quote "[UIUCTF 2026](https://uiuc.tf/)"  
-                [![](){ width="200" align=left }](https://uiuc.tf/)  
-                **比赛名称** : [UIUCTF 2026](https://uiuc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-08 08:00:00 - 2026-08-10 08:00:00 UTC+8  
-                **比赛权重** : 69.35  
-                **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
-                **添加日历** : https://ctftime.org/event/3148.ics  
                 
