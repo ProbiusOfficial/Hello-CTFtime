@@ -45,12 +45,3 @@ comments: true
     **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
     **添加日历** : https://ctftime.org/event/3049.ics  
     
-??? Quote "[Seize da Flaq](https://seizedaflaq.cyberonites.com/)"  
-    [![](https://ctftime.org/media/events/SDF_1.jpeg){ width="200" align=left }](https://seizedaflaq.cyberonites.com/)  
-    **比赛名称** : [Seize da Flaq](https://seizedaflaq.cyberonites.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-11-21 14:30:00 - 2026-11-22 10:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Seize da Flaq (https://ctftime.org/team/442848)  
-    **添加日历** : https://ctftime.org/event/3408.ics  
-    

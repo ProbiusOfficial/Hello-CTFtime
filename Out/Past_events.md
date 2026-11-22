@@ -26,6 +26,15 @@ comments: true
     **赛事主办** : Crate-CTF (https://ctftime.org/team/352250)  
     **添加日历** : https://ctftime.org/event/3336.ics  
     
+??? Quote "[Seize da Flaq](https://seizedaflaq.cyberonites.com/)"  
+    [![](https://ctftime.org/media/events/SDF_1.jpeg){ width="200" align=left }](https://seizedaflaq.cyberonites.com/)  
+    **比赛名称** : [Seize da Flaq](https://seizedaflaq.cyberonites.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-21 14:30:00 - 2026-11-22 10:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Seize da Flaq (https://ctftime.org/team/442848)  
+    **添加日历** : https://ctftime.org/event/3408.ics  
+    
 ??? Quote "[Outback Overflow](http://ctf.hscyber.org/)"  
     [![](https://ctftime.org/media/events/logo_137.png){ width="200" align=left }](http://ctf.hscyber.org/)  
     **比赛名称** : [Outback Overflow](http://ctf.hscyber.org/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Mont5ab El2hwa (https://ctftime.org/team/402823)  
     **添加日历** : https://ctftime.org/event/3405.ics  
-    
-??? Quote "[The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)"  
-    [![](https://ctftime.org/media/events/photo_2026-07-23_13-34-47.jpg){ width="200" align=left }](https://caplag.ru/competitions/the-heart-of-sysola)  
-    **比赛名称** : [The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-08 21:00:00 - 2026-08-09 09:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Caplag (https://ctftime.org/team/423152)  
-    **添加日历** : https://ctftime.org/event/3382.ics  
     
