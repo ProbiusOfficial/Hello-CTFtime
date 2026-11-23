@@ -144,6 +144,15 @@ comments: true
     **赛事主办** : sarrus (https://ctftime.org/team/393723)  
     **添加日历** : https://ctftime.org/event/3475.ics  
     
+??? Quote "[Cyber Ninja CTF 2026 - BLACKOUT](https://www.cyber-ninja-ctf.fr/)"  
+    [![](https://ctftime.org/media/events/66a76ec5022678cdd16d2d5a_Design_sans_titre_14.png){ width="200" align=left }](https://www.cyber-ninja-ctf.fr/)  
+    **比赛名称** : [Cyber Ninja CTF 2026 - BLACKOUT](https://www.cyber-ninja-ctf.fr/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-12-19 17:00:00 - 2026-12-20 17:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : OteriHack (https://ctftime.org/team/190074)  
+    **添加日历** : https://ctftime.org/event/3490.ics  
+    
 ??? Quote "[BackdoorCTF 2026](https://backdoor.infoseciitr.in/)"  
     [![](https://ctftime.org/media/events/0b4a317ba84bb2bd6e871c5eec6fdb00_1_1.png){ width="200" align=left }](https://backdoor.infoseciitr.in/)  
     **比赛名称** : [BackdoorCTF 2026](https://backdoor.infoseciitr.in/)  
@@ -171,6 +180,15 @@ comments: true
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/3062.ics  
     
+??? Quote "[pothloe CTF 2026](https://pothloe.cc/)"  
+    [![](){ width="200" align=left }](https://pothloe.cc/)  
+    **比赛名称** : [pothloe CTF 2026](https://pothloe.cc/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-12-28 04:00:00 - 2026-12-30 04:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : pothloe cft (https://ctftime.org/team/454659)  
+    **添加日历** : https://ctftime.org/event/3516.ics  
+    
 ??? Quote "[THE FINAL EXPLOIT CTF 2026—QUALIFIERS](https://0xv01d-ctf.xyz/)"  
     [![](https://ctftime.org/media/events/Neon_CTF_Qualifiers__The_Final_Exploit.png){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
     **比赛名称** : [THE FINAL EXPLOIT CTF 2026—QUALIFIERS](https://0xv01d-ctf.xyz/)  
@@ -197,6 +215,15 @@ comments: true
     **比赛权重** : 50.00  
     **赛事主办** : UofTCTF (https://ctftime.org/team/139261)  
     **添加日历** : https://ctftime.org/event/3508.ics  
+    
+??? Quote "[LA CTF 2027](https://lac.tf/)"  
+    [![](){ width="200" align=left }](https://lac.tf/)  
+    **比赛名称** : [LA CTF 2027](https://lac.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2027-02-20 10:00:00 - 2027-02-22 10:00:00 UTC+8  
+    **比赛权重** : 75.96  
+    **赛事主办** : PBR (https://ctftime.org/team/185636)  
+    **添加日历** : https://ctftime.org/event/3515.ics  
     
 ??? Quote "[JerseyCTF VII](https://ctf.jerseyctf.com/)"  
     [![](https://ctftime.org/media/events/mono-side-jerseyctf.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  

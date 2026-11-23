@@ -180,6 +180,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "Cyber Ninja CTF 2026 - BLACKOUT",
+        "比赛时间": "2026-12-19 17:00:00 - 2026-12-20 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3490.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://www.cyber-ninja-ctf.fr/",
+        "比赛标志": "https://ctftime.org/media/events/66a76ec5022678cdd16d2d5a_Design_sans_titre_14.png",
+        "比赛权重": "0",
+        "赛事主办": "OteriHack (https://ctftime.org/team/190074)",
+        "比赛ID": "1739",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "BackdoorCTF 2026",
         "比赛时间": "2026-12-19 20:00:00 - 2026-12-20 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3472.ics",
@@ -216,6 +228,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "pothloe CTF 2026",
+        "比赛时间": "2026-12-28 04:00:00 - 2026-12-30 04:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3516.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://pothloe.cc/",
+        "比赛标志": "",
+        "比赛权重": "0.00",
+        "赛事主办": "pothloe cft (https://ctftime.org/team/454659)",
+        "比赛ID": "1764",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "THE FINAL EXPLOIT CTF 2026—QUALIFIERS",
         "比赛时间": "2026-12-29 20:00:00 - 2026-12-31 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3511.ics",
@@ -249,6 +273,18 @@
         "比赛权重": "50.00",
         "赛事主办": "UofTCTF (https://ctftime.org/team/139261)",
         "比赛ID": "1052",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "LA CTF 2027",
+        "比赛时间": "2027-02-20 10:00:00 - 2027-02-22 10:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3515.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://lac.tf/",
+        "比赛标志": "",
+        "比赛权重": "75.96",
+        "赛事主办": "PBR (https://ctftime.org/team/185636)",
+        "比赛ID": "820",
         "比赛状态": "oncoming"
     },
     {
@@ -324,18 +360,6 @@
         "比赛状态": "past"
     },
     {
-        "比赛名称": "WolvCTF 2026",
-        "比赛时间": "2026-11-21 07:00:00 - 2026-11-23 07:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3049.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://wolvctf.io/",
-        "比赛标志": "https://ctftime.org/media/events/wolverine-logo-square1_1.jpg",
-        "比赛权重": "0",
-        "赛事主办": "wolvsec (https://ctftime.org/team/83621)",
-        "比赛ID": "766",
-        "比赛状态": "past"
-    },
-    {
         "比赛名称": "Outback Overflow",
         "比赛时间": "2026-11-21 07:00:00 - 2026-11-22 07:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3425.ics",
@@ -345,6 +369,18 @@
         "比赛权重": "0",
         "赛事主办": "HSCC (https://ctftime.org/team/446734)",
         "比赛ID": "1683",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "WolvCTF 2026",
+        "比赛时间": "2026-11-21 07:00:00 - 2026-11-23 07:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3049.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://wolvctf.io/",
+        "比赛标志": "https://ctftime.org/media/events/wolverine-logo-square1_1.jpg",
+        "比赛权重": "0",
+        "赛事主办": "wolvsec (https://ctftime.org/team/83621)",
+        "比赛ID": "766",
         "比赛状态": "past"
     },
     {
