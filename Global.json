@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "RedReaper CTF",
-        "比赛时间": "2026-11-27 19:00:00 - 2026-11-28 03:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3502.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://qualification.redx.site/",
-        "比赛标志": "https://ctftime.org/media/events/Gemini_Generated_Image_ayukqbayukqbayuk.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "RedReaper (https://ctftime.org/team/453520)",
-        "比赛ID": "1753",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "N0v4CTF 2026",
         "比赛时间": "2026-11-28 01:00:00 - 2026-11-29 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3512.ics",
@@ -321,6 +309,18 @@
         "比赛权重": "0",
         "赛事主办": "UWSP Pointers (https://ctftime.org/team/231536)",
         "比赛ID": "963",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "RedReaper CTF",
+        "比赛时间": "2026-11-27 19:00:00 - 2026-11-28 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3502.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://qualification.redx.site/",
+        "比赛标志": "https://ctftime.org/media/events/Gemini_Generated_Image_ayukqbayukqbayuk.jpg",
+        "比赛权重": "0",
+        "赛事主办": "RedReaper (https://ctftime.org/team/453520)",
+        "比赛ID": "1753",
         "比赛状态": "nowrunning"
     },
     {

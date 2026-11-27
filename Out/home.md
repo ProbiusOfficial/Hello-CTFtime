@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[RedReaper CTF](https://qualification.redx.site/)"  
-            [![](https://ctftime.org/media/events/Gemini_Generated_Image_ayukqbayukqbayuk.jpg){ width="200" align=left }](https://qualification.redx.site/)  
-            **比赛名称** : [RedReaper CTF](https://qualification.redx.site/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-11-27 19:00:00 - 2026-11-28 03:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : RedReaper (https://ctftime.org/team/453520)  
-            **添加日历** : https://ctftime.org/event/3502.ics  
-            
         ??? Quote "[N0v4CTF 2026](https://n0v4ctf.devs.surf/)"  
             [![](https://ctftime.org/media/events/7b7122f8-2612-4678-b769-2d5ef3630813.png){ width="200" align=left }](https://n0v4ctf.devs.surf/)  
             **比赛名称** : [N0v4CTF 2026](https://n0v4ctf.devs.surf/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : L3m0n CTF (https://ctftime.org/team/417627)  
             **添加日历** : https://ctftime.org/event/3485.ics  
+            
+        ??? Quote "[CyberNSK2027-Qualifier](https://quals.sslctf.ru/)"  
+            [![](https://ctftime.org/media/events/photo_2024-09-18_12-55-46_4.jpg){ width="200" align=left }](https://quals.sslctf.ru/)  
+            **比赛名称** : [CyberNSK2027-Qualifier](https://quals.sslctf.ru/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-11-28 17:00:00 - 2026-11-29 05:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
+            **添加日历** : https://ctftime.org/event/3489.ics  
             
