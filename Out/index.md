@@ -10,24 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[N0v4CTF 2026](https://n0v4ctf.devs.surf/)"  
-                [![](https://ctftime.org/media/events/7b7122f8-2612-4678-b769-2d5ef3630813.png){ width="200" align=left }](https://n0v4ctf.devs.surf/)  
-                **比赛名称** : [N0v4CTF 2026](https://n0v4ctf.devs.surf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-28 01:00:00 - 2026-11-29 01:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : NovaRun (https://ctftime.org/team/435904)  
-                **添加日历** : https://ctftime.org/event/3512.ics  
-                
-            ??? Quote "[LakeCTF Quals 26-27](https://lakectf.epfl.ch/)"  
-                [![](){ width="200" align=left }](https://lakectf.epfl.ch/)  
-                **比赛名称** : [LakeCTF Quals 26-27](https://lakectf.epfl.ch/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-28 02:00:00 - 2026-11-29 02:00:00 UTC+8  
-                **比赛权重** : 45.76  
-                **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
-                **添加日历** : https://ctftime.org/event/3474.ics  
-                
             ??? Quote "[L3m0n CTF 2026 (Quals)](https://l3m0nctf.xyz/)"  
                 [![](https://ctftime.org/media/events/logo_4.jpeg){ width="200" align=left }](https://l3m0nctf.xyz/)  
                 **比赛名称** : [L3m0n CTF 2026 (Quals)](https://l3m0nctf.xyz/)  
@@ -248,6 +230,28 @@
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/3020.ics  
                 
+            ??? Quote "[N0v4CTF 2026](https://n0v4ctf.devs.surf/)"  
+                [![](https://ctftime.org/media/events/7b7122f8-2612-4678-b769-2d5ef3630813.png){ width="200" align=left }](https://n0v4ctf.devs.surf/)  
+                **比赛名称** : [N0v4CTF 2026](https://n0v4ctf.devs.surf/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-28 01:00:00 - 2026-11-29 01:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : NovaRun (https://ctftime.org/team/435904)  
+                **添加日历** : https://ctftime.org/event/3512.ics  
+                
+            ??? Quote "[LakeCTF Quals 26-27](https://lakectf.epfl.ch/)"  
+                [![](){ width="200" align=left }](https://lakectf.epfl.ch/)  
+                **比赛名称** : [LakeCTF Quals 26-27](https://lakectf.epfl.ch/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-28 02:00:00 - 2026-11-29 02:00:00 UTC+8  
+                **比赛权重** : 45.76  
+                **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
+                **添加日历** : https://ctftime.org/event/3474.ics  
+                
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[RedReaper CTF](https://qualification.redx.site/)"  
                 [![](https://ctftime.org/media/events/Gemini_Generated_Image_ayukqbayukqbayuk.jpg){ width="200" align=left }](https://qualification.redx.site/)  
                 **比赛名称** : [RedReaper CTF](https://qualification.redx.site/)  
@@ -257,10 +261,6 @@
                 **赛事主办** : RedReaper (https://ctftime.org/team/453520)  
                 **添加日历** : https://ctftime.org/event/3502.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)"  
                 [![](https://ctftime.org/media/events/9f5bd4404f2ff231cca6e261cdcd0419.jpg){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
                 **比赛名称** : [CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)  
@@ -1151,13 +1151,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
                 **添加日历** : https://ctftime.org/event/3343.ics  
-                
-            ??? Quote "[HackHowl 2026](https://hackhowl.com/)"  
-                [![](https://ctftime.org/media/events/logo_129.png){ width="200" align=left }](https://hackhowl.com/)  
-                **比赛名称** : [HackHowl 2026](https://hackhowl.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-15 08:00:00 - 2026-08-17 13:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Hack Howl (https://ctftime.org/team/436949)  
-                **添加日历** : https://ctftime.org/event/3318.ics  
                 

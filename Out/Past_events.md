@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[RedReaper CTF](https://qualification.redx.site/)"  
+    [![](https://ctftime.org/media/events/Gemini_Generated_Image_ayukqbayukqbayuk.jpg){ width="200" align=left }](https://qualification.redx.site/)  
+    **比赛名称** : [RedReaper CTF](https://qualification.redx.site/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-27 19:00:00 - 2026-11-28 03:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : RedReaper (https://ctftime.org/team/453520)  
+    **添加日历** : https://ctftime.org/event/3502.ics  
+    
 ??? Quote "[CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)"  
     [![](https://ctftime.org/media/events/9f5bd4404f2ff231cca6e261cdcd0419.jpg){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
     **比赛名称** : [CyberSci Regional Qualifiers 2026-27](https://cybersecuritychallenge.ca/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
     **添加日历** : https://ctftime.org/event/3343.ics  
-    
-??? Quote "[HackHowl 2026](https://hackhowl.com/)"  
-    [![](https://ctftime.org/media/events/logo_129.png){ width="200" align=left }](https://hackhowl.com/)  
-    **比赛名称** : [HackHowl 2026](https://hackhowl.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-15 08:00:00 - 2026-08-17 13:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Hack Howl (https://ctftime.org/team/436949)  
-    **添加日历** : https://ctftime.org/event/3318.ics  
     
