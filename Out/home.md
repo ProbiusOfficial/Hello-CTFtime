@@ -1,24 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[L3m0n CTF 2026 (Quals)](https://l3m0nctf.xyz/)"  
-            [![](https://ctftime.org/media/events/logo_4.jpeg){ width="200" align=left }](https://l3m0nctf.xyz/)  
-            **比赛名称** : [L3m0n CTF 2026 (Quals)](https://l3m0nctf.xyz/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-11-28 12:30:00 - 2026-11-29 00:30:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : L3m0n CTF (https://ctftime.org/team/417627)  
-            **添加日历** : https://ctftime.org/event/3485.ics  
-            
-        ??? Quote "[CyberNSK2027-Qualifier](https://quals.sslctf.ru/)"  
-            [![](https://ctftime.org/media/events/photo_2024-09-18_12-55-46_4.jpg){ width="200" align=left }](https://quals.sslctf.ru/)  
-            **比赛名称** : [CyberNSK2027-Qualifier](https://quals.sslctf.ru/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-11-28 17:00:00 - 2026-11-29 05:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
-            **添加日历** : https://ctftime.org/event/3489.ics  
-            
         ??? Quote "[Black Hat India 2026 Official CTF](https://ctf.blackhat-india.com/)"  
             [![](){ width="200" align=left }](https://ctf.blackhat-india.com/)  
             **比赛名称** : [Black Hat India 2026 Official CTF](https://ctf.blackhat-india.com/)  
@@ -36,4 +18,22 @@
             **比赛权重** : 0.00  
             **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
             **添加日历** : https://ctftime.org/event/3386.ics  
+            
+        ??? Quote "[2026 Qiangwang Challenge on Cyber Mimic Defense Finals](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)"  
+            [![](){ width="200" align=left }](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)  
+            **比赛名称** : [2026 Qiangwang Challenge on Cyber Mimic Defense Finals](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)  
+            **比赛形式** : Hack quest  
+            **比赛时间** : 2026-12-03 12:00:00 - 2026-12-06 12:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
+            **添加日历** : https://ctftime.org/event/3509.ics  
+            
+        ??? Quote "[TUCTF 2026](https://tuctf.com/)"  
+            [![](https://ctftime.org/media/events/tuctf.png){ width="200" align=left }](https://tuctf.com/)  
+            **比赛名称** : [TUCTF 2026](https://tuctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-12-04 18:00:00 - 2026-12-07 02:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : ascii overflow (https://ctftime.org/team/15360)  
+            **添加日历** : https://ctftime.org/event/3518.ics  
             

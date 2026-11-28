@@ -9,24 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[L3m0n CTF 2026 (Quals)](https://l3m0nctf.xyz/)"  
-    [![](https://ctftime.org/media/events/logo_4.jpeg){ width="200" align=left }](https://l3m0nctf.xyz/)  
-    **比赛名称** : [L3m0n CTF 2026 (Quals)](https://l3m0nctf.xyz/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-11-28 12:30:00 - 2026-11-29 00:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : L3m0n CTF (https://ctftime.org/team/417627)  
-    **添加日历** : https://ctftime.org/event/3485.ics  
-    
-??? Quote "[CyberNSK2027-Qualifier](https://quals.sslctf.ru/)"  
-    [![](https://ctftime.org/media/events/photo_2024-09-18_12-55-46_4.jpg){ width="200" align=left }](https://quals.sslctf.ru/)  
-    **比赛名称** : [CyberNSK2027-Qualifier](https://quals.sslctf.ru/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-11-28 17:00:00 - 2026-11-29 05:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
-    **添加日历** : https://ctftime.org/event/3489.ics  
-    
 ??? Quote "[Black Hat India 2026 Official CTF](https://ctf.blackhat-india.com/)"  
     [![](){ width="200" align=left }](https://ctf.blackhat-india.com/)  
     **比赛名称** : [Black Hat India 2026 Official CTF](https://ctf.blackhat-india.com/)  
@@ -162,9 +144,9 @@ comments: true
     **赛事主办** : pothloe cft (https://ctftime.org/team/454659)  
     **添加日历** : https://ctftime.org/event/3516.ics  
     
-??? Quote "[THE FINAL EXPLOIT CTF 2026—QUALIFIERS](https://0xv01d-ctf.xyz/)"  
-    [![](https://ctftime.org/media/events/Neon_CTF_Qualifiers__The_Final_Exploit.png){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
-    **比赛名称** : [THE FINAL EXPLOIT CTF 2026—QUALIFIERS](https://0xv01d-ctf.xyz/)  
+??? Quote "[THE FINAL EXPLOIT CTF 2026—QUALIFIERS](https://voidteamjo.com/)"  
+    [![](https://ctftime.org/media/events/Neon_CTF_Qualifiers__The_Final_Exploit.png){ width="200" align=left }](https://voidteamjo.com/)  
+    **比赛名称** : [THE FINAL EXPLOIT CTF 2026—QUALIFIERS](https://voidteamjo.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-12-29 20:00:00 - 2026-12-31 20:00:00 UTC+8  
     **比赛权重** : 0.00  
